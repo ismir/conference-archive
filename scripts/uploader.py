@@ -22,25 +22,10 @@ $ python scripts/uploader.py \
 import argparse
 import json
 import logging
-import os
-import requests
 import sys
+import zen
 
 logger = logging.getLogger("demo_upload")
-
-PREFIX = dict(
-    dev="10.5072",
-    prod="10.5281")
-HOSTS = dict(
-    dev='https://sandbox.zenodo.org',
-    prod='https://zenodo.org')
-TOKENS = dict(
-    prod=os.environ.get("ZENODO_TOKEN_PROD"),
-    dev=os.environ.get("ZENODO_TOKEN_DEV"))
-
-HEADERS = {"Content-Type": "application/json"}
-UPLOAD_TYPES = ['publication', 'poster', 'presentation', 'dataset',
-                'image', 'video/audio', 'software', 'lesson']
 
 
 def upload(filename, metadata, stage, zid=None):
@@ -68,40 +53,11 @@ def upload(filename, metadata, stage, zid=None):
     """
     success = True
     if zid is None:
-        resp = requests.post(
-            "{host}/api/deposit/depositions?access_token={token}"
-            .format(host=HOSTS[stage], token=TOKENS[stage]),
-            data="{}", headers=HEADERS)
-        zid = resp.json().get('id')
-        success &= (resp.status_code < 300)
-        logger.debug("Creating Zenodo ID: success={}".format(success))
+        zid = zen.create_id(stage=stage)
 
-    basename = os.path.basename(filename)
-    data = {'filename': basename}
-    files = {'file': open(filename, 'rb')}
-    resp = requests.post(
-        "{host}/api/deposit/depositions/{zid}/"
-        "files?access_token={token}".format(zid=zid, token=TOKENS[stage],
-                                            host=HOSTS[stage]),
-        data=data, files=files)
-    success &= (resp.status_code < 300)
-    logger.debug("Uploading file: success={}".format(success))
-
-    data = {"metadata": metadata}
-    resp = requests.put(
-        "{host}/api/deposit/depositions/{zid}"
-        "?access_token={token}".format(zid=zid, token=TOKENS[stage],
-                                       host=HOSTS[stage]),
-        data=json.dumps(data), headers=HEADERS)
-    success &= (resp.status_code < 300)
-    logger.debug("Updating metadata: success={}".format(success))
-
-    resp = requests.post(
-        "{host}/api/deposit/depositions/{zid}/"
-        "actions/publish?access_token={token}".format(zid=zid,
-                                                      token=TOKENS[stage],
-                                                      host=HOSTS[stage]))
-    success &= (resp.status_code < 300)
+    success &= zen.upload_file(zid, filename, stage=stage)
+    success &= zen.update_metadata(zid, metadata, stage=stage)
+    success &= zen.publish(zid, stage=stage)
     logger.debug("Publishing: success={}".format(success))
     return success
 
@@ -121,9 +77,6 @@ if __name__ == '__main__':
                         metavar="stage", type=str,
                         help="Stage to execute.")
     args = parser.parse_args()
-
-    if TOKENS[args.stage] is None:
-        raise ValueError("Access token for '{}' is unset.".format(args.stage))
 
     metadata = json.load(open(args.metadata))
     success = upload(args.filename, metadata, args.stage)
