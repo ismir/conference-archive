@@ -1,15 +1,29 @@
-"""
-"""
+"""Uploader demo for Zenodo.
 
+To Use
+------
+You must set / export two environment variables for access to Zenodo;
+
+```
+export ZENODO_TOKEN_PROD=<PRIMARY_TOKEN>
+export ZENODO_TOKEN_DEV=<SANDBOX_TOKEN>
+```
+
+Note: This script will yell loudly if the requested token is unset.
+
+Now, you can then upload the sample data to the development site:
+```
+$ python demo.py data/sample_paper.pdf data/sample_metadata.json dev
+```
+"""
 import argparse
 import logging
 import os
 import json
 import requests
-
+import sys
 
 logger = logging.getLogger("demo_upload")
-logging.basicConfig(level=logging.DEBUG)
 
 PREFIX = dict(
     dev="10.5072",
@@ -27,41 +41,70 @@ UPLOAD_TYPES = ['publication', 'poster', 'presentation', 'dataset',
 
 
 def upload(filename, metadata, stage, zid=None):
+    """Upload a file / metadata pair to a Zenodo stage.
+
+    Parameters
+    ----------
+    filename : str
+        Path to a local file on disk.
+        TODO: Could be a generic URI, to allow webscraping at the same time.
+
+    metadata : dict
+        Metadata associated with the resource.
+
+    stage : str
+        One of [dev, prod]; defines the deployment area to use.
+
+    zid : str, default=None
+        If provided, attempts to update the resource for the given Zenodo ID.
+
+    Returns
+    -------
+    success : bool
+        True on successful upload, otherwise False.
+    """
+    success = True
     if zid is None:
-        r = requests.post(
+        resp = requests.post(
             "{host}/api/deposit/depositions?access_token={token}"
             .format(host=HOSTS[stage], token=TOKENS[stage]),
             data="{}", headers=HEADERS)
-        zid = r.json().get('id')
+        zid = resp.json().get('id')
+        success &= (resp.status_code < 300)
+        logger.debug("Creating Zenodo ID: success={}".format(success))
 
     basename = os.path.basename(filename)
     data = {'filename': basename}
     files = {'file': open(filename, 'rb')}
-    r = requests.post(
+    resp = requests.post(
         "{host}/api/deposit/depositions/{zid}/"
         "files?access_token={token}".format(zid=zid, token=TOKENS[stage],
                                             host=HOSTS[stage]),
         data=data, files=files)
-
-    print(r.status_code, r.json())
+    success &= (resp.status_code < 300)
+    logger.debug("Uploading file: success={}".format(success))
 
     data = {"metadata": metadata}
+    resp = requests.put(
+        "{host}/api/deposit/depositions/{zid}"
+        "?access_token={token}".format(zid=zid, token=TOKENS[stage],
+                                       host=HOSTS[stage]),
+        data=json.dumps(data), headers=HEADERS)
+    success &= (resp.status_code < 300)
+    logger.debug("Updating metadata: success={}".format(success))
 
-    r = requests.put("{host}/api/deposit/depositions/{zid}"
-                     "?access_token={token}".format(zid=zid,
-                                                    token=TOKENS[stage],
-                                                    host=HOSTS[stage]),
-                     data=json.dumps(data), headers=HEADERS)
-    print(r.status_code)
-    r = requests.post(
+    resp = requests.post(
         "{host}/api/deposit/depositions/{zid}/"
         "actions/publish?access_token={token}".format(zid=zid,
                                                       token=TOKENS[stage],
                                                       host=HOSTS[stage]))
-    print(r.status_code, r.json())
+    success &= (resp.status_code < 300)
+    logger.debug("Publishing: success={}".format(success))
+    return success
 
 
 if __name__ == '__main__':
+    logging.basicConfig(level=logging.DEBUG)
     parser = argparse.ArgumentParser(description=__doc__)
 
     # Inputs
@@ -75,5 +118,11 @@ if __name__ == '__main__':
                         metavar="stage", type=str,
                         help="Stage to execute.")
     args = parser.parse_args()
+
+    if TOKENS[args.stage] is None:
+        raise ValueError("Access token for '{}' is unset.".format(args.stage))
+
     metadata = json.load(open(args.metadata))
-    upload(args.filename, metadata, args.stage)
+    success = upload(args.filename, metadata, args.stage)
+    logging.info("Complete upload: success={}".format(success))
+    sys.exit(0 if success else 1)
