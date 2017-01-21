@@ -45,21 +45,13 @@ def upload(filename, metadata, stage, zid=None):
 
     zid : str, default=None
         If provided, attempts to update the resource for the given Zenodo ID.
-
-    Returns
-    -------
-    success : bool
-        True on successful upload, otherwise False.
     """
-    success = True
     if zid is None:
         zid = zen.create_id(stage=stage)
 
-    success &= zen.upload_file(zid, filename, stage=stage)
-    success &= zen.update_metadata(zid, metadata, stage=stage)
-    success &= zen.publish(zid, stage=stage)
-    logger.debug("Publishing: success={}".format(success))
-    return success
+    zen.upload_file(zid, filename, stage=stage)
+    zen.update_metadata(zid, metadata, stage=stage)
+    zen.publish(zid, stage=stage)
 
 
 if __name__ == '__main__':
@@ -79,6 +71,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     metadata = json.load(open(args.metadata))
-    success = upload(args.filename, metadata, args.stage)
-    logging.info("Complete upload: success={}".format(success))
-    sys.exit(0 if success else 1)
+    upload(args.filename, metadata, args.stage)
+    sys.exit(0)

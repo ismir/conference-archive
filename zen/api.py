@@ -22,7 +22,11 @@ UPLOAD_TYPES = ['publication', 'poster', 'presentation', 'dataset',
 
 
 __ALL__ = ['create_id', 'upload_file', 'update_metadata',
-           'publish', 'get_items']
+           'publish', 'list_items', 'ZenodoApiError']
+
+
+class ZenodoApiError(BaseException):
+    pass
 
 
 def verify_token(func):
@@ -48,12 +52,20 @@ def create_id(stage='dev'):
     -------
     zid : str or None
         Returns a string ID on success, or None.
+
+    Raises
+    ------
+    ZenodoApiError on failure
     """
     resp = requests.post(
         "{host}/api/deposit/depositions?access_token={token}"
         .format(host=HOSTS[stage], token=TOKENS[stage]),
         data="{}", headers=HEADERS)
-    return resp.json().get('id', None)
+
+    if resp.status_code >= 300:
+        raise ZenodoApiError(resp.json())
+
+    return resp.json().get('id')
 
 
 @verify_token
@@ -66,9 +78,9 @@ def upload_file(zid, filename, stage='dev'):
         "files?access_token={token}".format(zid=zid, token=TOKENS[stage],
                                             host=HOSTS[stage]),
         data=data, files=files)
-    success = resp.status_code < 300
-    logger.debug("Uploading file: success={}".format(success))
-    return success
+    if resp.status_code >= 300:
+        raise ZenodoApiError(resp.json())
+    return resp.json()
 
 
 @verify_token
@@ -79,9 +91,9 @@ def update_metadata(zid, metadata, stage='dev'):
         "?access_token={token}".format(zid=zid, token=TOKENS[stage],
                                        host=HOSTS[stage]),
         data=json.dumps(data), headers=HEADERS)
-    success = resp.status_code < 300
-    logger.debug("Updating metadata: success={}".format(success))
-    return success
+    if resp.status_code >= 300:
+        raise ZenodoApiError(resp.json())
+    return resp.json()
 
 
 @verify_token
@@ -91,11 +103,17 @@ def publish(zid, stage='dev'):
         "actions/publish?access_token={token}".format(zid=zid,
                                                       token=TOKENS[stage],
                                                       host=HOSTS[stage]))
-    success = resp.status_code < 300
-    logger.debug("Publishing {}: success={}".format(zid, success))
-    return success
+    if resp.status_code >= 300:
+        raise ZenodoApiError(resp.json())
+    return resp.json()
 
 
 @verify_token
-def get_items(stage):
-    pass
+def list_items(stage='dev'):
+    resp = requests.get(
+        "{host}/api/deposit/depositions/?access_token={token}"
+        .format(token=TOKENS[stage], host=HOSTS[stage]))
+
+    if resp.status_code >= 300:
+        raise ZenodoApiError(resp.json())
+    return resp.json()
