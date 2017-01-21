@@ -13,13 +13,16 @@ Note: This script will yell loudly if the requested token is unset.
 
 Now, you can then upload the sample data to the development site:
 ```
-$ python demo.py data/sample_paper.pdf data/sample_metadata.json dev
+$ python scripts/uploader.py \
+    data/sample_paper.pdf \
+    data/sample_metadata.json \
+    dev
 ```
 """
 import argparse
+import json
 import logging
 import os
-import json
 import requests
 import sys
 
