@@ -14,7 +14,7 @@ Note: This script will yell loudly if the requested token is unset.
 Now, you can then upload the sample data to the development site:
 ```
 $ python scripts/archive_collection.py \
-    data/proceedings-updated.json \
+    data/proceedings.json \
     data/conferences.json \
     dev \
     --verbose 50 \
