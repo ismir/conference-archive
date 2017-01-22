@@ -46,49 +46,49 @@
         "conference_place": "Vienna, Austria",
         "conference_title": "Proceedings of the 8th International Conference on Music Information Retrieval",
         "publication_date": "2007-09-23",
-        "isbn": "978-3-85403-218-2"
+        "imprint_isbn": "978-3-85403-218-2"
     },
     "ISMIR2008": {
         "conference_dates": "September 14-18, 2008",
         "conference_place": "Philadelphia, United States",
         "conference_title": "Proceedings of the International Conference on Music Information Retrieval",
         "publication_date": "2008-09-14",
-        "isbn": "978-0-615-24849-3"
+        "imprint_isbn": "978-0-615-24849-3"
     },
     "ISMIR2009": {
         "conference_dates": "October 26-30, 2009",
         "conference_place": "Kobe, Japan",
         "conference_title": "Proceedings of the 10th International Society for Music Information Retrieval Conference",
         "publication_date": "2009-10-26",
-        "isbn": "978-0-9813537-0-8"
+        "imprint_isbn": "978-0-9813537-0-8"
     },
     "ISMIR2009": {
         "conference_dates": "August 9-13, 2010",
         "conference_place": "Utrecht, Netherlands",
         "conference_title": "Proceedings of the 11th International Society for Music Information Retrieval Conference",
         "publication_date": "2010-08-09",
-        "isbn": "978-90-393-53813"
+        "imprint_isbn": "978-90-393-53813"
     },
     "ISMIR2011": {
         "conference_dates": "October 24-28, 2011",
         "conference_place": "Miami, United States",
         "conference_title": "Proceedings of the 12th International Society for Music Information Retrieval Conference",
         "publication_date": "2011-10-24",
-        "isbn": "978-0-615-54865-4"
+        "imprint_isbn": "978-0-615-54865-4"
     },
     "ISMIR2012": {
         "conference_dates": "October 8-12, 2012",
         "conference_place": "Porto, Portugal",
         "conference_title": "Proceedings of the 13th International Society for Music Information Retrieval Conference",
         "publication_date": "2012-10-08",
-        "isbn": "978-972-752-144-9"
+        "imprint_isbn": "978-972-752-144-9"
     },
     "ISMIR2013": {
         "conference_dates": "November 4-8, 2013",
         "conference_place": "Curitiba, Brazil",
         "conference_title": "Proceedings of the 14th International Society for Music Information Retrieval Conference",
         "publication_date": "2013-11-04",
-        "isbn": "978-0-615-90065-0"
+        "imprint_isbn": "978-0-615-90065-0"
     },
     "ISMIR2014": {
         "conference_dates": "October 27-31, 2014",
@@ -101,13 +101,13 @@
         "conference_place": "Málaga, Spain",
         "conference_title": "Proceedings of the 16th International Society for Music Information Retrieval Conference",
         "publication_date": "2015-10-26",
-        "isbn": "978-84-606-8853-2"
+        "imprint_isbn": "978-84-606-8853-2"
     },
     "ISMIR2016": {
         "conference_dates": "August 7-11, 2016",
         "conference_place": "New York City, United States",
         "conference_title": "Proceedings of the 17th International Society for Music Information Retrieval Conference",
         "publication_date": "2016-08-07",
-        "isbn": "978-0-692-75506-8"
+        "imprint_isbn": "978-0-692-75506-8"
     }
 }

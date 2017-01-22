@@ -69,15 +69,14 @@ def create_id(stage='dev'):
 
 
 @verify_token
-def upload_file(zid, filename, stage='dev'):
+def upload_file(zid, filename, fp=None, stage='dev'):
     basename = os.path.basename(filename)
-    data = {'filename': basename}
-    files = {'file': open(filename, 'rb')}
+    files = {'file': (basename, fp or open(filename, 'rb'), 'application/pdf')}
     resp = requests.post(
         "{host}/api/deposit/depositions/{zid}/"
         "files?access_token={token}".format(zid=zid, token=TOKENS[stage],
                                             host=HOSTS[stage]),
-        data=data, files=files)
+        files=files)
     if resp.status_code >= 300:
         raise ZenodoApiError(resp.json())
     return resp.json()
