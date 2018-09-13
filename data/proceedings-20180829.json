@@ -2,7 +2,7 @@
   "conf/ismir/Bainbridge00": {
     "@key": "conf/ismir/Bainbridge00",
     "@mdate": "2017-12-03",
-    "author": "David Bainbridge 0001",
+    "author": "David Bainbridge",
     "title": "The role of Music IR in the New Zealand Digital Music Library project.",
     "year": "2000",
     "crossref": "conf/ismir/2000",
@@ -755,7 +755,7 @@
     "@key": "conf/ismir/BainbridgeM02",
     "@mdate": "2017-12-04",
     "author": [
-      "David Bainbridge 0001",
+      "David Bainbridge",
       "John R. McPherson"
     ],
     "title": "Forming a Corpus of Voice Queries for Music Information Retrieval.",
@@ -779,7 +779,7 @@
     "@key": "conf/ismir/BaumannK02",
     "@mdate": "2018-07-06",
     "author": [
-      "Stephan Baumann 0001",
+      "Stephan Baumann",
       "Andreas Kl\u00fcter"
     ],
     "title": "Super-convenience for Non-musicans: Querying MP3 and the Semantic Web.",
@@ -1176,7 +1176,7 @@
     "@key": "conf/ismir/MandlW02",
     "@mdate": "2017-11-15",
     "author": [
-      "Thomas Mandl 0001",
+      "Thomas Mandl",
       "Christa Womser-Hacker"
     ],
     "title": "Learning to cope with Diversity in Music Retrieval.",
@@ -1509,7 +1509,7 @@
     "author": [
       "Geraint A. Wiggins",
       "Kjell Lemstr\u00f6m",
-      "David Meredith 0001"
+      "David Meredith"
     ],
     "title": "SIA(M)ESE: An Algorithm for Transposition Invariant, Polyphonic Content-Based Music Retrieval.",
     "year": "2002",
@@ -1566,7 +1566,7 @@
     "@key": "conf/ismir/BainbridgeCD03",
     "@mdate": "2017-12-03",
     "author": [
-      "David Bainbridge 0001",
+      "David Bainbridge",
       "Sally Jo Cunningham",
       "J. Stephen Downie"
     ],
@@ -1827,7 +1827,7 @@
     "@key": "conf/ismir/LiM03",
     "@mdate": "2017-09-18",
     "author": [
-      "Tao Li 0001",
+      "Tao Li",
       "Mitsunori Ogihara"
     ],
     "title": "Detecting emotion in music.",
@@ -1841,7 +1841,7 @@
     "@key": "conf/ismir/LiuLZ03",
     "@mdate": "2018-06-06",
     "author": [
-      "Dan Liu 0001",
+      "Dan Liu",
       "Lie Lu",
       "HongJiang Zhang"
     ],
@@ -2073,7 +2073,7 @@
     "@key": "conf/ismir/SeifertB03",
     "@mdate": "2015-01-05",
     "author": [
-      "Frank Seifert 0001",
+      "Frank Seifert",
       "Wolfgang Benn"
     ],
     "title": "Music identification by leadsheets: Converging perceptive and productive musical principles for estimation of semantic similarity of musical documents.",
@@ -2347,7 +2347,7 @@
     "@key": "conf/ismir/BainbridgeCD04",
     "@mdate": "2017-12-03",
     "author": [
-      "David Bainbridge 0001",
+      "David Bainbridge",
       "Sally Jo Cunningham",
       "J. Stephen Downie"
     ],
@@ -2362,7 +2362,7 @@
     "@key": "conf/ismir/BainbridgeCD04a",
     "@mdate": "2017-12-03",
     "author": [
-      "David Bainbridge 0001",
+      "David Bainbridge",
       "Sally Jo Cunningham",
       "J. Stephen Downie"
     ],
@@ -2377,7 +2377,7 @@
     "@key": "conf/ismir/BasiliSS04",
     "@mdate": "2017-07-18",
     "author": [
-      "Roberto Basili 0001",
+      "Roberto Basili",
       "Alfredo Serafini",
       "Armando Stellato"
     ],
@@ -2392,7 +2392,7 @@
     "@key": "conf/ismir/BaumannPV04",
     "@mdate": "2018-07-06",
     "author": [
-      "Stephan Baumann 0001",
+      "Stephan Baumann",
       "Tim Pohle",
       "Shankar Vembu"
     ],
@@ -2838,7 +2838,7 @@
     "author": [
       "Steve Jones",
       "Sally Jo Cunningham",
-      "Matt Jones 0001"
+      "Matt Jones"
     ],
     "title": "Organizing digital music for use: an examination of personal music collections.",
     "year": "2004",
@@ -3425,7 +3425,7 @@
     "@mdate": "2015-11-04",
     "author": [
       "Sara Taheri-Panah",
-      "Andrew MacFarlane 0001"
+      "Andrew MacFarlane"
     ],
     "title": "Music Information Retrieval systems: why do individuals use them and what are their needs?.",
     "year": "2004",
@@ -3672,7 +3672,7 @@
     "@key": "conf/ismir/YangL04",
     "@mdate": "2018-06-12",
     "author": [
-      "Dan Yang 0002",
+      "Dan Yang",
       "Won-Sook Lee"
     ],
     "title": "Disambiguating Music Emotion Using Software Agents.",
@@ -4026,7 +4026,7 @@
       "Ioannis Karydis",
       "Alexandros Nanopoulos",
       "Apostolos N. Papadopoulos",
-      "Dimitrios Katsaros 0001",
+      "Dimitrios Katsaros",
       "Yannis Manolopoulos"
     ],
     "title": "Content-Based Music Information Retrieval in Wireless Ad-Hoc Networks.",
@@ -4043,7 +4043,7 @@
     "author": [
       "Richard Lobb",
       "Tim Bell",
-      "David Bainbridge 0001"
+      "David Bainbridge"
     ],
     "title": "Fast Capture of Sheet Music for an Agile Digital Music Library.",
     "pages": "145-152",
@@ -4312,7 +4312,7 @@
     "@key": "conf/ismir/MeredithW05",
     "@mdate": "2016-09-26",
     "author": [
-      "David Meredith 0001",
+      "David Meredith",
       "Geraint A. Wiggins"
     ],
     "title": "Comparing Pitch Spelling Algorithms.",
@@ -4442,7 +4442,7 @@
     "@mdate": "2018-07-06",
     "author": [
       "Shankar Vembu",
-      "Stephan Baumann 0001"
+      "Stephan Baumann"
     ],
     "title": "Separation of Vocals from Polyphonic Audio Recordings .",
     "pages": "337-344",
@@ -4647,7 +4647,7 @@
       "Tim Bell",
       "David Blizzard",
       "Richard D. Green",
-      "David Bainbridge 0001"
+      "David Bainbridge"
     ],
     "title": "Design of a Digital Music Stand.",
     "pages": "430-433",
@@ -4787,7 +4787,7 @@
     "author": [
       "Sally Jo Cunningham",
       "J. Stephen Downie",
-      "David Bainbridge 0001"
+      "David Bainbridge"
     ],
     "title": "\"The Pain, the Pain\": Modelling Music Information Behavior and the Songs We Hate.",
     "pages": "474-477",
@@ -4987,7 +4987,7 @@
     "@key": "conf/ismir/HuDWE05",
     "@mdate": "2018-05-28",
     "author": [
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "J. Stephen Downie",
       "Kris West",
       "Andreas F. Ehmann"
@@ -5115,7 +5115,7 @@
     "author": [
       "Wei Liang",
       "Shuwu Zhang",
-      "Bo Xu 0002"
+      "Bo Xu"
     ],
     "title": "A Hierarchical Approach for Audio Stream Segmentation and Classification.",
     "pages": "582-585",
@@ -5131,7 +5131,7 @@
     "author": [
       "Wei Liang",
       "Shuwu Zhang",
-      "Bo Xu 0002"
+      "Bo Xu"
     ],
     "title": "A Histogram Algorithm for Fast Audio Retrieval.",
     "pages": "586-589",
@@ -5468,7 +5468,7 @@
     "@key": "conf/ismir/YuWJ05",
     "@mdate": "2018-07-06",
     "author": [
-      "Yi Yu 0001",
+      "Yi Yu",
       "Chiemi Watanabe",
       "Kazuki Joe"
     ],
@@ -5527,7 +5527,7 @@
     "@key": "conf/ismir/HuDE06",
     "@mdate": "2018-05-28",
     "author": [
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "J. Stephen Downie",
       "Andreas F. Ehmann"
     ],
@@ -5601,7 +5601,7 @@
     "@key": "conf/ismir/BainbridgeB06",
     "@mdate": "2017-12-04",
     "author": [
-      "David Bainbridge 0001",
+      "David Bainbridge",
       "Tim Bell"
     ],
     "title": "Identifying music documents in a collection of images.",
@@ -5659,7 +5659,7 @@
     "author": [
       "Amaury Hazan",
       "Maarten Grachten",
-      "Rafael Ram\u00edrez 0001"
+      "Rafael Ram\u00edrez"
     ],
     "title": "Evolving Performance Models by Performance Similarity: Beyond Note-to-note Transformations.",
     "pages": "67-72",
@@ -5867,7 +5867,7 @@
       "Rapha\u00ebl Clifford",
       "Manolis Christodoulakis",
       "Tim Crawford",
-      "David Meredith 0001",
+      "David Meredith",
       "Geraint A. Wiggins"
     ],
     "title": "A Fast, Randomised, Maximal Subset Matching Algorithm for Document-Level Music Retrieval.",
@@ -6122,7 +6122,7 @@
     "@mdate": "2017-12-03",
     "author": [
       "Sally Jo Cunningham",
-      "David Bainbridge 0001",
+      "David Bainbridge",
       "Annette Falconer"
     ],
     "title": "'More of an Art than a Science': Supporting the Creation of Playlists and Mixes.",
@@ -6488,7 +6488,7 @@
     "@key": "conf/ismir/SeifertRR06",
     "@mdate": "2015-01-05",
     "author": [
-      "Frank Seifert 0001",
+      "Frank Seifert",
       "Katharina Rasch",
       "Michael Rentzsch"
     ],
@@ -6864,8 +6864,8 @@
     "@key": "conf/ismir/PengLO07",
     "@mdate": "2017-09-18",
     "author": [
-      "Wei Peng 0001",
-      "Tao Li 0001",
+      "Wei Peng",
+      "Tao Li",
       "Mitsunori Ogihara"
     ],
     "title": "Music Clustering with Constraints.",
@@ -6968,7 +6968,7 @@
     "@key": "conf/ismir/HuD07",
     "@mdate": "2018-05-28",
     "author": [
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "J. Stephen Downie"
     ],
     "title": "Exploring Mood Metadata: Relationships with Genre, Artist and Usage Metadata.",
@@ -7016,7 +7016,7 @@
     "@mdate": "2017-12-03",
     "author": [
       "Sally Jo Cunningham",
-      "David Bainbridge 0001",
+      "David Bainbridge",
       "Dana McKay"
     ],
     "title": "Finding New Music: A Diary Study of Everyday Encounters with Novel Songs.",
@@ -7970,7 +7970,7 @@
     "@key": "conf/ismir/HuBD07",
     "@mdate": "2018-05-28",
     "author": [
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "Mert Bay",
       "J. Stephen Downie"
     ],
@@ -8019,7 +8019,7 @@
     "@mdate": "2017-09-12",
     "author": [
       "Daniel M\u00fcllensiefen",
-      "David Lewis 0001",
+      "David Lewis",
       "Christophe Rhodes",
       "Geraint A. Wiggins"
     ],
@@ -8324,9 +8324,9 @@
     "@mdate": "2014-08-06",
     "author": [
       "Chuan Cao",
-      "Ming Li 0026",
+      "Ming Li",
       "Jian Liu",
-      "Yonghong Yan 0002"
+      "Yonghong Yan"
     ],
     "title": "Singing Melody Extraction in Polyphonic Music by Harmonic Tracking.",
     "pages": "373-374",
@@ -8833,7 +8833,7 @@
     "@key": "conf/ismir/WangFC08",
     "@mdate": "2018-01-25",
     "author": [
-      "Ge Wang 0002",
+      "Ge Wang",
       "Rebecca Fiebrink",
       "Perry R. Cook"
     ],
@@ -9206,7 +9206,7 @@
     "@mdate": "2018-01-25",
     "author": [
       "Rebecca Fiebrink",
-      "Ge Wang 0002",
+      "Ge Wang",
       "Perry R. Cook"
     ],
     "title": "Support for MIR Prototyping and Real-Time Applications in the ChucK Programming Language.",
@@ -9988,7 +9988,7 @@
     "@key": "conf/ismir/HuDLBE08",
     "@mdate": "2018-05-28",
     "author": [
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "J. Stephen Downie",
       "Cyril Laurier",
       "Mert Bay",
@@ -10039,7 +10039,7 @@
     "@key": "conf/ismir/RamirezPK08",
     "@mdate": "2018-08-19",
     "author": [
-      "Rafael Ram\u00edrez 0001",
+      "Rafael Ram\u00edrez",
       "Alfonso P\u00e9rez",
       "Stefan Kersten"
     ],
@@ -10496,7 +10496,7 @@
     "@mdate": "2017-09-18",
     "author": [
       "Mitsunori Ogihara",
-      "Tao Li 0001"
+      "Tao Li"
     ],
     "title": "N-Gram Chord Profiles for Composer Style Representation.",
     "pages": "671-676",
@@ -11278,7 +11278,7 @@
     "author": [
       "Cory McKay",
       "John Ashley Burgoyne",
-      "Jessica Thompson 0001",
+      "Jessica Thompson",
       "Ichiro Fujinaga"
     ],
     "title": "Using ACE XML 2.0 to Store and Share Feature, Instance and Class Data for Musical Classification.",
@@ -11437,10 +11437,10 @@
     "@key": "conf/ismir/WangWSLO09",
     "@mdate": "2017-09-18",
     "author": [
-      "Fei Wang 0001",
-      "Xin Wang 0013",
+      "Fei Wang",
+      "Xin Wang",
       "Bo Shao",
-      "Tao Li 0001",
+      "Tao Li",
       "Mitsunori Ogihara"
     ],
     "title": "Tag Integrated Multi-Label Music Style Classification with Hypergraph.",
@@ -11576,7 +11576,7 @@
     "@key": "conf/ismir/HuDE09",
     "@mdate": "2018-05-28",
     "author": [
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "J. Stephen Downie",
       "Andreas F. Ehmann"
     ],
@@ -11637,7 +11637,7 @@
     "@key": "conf/ismir/ThompsonMBF09",
     "@mdate": "2017-08-08",
     "author": [
-      "Jessica Thompson 0001",
+      "Jessica Thompson",
       "Cory McKay",
       "John Ashley Burgoyne",
       "Ichiro Fujinaga"
@@ -11767,7 +11767,7 @@
     "@key": "conf/ismir/MartinRH09",
     "@mdate": "2016-07-06",
     "author": [
-      "Benjamin Martin 0001",
+      "Benjamin Martin",
       "Matthias Robine",
       "Pierre Hanna"
     ],
@@ -12254,7 +12254,7 @@
     "@mdate": "2018-08-19",
     "author": [
       "Amelie Anglade",
-      "Rafael Ram\u00edrez 0001",
+      "Rafael Ram\u00edrez",
       "Simon Dixon"
     ],
     "title": "Genre Classification Using Harmony Rules Induced from Automatic Chord Transcriptions.",
@@ -12361,7 +12361,7 @@
     "@mdate": "2011-08-18",
     "author": [
       "Hussein Hirjee",
-      "Daniel G. Brown 0001"
+      "Daniel G. Brown"
     ],
     "title": "Automatic Detection of Internal and Imperfect Rhymes in Rap Lyrics.",
     "pages": "711-716",
@@ -12648,8 +12648,8 @@
     "@key": "conf/ismir/WangLO10",
     "@mdate": "2017-09-17",
     "author": [
-      "Dingding Wang 0001",
-      "Tao Li 0001",
+      "Dingding Wang",
+      "Tao Li",
       "Mitsunori Ogihara"
     ],
     "title": "Are Tags Better Than Audio? The Effect of Joint Use of Tags and Audio Content Features for Artistic Style Clustering.",
@@ -12888,7 +12888,7 @@
     "@mdate": "2011-08-18",
     "author": [
       "Hussein Hirjee",
-      "Daniel G. Brown 0001"
+      "Daniel G. Brown"
     ],
     "title": "Solving Misheard Lyric Search Queries Using a Probabilistic Model of Speech Sounds.",
     "pages": "147-152",
@@ -13148,7 +13148,7 @@
     "@mdate": "2017-09-18",
     "author": [
       "Jingxuan Li",
-      "Tao Li 0001",
+      "Tao Li",
       "Mitsunori Ogihara"
     ],
     "title": "Hierarchical Co-Clustering of Artists and Tags.",
@@ -13239,7 +13239,7 @@
     "author": [
       "Juli\u00e1n Urbano",
       "M\u00f3nica Marrero",
-      "Diego Mart\u00edn 0001",
+      "Diego Mart\u00edn",
       "Juan Llor\u00e9ns"
     ],
     "title": "Improving the Generation of Ground Truths Based on Partially Ordered Lists.",
@@ -13410,7 +13410,7 @@
     "@mdate": "2018-03-29",
     "author": [
       "Joaqu\u00edn Mora",
-      "Francisco G\u00f3mez 0001",
+      "Francisco G\u00f3mez",
       "Emilia G\u00f3mez",
       "Francisco Escobar-Borrego",
       "Jos\u00e9 Miguel D\u00edaz-B\u00e1\u00f1ez"
@@ -14111,7 +14111,7 @@
     "@key": "conf/ismir/HuD10",
     "@mdate": "2018-05-28",
     "author": [
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "J. Stephen Downie"
     ],
     "title": "When Lyrics Outperform Audio for Music Mood Classification: A Feature Analysis.",
@@ -15057,7 +15057,7 @@
     "@mdate": "2018-01-25",
     "author": [
       "Nicholas J. Bryan",
-      "Ge Wang 0002"
+      "Ge Wang"
     ],
     "title": "Musical Influence Network Analysis and Rank of Sample-Based Music.",
     "pages": "329-334",
@@ -15271,7 +15271,7 @@
     "@mdate": "2018-07-11",
     "author": [
       "Verena Thomas",
-      "Christian Wagner 0003",
+      "Christian Wagner",
       "Michael Clausen"
     ],
     "title": "OCR based post processing of OMR for the recovery of transposing instruments in complex orchestral scores.",
@@ -15334,7 +15334,7 @@
     "@key": "conf/ismir/WangO11",
     "@mdate": "2017-09-18",
     "author": [
-      "Dingding Wang 0001",
+      "Dingding Wang",
       "Mitsunori Ogihara"
     ],
     "title": "Potential Relationship Discovery in Tag-Aware Music Style Clustering and Artist Social Networks.",
@@ -15397,7 +15397,7 @@
     "@mdate": "2017-12-04",
     "author": [
       "Cory McKay",
-      "David Bainbridge 0001"
+      "David Bainbridge"
     ],
     "title": "A Musical Web Mining and Audio Feature Extraction Extension to The Greenstone Digital Library Software.",
     "pages": "459-464",
@@ -15521,7 +15521,7 @@
     "@key": "conf/ismir/MartinHTDF11",
     "@mdate": "2016-07-06",
     "author": [
-      "Benjamin Martin 0001",
+      "Benjamin Martin",
       "Pierre Hanna",
       "Ta Vinh Thong",
       "Myriam Desainte-Catherine",
@@ -15768,7 +15768,7 @@
     "@mdate": "2017-07-12",
     "author": [
       "Juli\u00e1n Urbano",
-      "Diego Mart\u00edn 0001",
+      "Diego Mart\u00edn",
       "M\u00f3nica Marrero",
       "Jorge Morato"
     ],
@@ -16069,7 +16069,7 @@
     "@key": "conf/ismir/XieBTC11",
     "@mdate": "2015-03-02",
     "author": [
-      "Bo Xie 0002",
+      "Bo Xie",
       "Wei Bian",
       "Dacheng Tao",
       "Parag Chordia"
@@ -16279,7 +16279,7 @@
     "@key": "conf/ismir/HuY11",
     "@mdate": "2018-08-16",
     "author": [
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "Bei Yu"
     ],
     "title": "Exploring The Relationship Between Mood and Creativity in Rock Lyrics.",
@@ -16390,7 +16390,7 @@
     "@mdate": "2018-05-28",
     "author": [
       "Yi-Hsuan Yang",
-      "Xiao Hu 0001"
+      "Xiao Hu"
     ],
     "title": "Cross-cultural Music Mood Classification: A Comparison on English and Chinese Songs.",
     "pages": "19-24",
@@ -16693,7 +16693,7 @@
   "conf/ismir/Meredith12": {
     "@key": "conf/ismir/Meredith12",
     "@mdate": "2016-09-26",
-    "author": "David Meredith 0001",
+    "author": "David Meredith",
     "title": "A Geometric Language for Representing Structure in Polyphonic Music.",
     "pages": "133-138",
     "year": "2012",
@@ -17022,7 +17022,7 @@
     "@mdate": "2017-12-03",
     "author": [
       "Sally Jo Cunningham",
-      "David Bainbridge 0001",
+      "David Bainbridge",
       "J. Stephen Downie"
     ],
     "title": "The Impact of MIREX on Scholarly Research (2005 - 2010).",
@@ -17215,7 +17215,7 @@
     "@key": "conf/ismir/HuK12",
     "@mdate": "2018-08-16",
     "author": [
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "Noriko Kando"
     ],
     "title": "User-centered Measures vs. System Effectiveness in Finding Similar Songs.",
@@ -17454,7 +17454,7 @@
     "@mdate": "2018-03-29",
     "author": [
       "Aggelos Pikrakis",
-      "Francisco G\u00f3mez 0001",
+      "Francisco G\u00f3mez",
       "Sergio Oramas",
       "Jos\u00e9 Miguel D\u00edaz-B\u00e1\u00f1ez",
       "Joaqu\u00edn Mora",
@@ -17725,7 +17725,7 @@
     "@mdate": "2012-10-25",
     "author": [
       "Carlos Ros\u00e3o",
-      "Ricardo Ribeiro 0001",
+      "Ricardo Ribeiro",
       "David Martins de Matos"
     ],
     "title": "Influence of Peak Selection Methods on Onset Detection.",
@@ -17756,8 +17756,8 @@
     "@key": "conf/ismir/MartinBHF12",
     "@mdate": "2016-07-06",
     "author": [
-      "Benjamin Martin 0001",
-      "Daniel G. Brown 0001",
+      "Benjamin Martin",
+      "Daniel G. Brown",
       "Pierre Hanna",
       "Pascal Ferraro"
     ],
@@ -17773,7 +17773,7 @@
     "@key": "conf/ismir/HuL12",
     "@mdate": "2018-05-28",
     "author": [
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "Jin Ha Lee"
     ],
     "title": "A Cross-cultural Study of Music Mood Perception between American and Chinese Listeners.",
@@ -17892,7 +17892,7 @@
       "John Ashley Burgoyne",
       "Gabriel Vigliensoni",
       "Alastair Porter",
-      "Jessica Thompson 0001",
+      "Jessica Thompson",
       "Wendy Liu",
       "Remi Chiu",
       "Ichiro Fujinaga"
@@ -18280,7 +18280,7 @@
     "author": [
       "Nicholas J. Bryan",
       "Gautham J. Mysore",
-      "Ge Wang 0002"
+      "Ge Wang"
     ],
     "title": "Source Separation of Polyphonic Music with Interactive User-Feedback on a Piano Roll Display.",
     "pages": "119-124",
@@ -19103,7 +19103,7 @@
     "author": [
       "Boyang Gao",
       "Emmanuel Dellandr\u00e9a",
-      "Liming Chen 0002"
+      "Liming Chen"
     ],
     "title": "Sparse Music Decomposition onto a MIDI Dictionary Driven by Statistical Music Knowledge.",
     "pages": "445-450",
@@ -19180,7 +19180,7 @@
     "@key": "conf/ismir/ChengDM13",
     "@mdate": "2014-11-10",
     "author": [
-      "Tian Cheng 0001",
+      "Tian Cheng",
       "Simon Dixon",
       "Matthias Mauch"
     ],
@@ -19324,7 +19324,7 @@
     "author": [
       "Jin Ha Lee",
       "Kahyun Choi",
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "J. Stephen Downie"
     ],
     "title": "K-Pop Genres: A Cross-Cultural Exploration.",
@@ -19533,7 +19533,7 @@
     "@mdate": "2015-02-12",
     "author": [
       "Abhishek Singhi",
-      "Daniel G. Brown 0001"
+      "Daniel G. Brown"
     ],
     "title": "On Cultural, Textual and Experiential Aspects of Music Mood.",
     "pages": "3-8",
@@ -19701,7 +19701,7 @@
       "Nadine Kroher",
       "Emilia G\u00f3mez",
       "Catherine Guastavino",
-      "Francisco G\u00f3mez 0001",
+      "Francisco G\u00f3mez",
       "Jordi Bonada"
     ],
     "title": "Computational Models for Perceived Melodic Similarity in A Cappella Flamenco Singing.",
@@ -20525,7 +20525,7 @@
     "@key": "conf/ismir/HuLCD14",
     "@mdate": "2018-05-28",
     "author": [
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "Jin Ha Lee",
       "Kahyun Choi",
       "J. Stephen Downie"
@@ -20697,7 +20697,7 @@
     "author": [
       "Sally Jo Cunningham",
       "David M. Nichols",
-      "David Bainbridge 0001",
+      "David Bainbridge",
       "Hassan Ali"
     ],
     "title": "Social Music in Cars.",
@@ -20729,7 +20729,7 @@
     "@mdate": "2015-02-12",
     "author": [
       "Abhishek Singhi",
-      "Daniel G. Brown 0001"
+      "Daniel G. Brown"
     ],
     "title": "Are Poetry and Lyrics All That Different?",
     "pages": "471-476",
@@ -20923,7 +20923,7 @@
     "@mdate": "2017-12-31",
     "author": [
       "Martin Przyjaciel-Zablocki",
-      "Thomas Hornung 0001",
+      "Thomas Hornung",
       "Alexander Sch\u00e4tzle",
       "Sven Gau\u00df",
       "Io Taxidou",
@@ -21023,7 +21023,7 @@
     "@key": "conf/ismir/HuLW14",
     "@mdate": "2018-05-28",
     "author": [
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "Jin Ha Lee",
       "Leanne Ka Yan Wong"
     ],
@@ -21221,7 +21221,7 @@
     "@mdate": "2018-05-28",
     "author": [
       "J. Stephen Downie",
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "Jin Ha Lee",
       "Kahyun Choi",
       "Sally Jo Cunningham",
@@ -21255,7 +21255,7 @@
     "@mdate": "2015-11-05",
     "author": [
       "Daniel Wolff",
-      "Andrew MacFarlane 0001",
+      "Andrew MacFarlane",
       "Tillman Weyde"
     ],
     "title": "Comparative Music Similarity Modelling Using Transfer Learning Across User Groups.",
@@ -21547,7 +21547,7 @@
     "@key": "conf/ismir/ParkL15",
     "@mdate": "2017-02-02",
     "author": [
-      "Jeongsoo Park 0001",
+      "Jeongsoo Park",
       "Kyogu Lee"
     ],
     "title": "Harmonic-Percussive Source Separation Using Harmonicity and Sparsity Constraints.",
@@ -21692,7 +21692,7 @@
       "Terhi Nurmikko-Fuller",
       "Carolin Rindfleisch",
       "David M. Weigl",
-      "Richard Lewis 0001",
+      "Richard Lewis",
       "Laurence Dreyfus",
       "David De Roure"
     ],
@@ -22053,7 +22053,7 @@
     "@mdate": "2018-03-29",
     "author": [
       "Sergio Oramas",
-      "Francisco G\u00f3mez 0001",
+      "Francisco G\u00f3mez",
       "Emilia G\u00f3mez",
       "Joaqu\u00edn Mora"
     ],
@@ -22386,7 +22386,7 @@
       "Chris Fox",
       "Deane L. Root",
       "Eduard H. Hovy",
-      "Richard Lewis 0001"
+      "Richard Lewis"
     ],
     "title": "Relating Natural Language Text to Musical Passages.",
     "pages": "524-530",
@@ -22968,7 +22968,7 @@
     "@mdate": "2018-05-28",
     "author": [
       "Jin Ha Lee",
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "Kahyun Choi",
       "J. Stephen Downie"
     ],
@@ -23291,7 +23291,7 @@
       "Gissel Velarde",
       "Tillman Weyde",
       "Carlos Eduardo Cancino Chac\u00f3n",
-      "David Meredith 0001",
+      "David Meredith",
       "Maarten Grachten"
     ],
     "title": "Composer Recognition Based on 2D-Filtered Piano-Rolls.",
@@ -23426,7 +23426,7 @@
     "author": [
       "Tsubasa Tanaka",
       "Brian Bemman",
-      "David Meredith 0001"
+      "David Meredith"
     ],
     "title": "Integer Programming Formulation of the Problem of Generating Milton Babbitt's All-Partition Arrays.",
     "pages": "171-177",
@@ -24220,7 +24220,7 @@
     "@key": "conf/ismir/LewisCM16",
     "@mdate": "2017-09-12",
     "author": [
-      "David Lewis 0001",
+      "David Lewis",
       "Tim Crawford",
       "Daniel M\u00fcllensiefen"
     ],
@@ -24346,7 +24346,7 @@
     "@key": "conf/ismir/0001MBD16",
     "@mdate": "2016-09-08",
     "author": [
-      "Tian Cheng 0001",
+      "Tian Cheng",
       "Matthias Mauch",
       "Emmanouil Benetos",
       "Simon Dixon"
@@ -24549,7 +24549,7 @@
     "author": [
       "Helena Bantul\u00e0",
       "Sergio I. Giraldo",
-      "Rafael Ram\u00edrez 0001"
+      "Rafael Ram\u00edrez"
     ],
     "title": "Jazz Ensemble Expressive Performance Modeling.",
     "pages": "674-680",
@@ -24580,7 +24580,7 @@
     "@mdate": "2017-06-28",
     "author": [
       "Flavio Figueiredo",
-      "Bruno Ribeiro 0001",
+      "Bruno Ribeiro",
       "Christos Faloutsos",
       "Nazareno Andrade",
       "Jussara M. Almeida"
@@ -24758,7 +24758,7 @@
     "@key": "conf/ismir/HuCLLHCD16",
     "@mdate": "2018-05-28",
     "author": [
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "Kahyun Choi",
       "Jin Ha Lee",
       "Audrey Laplante",
@@ -25046,7 +25046,7 @@
     "@mdate": "2018-05-28",
     "author": [
       "Meijun Liu",
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "Markus Schedl"
     ],
     "title": "Artist Preferences and Cultural, Socio-Economic Distances Across Countries: A Big Data Perspective.",
@@ -25079,7 +25079,7 @@
     "author": [
       "Bochen Li",
       "Karthik Dinesh",
-      "Gaurav Sharma 0001",
+      "Gaurav Sharma",
       "Zhiyao Duan"
     ],
     "title": "Video-Based Vibrato Detection and Analysis for Polyphonic String Music.",
@@ -25442,13 +25442,13 @@
     "@key": "conf/ismir/HuCHCLLBD17",
     "@mdate": "2018-05-28",
     "author": [
-      "Xiao Hu 0001",
+      "Xiao Hu",
       "Kahyun Choi",
       "Yun Hao",
       "Sally Jo Cunningham",
       "Jin Ha Lee",
       "Audrey Laplante",
-      "David Bainbridge 0001",
+      "David Bainbridge",
       "J. Stephen Downie"
     ],
     "title": "Exploring the Music Library Association Mailing List: A Text Mining Approach.",
@@ -25775,7 +25775,7 @@
     "author": [
       "Feynman T. Liang",
       "Mark Gotham",
-      "Matthew Johnson 0003",
+      "Matthew Johnson",
       "Jamie Shotton"
     ],
     "title": "Automatic Stylistic Composition of Bach Chorales with Deep LSTM.",
