@@ -1,4 +1,5 @@
 import functools
+import io
 import json
 import logging
 import requests
@@ -69,9 +70,28 @@ def create_id(stage='dev'):
 
 
 @verify_token
-def upload_file(zid, filename, fp=None, stage='dev'):
-    basename = os.path.basename(filename)
-    files = {'file': (basename, fp or open(filename, 'rb'), 'application/pdf')}
+def upload_file(zid, filepath, fp=None, stage='dev'):
+    '''Upload a filepath (local or URL) to zenodo, given an id.
+
+    Parameters
+    ----------
+    zid : int
+        Zenodo identifier
+
+    filepath : str
+        Path to a local file or a URL.
+
+    fp : bytestring or file iterator, or None
+        Optionally, the file pointer for uploading.
+    '''
+    basename = os.path.basename(filepath)
+    fext = os.path.splitext(filepath)[-1].strip('.')
+    if filepath.startswith('http') and fp is None:
+        res = requests.get(filepath)
+        fp = io.BytesIO(res.content)
+
+    files = {'file': (basename, fp or open(filepath, 'rb'),
+                      'application/{}'.format(fext))}
     resp = requests.post(
         "{host}/api/deposit/depositions/{zid}/"
         "files?access_token={token}".format(zid=zid, token=TOKENS[stage],
@@ -79,6 +99,7 @@ def upload_file(zid, filename, fp=None, stage='dev'):
         files=files)
     if resp.status_code >= 300:
         raise ZenodoApiError(resp.json())
+
     return resp.json()
 
 
@@ -102,6 +123,18 @@ def publish(zid, stage='dev'):
         "actions/publish?access_token={token}".format(zid=zid,
                                                       token=TOKENS[stage],
                                                       host=HOSTS[stage]))
+    if resp.status_code >= 300:
+        raise ZenodoApiError(resp.json())
+    return resp.json()
+
+
+@verify_token
+def get(zid, stage='dev'):
+    resp = requests.get(
+        "{host}/api/deposit/depositions/{zid}"
+        "?access_token={token}".format(zid=zid,
+                                       token=TOKENS[stage],
+                                       host=HOSTS[stage]))
     if resp.status_code >= 300:
         raise ZenodoApiError(resp.json())
     return resp.json()
