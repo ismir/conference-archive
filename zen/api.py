@@ -149,3 +149,39 @@ def list_items(stage='dev'):
     if resp.status_code >= 300:
         raise ZenodoApiError(resp.json())
     return resp.json()
+
+
+DROP_KEYS = ['ee', 'url', 'crossref', '@key', '@mdate']
+
+
+def format_metadata(record, conferences):
+    """Format a DBLP record for Zenodo, backfilling the right conference meta.
+
+    Parameters
+    ----------
+    record : dict
+        Paper record from DBLP.
+
+    conferences : dict
+        Metadata corresponding to each conference, keyed by year (str).
+
+    Returns
+    -------
+    meta : dict
+        Appropriately formated metadata for Zenodo.
+    """
+
+    new_rec = dict(communities=[dict(identifier='ismir')])
+    new_rec.update(**{k: v for k, v in record.items() if k not in DROP_KEYS})
+    new_rec.update(**conferences[new_rec['year']])
+    authors = new_rec.pop('author')
+    if authors and isinstance(authors, str):
+        authors = [authors]
+
+    new_rec['creators'] = [dict(name=_) for _ in authors]
+
+    pages = new_rec.pop('pages', None)
+    if pages:
+        new_rec['partof_pages'] = pages
+
+    return new_rec
