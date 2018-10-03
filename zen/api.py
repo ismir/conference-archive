@@ -1,4 +1,5 @@
 import functools
+import io
 import json
 import logging
 import requests
@@ -69,9 +70,28 @@ def create_id(stage='dev'):
 
 
 @verify_token
-def upload_file(zid, filename, fp=None, stage='dev'):
-    basename = os.path.basename(filename)
-    files = {'file': (basename, fp or open(filename, 'rb'), 'application/pdf')}
+def upload_file(zid, filepath, fp=None, stage='dev'):
+    '''Upload a filepath (local or URL) to zenodo, given an id.
+
+    Parameters
+    ----------
+    zid : int
+        Zenodo identifier
+
+    filepath : str
+        Path to a local file or a URL.
+
+    fp : bytestring or file iterator, or None
+        Optionally, the file pointer for uploading.
+    '''
+    basename = os.path.basename(filepath)
+    fext = os.path.splitext(filepath)[-1].strip('.')
+    if filepath.startswith('http') and fp is None:
+        res = requests.get(filepath)
+        fp = io.BytesIO(res.content)
+
+    files = {'file': (basename, fp or open(filepath, 'rb'),
+                      'application/{}'.format(fext))}
     resp = requests.post(
         "{host}/api/deposit/depositions/{zid}/"
         "files?access_token={token}".format(zid=zid, token=TOKENS[stage],
@@ -79,6 +99,7 @@ def upload_file(zid, filename, fp=None, stage='dev'):
         files=files)
     if resp.status_code >= 300:
         raise ZenodoApiError(resp.json())
+
     return resp.json()
 
 
@@ -108,6 +129,18 @@ def publish(zid, stage='dev'):
 
 
 @verify_token
+def get(zid, stage='dev'):
+    resp = requests.get(
+        "{host}/api/deposit/depositions/{zid}"
+        "?access_token={token}".format(zid=zid,
+                                       token=TOKENS[stage],
+                                       host=HOSTS[stage]))
+    if resp.status_code >= 300:
+        raise ZenodoApiError(resp.json())
+    return resp.json()
+
+
+@verify_token
 def list_items(stage='dev'):
     resp = requests.get(
         "{host}/api/deposit/depositions/?access_token={token}"
@@ -116,3 +149,43 @@ def list_items(stage='dev'):
     if resp.status_code >= 300:
         raise ZenodoApiError(resp.json())
     return resp.json()
+
+
+DROP_KEYS = ['ee', 'url', 'crossref', '@key', '@mdate', 'booktitle', 'year']
+DEFAULT_DESCRIPTION = '[TODO] Add abstract here.'
+
+
+def format_metadata(record, conferences):
+    """Format a DBLP record for Zenodo, backfilling the right conference meta.
+
+    Parameters
+    ----------
+    record : dict
+        Paper record from DBLP.
+
+    conferences : dict
+        Metadata corresponding to each conference, keyed by year (str).
+
+    Returns
+    -------
+    meta : dict
+        Appropriately formated metadata for Zenodo.
+    """
+
+    new_rec = dict(communities=[dict(identifier='ismir')])
+    new_rec.update(**{k: v for k, v in record.items() if k not in DROP_KEYS})
+    new_rec.update(**conferences[record['year']])
+    authors = new_rec.pop('author')
+    if authors and isinstance(authors, str):
+        authors = [authors]
+
+    new_rec['creators'] = [dict(name=_) for _ in authors]
+
+    pages = new_rec.pop('pages', None)
+    if pages:
+        new_rec['partof_pages'] = pages
+
+    if not new_rec.get('description'):
+        new_rec['description'] = DEFAULT_DESCRIPTION
+
+    return new_rec
