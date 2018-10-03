@@ -151,7 +151,8 @@ def list_items(stage='dev'):
     return resp.json()
 
 
-DROP_KEYS = ['ee', 'url', 'crossref', '@key', '@mdate']
+DROP_KEYS = ['ee', 'url', 'crossref', '@key', '@mdate', 'booktitle', 'year']
+DEFAULT_DESCRIPTION = '[TODO] Add abstract here.'
 
 
 def format_metadata(record, conferences):
@@ -173,7 +174,7 @@ def format_metadata(record, conferences):
 
     new_rec = dict(communities=[dict(identifier='ismir')])
     new_rec.update(**{k: v for k, v in record.items() if k not in DROP_KEYS})
-    new_rec.update(**conferences[new_rec['year']])
+    new_rec.update(**conferences[record['year']])
     authors = new_rec.pop('author')
     if authors and isinstance(authors, str):
         authors = [authors]
@@ -183,5 +184,8 @@ def format_metadata(record, conferences):
     pages = new_rec.pop('pages', None)
     if pages:
         new_rec['partof_pages'] = pages
+
+    if not new_rec.get('description'):
+        new_rec['description'] = DEFAULT_DESCRIPTION
 
     return new_rec
