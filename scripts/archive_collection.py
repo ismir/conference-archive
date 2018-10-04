@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """Uploader demo for Zenodo.
 
 To Use
