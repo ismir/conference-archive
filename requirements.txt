@@ -3,3 +3,4 @@ beautifulsoup4
 xmltodict
 tqdm
 pdfminer
+pdfrw
