@@ -14,6 +14,8 @@ import glob
 import io
 import tempfile
 import argparse
+import tqdm
+from joblib import Parallel, delayed
 import pdfminer.high_level
 import pdfminer.layout
 import pdfminer.settings
@@ -88,27 +90,36 @@ def extract_abstract(raw_text):
     return abstract
 
 
-def main(path_pdfs):
-    """Main function which defines the processing pipeline."""
+def extract(path_pdf):
+    """Extraction function which defines the processing pipeline."""
 
-    # loop through all PDFs (could be parallized via joblib)
-    for cur_fn_pdf in glob.glob(os.path.join(path_pdfs, '*.pdf')):
-        path_tmp_pdf = extract_first_page(cur_fn_pdf)
+    path_tmp_pdf = extract_first_page(path_pdf)
 
-        # extract all text from first page
-        raw_text = extract_text(path_tmp_pdf)
+    # extract all text from first page
+    raw_text = extract_text(path_tmp_pdf)
 
-        # extract abstract from whole page and replace hyphens etc.
-        abstract = extract_abstract(raw_text)
+    # extract abstract from whole page and replace hyphens etc.
+    abstract = extract_abstract(raw_text)
 
-        if not abstract:
-            print('Could not extract abstract for {}.'.format(path_pdfs))
+    if not abstract:
+        print('Could not extract abstract for {}.'.format(path_pdf))
 
-        # clean up temp file
-        os.remove(path_tmp_pdf)
+    # clean up temp file
+    os.remove(path_tmp_pdf)
 
-        # TODO: Write to JSON
-        print(repr(abstract))
+    # TODO: Write to JSON
+    # print(repr(abstract))
+
+
+def main(path):
+    """Main function."""
+
+    path_pdfs = glob.glob(os.path.join(path, '*.pdf'))
+
+    dfx = delayed(extract)
+    pool = Parallel(n_jobs=-1, verbose=1)
+
+    return all(pool(dfx(cur_path) for cur_path in tqdm.tqdm(path_pdfs)))
 
 
 if __name__ == '__main__':
