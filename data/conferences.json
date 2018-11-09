@@ -293,5 +293,21 @@
         "publication_type": "conferencepaper",
         "access_right": "open",
         "license": "CC-BY-4.0"
+    },
+    "2018": {
+        "conference_dates": "September 23-27, 2018",
+        "conference_place": "Paris, France",
+        "imprint_place": "Paris, France",
+        "conference_title": "Proceedings of the 19th International Society for Music Information Retrieval Conference",
+        "partof_title": "Proceedings of the 19th International Society for Music Information Retrieval Conference",
+        "publication_date": "2018-09-23",
+        "imprint_isbn": "978-2-9540351-2-3",
+        "conference_acronym": "ISMIR 2018",
+        "conference_url": "http://ismir2018.ismir.net",
+        "imprint_publisher": "ISMIR",
+        "upload_type": "publication",
+        "publication_type": "conferencepaper",
+        "access_right": "open",
+        "license": "CC-BY-4.0"
     }
 }
