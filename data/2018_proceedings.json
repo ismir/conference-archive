@@ -1,0 +1,1794 @@
+{
+  "conf/ismir/GebhardtSL18": {
+    "@key": "conf/ismir/GebhardtSL18",
+    "@mdate": "",
+    "author": [
+      "Roman B. Gebhardt",
+      "Michael Stein",
+      "Athanasios Lykartsis"
+    ],
+    "title": "A Confidence Measure For Key Labelling",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/72_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/KorzeniowskiW18": {
+    "@key": "conf/ismir/KorzeniowskiW18",
+    "@mdate": "",
+    "author": [
+      "Filip Korzeniowski",
+      "Gerhard Widmer"
+    ],
+    "title": "Improved Chord Recognition by Combining Duration and Harmonic Language Models",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/300_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/CarsaultNE18": {
+    "@key": "conf/ismir/CarsaultNE18",
+    "@mdate": "",
+    "author": [
+      "Tristan Carsault",
+      "Jerome Nika",
+      "Philippe Esling"
+    ],
+    "title": "Using Musical Relationships Between Chord Labels in Automatic Chord Extraction Tasks",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/231_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/LattnerGW18": {
+    "@key": "conf/ismir/LattnerGW18",
+    "@mdate": "",
+    "author": [
+      "Stefan Lattner",
+      "Maarten Grachten",
+      "Gerhard Widmer"
+    ],
+    "title": "A Predictive Model for Music based on Learned Interval Representations",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/179_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/RomanPC18": {
+    "@key": "conf/ismir/RomanPC18",
+    "@mdate": "",
+    "author": [
+      "Miguel A. Rom\u00e1n",
+      "Antonio Pertusa",
+      "Jorge Calvo-Zaragoza"
+    ],
+    "title": "An End-to-end Framework for Audio-to-Score Music Transcription on Monophonic Excerpts",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/87_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/McleodS18": {
+    "@key": "conf/ismir/McleodS18",
+    "@mdate": "",
+    "author": [
+      "Andrew McLeod",
+      "Mark Steedman"
+    ],
+    "title": "Evaluating Automatic Polyphonic Music Transcription",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/148_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/HawthorneESRSREOE18": {
+    "@key": "conf/ismir/HawthorneESRSREOE18",
+    "@mdate": "",
+    "author": [
+      "Curtis Hawthorne",
+      "Erich Elsen",
+      "Jialin Song",
+      "Adam Roberts",
+      "Ian Simon",
+      "Colin Raffel",
+      "Jesse Engel",
+      "Sageev Oore",
+      "Douglas Eck"
+    ],
+    "title": "Onsets and Frames: Dual-Objective Piano Transcription",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/19_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/SouthallSH18": {
+    "@key": "conf/ismir/SouthallSH18",
+    "@mdate": "",
+    "author": [
+      "Carl Southall",
+      "Ryan Stables",
+      "Jason Hockman"
+    ],
+    "title": "Player Vs Transcriber: A Game Approach To Data Manipulation For Automatic Drum Transcription",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/24_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/ConditschultzJF18": {
+    "@key": "conf/ismir/ConditschultzJF18",
+    "@mdate": "",
+    "author": [
+      "Nathaniel Condit-Schultz",
+      "Yaolong Ju",
+      "Ichiro Fujinaga"
+    ],
+    "title": "A Flexible Approach to Automated Harmonic Analysis: Multiple Annotations of Chorales by Bach and Pr\u00e6torius",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/283_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/KelkarRJ18": {
+    "@key": "conf/ismir/KelkarRJ18",
+    "@mdate": "",
+    "author": [
+      "Tejaswinee Kelkar",
+      "Udit Roy",
+      "Alexander Refsum Jensenius"
+    ],
+    "title": "Evaluating a Collection of Sound-Tracing Data of Melodic Phrases",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/209_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/BasaranEP18": {
+    "@key": "conf/ismir/BasaranEP18",
+    "@mdate": "",
+    "author": [
+      "Dogac Basaran",
+      "Slim Essid",
+      "Geoffroy Peeters"
+    ],
+    "title": "Main Melody Estimation with Source-Filter NMF and CRNN",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/273_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/ChenS18": {
+    "@key": "conf/ismir/ChenS18",
+    "@mdate": "",
+    "author": [
+      "Tsung-Ping Chen",
+      "Li Su"
+    ],
+    "title": "Functional Harmony Recognition of Symbolic Music Data with Multi-task Recurrent Neural Networks",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/178_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/SchreiberM18": {
+    "@key": "conf/ismir/SchreiberM18",
+    "@mdate": "",
+    "author": [
+      "Hendrik Schreiber",
+      "Meinard M\u00fcller"
+    ],
+    "title": "A Single-step Approach to Musical Tempo Estimation using a Convolutional Neural Network",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/141_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/FuentesMCEB18": {
+    "@key": "conf/ismir/FuentesMCEB18",
+    "@mdate": "",
+    "author": [
+      "Magdalena Fuentes",
+      "Brian McFee",
+      "H\u00e9l\u00e8ne C. Crayencour",
+      "Slim Essid",
+      "Juan Pablo Bello"
+    ],
+    "title": "Analysis of Common Design Choices in Deep Learning Systems for Downbeat Tracking",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/203_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/McleodS18a": {
+    "@key": "conf/ismir/McleodS18",
+    "@mdate": "",
+    "author": [
+      "Andrew McLeod",
+      "Mark Steedman"
+    ],
+    "title": "Meter Detection and Alignment of MIDI Performance",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/136_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/JeongKN18": {
+    "@key": "conf/ismir/JeongKN18",
+    "@mdate": "",
+    "author": [
+      "Dasaem Jeong",
+      "Taegyun Kwon",
+      "Juhan Nam"
+    ],
+    "title": "A Timbre-based Approach to Estimate Key Velocity from Polyphonic Piano Recordings",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/196_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/BigoniD18": {
+    "@key": "conf/ismir/BigoniD18",
+    "@mdate": "",
+    "author": [
+      "Francesco Bigoni",
+      "Sofia Dahl"
+    ],
+    "title": "Timbre Discrimination for Brief Instrument Sounds",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/249_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/HungY18": {
+    "@key": "conf/ismir/HungY18",
+    "@mdate": "",
+    "author": [
+      "Yun-Ning Hung",
+      "Yi-Hsuan Yang"
+    ],
+    "title": "Frame-level Instrument Recognition by Timbre and Pitch",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/55_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/TsushimaNIY18": {
+    "@key": "conf/ismir/TsushimaNIY18",
+    "@mdate": "",
+    "author": [
+      "Hiroaki Tsushima",
+      "Eita Nakamura",
+      "Katsutoshi Itoyama",
+      "Kazuyoshi Yoshii"
+    ],
+    "title": "Interactive Arrangement of Chords and Melodies Based on a Tree-Structured Generative Model",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/1_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/HarasimRO18": {
+    "@key": "conf/ismir/HarasimRO18",
+    "@mdate": "",
+    "author": [
+      "Daniel Harasim",
+      "Martin Rohrmeier",
+      "Timothy J. O'Donnell"
+    ],
+    "title": "A Generalized Parsing Framework for Generative Models of Harmonic Syntax",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/258_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/HarrisonP18": {
+    "@key": "conf/ismir/HarrisonP18",
+    "@mdate": "",
+    "author": [
+      "Peter M. C. Harrison",
+      "Marcus T. Pearce"
+    ],
+    "title": "An Energy-based Generative Sequence Model for Testing Sensory Theories of Western Harmony",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/215_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/ShihC18": {
+    "@key": "conf/ismir/ShihC18",
+    "@mdate": "",
+    "author": [
+      "Shun-Yao Shih",
+      "Heng-Yu Chi"
+    ],
+    "title": "Automatic, Personalized, and Flexible Playlist Generation using Reinforcement Learning",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/18_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/EslingCB18": {
+    "@key": "conf/ismir/EslingCB18",
+    "@mdate": "",
+    "author": [
+      "Philippe Esling",
+      "Axel Chemla--Romeu-Santos",
+      "Adrien Bitton"
+    ],
+    "title": "Bridging Audio Analysis, Perception and Synthesis with Perceptually-regularized Variational Timbre Spaces",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/219_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/ManzelliTSK18": {
+    "@key": "conf/ismir/ManzelliTSK18",
+    "@mdate": "",
+    "author": [
+      "Rachel Manzelli",
+      "Vijay Thakkar",
+      "Ali Siahkamari",
+      "Brian Kulis"
+    ],
+    "title": "Conditioning Deep Generative Raw Audio Models for Structured Automatic Music",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/192_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/DongY18": {
+    "@key": "conf/ismir/DongY18",
+    "@mdate": "",
+    "author": [
+      "Hao-Wen Dong",
+      "Yi-Hsuan Yang"
+    ],
+    "title": "Convolutional Generative Adversarial Networks with Binary Neurons for Polyphonic Music Generation",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/218_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/Tralie18": {
+    "@key": "conf/ismir/Tralie18",
+    "@mdate": "",
+    "author": [
+      "Christopher Tralie"
+    ],
+    "title": "Cover Song Synthesis by Analogy",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/103_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/YanLVD18": {
+    "@key": "conf/ismir/YanLVD18",
+    "@mdate": "",
+    "author": [
+      "Yujia Yan",
+      "Ethan Lustig",
+      "Joseph VanderStel",
+      "Zhiyao Duan"
+    ],
+    "title": "Part-invariant Model for Music Generation and Harmonization",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/293_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/SearsKW18": {
+    "@key": "conf/ismir/SearsKW18",
+    "@mdate": "",
+    "author": [
+      "David Sears",
+      "Filip Korzeniowski",
+      "Gerhard Widmer"
+    ],
+    "title": "Evaluating Language Models of Tonal Harmony",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/262_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/LiMD18": {
+    "@key": "conf/ismir/LiMD18",
+    "@mdate": "",
+    "author": [
+      "Bochen Li",
+      "Akira Maezawa",
+      "Zhiyao Duan"
+    ],
+    "title": "Skeleton Plays Piano: Online Generation of Pianist Body Movements from MIDI Performance",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/109_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/HajicDWP18": {
+    "@key": "conf/ismir/HajicDWP18",
+    "@mdate": "",
+    "author": [
+      "Jan Haji\u010d jr.",
+      "Matthias Dorfer",
+      "Gerhard Widmer",
+      "Pavel Pecina"
+    ],
+    "title": "Towards Full-Pipeline Handwritten OMR with Musical Symbol Detection by U-Nets",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/175_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/CrawfordBL18": {
+    "@key": "conf/ismir/CrawfordBL18",
+    "@mdate": "",
+    "author": [
+      "Tim Crawford",
+      "Golnaz Badkobeh",
+      "David Lewis"
+    ],
+    "title": "Searching Page-Images of Early Music Scanned with OMR: A Scalable Solution Using Minimal Absent Words",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/210_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/PachaC18": {
+    "@key": "conf/ismir/PachaC18",
+    "@mdate": "",
+    "author": [
+      "Alexander Pacha",
+      "Jorge Calvo-Zaragoza"
+    ],
+    "title": "Optical Music Recognition in Mensural Notation with Region-based Convolutional Neural Networks",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/32_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/CalvozaragozaR18": {
+    "@key": "conf/ismir/CalvozaragozaR18",
+    "@mdate": "",
+    "author": [
+      "Jorge Calvo-Zaragoza",
+      "David Rizo"
+    ],
+    "title": "Camera-PrIMuS: Neural End-to-End Optical Music Recognition on Realistic Monophonic Scores",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/33_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/CastellanosCVF18": {
+    "@key": "conf/ismir/CastellanosCVF18",
+    "@mdate": "",
+    "author": [
+      "Francisco Castellanos",
+      "Jorge Calvo-Zaragoza",
+      "Gabriel Vigliensoni",
+      "Ichiro Fujinaga"
+    ],
+    "title": "Document Analysis of Music Score Images with Selectional Auto-Encoders",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/93_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/KorzeniowskiW18a": {
+    "@key": "conf/ismir/KorzeniowskiW18",
+    "@mdate": "",
+    "author": [
+      "Filip Korzeniowski",
+      "Gerhard Widmer"
+    ],
+    "title": "Genre-Agnostic Key Classification With Convolutional Neural Networks",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/7_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/TuggenerESS18": {
+    "@key": "conf/ismir/TuggenerESS18",
+    "@mdate": "",
+    "author": [
+      "Lukas Tuggener",
+      "Ismail Elezi",
+      "J\u00fcrgen Schmidhuber",
+      "Thilo Stadelmann"
+    ],
+    "title": "Deep Watershed Detector for Music Object Recognition",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/225_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/DevalkW18": {
+    "@key": "conf/ismir/DevalkW18",
+    "@mdate": "",
+    "author": [
+      "Reinier de Valk",
+      "Tillman Weyde"
+    ],
+    "title": "Deep Neural Networks with Voice Entry Estimation Heuristics for Voice Separation in Symbolic Music Representations",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/304_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/ParkKLK18": {
+    "@key": "conf/ismir/ParkKLK18",
+    "@mdate": "",
+    "author": [
+      "Sungheon Park",
+      "Taehoon Kim",
+      "Kyogu Lee",
+      "Nojun Kwak"
+    ],
+    "title": "Music Source Separation Using Stacked Hourglass Networks",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/138_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/ManilowSP18": {
+    "@key": "conf/ismir/ManilowSP18",
+    "@mdate": "",
+    "author": [
+      "Ethan Manilow",
+      "Prem Seetharaman",
+      "Bryan Pardo"
+    ],
+    "title": "The Northwestern University Source Separation Library",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/37_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/AbesserBM18": {
+    "@key": "conf/ismir/AbesserBM18",
+    "@mdate": "",
+    "author": [
+      "Jakob Abe\u00dfer",
+      "Stefan Balke",
+      "Meinard M\u00fcller"
+    ],
+    "title": "Improving Bass Saliency Estimation using Transfer Learning and Label Propagation",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/143_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/SouthallSH18a": {
+    "@key": "conf/ismir/SouthallSH18",
+    "@mdate": "",
+    "author": [
+      "Carl Southall",
+      "Ryan Stables",
+      "Jason Hockman"
+    ],
+    "title": "Improving Peak-picking Using Multiple Time-step Loss Functions",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/25_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/SchlueterL18": {
+    "@key": "conf/ismir/SchlueterL18",
+    "@mdate": "",
+    "author": [
+      "Jan Schl\u00fcter",
+      "Bernhard Lehner"
+    ],
+    "title": "Zero-Mean Convolutions for Level-Invariant Singing Voice Detection",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/189_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/AndreuxM18": {
+    "@key": "conf/ismir/AndreuxM18",
+    "@mdate": "",
+    "author": [
+      "Mathieu Andreux",
+      "St\u00e9phane Mallat"
+    ],
+    "title": "Music Generation and Transformation with Moment Matching-Scattering Inverse Networks",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/131_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/StollerED18": {
+    "@key": "conf/ismir/StollerED18",
+    "@mdate": "",
+    "author": [
+      "Daniel Stoller",
+      "Sebastian Ewert",
+      "Simon Dixon"
+    ],
+    "title": "Wave-U-Net: A Multi-Scale Neural Network for End-to-End Audio Source Separation",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/205_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/McguirlKSB18": {
+    "@key": "conf/ismir/McguirlKSB18",
+    "@mdate": "",
+    "author": [
+      "Melissa R. McGuirl",
+      "Katherine M. Kinnaird",
+      "Claire Savard",
+      "Erin H. Bugbee"
+    ],
+    "title": "SE and SNL diagrams: Flexible data structures for MIR",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/105_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/MckayCF18": {
+    "@key": "conf/ismir/MckayCF18",
+    "@mdate": "",
+    "author": [
+      "Cory McKay",
+      "Julie Cumming",
+      "Ichiro Fujinaga"
+    ],
+    "title": "JSYMBOLIC 2.2: Extracting Features from Symbolic Music for use in Musicological and MIR Research",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/26_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/BigoFGL18": {
+    "@key": "conf/ismir/BigoFGL18",
+    "@mdate": "",
+    "author": [
+      "Louis Bigo",
+      "Laurent Feisthauer",
+      "Mathieu Giraud",
+      "Florence Lev\u00e9"
+    ],
+    "title": "Relevance of Musical Features for Cadence Detection",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/243_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/HuLN18": {
+    "@key": "conf/ismir/HuLN18",
+    "@mdate": "",
+    "author": [
+      "Xiao Hu",
+      "Fanjie Li",
+      "Jeremy T. D. Ng"
+    ],
+    "title": "On the Relationships between Music-induced Emotion and Physiological Signals",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/115_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/DelbouysHPRM18": {
+    "@key": "conf/ismir/DelbouysHPRM18",
+    "@mdate": "",
+    "author": [
+      "R\u00e9mi Delbouys",
+      "Romain Hennequin",
+      "Francesco Piccoli",
+      "Jimena Royo-Letelier",
+      "Manuel Moussallam"
+    ],
+    "title": "Music Mood Detection Based on Audio and Lyrics with Deep Neural Net",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/99_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/ParadacabaleiroSBHCSS18": {
+    "@key": "conf/ismir/ParadacabaleiroSBHCSS18",
+    "@mdate": "",
+    "author": [
+      "Emilia Parada-Cabaleiro",
+      "Maximilian Schmitt",
+      "Anton Batliner",
+      "Simone Hantke",
+      "Giovanni Costantini",
+      "Klaus Scherer",
+      "Bjoern Schuller"
+    ],
+    "title": "Identifying Emotions in Opera Singing: Implications of Adverse Acoustic Conditions",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/22_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/PandaMP18": {
+    "@key": "conf/ismir/PandaMP18",
+    "@mdate": "",
+    "author": [
+      "Renato Panda",
+      "Ricardo Malheiro",
+      "Rui Pedro Paiva"
+    ],
+    "title": "Musical Texture and Expressivity Features for Music Emotion Recognition",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/250_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/OfnerS18": {
+    "@key": "conf/ismir/OfnerS18",
+    "@mdate": "",
+    "author": [
+      "Andr\u00e9 Ofner",
+      "Sebastian Stober"
+    ],
+    "title": "Shared Generative Representation of Auditory Concepts and EEG to Reconstruct Perceived and Imagined Music",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/101_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/DepaduadRS18": {
+    "@key": "conf/ismir/DepaduadRS18",
+    "@mdate": "",
+    "author": [
+      "Renan de Padua",
+      "Ver\u00f4nica Oliveira de Carvalho",
+      "Solange Rezende",
+      "Diego Furtado Silva"
+    ],
+    "title": "Exploring Musical Relations Using Association Rule Networks",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/268_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/SchreiberM18a": {
+    "@key": "conf/ismir/SchreiberM18",
+    "@mdate": "",
+    "author": [
+      "Hendrik Schreiber",
+      "Meinard M\u00fcller"
+    ],
+    "title": "A Crowdsourced Experiment for Tempo Estimation of Electronic Dance Music",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/220_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/WeissBAM18": {
+    "@key": "conf/ismir/WeissBAM18",
+    "@mdate": "",
+    "author": [
+      "Christof Weiss",
+      "Stefan Balke",
+      "Jakob Abe\u00dfer",
+      "Meinard M\u00fcller"
+    ],
+    "title": "Computational Corpus Analysis: A Case Study on Jazz Solos",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/23_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/LisenaTCLCPVLT18": {
+    "@key": "conf/ismir/LisenaTCLCPVLT18",
+    "@mdate": "",
+    "author": [
+      "Pasquale Lisena",
+      "Konstantin Todorov",
+      "C\u00e9cile Cecconi",
+      "Fran\u00e7oise Leresche",
+      "Isabelle Canno",
+      "Fr\u00e9d\u00e9ric Puyrenier",
+      "Martine Voisin",
+      "Thierry Le Meur",
+      "Rapha\u00ebl Troncy"
+    ],
+    "title": "Controlled Vocabularies for Music Metadata",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/68_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/MeseguerbrocalCP18": {
+    "@key": "conf/ismir/MeseguerbrocalCP18",
+    "@mdate": "",
+    "author": [
+      "Gabriel Meseguer-Brocal",
+      "Alice Cohen-Hadria",
+      "Geoffroy Peeters"
+    ],
+    "title": "DALI: A Large Dataset of Synchronized Audio, Lyrics and notes, Automatically Created using Teacher-student Machine Learning Paradigm.",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/35_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/HumphreyDM18": {
+    "@key": "conf/ismir/HumphreyDM18",
+    "@mdate": "",
+    "author": [
+      "Eric Humphrey",
+      "Simon Durand",
+      "Brian McFee"
+    ],
+    "title": "OpenMIC-2018: An Open Data-set for Multiple Instrument Recognition",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/248_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/WuL18": {
+    "@key": "conf/ismir/WuL18",
+    "@mdate": "",
+    "author": [
+      "Chih-Wei Wu",
+      "Alexander Lerch"
+    ],
+    "title": "From Labeled to Unlabeled Data \u2013 On the Data Challenge in Automatic Drum Transcription",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/185_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/XiBPYB18": {
+    "@key": "conf/ismir/XiBPYB18",
+    "@mdate": "",
+    "author": [
+      "Qingyang Xi",
+      "Rachel Bittner",
+      "Johan Pauwels",
+      "Xuzhou Ye",
+      "Juan Pablo Bello"
+    ],
+    "title": "GuitarSet: A Dataset for Guitar Transcription",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/188_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/ParadacabaleiroSBS18": {
+    "@key": "conf/ismir/ParadacabaleiroSBS18",
+    "@mdate": "",
+    "author": [
+      "Emilia Parada-Cabaleiro",
+      "Maximilian Schmitt",
+      "Anton Batliner",
+      "Bjoern Schuller"
+    ],
+    "title": "Musical-Linguistic Annotations of Il Lauro Secco",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/11_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/WilkinsSWP18": {
+    "@key": "conf/ismir/WilkinsSWP18",
+    "@mdate": "",
+    "author": [
+      "Julia Wilkins",
+      "Prem Seetharaman",
+      "Alison Wahl",
+      "Bryan Pardo"
+    ],
+    "title": "VocalSet: A Singing Voice Dataset",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/114_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/DonahueMM18": {
+    "@key": "conf/ismir/DonahueMM18",
+    "@mdate": "",
+    "author": [
+      "Chris Donahue",
+      "Huanru Henry Mao",
+      "Julian McAuley"
+    ],
+    "title": "The NES Music Database: A multi-instrumental dataset with expressive performance attributes",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/265_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/EremenkoDBS18": {
+    "@key": "conf/ismir/EremenkoDBS18",
+    "@mdate": "",
+    "author": [
+      "Vsevolod Eremenko",
+      "Emir Demirel",
+      "Baris Bozkurt",
+      "Xavier Serra"
+    ],
+    "title": "Audio-Aligned Jazz Harmony Dataset for Automatic Chord Transcription and Corpus-based Research",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/206_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/CummingMSF18": {
+    "@key": "conf/ismir/CummingMSF18",
+    "@mdate": "",
+    "author": [
+      "Julie Cumming",
+      "Cory McKay",
+      "Jonathan Stuchbery",
+      "Ichiro Fujinaga"
+    ],
+    "title": "Methodologies for Creating Symbolic Corpora of Western Music Before 1600",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/46_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/ViraraghavanAM18": {
+    "@key": "conf/ismir/ViraraghavanAM18",
+    "@mdate": "",
+    "author": [
+      "Venkata Viraraghavan",
+      "Rangarajan Aravind",
+      "Hema Murthy"
+    ],
+    "title": "Precision of Sung Notes in Carnatic Music",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/120_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/LeeCN18": {
+    "@key": "conf/ismir/LeeCN18",
+    "@mdate": "",
+    "author": [
+      "Kyungyun Lee",
+      "Keunwoo Choi",
+      "Juhan Nam"
+    ],
+    "title": "Revisiting Singing Voice Detection: A quantitative review and the future outlook",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/38_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/DemetriouJKB18": {
+    "@key": "conf/ismir/DemetriouJKB18",
+    "@mdate": "",
+    "author": [
+      "Andrew Demetriou",
+      "Andreas Jansson",
+      "Aparna Kumar",
+      "Rachel Bittner"
+    ],
+    "title": "Vocals in Music Matter: the Relevance of Vocals in the Minds of Listeners",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/98_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/LuS18": {
+    "@key": "conf/ismir/LuS18",
+    "@mdate": "",
+    "author": [
+      "Wei Tsung Lu",
+      "Li Su"
+    ],
+    "title": "Vocal Melody Extraction with Semantic Segmentation and Audio-symbolic Domain Transfer Learning",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/286_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/BaroneIGW18": {
+    "@key": "conf/ismir/BaroneIGW18",
+    "@mdate": "",
+    "author": [
+      "Michael Barone",
+      "Karim Ibrahim",
+      "Chitralekha Gupta",
+      "Ye Wang"
+    ],
+    "title": "Empirically Weighting the Importance of Decision Factors for Singing Preference",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/117_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/RenVSV18": {
+    "@key": "conf/ismir/RenVSV18",
+    "@mdate": "",
+    "author": [
+      "Iris Yuping Ren",
+      "Anja Volk",
+      "Wouter Swierstra",
+      "Remco Veltkamp"
+    ],
+    "title": "Analysis by Classification: A Comparative Study of Annotated and Algorithmically Extracted Patterns in Symbolic Music Data",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/75_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/FinkensiepNR18": {
+    "@key": "conf/ismir/FinkensiepNR18",
+    "@mdate": "",
+    "author": [
+      "Christoph Finkensiep",
+      "Markus Neuwirth",
+      "Martin Rohrmeier"
+    ],
+    "title": "Generalized Skipgrams for Pattern Discovery in Polyphonic Streams",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/202_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/VatolkinR18": {
+    "@key": "conf/ismir/VatolkinR18",
+    "@mdate": "",
+    "author": [
+      "Igor Vatolkin",
+      "G\u00fcnter Rudolph"
+    ],
+    "title": "Comparison of Audio Features for Recognition of Western and Ethnic Instruments in Polyphonic Mixtures",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/139_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/TakahashiFG18": {
+    "@key": "conf/ismir/TakahashiFG18",
+    "@mdate": "",
+    "author": [
+      "Takumi Takahashi",
+      "Satoru Fukayama",
+      "Masataka Goto"
+    ],
+    "title": "Instrudive: A Music Visualization System Based on Automatically Recognized Instrumentation",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/63_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/GururaniSL18": {
+    "@key": "conf/ismir/GururaniSL18",
+    "@mdate": "",
+    "author": [
+      "Siddharth Gururani",
+      "Cameron Summers",
+      "Alexander Lerch"
+    ],
+    "title": "Instrument Activity Detection in Polyphonic Music using Deep Neural Networks",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/275_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/GomezAC18": {
+    "@key": "conf/ismir/GomezAC18",
+    "@mdate": "",
+    "author": [
+      "Juan S. G\u00f3mez",
+      "Jakob Abe\u00dfer",
+      "Estefan\u00eda Cano"
+    ],
+    "title": "Jazz Solo Instrument Classification with Convolutional Neural Networks, Source Separation, and Transfer Learning",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/145_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/Kinnaird18": {
+    "@key": "conf/ismir/Kinnaird18",
+    "@mdate": "",
+    "author": [
+      "Katherine M. Kinnaird"
+    ],
+    "title": "Aligned Sub-Hierarchies: A Structure-based Approach to the Cover Song Task",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/81_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/ArztL18": {
+    "@key": "conf/ismir/ArztL18",
+    "@mdate": "",
+    "author": [
+      "Andreas Arzt",
+      "Stefan Lattner"
+    ],
+    "title": "Audio-to-Score Alignment using Transposition-invariant Features",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/166_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/GuptaTLW18": {
+    "@key": "conf/ismir/GuptaTLW18",
+    "@mdate": "",
+    "author": [
+      "Chitralekha Gupta",
+      "Rong Tong",
+      "Haizhou Li",
+      "Ye Wang"
+    ],
+    "title": "Semi-supervised Lyrics and Solo-singing Alignment",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/30_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/SubramanianL18": {
+    "@key": "conf/ismir/SubramanianL18",
+    "@mdate": "",
+    "author": [
+      "Vinod Subramanian",
+      "Alexander Lerch"
+    ],
+    "title": "Concert Stitch: Organization and Synchronization of Crowd Sourced Recordings",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/182_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/AljanakiS18": {
+    "@key": "conf/ismir/AljanakiS18",
+    "@mdate": "",
+    "author": [
+      "Anna Aljanaki",
+      "Mohammad Soleymani"
+    ],
+    "title": "A Data-driven Approach to Mid-level Perceptual Musical Feature Modeling",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/183_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/RoyoletelierHTM18": {
+    "@key": "conf/ismir/RoyoletelierHTM18",
+    "@mdate": "",
+    "author": [
+      "Jimena Royo-Letelier",
+      "Romain Hennequin",
+      "Viet-Anh Tran",
+      "Manuel Moussallam"
+    ],
+    "title": "Disambiguating Music Artists at Scale with Audio Metric Learning",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/211_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/WaloschekH18": {
+    "@key": "conf/ismir/WaloschekH18",
+    "@mdate": "",
+    "author": [
+      "Simon Waloschek",
+      "Aristotelis Hadjakos"
+    ],
+    "title": "Driftin' Down the Scale: Dynamic Time Warping in the Presence of Pitch Drift and Transpositions",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/97_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/PonsNPSES18": {
+    "@key": "conf/ismir/PonsNPSES18",
+    "@mdate": "",
+    "author": [
+      "Jordi Pons",
+      "Oriol Nieto",
+      "Matthew Prockup",
+      "Erik M. Schmidt",
+      "Andreas F. Ehmann",
+      "Xavier Serra"
+    ],
+    "title": "End-to-end Learning for Music Audio Tagging at Scale",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/191_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/HennequinRM18": {
+    "@key": "conf/ismir/HennequinRM18",
+    "@mdate": "",
+    "author": [
+      "Romain Hennequin",
+      "Jimena Royo-Letelier",
+      "Manuel Moussallam"
+    ],
+    "title": "Audio Based Disambiguation of Music Genre Tags",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/163_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/LuoS18": {
+    "@key": "conf/ismir/LuoS18",
+    "@mdate": "",
+    "author": [
+      "Yin-Jyun Luo",
+      "Li Su"
+    ],
+    "title": "Learning Domain-Adaptive Latent Representations of Music Signals Using Variational Autoencoders",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/169_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/LattnerGW18a": {
+    "@key": "conf/ismir/LattnerGW18",
+    "@mdate": "",
+    "author": [
+      "Stefan Lattner",
+      "Maarten Grachten",
+      "Gerhard Widmer"
+    ],
+    "title": "Learning Interval Representations from Polyphonic Music Sequences",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/172_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/SpinelliLPL18": {
+    "@key": "conf/ismir/SpinelliLPL18",
+    "@mdate": "",
+    "author": [
+      "Louis Spinelli",
+      "Josephine Lau",
+      "Liz Pritchard",
+      "Jin Ha Lee"
+    ],
+    "title": "Influences on the Social Practices Surrounding Commercial Music Services: A Model for Rich Interactions",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/52_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/BauerS18": {
+    "@key": "conf/ismir/BauerS18",
+    "@mdate": "",
+    "author": [
+      "Christine Bauer",
+      "Markus Schedl"
+    ],
+    "title": "Investigating Cross-Country Relationship between Users' Social Ties and Music Mainstreaminess",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/130_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/TsukudaFG18": {
+    "@key": "conf/ismir/TsukudaFG18",
+    "@mdate": "",
+    "author": [
+      "Kosetsu Tsukuda",
+      "Satoru Fukayama",
+      "Masataka Goto"
+    ],
+    "title": "Listener Anonymizer: Camouflaging Play Logs to Preserve User's Demographic Anonymity",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/78_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/LiebmanWS18": {
+    "@key": "conf/ismir/LiebmanWS18",
+    "@mdate": "",
+    "author": [
+      "Elad Liebman",
+      "Corey N. White",
+      "Peter Stone"
+    ],
+    "title": "On the Impact of Music on Decision Making in Cooperative Tasks",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/298_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/KrasanakisSPKM18": {
+    "@key": "conf/ismir/KrasanakisSPKM18",
+    "@mdate": "",
+    "author": [
+      "Emmanouil Krasanakis",
+      "Emmanouil Schinas",
+      "Symeon Papadopoulos",
+      "Yiannis Kompatsiaris",
+      "Pericles Mitkas"
+    ],
+    "title": "VenueRank: Identifying Venues that Contribute to Artist Popularity",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/91_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/ZangerleP18": {
+    "@key": "conf/ismir/ZangerleP18",
+    "@mdate": "",
+    "author": [
+      "Eva Zangerle",
+      "Martin Pichl"
+    ],
+    "title": "The Many Faces of Users: Modeling Musical Preference",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/128_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/ParkLPHN18": {
+    "@key": "conf/ismir/ParkLPHN18",
+    "@mdate": "",
+    "author": [
+      "Jiyoung Park",
+      "Jongpil Lee",
+      "Jangyeon Park",
+      "Jung-Woo Ha",
+      "Juhan Nam"
+    ],
+    "title": "Representation Learning of Music Using Artist Labels",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/168_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/MedeotCKMASNW18": {
+    "@key": "conf/ismir/MedeotCKMASNW18",
+    "@mdate": "",
+    "author": [
+      "Gabriele Medeot",
+      "Srikanth Cherla",
+      "Katerina Kosta",
+      "Matt McVicar",
+      "Samer Abdallah",
+      "Marco Selvi",
+      "Ed Newton-Rex",
+      "Kevin Webster"
+    ],
+    "title": "StructureNet: Inducing Structure in Generated Melodies",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/126_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/SilvaFA18": {
+    "@key": "conf/ismir/SilvaFA18",
+    "@mdate": "",
+    "author": [
+      "Diego Furtado Silva",
+      "Felipe Falc\u00e3o",
+      "Nazareno Andrade"
+    ],
+    "title": "Summarizing and Comparing Music Data and Its Application on Cover Song Identification",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/36_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/LuS18a": {
+    "@key": "conf/ismir/LuS18",
+    "@mdate": "",
+    "author": [
+      "Wei Tsung Lu",
+      "Li Su"
+    ],
+    "title": "Transferring the Style of Homophonic Music Using Recurrent Neural Networks and Autoregressive Model",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/107_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/BrunnerKWW18": {
+    "@key": "conf/ismir/BrunnerKWW18",
+    "@mdate": "",
+    "author": [
+      "Gino Brunner",
+      "Andres Konrad",
+      "Yuyi Wang",
+      "Roger Wattenhofer"
+    ],
+    "title": "MIDI-VAE: Modeling Dynamics and Instrumentation of Music with Applications to Style Transfer",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/204_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/MishraSD18": {
+    "@key": "conf/ismir/MishraSD18",
+    "@mdate": "",
+    "author": [
+      "Saumitra Mishra",
+      "Bob L. Sturm",
+      "Simon Dixon"
+    ],
+    "title": "Understanding a Deep Machine Listening Model Through Feature Inversion",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/272_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/ChengFG18": {
+    "@key": "conf/ismir/ChengFG18",
+    "@mdate": "",
+    "author": [
+      "Tian Cheng",
+      "Satoru Fukayama",
+      "Masataka Goto"
+    ],
+    "title": "Comparing RNN Parameters for Melodic Similarity",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/61_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/LagrangeRL18": {
+    "@key": "conf/ismir/LagrangeRL18",
+    "@mdate": "",
+    "author": [
+      "Mathieu Lagrange",
+      "Mathias Rossignol",
+      "Gr\u00e9goire Lafay"
+    ],
+    "title": "Visualization of Audio Data Using Stacked Graphs",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/96_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/FrielerHPD18": {
+    "@key": "conf/ismir/FrielerHPD18",
+    "@mdate": "",
+    "author": [
+      "Klaus Frieler",
+      "Frank H\u00f6ger",
+      "Martin Pfleiderer",
+      "Simon Dixon"
+    ],
+    "title": "Two Web Applications for Exploring Melodic Patterns in Jazz Solos",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/177_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/DorferHW18": {
+    "@key": "conf/ismir/DorferHW18",
+    "@mdate": "",
+    "author": [
+      "Matthias Dorfer",
+      "Florian Henkel",
+      "Gerhard Widmer"
+    ],
+    "title": "Learning to Listen, Read, and Follow: Score Following as a Reinforcement Learning Game",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/45_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  },
+  "conf/ismir/GouvertOF18": {
+    "@key": "conf/ismir/GouvertOF18",
+    "@mdate": "",
+    "author": [
+      "Olivier Gouvert",
+      "Thomas Oberlin",
+      "C\u00e9dric F\u00e9votte"
+    ],
+    "title": "Matrix Co-Factorization for Cold-Start Recommendation",
+    "year": 2018,
+    "crossref": "conf/ismir/2018",
+    "booktitle": "ISMIR",
+    "url": "",
+    "ee": "http://ismir2018.ircam.fr/doc/pdfs/142_Paper.pdf",
+    "record_id": "",
+    "doi": ""
+  }
+}

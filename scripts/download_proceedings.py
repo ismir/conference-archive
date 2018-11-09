@@ -73,5 +73,8 @@ if __name__ == '__main__':
     with open(args.metadata_file, 'r') as fp:
         records = json.load(fp)
 
+    # create output dir
+    os.makedirs(args.output_dir, exist_ok=True)
+
     success = main(records, args.output_dir, args.num_cpus, args.verbose)
     sys.exit(0 if success else 1)
