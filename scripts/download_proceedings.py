@@ -18,6 +18,7 @@ import os
 import random
 import requests
 import sys
+import tqdm
 
 
 def download_pdf(fid, url, year, dst):
@@ -66,7 +67,7 @@ def main(records, output_dir, num_cpus, verbose):
     dfx = delayed(download_pdf)
     pool = Parallel(n_jobs=num_cpus, verbose=verbose)
 
-    return all(pool(dfx(*kv, dst=output_dir) for kv in items))
+    return all(pool(dfx(*kv, dst=output_dir) for kv in tqdm.tqdm(items)))
 
 
 if __name__ == '__main__':
