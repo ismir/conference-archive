@@ -4,3 +4,4 @@ xmltodict
 tqdm
 pdfminer
 pdfrw
+joblib
