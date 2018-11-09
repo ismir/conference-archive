@@ -28,7 +28,7 @@ def extract_first_page(fname):
     path_tmpfile = os.path.join(tempfile.gettempdir(), os.path.basename(fname))
 
     # extract all elements from the PDF and put them on separate pages
-    pages = list(page_per_xobj(PdfReader(fname).pages, margin=0.5*72))
+    pages = list(page_per_xobj(PdfReader(fname).pages))
 
     # write to temp file
     writer = PdfWriter(path_tmpfile)
@@ -60,15 +60,24 @@ def extract_text(fname):
 def extract_abstract(raw_text):
     """Search in the text for keywords and extract text in between."""
 
-    abs_index = raw_text.find('ABSTRACT')
+    query_abstract = 'ABSTRACT'
+    abs_index = raw_text.find(query_abstract)
     intro_index = abs_index
 
-    intro_index = raw_text.find('1. INTRODUCTION')
+    query_intro = '1. INTRODUCTION'
+    intro_index = raw_text.find(query_intro)
 
     if intro_index == -1:
         intro_index = raw_text.find('1.  INTRODUCTION')
 
-    abstract = raw_text[abs_index + 8:intro_index]
+    try:
+        # if no intro index was found, return empty abstract
+        assert intro_index != -1
+    except AssertionError:
+        return ''
+
+    # post-processing
+    abstract = raw_text[abs_index + len(query_abstract):intro_index]
     abstract = abstract.strip()
 
     # replace some ugly things
@@ -91,6 +100,9 @@ def main(path_pdfs):
 
         # extract abstract from whole page and replace hyphens etc.
         abstract = extract_abstract(raw_text)
+
+        if not abstract:
+            print('Could not extract abstract for {}.'.format(path_pdfs))
 
         # clean up temp file
         os.remove(path_tmp_pdf)
