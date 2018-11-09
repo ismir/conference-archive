@@ -20,9 +20,13 @@ import requests
 import sys
 
 
-def download_pdf(fid, url, dst):
+def download_pdf(fid, url, year, dst):
 
-    fout = os.path.join(dst, '{}.pdf'.format(fid))
+    # create output dir
+    os.makedirs(os.path.join(dst, year), exist_ok=True)
+
+    fout = os.path.join(dst, year, '{}.pdf'.format(fid))
+
     if isinstance(url, list):
         for _ in url:
             if _.endswith('pdf'):
@@ -42,12 +46,25 @@ def download_pdf(fid, url, dst):
 
 def main(records, output_dir, num_cpus, verbose):
 
-    pdfs = {k.split('/')[-1]: v.get('ee') for k, v in records.items()}
-    items = list(pdfs.items())
+    pdfs = []
+
+    for cur_key in records.keys():
+        cur_fn = cur_key.split('/')[-1]
+
+        cur_year = str(records[cur_key]['year'])
+
+        try:
+            cur_url = records[cur_key]['ee']
+            pdfs.append((cur_fn, cur_url, cur_year))
+        except KeyError:
+            print('{}: No URL available.'.format(cur_fn))
+            cur_url = ''
+
+    items = pdfs
     random.shuffle(items)
 
     dfx = delayed(download_pdf)
-    pool = Parallel(n_jobs=-1, verbose=1)
+    pool = Parallel(n_jobs=num_cpus, verbose=verbose)
 
     return all(pool(dfx(*kv, dst=output_dir) for kv in items))
 
@@ -72,9 +89,6 @@ if __name__ == '__main__':
 
     with open(args.metadata_file, 'r') as fp:
         records = json.load(fp)
-
-    # create output dir
-    os.makedirs(args.output_dir, exist_ok=True)
 
     success = main(records, args.output_dir, args.num_cpus, args.verbose)
     sys.exit(0 if success else 1)
