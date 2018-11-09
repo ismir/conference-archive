@@ -6,11 +6,13 @@ Usage
 -----
 
 $ python ./scripts/extrac_pdf_abstract.py \
-    ./path/to/pdfs
+    ./path/to/proceedings.json \
+    ./path/to/pdfs \
+    ./path/to/abstracts.json
 
 """
 import os
-import glob
+import json
 import io
 import tempfile
 import argparse
@@ -90,7 +92,7 @@ def extract_abstract(raw_text):
     return abstract
 
 
-def extract(path_pdf):
+def extract(key, path_pdf):
     """Extraction function which defines the processing pipeline."""
 
     path_tmp_pdf = extract_first_page(path_pdf)
@@ -107,28 +109,58 @@ def extract(path_pdf):
     # clean up temp file
     os.remove(path_tmp_pdf)
 
-    # TODO: Write to JSON
-    # print(repr(abstract))
+    out = {'@key': key, 'abstract': abstract}
+
+    return out
 
 
-def main(path):
+def main(records, pdf_dir, output_dir, num_cpus=-1, verbose=0):
     """Main function."""
 
-    path_pdfs = glob.glob(os.path.join(path, '*.pdf'))
+    path_pdfs = []
+
+    for cur_key in records.keys():
+        cur_fn = cur_key.split('/')[-1]
+        cur_path = os.path.join(pdf_dir, '{}.pdf'.format(cur_fn))
+        path_pdfs.append((cur_key, cur_path))
 
     dfx = delayed(extract)
-    pool = Parallel(n_jobs=-1, verbose=1)
+    pool = Parallel(n_jobs=num_cpus, verbose=verbose)
+    abstracts = pool(dfx(cur_key, cur_path) for cur_key, cur_path in tqdm.tqdm(path_pdfs))
 
-    return all(pool(dfx(cur_path) for cur_path in tqdm.tqdm(path_pdfs)))
+    out = {}
+
+    for cur_abstract in abstracts:
+        out[cur_abstract['@key']] = cur_abstract
+
+    return out
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
 
     # Inputs
-    parser.add_argument('path',
-                        metavar='path', type=str,
-                        help='Path to PDF versions of the papers.')
+    parser.add_argument('metadata_file',
+                        metavar='metadata_file', type=str,
+                        help='JSON dump of metadata records.')
+    parser.add_argument('pdf_dir',
+                        metavar='metadata_file', type=str,
+                        help='Path to conference PDFs.')
+    parser.add_argument('output',
+                        metavar='output', type=str,
+                        help='Path to write the extracted abstracts.')
+    parser.add_argument('--num_cpus',
+                        metavar='num_cpus', type=int, default=-2,
+                        help='Number of CPUs to use in parallel.')
+    parser.add_argument('--verbose',
+                        metavar='verbose', type=int, default=0,
+                        help='Verbosity level for joblib.')
     args = parser.parse_args()
 
-    main(args.path)
+    with open(args.metadata_file, 'r') as fp:
+        records = json.load(fp)
+
+    abstracts = main(records, args.pdf_dir, args.output, args.num_cpus, args.verbose)
+
+    with open(args.output, 'w', encoding='utf-8') as f:
+        f.write(json.dumps(abstracts, indent=2))
