@@ -5,7 +5,7 @@
 Usage
 -----
 
-$ python ./scripts/extrac_pdf_abstract.py \
+$ python ./scripts/extract_pdf_abstract.py \
     ./path/to/proceedings.json \
     ./path/to/pdfs \
     ./path/to/abstracts.json
@@ -13,6 +13,7 @@ $ python ./scripts/extrac_pdf_abstract.py \
 """
 import os
 import json
+import warnings
 import io
 import tempfile
 import argparse
@@ -88,6 +89,7 @@ def extract_abstract(raw_text):
     abstract = abstract.replace('-\n', '')
     abstract = abstract.replace('\n', ' ')
     abstract = abstract.replace('ﬁ', 'fi')
+    abstract = abstract.replace('  ', ' ')
 
     return abstract
 
@@ -103,8 +105,12 @@ def extract(key, path_pdf):
     # extract abstract from whole page and replace hyphens etc.
     abstract = extract_abstract(raw_text)
 
+    # something went wrong when abstract is longer than 1500 chars
+    if len(abstract) > 1500:
+        print('{}: Abstract is too long.'.format(path_pdf))
+
     if not abstract:
-        print('Could not extract abstract for {}.'.format(path_pdf))
+        print('{}: Could not extract abstract.'.format(path_pdf))
 
     # clean up temp file
     os.remove(path_tmp_pdf)
