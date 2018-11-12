@@ -1,37 +1,117 @@
 
 DROP_KEYS = ['ee', 'url', 'crossref', '@key', '@mdate', 'booktitle', 'year']
 DEFAULT_DESCRIPTION = '[TODO] Add abstract here.'
+DEFAULT_METADATA = {
+    'license': 'CC-BY-4.0',
+    'access_right': 'open',
+    'description': DEFAULT_DESCRIPTION,
+    'communities': [{'identifier': 'ismir'}],
+    'imprint_publisher': 'ISMIR',
+    'upload_type': 'publication',
+    'publication_type': 'conferencepaper'
+}
 
 
 class DBLP(dict):
+    '''DBLP paper entry'''
 
-    def __init__(self, author, title, year,
-                 booktitle='ISMIR', ee='', url='', record_id=None, doi=''):
+    def __init__(self, author, title, year, booktitle='ISMIR', ee='', crossref=''):
         super().__init__(author=author, title=title, year=year,
-                         booktitle=booktitle, ee=ee, url=url,
-                         record_id=record_id, doi=doi)
+                         booktitle=booktitle, ee=ee, crossref=crossref)
+
+    def to_zenodo(self):
+        return {k: v for k, v in self.items() if k not in DROP_KEYS}
 
 
 class Zenodo(dict):
+    '''Zenodo Metadata Object
 
-    def __init__(self, record_id, title, creators, partof_pages,
-                 description, communities,
-                 conference_dates, conference_place, conference_title,
-                 partof_title, publication_date, conference_acronym,
-                 conference_url, imprint_publisher, imprint_place,
-                 upload_type, publication_type, access_right, license):
+    For more info, see the full documentation:
+        http://developers.zenodo.org/#deposit-metadata
+    '''
+
+    def __init__(self, upload_type, publication_type, title, creators, partof_pages,
+                 description, communities, conference_dates, conference_place,
+                 conference_title, partof_title, publication_date, conference_acronym,
+                 conference_url, imprint_publisher, imprint_place, access_right, license,
+                 doi=''):
         super().__init__(
-            record_id=record_id, title=title, creators=creators, partof_pages=partof_pages,
+            upload_type=upload_type, publication_type=publication_type,
+            title=title, creators=creators, partof_pages=partof_pages,
             description=description, communities=communities, conference_dates=conference_dates,
             conference_place=conference_place, conference_title=conference_title,
             partof_title=partof_title, publication_date=publication_date,
             conference_acronym=conference_acronym, conference_url=conference_url,
             imprint_publisher=imprint_publisher, imprint_place=imprint_place,
+            access_right=access_right, license=license, doi='')
+
+
+class IsmirPaper(dict):
+    '''ISMIR Paper Metadata Object'''
+
+    def __init__(self, title, author, year, doi, url, ee, abstract='',
+                 zenodo_id=None, dblp_key=None):
+        super().__init__(title=title, author=author, year=year, doi=doi, url=url, ee=ee,
+                         abstract=abstract, zenodo_id=zenodo_id, dblp_key=dblp_key)
+
+
+class IsmirConference(dict):
+    '''ISMIR Conference Metadata Object'''
+
+    def __init__(self, conference_dates, conference_place, imprint_place, conference_title,
+                 partof_title, publication_date, imprint_isbn, conference_acronym,
+                 conference_url, imprint_publisher, upload_type, publication_type,
+                 access_right, license):
+        super().__init__(
+            conference_dates=conference_dates, conference_place=conference_place,
+            imprint_place=imprint_place, conference_title=conference_title,
+            partof_title=partof_title, publication_date=publication_date,
+            imprint_isbn=imprint_isbn, conference_acronym=conference_acronym,
+            conference_url=conference_url, imprint_publisher=imprint_publisher,
             upload_type=upload_type, publication_type=publication_type,
             access_right=access_right, license=license)
 
 
-def dblp_to_zenodo(record, conferences):
+def creators_to_author(creators):
+    '''Transform Zenodo 'creators' to a string/list 'author'.
+
+    Parameters
+    ----------
+    creators : list of dicts
+        Collection of creator objects, keyed by name.
+
+    Returns
+    -------
+    authors : str or list
+        Collection of DBLP style authors.
+    '''
+    authors = [x['name'] for x in creators]
+    if len(authors) == 1:
+        authors = authors[0]
+
+    return authors
+
+
+def author_to_creators(authors):
+    '''Transform DBLP 'authors' to Zenodo 'creators'.
+
+    Parameters
+    ----------
+    authors : str or list
+        Collection of DBLP style authors.
+
+    Returns
+    -------
+    creators : list of dicts
+        Collection of creator objects, keyed by name.
+    '''
+    if authors and isinstance(authors, str):
+        authors = [authors]
+
+    return [dict(name=_) for _ in authors]
+
+
+def dblp_to_zenodo(record, conferences, abstract=DEFAULT_DESCRIPTION):
     """Format a DBLP record for Zenodo, backfilling the right conference meta.
 
     Parameters
@@ -42,26 +122,28 @@ def dblp_to_zenodo(record, conferences):
     conferences : dict
         Metadata corresponding to each conference, keyed by year (str).
 
+    abstract : str
+        Abstract for the corresponding paper.
+
     Returns
     -------
     meta : dict
         Appropriately formated metadata for Zenodo.
     """
+    record = DBLP(**record)
 
     new_rec = dict(communities=[dict(identifier='ismir')])
-    new_rec.update(**{k: v for k, v in record.items() if k not in DROP_KEYS})
-    new_rec.update(**conferences[record['year']])
-    authors = new_rec.pop('author')
-    if authors and isinstance(authors, str):
-        authors = [authors]
+    new_rec.update(**record.to_zenodo())
 
-    new_rec['creators'] = [dict(name=_) for _ in authors]
+    # TODO: Conferences can only be keyed by strings...
+    new_rec.update(**conferences[str(record['year'])])
+    new_rec['creators'] = author_to_creators(new_rec.pop('author'))
 
     pages = new_rec.pop('pages', None)
     if pages:
         new_rec['partof_pages'] = pages
 
     if not new_rec.get('description'):
-        new_rec['description'] = DEFAULT_DESCRIPTION
+        new_rec['description'] = abstract
 
     return Zenodo(**new_rec)
