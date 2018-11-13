@@ -1,5 +1,3 @@
-
-DROP_KEYS = ['ee', 'url', 'crossref', '@key', '@mdate', 'booktitle', 'year']
 DEFAULT_DESCRIPTION = '[TODO] Add abstract here.'
 DEFAULT_METADATA = {
     'license': 'CC-BY-4.0',
@@ -14,13 +12,11 @@ DEFAULT_METADATA = {
 
 class DBLP(dict):
     '''DBLP paper entry'''
+    FIELDS = ['author', 'title', 'year', 'booktitle', 'ee', 'crossref']
 
     def __init__(self, author, title, year, booktitle='ISMIR', ee='', crossref=''):
         super().__init__(author=author, title=title, year=year,
                          booktitle=booktitle, ee=ee, crossref=crossref)
-
-    def to_zenodo(self):
-        return {k: v for k, v in self.items() if k not in DROP_KEYS}
 
 
 class Zenodo(dict):
@@ -29,12 +25,17 @@ class Zenodo(dict):
     For more info, see the full documentation:
         http://developers.zenodo.org/#deposit-metadata
     '''
+    FIELDS = ['upload_type', 'publication_type', 'title', 'creators', 'partof_pages',
+              'description', 'communities', 'conference_dates', 'conference_place',
+              'conference_title', 'partof_title', 'publication_date', 'conference_acronym',
+              'conference_url', 'imprint_publisher', 'imprint_place', 'access_right',
+              'license', 'doi']
 
     def __init__(self, upload_type, publication_type, title, creators, partof_pages,
                  description, communities, conference_dates, conference_place,
                  conference_title, partof_title, publication_date, conference_acronym,
                  conference_url, imprint_publisher, imprint_place, access_right, license,
-                 doi=''):
+                 doi=None):
         super().__init__(
             upload_type=upload_type, publication_type=publication_type,
             title=title, creators=creators, partof_pages=partof_pages,
@@ -49,6 +50,9 @@ class Zenodo(dict):
 class IsmirPaper(dict):
     '''ISMIR Paper Metadata Object'''
 
+    FIELDS = ['title', 'author', 'year', 'doi', 'url', 'ee', 'abstract',
+              'zenodo_id', 'dblp_key']
+
     def __init__(self, title, author, year, doi, url, ee, abstract='',
                  zenodo_id=None, dblp_key=None):
         super().__init__(title=title, author=author, year=year, doi=doi, url=url, ee=ee,
@@ -57,6 +61,11 @@ class IsmirPaper(dict):
 
 class IsmirConference(dict):
     '''ISMIR Conference Metadata Object'''
+
+    FIELDS = ['conference_dates', 'conference_place', 'imprint_place', 'conference_title',
+              'partof_title', 'publication_date', 'imprint_isbn', 'conference_acronym',
+              'conference_url', 'imprint_publisher', 'upload_type', 'publication_type',
+              'access_right', 'license']
 
     def __init__(self, conference_dates, conference_place, imprint_place, conference_title,
                  partof_title, publication_date, imprint_isbn, conference_acronym,
@@ -70,6 +79,34 @@ class IsmirConference(dict):
             conference_url=conference_url, imprint_publisher=imprint_publisher,
             upload_type=upload_type, publication_type=publication_type,
             access_right=access_right, license=license)
+
+
+def merge(cls, *entities, **fields):
+    '''Merge entities and project into a given data model.
+
+    Parameters
+    ----------
+    cls : Entity type, subclass of dict
+        Output entity to project into.
+
+    *entities : iterable
+        Entities to join, in descending order of importance.
+
+    **fields : dict
+        Key-value pairs to add.
+
+    Returns
+    -------
+    obj : type(cls)
+        Resulting object.
+    '''
+
+    accum = dict()
+    for entity in entities[::-1]:
+        accum.update(**entity)
+
+    accum.update(**fields)
+    return cls(**{k: accum.get(k) for k in cls.FIELDS})
 
 
 def creators_to_author(creators):
