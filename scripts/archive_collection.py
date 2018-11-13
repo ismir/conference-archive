@@ -17,83 +17,76 @@ Now, you can then upload the sample data to the development site:
 $ python scripts/archive_collection.py \
     data/proceedings.json \
     data/conferences.json \
-    dev \
+    --output_file updated-proceedings.json \
+    --stage dev \
     --verbose 50 \
     --num_cpus -2 \
     --max_items 10
 ```
 """
 import argparse
-import io
 from joblib import Parallel, delayed
 import json
 import logging
 import os
 import random
-import requests
 import sys
 
-import zen
+import zen.api
+import zen.models
 
-logger = logging.getLogger("fetch")
-
-META = {
-    "license": "CC-BY-4.0",
-    "access_right": "open",
-    "description": "<p></p>",
-    "communities": [{"identifier": "ismir"}],
-    "imprint_publisher": "ISMIR",
-    "upload_type": "publication",
-    "publication_type": "conferencepaper"
-}
+logger = logging.getLogger("archive-collection")
 
 
-def build_record(record, conferences):
-    record = dict(**record)
-    key = record['conference_acronym']
-    meta = META.copy()
-    meta.update(**conferences[key])
-    meta["partof_title"] = meta.pop('conference_title')
-    meta['conference_title'] = meta["partof_title"].split("the ")[-1]
-    meta["imprint_place"] = meta["conference_place"]
-    res = requests.get(record.pop('pdf_url'))
-    fp = io.BytesIO(res.content)
-    meta.update(**record)
-    return os.path.basename(res.url), fp, meta
-
-
-def upload(record, conferences, stage):
+def upload(ismir_paper, conferences, stage=zen.DEV):
     """Upload a file / metadata pair to a Zenodo stage.
 
     Parameters
     ----------
-    filename : str
-        Path to a local file on disk.
-        TODO: Could be a generic URI, to allow webscraping at the same time.
+    ismir_paper : zen.models.IsmirPaper
+        ISMIR paper record.
 
-    metadata : dict
-        Metadata associated with the resource.
+    conferences : dict of zen.models.IsmirConference
+        Conference metadata.
 
     stage : str
         One of [dev, prod]; defines the deployment area to use.
 
-    zid : str, default=None
-        If provided, attempts to update the resource for the given Zenodo ID.
+    Returns
+    -------
+    updated_paper : zen.models.IsmirPaper
+        An updated IMSIR paper object.
     """
-    if not record['pdf_url'].lower().endswith('.pdf'):
-        return
+    ismir_paper = zen.models.IsmirPaper(**ismir_paper)
+    conf = zen.models.IsmirConference(**conferences[ismir_paper['year']])
 
-    fname, fp, meta = build_record(record, conferences)
-    zid = zen.create_id(stage=stage)
-    zen.upload_file(zid, fname, fp=fp, stage=stage)
-    zen.update_metadata(zid, meta, stage=stage)
-    return zen.publish(zid, stage=stage).get('submitted', False)
+    if not ismir_paper['zenodo_id']:
+        # New submission
+        zid = zen.create_id(stage=stage)
+    else:
+        # Update mode
+        #  * If the checksum is different, re-upload the pdf
+        #  * Update the metadata regardless
+        pass
+
+    upload_response = zen.upload_file(zid, ismir_paper['ee'], stage=stage)
+    ismir_paper['ee'] = upload_response['links']['download']
+
+    zenodo_meta = zen.models.merge(
+        zen.models.Zenodo, ismir_paper, conf,
+        creators=zen.models.author_to_creators(ismir_paper['author']),
+        description=ismir_paper['abstract'])
+
+    zen.update_metadata(zid, zenodo_meta.dropna(), stage=stage)
+    publish_response = zen.publish(zid, stage=stage)
+    ismir_paper.update(doi=publish_response['doi'], url=publish_response['doi_url'])
+    return ismir_paper
 
 
-def archive(proceedings, conferences, stage, num_cpus=-2, verbose=0):
+def archive(proceedings, conferences, stage=zen.DEV, num_cpus=-2, verbose=0):
     pool = Parallel(n_jobs=num_cpus, verbose=verbose)
     fx = delayed(upload)
-    return all(pool(fx(rec, conferences, stage) for rec in proceedings))
+    return pool(fx(paper, conferences, stage) for paper in proceedings)
 
 
 if __name__ == '__main__':
@@ -103,12 +96,16 @@ if __name__ == '__main__':
     # Inputs
     parser.add_argument("proceedings",
                         metavar="proceedings", type=str,
-                        help="Path to proceedings records.")
+                        help="Path to JSON proceedings records.")
     parser.add_argument("conferences",
                         metavar="conferences", type=str,
                         help="Path to a JSON file of conference metadata.")
-    parser.add_argument("stage",
-                        metavar="stage", type=str,
+    parser.add_argument("--output_file",
+                        metavar="--output_file", type=str, default=None,
+                        help="Path to log updated records; if unspecified, "
+                             "will overwrite the input.")
+    parser.add_argument("--stage",
+                        metavar="stage", type=str, default=zen.DEV,
                         help="Stage to execute.")
     parser.add_argument("--num_cpus",
                         metavar="num_cpus", type=int, default=-2,
@@ -120,14 +117,17 @@ if __name__ == '__main__':
                         metavar="max_items", type=int, default=None,
                         help="Maximum number of items to upload.")
     args = parser.parse_args()
-    proceedings = [rec for year in json.load(open(args.proceedings))
-                   for rec in year]
+    proceedings = json.load(open(args.proceedings))
     conferences = json.load(open(args.conferences))
 
+    # Subsample for staging
     if args.max_items is not None:
         random.shuffle(proceedings)
         proceedings = proceedings[:args.max_items]
 
-    success = archive(proceedings, conferences, args.stage,
-                      args.num_cpus, args.verbose)
-    sys.exit(0 if success else 1)
+    results = archive(proceedings, conferences, args.stage, args.num_cpus, args.verbose)
+
+    with open(args.output_file or args.proceedings, 'w') as fp:
+        json.dump(results, fp, indent=2)
+
+    sys.exit(0 if os.path.exists(args.output_file) else 1)
