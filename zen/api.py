@@ -7,6 +7,8 @@ import os
 
 logger = logging.getLogger("zen.api")
 
+DEV = 'dev'
+PROD = 'prod'
 PREFIX = dict(
     dev="10.5072",
     prod="10.5281")
@@ -41,7 +43,7 @@ def verify_token(func):
 
 
 @verify_token
-def create_id(stage='dev'):
+def create_id(stage=DEV):
     """Create a new Zenodo ID.
 
     Parameters
@@ -70,7 +72,7 @@ def create_id(stage='dev'):
 
 
 @verify_token
-def upload_file(zid, filepath, fp=None, stage='dev'):
+def upload_file(zid, filepath, fp=None, stage=DEV):
     '''Upload a filepath (local or URL) to zenodo, given an id.
 
     Parameters
@@ -104,7 +106,7 @@ def upload_file(zid, filepath, fp=None, stage='dev'):
 
 
 @verify_token
-def update_metadata(zid, metadata, stage='dev'):
+def update_metadata(zid, metadata, stage=DEV):
     data = {"metadata": metadata}
     resp = requests.put(
         "{host}/api/deposit/depositions/{zid}"
@@ -117,7 +119,7 @@ def update_metadata(zid, metadata, stage='dev'):
 
 
 @verify_token
-def publish(zid, stage='dev'):
+def publish(zid, stage=DEV):
     resp = requests.post(
         "{host}/api/deposit/depositions/{zid}/"
         "actions/publish?access_token={token}".format(zid=zid,
@@ -129,7 +131,7 @@ def publish(zid, stage='dev'):
 
 
 @verify_token
-def get(zid, stage='dev'):
+def get(zid, stage=DEV):
     resp = requests.get(
         "{host}/api/deposit/depositions/{zid}"
         "?access_token={token}".format(zid=zid,
@@ -141,7 +143,7 @@ def get(zid, stage='dev'):
 
 
 @verify_token
-def list_items(stage='dev'):
+def list_items(stage=DEV):
     resp = requests.get(
         "{host}/api/deposit/depositions/?access_token={token}"
         .format(token=TOKENS[stage], host=HOSTS[stage]))
