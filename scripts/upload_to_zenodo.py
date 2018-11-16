@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Uploader demo for Zenodo.
+"""Upload JSON databases to Zenodo.
 
 To Use
 ------
@@ -14,7 +14,7 @@ Note: This script will yell loudly if the requested token is unset.
 
 Now, you can then upload the sample data to the development site:
 ```
-$ python scripts/archive_collection.py \
+$ ./scripts/upload_to_zenodo.py \
     data/proceedings.json \
     data/conferences.json \
     --output_file updated-proceedings.json \
@@ -35,7 +35,7 @@ import sys
 import zen.api
 import zen.models
 
-logger = logging.getLogger("archive-collection")
+logger = logging.getLogger("upload_to_zenodo")
 
 
 def upload(ismir_paper, conferences, stage=zen.DEV):
