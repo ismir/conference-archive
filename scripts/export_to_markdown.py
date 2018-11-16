@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 """Render conference metadata to markdown
 
-Functionality to dump proceedings records to well-formatted metadata.
+Functionality to export proceedings records to markdown.
 
 Example usage
 -------------
-$ ./scripts/metadata_to_markdown.py \
+$ ./scripts/export_to_markdown.py \
     records.json \
     output.md
 

@@ -7,6 +7,8 @@ import os
 
 logger = logging.getLogger("zen.api")
 
+DEV = 'dev'
+PROD = 'prod'
 PREFIX = dict(
     dev="10.5072",
     prod="10.5281")
@@ -41,7 +43,7 @@ def verify_token(func):
 
 
 @verify_token
-def create_id(stage='dev'):
+def create_id(stage=DEV):
     """Create a new Zenodo ID.
 
     Parameters
@@ -70,7 +72,7 @@ def create_id(stage='dev'):
 
 
 @verify_token
-def upload_file(zid, filepath, fp=None, stage='dev'):
+def upload_file(zid, filepath, fp=None, stage=DEV):
     '''Upload a filepath (local or URL) to zenodo, given an id.
 
     Parameters
@@ -104,7 +106,7 @@ def upload_file(zid, filepath, fp=None, stage='dev'):
 
 
 @verify_token
-def update_metadata(zid, metadata, stage='dev'):
+def update_metadata(zid, metadata, stage=DEV):
     data = {"metadata": metadata}
     resp = requests.put(
         "{host}/api/deposit/depositions/{zid}"
@@ -117,7 +119,7 @@ def update_metadata(zid, metadata, stage='dev'):
 
 
 @verify_token
-def publish(zid, stage='dev'):
+def publish(zid, stage=DEV):
     resp = requests.post(
         "{host}/api/deposit/depositions/{zid}/"
         "actions/publish?access_token={token}".format(zid=zid,
@@ -129,7 +131,7 @@ def publish(zid, stage='dev'):
 
 
 @verify_token
-def get(zid, stage='dev'):
+def get(zid, stage=DEV):
     resp = requests.get(
         "{host}/api/deposit/depositions/{zid}"
         "?access_token={token}".format(zid=zid,
@@ -141,7 +143,7 @@ def get(zid, stage='dev'):
 
 
 @verify_token
-def list_items(stage='dev'):
+def list_items(stage=DEV):
     resp = requests.get(
         "{host}/api/deposit/depositions/?access_token={token}"
         .format(token=TOKENS[stage], host=HOSTS[stage]))
@@ -149,43 +151,3 @@ def list_items(stage='dev'):
     if resp.status_code >= 300:
         raise ZenodoApiError(resp.json())
     return resp.json()
-
-
-DROP_KEYS = ['ee', 'url', 'crossref', '@key', '@mdate', 'booktitle', 'year']
-DEFAULT_DESCRIPTION = '[TODO] Add abstract here.'
-
-
-def format_metadata(record, conferences):
-    """Format a DBLP record for Zenodo, backfilling the right conference meta.
-
-    Parameters
-    ----------
-    record : dict
-        Paper record from DBLP.
-
-    conferences : dict
-        Metadata corresponding to each conference, keyed by year (str).
-
-    Returns
-    -------
-    meta : dict
-        Appropriately formated metadata for Zenodo.
-    """
-
-    new_rec = dict(communities=[dict(identifier='ismir')])
-    new_rec.update(**{k: v for k, v in record.items() if k not in DROP_KEYS})
-    new_rec.update(**conferences[record['year']])
-    authors = new_rec.pop('author')
-    if authors and isinstance(authors, str):
-        authors = [authors]
-
-    new_rec['creators'] = [dict(name=_) for _ in authors]
-
-    pages = new_rec.pop('pages', None)
-    if pages:
-        new_rec['partof_pages'] = pages
-
-    if not new_rec.get('description'):
-        new_rec['description'] = DEFAULT_DESCRIPTION
-
-    return new_rec
