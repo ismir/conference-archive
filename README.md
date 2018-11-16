@@ -9,35 +9,7 @@ This repository consists of two different components:
 - **Data**: Single source of ground truth for proceedings' metadata, citation records, and DOIs.
 - **Tooling:** Software to index proceedings, interface with Zenodo, and convert metadata to markdown for display on the web (DBLP, ISMIR).
 
-Implicit in this is the workflow for migrating proceedings and information for a
-year's conference to the main trunk for posterity. At a high level, this looks like the following:
-
-![](https://github.com/ismir/conference-archive/blob/master/img/proceedings-archive-flow.png)
-
-Note that tracking this data in a standardized format makes it straightforward to update the metadata for these various consumers as bulk actions.
-
-## Tools
-
-### Zenodo Uploader
-
-#### To Use
-
-You must set / export two environment variables for access to Zenodo;
-
-```bash
-export ZENODO_TOKEN_PROD=<PRIMARY_TOKEN>
-export ZENODO_TOKEN_DEV=<SANDBOX_TOKEN>
-```
-
-To create / retrieve a token, proceed to Zenodo's developer [portal](https://zenodo.org/account/settings/applications/tokens/new/).
-
-
-#### Dev / Prod
-
-Zenodo provides a [sandbox website](https://sandbox.zenodo.org) that is wholly disjoint from the [mainline service](https://sandbox.zenodo.org). We use the former for development and staging, and the latter for production.
-
-
-## JSON Database
+## JSON Databases
 
 There are two types of database files maintained in this repository:
 
@@ -94,3 +66,66 @@ Each key-record pair looks like the following:
 }
 ```
 
+## Workflow
+
+This workflow aims to migrate proceedings and information for a year's conference to persistent web properties for posterity. At a high level, this looks like the following:
+
+![](https://github.com/ismir/conference-archive/blob/master/img/proceedings-archive-flow.png)
+
+
+### 1. Produce Databases
+
+There are a mix of ways to produce the necessary data structures:
+
+a. Parse proceedings metadata from the conference submission system, e.g. SoftConf
+b. Crawl the conference website
+c. Manual effort
+
+In the future, these files could be more efficiently produced via the [proceedings-builder](https://github.com/ismir/proceedings-builder) repository.
+
+
+### 2. Extract Abstracts
+
+TODO[@stefan-balke?]
+
+
+### 3. Zenodo Uploader
+
+You must set / export two environment variables for access to Zenodo;
+
+```bash
+export ZENODO_TOKEN_PROD=<PRIMARY_TOKEN>
+export ZENODO_TOKEN_DEV=<SANDBOX_TOKEN>
+```
+
+To create / retrieve a token, proceed to Zenodo's developer [portal](https://zenodo.org/account/settings/applications/tokens/new/).
+
+Zenodo provides a [sandbox website](https://sandbox.zenodo.org) that is wholly disjoint from the [mainline service](https://sandbox.zenodo.org). We use the former for development and staging, and the latter for production.
+
+This can be called via the following:
+
+```bash
+$ ./scripts/upload_to_zenodo.py \
+    data/new-proceedings.json \
+    data/conferences.json \
+    --output_file updated-proceedings.json \
+    --stage dev \
+    --verbose 50 \
+    --num_cpus -2 \
+    --max_items 10
+```
+
+Note that when uploading to production, the output proceedings file should overwrite (update) the input. Specifying alternative output files is helpful for staging and testing that things behave as expected.
+
+
+### 4. Export to Markdown
+
+Once proceedings have been uploaded to Zenodo (and the corresponding URLs have been generated), the proceedings metadata can be exported to markdown for serving on the web, e.g. DBLP, the ISMIR homepage, etc.
+
+```bash
+$ ./scripts/export_to_markdown.py \
+    updated-proceedings.json \
+    proceedings.md
+```
+
+TODO[@ejhumphrey]: This is forward facing, and the export tools must be updated for the modern record schema.
