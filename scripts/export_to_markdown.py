@@ -48,11 +48,12 @@ def render_one(record):
             .format(authors, **record))
 
 
-def render(records, year=None):
+def render(records, year=None, page_sort=False):
     if year is not None:
         records = filter(lambda x: x['year'] == year, records)
 
-    records = sorted(records, key=lambda x: int(x['pages'].split('-')[0]))
+    if page_sort:
+        records = sorted(records, key=lambda x: int(x['pages'].split('-')[0]))
 
     lines = [render_one(record) for record in records]
     return '\n'.join(TEMPLATE + lines)
@@ -68,11 +69,14 @@ if __name__ == '__main__':
     parser.add_argument("output_file",
                         metavar="output_file", type=str,
                         help="Path to output markdown file.")
+    parser.add_argument("--page_sort",
+                        metavar="page_sort", action='store_true',
+                        help="Path to output markdown file.")
 
     args = parser.parse_args()
     proceedings = json.load(open(args.proceedings))
 
     with open(args.output_file, 'w') as fp:
-        fp.write(render(proceedings))
+        fp.write(render(proceedings, page_sort=args.page_sort))
 
     sys.exit(0 if os.path.exists(args.output_file) else 1)
