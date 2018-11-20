@@ -52,7 +52,7 @@ def render(records, year=None):
     if year is not None:
         records = filter(lambda x: x['year'] == year, records)
 
-    records = sorted(records, key=lambda x: x['@key'])
+    records = sorted(records, key=lambda x: x['ee'])
 
     lines = [render_one(record) for record in records]
     return '\n'.join(TEMPLATE + lines)
@@ -68,14 +68,11 @@ if __name__ == '__main__':
     parser.add_argument("output_file",
                         metavar="output_file", type=str,
                         help="Path to output markdown file.")
-    parser.add_argument("--year",
-                        metavar="year", type=str, default=None,
-                        help="Year filter for records")
 
     args = parser.parse_args()
     proceedings = json.load(open(args.proceedings))
 
     with open(args.output_file, 'w') as fp:
-        fp.write(render(proceedings.values(), year=args.year))
+        fp.write(render(proceedings))
 
     sys.exit(0 if os.path.exists(args.output_file) else 1)
