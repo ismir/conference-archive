@@ -52,7 +52,7 @@ def render(records, year=None):
     if year is not None:
         records = filter(lambda x: x['year'] == year, records)
 
-    records = sorted(records, key=lambda x: x['ee'])
+    records = sorted(records, key=lambda x: int(x['pages'].split('-')[0]))
 
     lines = [render_one(record) for record in records]
     return '\n'.join(TEMPLATE + lines)
