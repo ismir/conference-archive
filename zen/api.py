@@ -35,9 +35,13 @@ class ZenodoApiError(BaseException):
 def verify_token(func):
     @functools.wraps(func)
     def wrapped(*args, **kwargs):
-        stage = kwargs['stage']
+        stage = kwargs.get('stage', None)
+        if stage is None:
+            raise ValueError('zen.api requires the keyword `stage=...` '
+                             'is provided for all calls.')
         if TOKENS[stage] is None:
-            raise ImportError("Access token for '{}' is unset.".format(stage))
+            raise EnvironmentError("Access token for '{}' is unset.".format(stage))
+
         return func(*args, **kwargs)
     return wrapped
 
@@ -61,7 +65,7 @@ def create_id(stage=DEV):
     ZenodoApiError on failure
     """
     resp = requests.post(
-        "{host}/api/deposit/depositions?access_token={token}"
+        '{host}/api/deposit/depositions?access_token={token}'
         .format(host=HOSTS[stage], token=TOKENS[stage]),
         data="{}", headers=HEADERS)
 
@@ -85,6 +89,11 @@ def upload_file(zid, filepath, fp=None, stage=DEV):
 
     fp : bytestring or file iterator, or None
         Optionally, the file pointer for uploading.
+
+    Returns
+    -------
+    response : dict
+        Response object from Zenodo.
     '''
     basename = os.path.basename(filepath)
     fext = os.path.splitext(filepath)[-1].strip('.')
@@ -107,6 +116,22 @@ def upload_file(zid, filepath, fp=None, stage=DEV):
 
 @verify_token
 def update_metadata(zid, metadata, stage=DEV):
+    '''Update a record's metadata given a Zenodo ID.
+
+    Parameters
+    ----------
+    zid : int
+        Requested Zenodo ID.
+
+    metadata : dict
+        Zenodo metadata object; see ... for more info.
+
+    Returns
+    -------
+    response : dict
+        Zenodo repsonse object.
+        See ... for more details.
+    '''
     data = {"metadata": metadata}
     resp = requests.put(
         "{host}/api/deposit/depositions/{zid}"
@@ -120,6 +145,19 @@ def update_metadata(zid, metadata, stage=DEV):
 
 @verify_token
 def publish(zid, stage=DEV):
+    '''Publish a staged deposition for a given Zenodo ID.
+
+    Parameters
+    ----------
+    zid : int
+        Requested Zenodo ID.
+
+    Returns
+    -------
+    response : dict
+        Zenodo repsonse object.
+        See ... for more details.
+    '''
     resp = requests.post(
         "{host}/api/deposit/depositions/{zid}/"
         "actions/publish?access_token={token}".format(zid=zid,
@@ -132,6 +170,19 @@ def publish(zid, stage=DEV):
 
 @verify_token
 def get(zid, stage=DEV):
+    '''Get the resource for a given Zenodo ID.
+
+    Parameters
+    ----------
+    zid : int
+        Requested Zenodo ID.
+
+    Returns
+    -------
+    response : dict
+        Zenodo repsonse object.
+        See ... for more details.
+    '''
     resp = requests.get(
         "{host}/api/deposit/depositions/{zid}"
         "?access_token={token}".format(zid=zid,
