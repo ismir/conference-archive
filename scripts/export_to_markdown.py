@@ -11,10 +11,10 @@ $ ./scripts/export_to_markdown.py \
 
 Or, this can be used with `parallel` to bulk export a number of pages:
 
-$ seq -w 00 17 | \
+$ seq -w 00 18 | \
     parallel -j4 -v "./scripts/metadata_to_markdown.py \
-        data/proceedings-20181003.json \
-        proceedings/ismir20{}.md --year 20{}"
+        database/proceedings/2018.json \
+        assets/md/ismir20{}.md --page_sort"
 """
 import argparse
 import copy
@@ -44,8 +44,10 @@ def render_one(record):
     else:
         authors = record['author']
 
-    return ('|{0}<br>**[{title}]({url})** [[pdf]({ee})]|'
-            .format(authors, **record))
+    pages = record.pop('pages', '') + ' '
+
+    return ('|{0}<br>**[{title}]({url})** {1}[[pdf]({ee})]|'
+            .format(authors, pages, **record))
 
 
 def render(records, year=None, page_sort=False):
@@ -56,21 +58,18 @@ def render(records, year=None, page_sort=False):
         records = sorted(records, key=lambda x: int(x['pages'].split('-')[0]))
 
     lines = [render_one(record) for record in records]
-    return '\n'.join(TEMPLATE + lines)
+    return '\n'.join([TEMPLATE] + lines)
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
 
     # Inputs
-    parser.add_argument("proceedings",
-                        metavar="proceedings", type=str,
+    parser.add_argument("proceedings", type=str,
                         help="Path to proceedings records.")
-    parser.add_argument("output_file",
-                        metavar="output_file", type=str,
+    parser.add_argument("output_file", type=str,
                         help="Path to output markdown file.")
-    parser.add_argument("--page_sort",
-                        metavar="page_sort", action='store_true',
+    parser.add_argument("--page_sort", dest="page_sort", action='store_true',
                         help="Path to output markdown file.")
 
     args = parser.parse_args()
