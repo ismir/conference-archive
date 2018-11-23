@@ -106,8 +106,7 @@ if __name__ == '__main__':
                         help="Path to a JSON file of conference metadata.")
     parser.add_argument("output_file",
                         metavar="output_file", type=str,
-                        help="Path to log updated records; if unspecified, "
-                             "will overwrite the input.")
+                        help="Path to an output JSON file for writing updated records.")
     parser.add_argument("--stage",
                         metavar="stage", type=str, default=zen.DEV,
                         help="Stage to execute.")

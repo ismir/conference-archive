@@ -28,6 +28,16 @@ __ALL__ = ['create_id', 'upload_file', 'update_metadata',
            'publish', 'list_items', 'ZenodoApiError']
 
 
+def _is_online():
+    online = True
+    try:
+        requests.get('http://google.com')
+    except requests.ConnectionError:
+        online = False
+    finally:
+        return online
+
+
 class ZenodoApiError(BaseException):
     pass
 
@@ -41,6 +51,9 @@ def verify_token(func):
                              'is provided for all calls.')
         if TOKENS[stage] is None:
             raise EnvironmentError("Access token for '{}' is unset.".format(stage))
+
+        if not _is_online():
+            raise ZenodoApiError('not connected to the internet!')
 
         return func(*args, **kwargs)
     return wrapped

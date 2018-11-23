@@ -128,4 +128,12 @@ $ ./scripts/export_to_markdown.py \
     proceedings.md
 ```
 
-TODO[@ejhumphrey]: This is forward facing, and the export tools must be updated for the modern record schema.
+## Development
+
+### Running Tests
+
+After installing `py.test` and `pytest-cov`, run tests and check coverage locally.
+
+```bash
+$ PYTHONPATH=.:scripts py.test -vs tests --cov zen scripts
+```

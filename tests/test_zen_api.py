@@ -1,17 +1,11 @@
 import pytest
 
 import os
-import requests
 
 import zen.api
 
-
-OFFLINE = False
+OFFLINE = not zen.api._is_online()
 OFFLINE_REASON = 'Not online, skipping integration tests'
-try:
-    resp = requests.get('http://google.com')
-except requests.ConnectionError as derp:
-    OFFLINE |= True
 
 
 @pytest.mark.skipif(OFFLINE, reason=OFFLINE_REASON)
