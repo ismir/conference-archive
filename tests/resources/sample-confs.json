@@ -1,0 +1,18 @@
+{
+    "1995": {
+        "conference_dates": "Smarch 13, 1995",
+        "conference_place": "The Cloud",
+        "imprint_place": "The Cloud",
+        "conference_title": "International Society for Music Information Retrieval",
+        "partof_title": "Proceedings of the International Society for Music Information Retrieval Conference that never happened",
+        "publication_date": "1995-13-13",
+        "imprint_isbn": "foo bar",
+        "conference_acronym": "ISMIR Integration Tests",
+        "conference_url": "http://github.com/ismir/conference-archive",
+        "imprint_publisher": "ISMIR",
+        "upload_type": "publication",
+        "publication_type": "conferencepaper",
+        "access_right": "open",
+        "license": "CC-BY-4.0"
+    }
+}
