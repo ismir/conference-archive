@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf8
-"""Extracts the abstracts from the proceedings PDFs.
+"""Extracts the abstracts and page numbers from the proceedings PDFs.
 
 Usage
 -----
@@ -34,7 +34,8 @@ def extract_first_page(fname):
     path_tmpfile = os.path.join(tempfile.gettempdir(), os.path.basename(fname))
 
     # extract all elements from the PDF and put them on separate pages
-    pages = list(page_per_xobj(PdfReader(fname).pages))
+    pdf_reader = PdfReader(fname).pages
+    pages = list(page_per_xobj(pdf_reader))
 
     # write to temp file
     writer = PdfWriter(path_tmpfile)
@@ -125,7 +126,8 @@ def main(records, pdf_dir, output_dir, num_cpus=-1, verbose=0):
 
     path_pdfs = []
 
-    for cur_key in records.keys():
+    for cur_record in records:
+        cur_key = cur_record['dblp_key']
         cur_fn = cur_key.split('/')[-1]
         cur_path = os.path.join(pdf_dir, '{}.pdf'.format(cur_fn))
         path_pdfs.append((cur_key, cur_path))

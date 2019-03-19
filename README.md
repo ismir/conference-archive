@@ -128,6 +128,9 @@ $ ./scripts/export_to_markdown.py \
     proceedings.md
 ```
 
+TODO[@ejhumphrey]: This is forward facing, and the export tools must be updated for the modern record schema.
+
+
 ## Development
 
 ### Running Tests

@@ -17,7 +17,7 @@ Now, you can then upload the sample data to the development site:
 $ ./scripts/upload_to_zenodo.py \
     data/proceedings.json \
     data/conferences.json \
-    --output_file updated-proceedings.json \
+    uploaded-proceedings.json \
     --stage dev \
     --verbose 50 \
     --num_cpus -2 \
@@ -81,9 +81,11 @@ def upload(ismir_paper, conferences, stage=zen.DEV):
 
     zen.update_metadata(zid, zenodo_meta.dropna(), stage=stage)
     publish_response = zen.publish(zid, stage=stage)
+
     ismir_paper.update(doi=publish_response['doi'],
                        url=publish_response['doi_url'],
                        zenodo_id=zid)
+
     return ismir_paper
 
 
