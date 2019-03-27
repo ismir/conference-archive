@@ -49,16 +49,15 @@ class IsmirPaper(Record):
     '''ISMIR Paper Metadata Object'''
 
     # TODO:
-    #  - + pages?
-    #  - s/ee/pdf
+    #  - s/ee/pdf?
     #  - + pdf_checksum
     FIELDS = ['title', 'author', 'year', 'doi', 'url', 'ee', 'abstract',
-              'zenodo_id', 'dblp_key']
+              'pages', 'zenodo_id', 'dblp_key']
 
-    def __init__(self, title, author, year, doi, url, ee, abstract='',
+    def __init__(self, title, author, year, doi, url, ee, pages, abstract='',
                  zenodo_id=None, dblp_key=None):
         super().__init__(title=title, author=author, year=year, doi=doi, url=url, ee=ee,
-                         abstract=abstract, zenodo_id=zenodo_id, dblp_key=dblp_key)
+                         pages=pages, abstract=abstract, zenodo_id=zenodo_id, dblp_key=dblp_key)
 
 
 class IsmirConference(Record):

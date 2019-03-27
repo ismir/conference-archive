@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Sample ISMIR Upload",
+    "author": "ISMIR Webmaster",
+    "year": "1995",
+    "doi": null,
+    "url": "",
+    "ee": "./tests/resources/sample.pdf",
+    "abstract": "This is a sample pdf uploaded via the conference-archive integration tests. Please contact webmaster@ismir.net if something bad or unexpected has occurred.",
+    "zenodo_id": null,
+    "dblp_key": "conf/ismir/Sample1995"
+  }
+]

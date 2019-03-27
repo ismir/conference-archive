@@ -11,18 +11,20 @@ $ python ./scripts/extract_pdf_abstract.py \
     ./path/to/abstracts.json
 
 """
-import os
+import argparse
+from joblib import Parallel, delayed
 import json
 import io
-import tempfile
-import argparse
-import tqdm
-from joblib import Parallel, delayed
+import os
 import pdfminer.high_level
 import pdfminer.layout
 import pdfminer.settings
 from pdfrw import PdfReader, PdfWriter
 from pdfrw.findobjs import page_per_xobj
+import tempfile
+import tqdm
+
+
 pdfminer.settings.STRICT = False
 
 
@@ -75,10 +77,8 @@ def extract_abstract(raw_text):
     if intro_index == -1:
         intro_index = raw_text.find('1.  INTRODUCTION')
 
-    try:
-        # if no intro index was found, return empty abstract
-        assert intro_index != -1
-    except AssertionError:
+    # if no intro index was found, return empty abstract
+    if intro_index == -1:
         return ''
 
     # post-processing
@@ -113,8 +113,9 @@ def extract(key, path_pdf):
         print('{}: Could not extract abstract.'.format(path_pdf))
 
     # clean up temp file
-    os.remove(path_tmp_pdf)
+    os.unlink(path_tmp_pdf)
 
+    # TODO: Fix this return object
     out = {'@key': key, 'abstract': abstract}
 
     return out

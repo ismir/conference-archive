@@ -17,7 +17,7 @@ Now, you can then upload the sample data to the development site:
 $ ./scripts/upload_to_zenodo.py \
     data/proceedings.json \
     data/conferences.json \
-    --output_file updated-proceedings.json \
+    uploaded-proceedings.json \
     --stage dev \
     --verbose 50 \
     --num_cpus -2 \
@@ -72,14 +72,20 @@ def upload(ismir_paper, conferences, stage=zen.DEV):
     upload_response = zen.upload_file(zid, ismir_paper['ee'], stage=stage)
     ismir_paper['ee'] = upload_response['links']['download']
 
+    # TODO: Should be a package function
     zenodo_meta = zen.models.merge(
         zen.models.Zenodo, ismir_paper, conf,
         creators=zen.models.author_to_creators(ismir_paper['author']),
+        partof_pages=ismir_paper['pages'],
         description=ismir_paper['abstract'])
 
     zen.update_metadata(zid, zenodo_meta.dropna(), stage=stage)
     publish_response = zen.publish(zid, stage=stage)
-    ismir_paper.update(doi=publish_response['doi'], url=publish_response['doi_url'])
+
+    ismir_paper.update(doi=publish_response['doi'],
+                       url=publish_response['doi_url'],
+                       zenodo_id=zid)
+
     return ismir_paper
 
 
@@ -100,10 +106,9 @@ if __name__ == '__main__':
     parser.add_argument("conferences",
                         metavar="conferences", type=str,
                         help="Path to a JSON file of conference metadata.")
-    parser.add_argument("--output_file",
-                        metavar="--output_file", type=str, default=None,
-                        help="Path to log updated records; if unspecified, "
-                             "will overwrite the input.")
+    parser.add_argument("output_file",
+                        metavar="output_file", type=str,
+                        help="Path to an output JSON file for writing updated records.")
     parser.add_argument("--stage",
                         metavar="stage", type=str, default=zen.DEV,
                         help="Stage to execute.")
@@ -127,7 +132,7 @@ if __name__ == '__main__':
 
     results = archive(proceedings, conferences, args.stage, args.num_cpus, args.verbose)
 
-    with open(args.output_file or args.proceedings, 'w') as fp:
+    with open(args.output_file, 'w') as fp:
         json.dump(results, fp, indent=2)
 
     sys.exit(0 if os.path.exists(args.output_file) else 1)
