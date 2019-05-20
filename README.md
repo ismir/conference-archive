@@ -86,8 +86,21 @@ In the future, these files could be more efficiently produced via the [proceedin
 
 ### 2. Extract Abstracts
 
-TODO[@stefan-balke?]
+Extracting the abstracts from the PDF is done in an semi-automatic fashion.
 
+For example, to extract the abstracts for 2017, call:
+
+```python
+extract_pdf_abstract.py ../database/proceedings/2017.json ../database/pdfs/2017
+```
+
+By using some heuristics (e.g., maximum abstract length < 1500 characters), the extracted
+abstract is verified and special UTF-8 characters introduced by the typesetting system
+are removed.
+
+Finally, the abstract is saved in the respective proceedings JSON.
+This pipeline heavily relies on the way the PDF was created and only works
+for the proceedings after 20xx.
 
 ### 3. Zenodo Uploader
 
