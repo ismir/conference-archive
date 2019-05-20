@@ -6,9 +6,8 @@ Usage
 -----
 
 $ python ./scripts/extract_pdf_abstract.py \
-    ./path/to/proceedings.json \
-    ./path/to/pdfs \
-    ./path/to/abstracts.json
+    ./path/to/proceedings/2017.json \
+    ./path/to/pdfs
 
 """
 import argparse
@@ -26,6 +25,7 @@ import tqdm
 
 
 pdfminer.settings.STRICT = False
+MAX_LEN = 1500
 
 
 def extract_first_page(fname):
@@ -89,6 +89,7 @@ def extract_abstract(raw_text):
     abstract = abstract.replace('-\n', '')
     abstract = abstract.replace('\n', ' ')
     abstract = abstract.replace('ﬁ', 'fi')
+    abstract = abstract.replace('ﬂ', 'fl')
     abstract = abstract.replace('  ', ' ')
 
     return abstract
@@ -106,7 +107,7 @@ def extract(key, path_pdf):
     abstract = extract_abstract(raw_text)
 
     # something went wrong when abstract is longer than 1500 chars
-    if len(abstract) > 1500:
+    if len(abstract) > MAX_LEN:
         print('{}: Abstract is too long.'.format(path_pdf))
 
     if not abstract:
@@ -121,13 +122,15 @@ def extract(key, path_pdf):
     return out
 
 
-def main(records, pdf_dir, output_dir, num_cpus=-1, verbose=0):
+def main(records, pdf_dir, num_cpus=-1, verbose=0):
     """Main function."""
 
     path_pdfs = []
+    index_key = dict()
 
-    for cur_record in records:
+    for cur_idx, cur_record in enumerate(records):
         cur_key = cur_record['dblp_key']
+        index_key[cur_key] = cur_idx
         cur_fn = cur_key.split('/')[-1]
         cur_path = os.path.join(pdf_dir, '{}.pdf'.format(cur_fn))
         path_pdfs.append((cur_key, cur_path))
@@ -139,9 +142,10 @@ def main(records, pdf_dir, output_dir, num_cpus=-1, verbose=0):
     out = {}
 
     for cur_abstract in abstracts:
-        out[cur_abstract['@key']] = cur_abstract
+        cur_record_idx = index_key[cur_abstract['@key']]
+        records[cur_record_idx]['abstract'] = cur_abstract
 
-    return out
+    return records
 
 
 if __name__ == '__main__':
@@ -154,9 +158,6 @@ if __name__ == '__main__':
     parser.add_argument('pdf_dir',
                         metavar='metadata_file', type=str,
                         help='Path to conference PDFs.')
-    parser.add_argument('output',
-                        metavar='output', type=str,
-                        help='Path to write the extracted abstracts.')
     parser.add_argument('--num_cpus',
                         metavar='num_cpus', type=int, default=-2,
                         help='Number of CPUs to use in parallel.')
@@ -168,7 +169,7 @@ if __name__ == '__main__':
     with open(args.metadata_file, 'r') as fp:
         records = json.load(fp)
 
-    abstracts = main(records, args.pdf_dir, args.output, args.num_cpus, args.verbose)
+    proceedings_abstract = main(records, args.pdf_dir, args.num_cpus, args.verbose)
 
-    with open(args.output, 'w', encoding='utf-8') as f:
-        f.write(json.dumps(abstracts, indent=2))
+    with open(args.metadata_file, 'w', encoding='utf-8') as f:
+        f.write(json.dumps(proceedings_abstract, indent=2))
