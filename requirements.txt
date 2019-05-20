@@ -2,7 +2,7 @@ requests
 beautifulsoup4
 xmltodict
 tqdm
-pdfminer
+pdfminer.six
 pdfrw
 joblib
 xmltodict
