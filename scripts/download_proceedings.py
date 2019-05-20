@@ -5,7 +5,7 @@
 Usage
 -----
 
-$ python ./scripts/download_proceedigns.py \
+$ python ./scripts/download_proceedings.py \
     proceedings.json \
     ./path/to/pdfs
 
@@ -49,13 +49,14 @@ def main(records, output_dir, num_cpus, verbose):
 
     pdfs = []
 
-    for cur_key in records.keys():
+    for cur_record in records:
+        cur_key = cur_record['dblp_key']
         cur_fn = cur_key.split('/')[-1]
 
-        cur_year = str(records[cur_key]['year'])
+        cur_year = str(cur_record['year'])
 
         try:
-            cur_url = records[cur_key]['ee']
+            cur_url = cur_record['ee']
             pdfs.append((cur_fn, cur_url, cur_year))
         except KeyError:
             print('{}: No URL available.'.format(cur_fn))
