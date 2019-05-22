@@ -143,7 +143,7 @@ def main(records, pdf_dir, num_cpus=-1, verbose=0):
 
     for cur_abstract in abstracts:
         cur_record_idx = index_key[cur_abstract['@key']]
-        records[cur_record_idx]['abstract'] = cur_abstract
+        records[cur_record_idx]['abstract'] = cur_abstract['abstract']
 
     return records
 
