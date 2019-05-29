@@ -1,0 +1,2533 @@
+[
+  {
+    "title": "A Comparative Evaluation of Algorithms for Discovering Translational Patterns in Baroque Keyboard Works.",
+    "author": [
+      "Tom Collins",
+      "Jeremy Thurlow",
+      "Robin C. Laney",
+      "Alistair Willis",
+      "Paul H. Garthwaite"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416070",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416070",
+      "id": 1416070,
+      "pdf": "https://zenodo.org/record/1416070/files/CollinsTLWG10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-2.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/CollinsTLWG10"
+    }
+  },
+  {
+    "title": "A Multi-Perspective Evaluation Framework for Chord Recognition.",
+    "author": [
+      "Verena Konz",
+      "Meinard M\u00fcller",
+      "Sebastian Ewert"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415686",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415686",
+      "id": 1415686,
+      "pdf": "https://zenodo.org/record/1415686/files/KonzME10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-3.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/KonzME10"
+    }
+  },
+  {
+    "title": "A Probabilistic Approach to Merge Context and Content Information for Music Retrieval.",
+    "author": [
+      "Riccardo Miotto",
+      "Nicola Orio"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415256",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415256",
+      "id": 1415256,
+      "pdf": "https://zenodo.org/record/1415256/files/MiottoO10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-4.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/MiottoO10"
+    }
+  },
+  {
+    "title": "A Probabilistic Subspace Model for Multi-instrument Polyphonic Transcription.",
+    "author": [
+      "Graham Grindlay",
+      "Daniel P. W. Ellis"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416842",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416842",
+      "id": 1416842,
+      "pdf": "https://zenodo.org/record/1416842/files/GrindlayE10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-5.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/GrindlayE10"
+    }
+  },
+  {
+    "title": "A Segmentation-based Tempo Induction Method.",
+    "author": [
+      "Maxime Le Coz",
+      "H\u00e9l\u00e8ne Lachambre",
+      "Lionel Koenig",
+      "R\u00e9gine Andr\u00e9-Obrecht"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416766",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416766",
+      "id": 1416766,
+      "pdf": "https://zenodo.org/record/1416766/files/CozLKA10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-6.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/CozLKA10"
+    }
+  },
+  {
+    "title": "AMUSE (Advanced MUSic Explorer) - A Multitool Framework for Music Data Analysis.",
+    "author": [
+      "Igor Vatolkin",
+      "Wolfgang M. Theimer",
+      "Martin Botteck"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1414918",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414918",
+      "id": 1414918,
+      "pdf": "https://zenodo.org/record/1414918/files/VatolkinTB10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-8.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/VatolkinTB10"
+    }
+  },
+  {
+    "title": "An Improved Hierarchical Approach for Music-to-symbolic Score Alignment.",
+    "author": [
+      "Cyril Joder",
+      "Slim Essid",
+      "Ga\u00ebl Richard"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417883",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417883",
+      "id": 1417883,
+      "pdf": "https://zenodo.org/record/1417883/files/JoderER10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-9.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/JoderER10"
+    }
+  },
+  {
+    "title": "An Improved Query by Singing/Humming System Using Melody and Lyrics Information.",
+    "author": [
+      "Chung-Che Wang",
+      "Jyh-Shing Roger Jang",
+      "Wennen Wang"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1414802",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414802",
+      "id": 1414802,
+      "pdf": "https://zenodo.org/record/1414802/files/WangJW10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-10.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/WangJW10"
+    }
+  },
+  {
+    "title": "An Interchange Format for Optical Music Recognition Applications.",
+    "author": [
+      "Andrew Hankinson",
+      "Laurent Pugin",
+      "Ichiro Fujinaga"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417633",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417633",
+      "id": 1417633,
+      "pdf": "https://zenodo.org/record/1417633/files/HankinsonPF10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-11.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HankinsonPF10"
+    }
+  },
+  {
+    "title": "Are Tags Better Than Audio? The Effect of Joint Use of Tags and Audio Content Features for Artistic Style Clustering.",
+    "author": [
+      "Dingding Wang",
+      "Tao Li",
+      "Mitsunori Ogihara"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417543",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417543",
+      "id": 1417543,
+      "pdf": "https://zenodo.org/record/1417543/files/WangLO10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-12.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/WangLO10"
+    }
+  },
+  {
+    "title": "Automated Music Slideshow Generation Using Web Images Based on Lyrics.",
+    "author": [
+      "Shintaro Funasawa",
+      "Hiromi Ishizaki",
+      "Keiichiro Hoashi",
+      "Yasuhiro Takishima",
+      "Jiro Katto"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415996",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415996",
+      "id": 1415996,
+      "pdf": "https://zenodo.org/record/1415996/files/FunasawaIHTK10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-13.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/FunasawaIHTK10"
+    }
+  },
+  {
+    "title": "Automatic Characterization of Digital Music for Rhythmic Auditory Stimulation.",
+    "author": [
+      "Eric Humphrey"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1418135",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418135",
+      "id": 1418135,
+      "pdf": "https://zenodo.org/record/1418135/files/Humphrey10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-14.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Humphrey10"
+    }
+  },
+  {
+    "title": "Automatic Mood Classification Using TF*IDF Based on Lyrics.",
+    "author": [
+      "Menno van Zaanen",
+      "Pieter Kanters"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417287",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417287",
+      "id": 1417287,
+      "pdf": "https://zenodo.org/record/1417287/files/ZaanenK10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-15.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ZaanenK10"
+    }
+  },
+  {
+    "title": "Automatic Music Tagging With Time Series Models.",
+    "author": [
+      "Emanuele Coviello",
+      "Luke Barrington",
+      "Antoni B. Chan",
+      "Gert R. G. Lanckriet"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415274",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415274",
+      "id": 1415274,
+      "pdf": "https://zenodo.org/record/1415274/files/CovielloBCL10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-16.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/CovielloBCL10"
+    }
+  },
+  {
+    "title": "Autoregressive MFCC Models for Genre Classification Improved by Harmonic-percussion Separation.",
+    "author": [
+      "Halfdan Rump",
+      "Shigeki Miyabe",
+      "Emiru Tsunoo",
+      "Nobutaka Ono",
+      "Shigeki Sagayama"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1418239",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418239",
+      "id": 1418239,
+      "pdf": "https://zenodo.org/record/1418239/files/RumpMTOS10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-17.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/RumpMTOS10"
+    }
+  },
+  {
+    "title": "Bass Playing Style Detection Based on High-level Features and Pattern Similarity.",
+    "author": [
+      "Jakob Abe\u00dfer",
+      "Paul Br\u00e4uer",
+      "Hanna M. Lukashevich",
+      "Gerald Schuller"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1418213",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418213",
+      "id": 1418213,
+      "pdf": "https://zenodo.org/record/1418213/files/AbesserBLS10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-18.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/AbesserBLS10"
+    }
+  },
+  {
+    "title": "Beat Critic: Beat Tracking Octave Error Identification By Metrical Profile Analysis.",
+    "author": [
+      "Leigh M. Smith"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417891",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417891",
+      "id": 1417891,
+      "pdf": "https://zenodo.org/record/1417891/files/Smith10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-19.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Smith10"
+    }
+  },
+  {
+    "title": "Boosting for Multi-Modal Music Emotion Classification.",
+    "author": [
+      "Qi Lu",
+      "Xiaoou Chen",
+      "Deshun Yang",
+      "Jun Wang"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417085",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417085",
+      "id": 1417085,
+      "pdf": "https://zenodo.org/record/1417085/files/LuCYW10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-20.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/LuCYW10"
+    }
+  },
+  {
+    "title": "Clustering Beat-Chroma Patterns in a Large Music Database.",
+    "author": [
+      "Thierry Bertin-Mahieux",
+      "Ron J. Weiss",
+      "Daniel P. W. Ellis"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416720",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416720",
+      "id": 1416720,
+      "pdf": "https://zenodo.org/record/1416720/files/Bertin-MahieuxWE10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-21.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Bertin-MahieuxWE10"
+    }
+  },
+  {
+    "title": "What's Hot? Estimating Country-specific Artist Popularity.",
+    "author": [
+      "Markus Schedl",
+      "Tim Pohle",
+      "Noam Koenigstein",
+      "Peter Knees"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415870",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415870",
+      "id": 1415870,
+      "pdf": "https://zenodo.org/record/1415870/files/SchedlPKK10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-22.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/SchedlPKK10"
+    }
+  },
+  {
+    "title": "Identifying Repeated Patterns in Music Using Sparse Convolutive Non-negative Matrix Factorization.",
+    "author": [
+      "Ron J. Weiss",
+      "Juan Pablo Bello"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415934",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415934",
+      "id": 1415934,
+      "pdf": "https://zenodo.org/record/1415934/files/WeissB10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-23.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/WeissB10"
+    }
+  },
+  {
+    "title": "Locating Tune Changes and Providing a Semantic Labelling of Sets of Irish Traditional Tunes.",
+    "author": [
+      "Cillian Kelly",
+      "Mikel Gainza",
+      "David Dorran",
+      "Eugene Coyle"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1418303",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418303",
+      "id": 1418303,
+      "pdf": "https://zenodo.org/record/1418303/files/KellyGDC10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-24.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/KellyGDC10"
+    }
+  },
+  {
+    "title": "Approximate Note Transcription for the Improved Identification of Difficult Chords.",
+    "author": [
+      "Matthias Mauch",
+      "Simon Dixon"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416598",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416598",
+      "id": 1416598,
+      "pdf": "https://zenodo.org/record/1416598/files/MauchD10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-25.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/MauchD10"
+    }
+  },
+  {
+    "title": "Concurrent Estimation of Chords and Keys from Audio.",
+    "author": [
+      "Thomas Rocher",
+      "Matthias Robine",
+      "Pierre Hanna",
+      "Laurent Oudre"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417485",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417485",
+      "id": 1417485,
+      "pdf": "https://zenodo.org/record/1417485/files/RocherRHO10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-26.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/RocherRHO10"
+    }
+  },
+  {
+    "title": "Solving Misheard Lyric Search Queries Using a Probabilistic Model of Speech Sounds.",
+    "author": [
+      "Hussein Hirjee",
+      "Daniel G. Brown"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1414942",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414942",
+      "id": 1414942,
+      "pdf": "https://zenodo.org/record/1414942/files/HirjeeB10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-27.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HirjeeB10"
+    }
+  },
+  {
+    "title": "Collaborative Filtering Based on P2P Networks.",
+    "author": [
+      "Noam Koenigstein",
+      "Gert R. G. Lanckriet",
+      "Brian McFee",
+      "Yuval Shavitt"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415620",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415620",
+      "id": 1415620,
+      "pdf": "https://zenodo.org/record/1415620/files/KoenigsteinLMS10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-28.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/KoenigsteinLMS10"
+    }
+  },
+  {
+    "title": "Combined Audio and Video Analysis for Guitar Chord Identification.",
+    "author": [
+      "Alex Hrybyk",
+      "Youngmoo E. Kim"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417465",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417465",
+      "id": 1417465,
+      "pdf": "https://zenodo.org/record/1417465/files/HrybykK10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-29.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HrybykK10"
+    }
+  },
+  {
+    "title": "Combining Chroma Features For Cover Version Identification.",
+    "author": [
+      "Teppo E. Ahonen"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1414766",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414766",
+      "id": 1414766,
+      "pdf": "https://zenodo.org/record/1414766/files/Ahonen10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-30.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Ahonen10"
+    }
+  },
+  {
+    "title": "Combining Features Reduces Hubness in Audio Similarity.",
+    "author": [
+      "Arthur Flexer",
+      "Dominik Schnitzer",
+      "Martin Gasser",
+      "Tim Pohle"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416360",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416360",
+      "id": 1416360,
+      "pdf": "https://zenodo.org/record/1416360/files/FlexerSGP10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-31.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/FlexerSGP10"
+    }
+  },
+  {
+    "title": "Computational Analysis of Musical Influence: A Musicological Case Study Using MIR Tools.",
+    "author": [
+      "Nick Collins"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416756",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416756",
+      "id": 1416756,
+      "pdf": "https://zenodo.org/record/1416756/files/Collins10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-32.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Collins10"
+    }
+  },
+  {
+    "title": "Crowdsourcing Music Similarity Judgments using Mechanical Turk.",
+    "author": [
+      "Jin Ha Lee"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416478",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416478",
+      "id": 1416478,
+      "pdf": "https://zenodo.org/record/1416478/files/Lee10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-33.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Lee10"
+    }
+  },
+  {
+    "title": "Decomposition Into Autonomous and Comparable Blocks: A Structural Description of Music Pieces.",
+    "author": [
+      "Fr\u00e9d\u00e9ric Bimbot",
+      "Olivier Le Blouch",
+      "Gabriel Sargent",
+      "Emmanuel Vincent"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1414734",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414734",
+      "id": 1414734,
+      "pdf": "https://zenodo.org/record/1414734/files/BimbotBSV10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-34.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BimbotBSV10"
+    }
+  },
+  {
+    "title": "Discovering Metadata Inconsistencies.",
+    "author": [
+      "Bruno Angeles",
+      "Cory McKay",
+      "Ichiro Fujinaga"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415550",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415550",
+      "id": 1415550,
+      "pdf": "https://zenodo.org/record/1415550/files/AngelesMF10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-35.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/AngelesMF10"
+    }
+  },
+  {
+    "title": "Discovery of Contrapuntal Patterns.",
+    "author": [
+      "Darrell Conklin",
+      "Mathieu Bergeron"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417413",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417413",
+      "id": 1417413,
+      "pdf": "https://zenodo.org/record/1417413/files/ConklinB10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-36.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ConklinB10"
+    }
+  },
+  {
+    "title": "Eigenvector-based Relational Motif Discovery.",
+    "author": [
+      "Alberto Pinto"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415906",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415906",
+      "id": 1415906,
+      "pdf": "https://zenodo.org/record/1415906/files/Pinto10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-37.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Pinto10"
+    }
+  },
+  {
+    "title": "Evaluating the Genre Classification Performance of Lyrical Features Relative to Audio, Symbolic and Cultural Features.",
+    "author": [
+      "Cory McKay",
+      "John Ashley Burgoyne",
+      "Jason Hockman",
+      "Jordan B. L. Smith",
+      "Gabriel Vigliensoni",
+      "Ichiro Fujinaga"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415706",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415706",
+      "id": 1415706,
+      "pdf": "https://zenodo.org/record/1415706/files/McKayBHSVF10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-38.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/McKayBHSVF10"
+    }
+  },
+  {
+    "title": "Evaluation of a Score-informed Source Separation System.",
+    "author": [
+      "Joachim Ganseman",
+      "Paul Scheunders",
+      "Gautham J. Mysore",
+      "Jonathan S. Abel"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416062",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416062",
+      "id": 1416062,
+      "pdf": "https://zenodo.org/record/1416062/files/GansemanSMA10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-39.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/GansemanSMA10"
+    }
+  },
+  {
+    "title": "Evidence for Pianist-specific Rubato Style in Chopin Nocturnes.",
+    "author": [
+      "Miguel Molina-Solana",
+      "Maarten Grachten",
+      "Gerhard Widmer"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417793",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417793",
+      "id": 1417793,
+      "pdf": "https://zenodo.org/record/1417793/files/Molina-SolanaGW10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-40.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Molina-SolanaGW10"
+    }
+  },
+  {
+    "title": "Fast vs Slow: Learning Tempo Octaves from User Data.",
+    "author": [
+      "Jason Hockman",
+      "Ichiro Fujinaga"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416110",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416110",
+      "id": 1416110,
+      "pdf": "https://zenodo.org/record/1416110/files/HockmanF10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-41.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HockmanF10"
+    }
+  },
+  {
+    "title": "Geoshuffle: Location-Aware, Content-based Music Browsing Using Self-organizing Tag Clouds.",
+    "author": [
+      "Scott Miller",
+      "Paul Reimer",
+      "Steven R. Ness",
+      "George Tzanetakis"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417703",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417703",
+      "id": 1417703,
+      "pdf": "https://zenodo.org/record/1417703/files/MillerRNT10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-42.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/MillerRNT10"
+    }
+  },
+  {
+    "title": "Handling Repeats and Jumps in Score-performance Synchronization.",
+    "author": [
+      "Christian Fremerey",
+      "Meinard M\u00fcller",
+      "Michael Clausen"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415942",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415942",
+      "id": 1415942,
+      "pdf": "https://zenodo.org/record/1415942/files/FremereyMC10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-43.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/FremereyMC10"
+    }
+  },
+  {
+    "title": "Hierarchical Co-Clustering of Artists and Tags.",
+    "author": [
+      "Jingxuan Li",
+      "Tao Li",
+      "Mitsunori Ogihara"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416718",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416718",
+      "id": 1416718,
+      "pdf": "https://zenodo.org/record/1416718/files/LiLO10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-44.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/LiLO10"
+    }
+  },
+  {
+    "title": "State of the Art Report: Music Emotion Recognition: A State of the Art Review.",
+    "author": [
+      "Youngmoo E. Kim",
+      "Erik M. Schmidt",
+      "Raymond Migneco",
+      "Brandon G. Morton",
+      "Patrick Richardson",
+      "Jeffrey J. Scott",
+      "Jacquelin A. Speck",
+      "Douglas Turnbull"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417945",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417945",
+      "id": 1417945,
+      "pdf": "https://zenodo.org/record/1417945/files/KimSMMRSST10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-45.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/KimSMMRSST10"
+    }
+  },
+  {
+    "title": "Looking Through the \"Glass Ceiling\": A Conceptual Framework for the Problems of Spectral Similarity.",
+    "author": [
+      "Ioannis Karydis",
+      "Milos Radovanovic",
+      "Alexandros Nanopoulos",
+      "Mirjana Ivanovic"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417283",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417283",
+      "id": 1417283,
+      "pdf": "https://zenodo.org/record/1417283/files/KarydisRNI10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-46.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/KarydisRNI10"
+    }
+  },
+  {
+    "title": "On the Applicability of Peer-to-peer Data in Music Information Retrieval Research.",
+    "author": [
+      "Noam Koenigstein",
+      "Yuval Shavitt",
+      "Ela Weinsberg",
+      "Udi Weinsberg"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1414784",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414784",
+      "id": 1414784,
+      "pdf": "https://zenodo.org/record/1414784/files/KoenigsteinSWW10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-47.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/KoenigsteinSWW10"
+    }
+  },
+  {
+    "title": "A Cartesian Ensemble of Feature Subspace Classifiers for Music Categorization.",
+    "author": [
+      "Thomas Lidy",
+      "Rudolf Mayer",
+      "Andreas Rauber",
+      "Pedro J. Ponce de Le\u00f3n",
+      "Antonio Pertusa",
+      "Jos\u00e9 Manuel I\u00f1esta Quereda"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415598",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415598",
+      "id": 1415598,
+      "pdf": "https://zenodo.org/record/1415598/files/LidyMRLPQ10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-48.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/LidyMRLPQ10"
+    }
+  },
+  {
+    "title": "Improving the Generation of Ground Truths Based on Partially Ordered Lists.",
+    "author": [
+      "Juli\u00e1n Urbano",
+      "M\u00f3nica Marrero",
+      "Diego Mart\u00edn",
+      "Juan Llor\u00e9ns"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417525",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417525",
+      "id": 1417525,
+      "pdf": "https://zenodo.org/record/1417525/files/UrbanoMML10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-49.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/UrbanoMML10"
+    }
+  },
+  {
+    "title": "IBT: A Real-time Tempo and Beat Tracking System.",
+    "author": [
+      "Jo\u00e3o Lobato Oliveira",
+      "Fabien Gouyon",
+      "Luis Gustavo Martins",
+      "Lu\u00eds Paulo Reis"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416470",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416470",
+      "id": 1416470,
+      "pdf": "https://zenodo.org/record/1416470/files/OliveiraGMR10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-50.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/OliveiraGMR10"
+    }
+  },
+  {
+    "title": "Improving Auto-tagging by Modeling Semantic Co-occurrences.",
+    "author": [
+      "Riccardo Miotto",
+      "Luke Barrington",
+      "Gert R. G. Lanckriet"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415590",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415590",
+      "id": 1415590,
+      "pdf": "https://zenodo.org/record/1415590/files/MiottoBL10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-51.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/MiottoBL10"
+    }
+  },
+  {
+    "title": "Improving Markov Model Based Music Piece Structure Labelling with Acoustic Information.",
+    "author": [
+      "Jouni Paulus"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416732",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416732",
+      "id": 1416732,
+      "pdf": "https://zenodo.org/record/1416732/files/Paulus10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-52.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Paulus10"
+    }
+  },
+  {
+    "title": "Infinite Latent Harmonic Allocation: A Nonparametric Bayesian Approach to Multipitch Analysis.",
+    "author": [
+      "Kazuyoshi Yoshii",
+      "Masataka Goto"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1414912",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414912",
+      "id": 1414912,
+      "pdf": "https://zenodo.org/record/1414912/files/YoshiiG10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-53.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/YoshiiG10"
+    }
+  },
+  {
+    "title": "Informed Source Separation of Orchestra and Soloist.",
+    "author": [
+      "Yushen Han",
+      "Christopher Raphael"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416750",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416750",
+      "id": 1416750,
+      "pdf": "https://zenodo.org/record/1416750/files/HanR10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-54.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HanR10"
+    }
+  },
+  {
+    "title": "Is There a Relation Between the Syntax and the Fitness of an Audio Feature?.",
+    "author": [
+      "Gabriele Barbieri",
+      "Fran\u00e7ois Pachet",
+      "Mirko Degli Esposti",
+      "Pierre Roy"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416014",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416014",
+      "id": 1416014,
+      "pdf": "https://zenodo.org/record/1416014/files/BarbieriPER10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-55.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BarbieriPER10"
+    }
+  },
+  {
+    "title": "Islands of Gaussians: The Self Organizing Map and Gaussian Music Similarity Features.",
+    "author": [
+      "Dominik Schnitzer",
+      "Arthur Flexer",
+      "Gerhard Widmer",
+      "Martin Gasser"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415248",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415248",
+      "id": 1415248,
+      "pdf": "https://zenodo.org/record/1415248/files/SchnitzerFWG10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-56.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/SchnitzerFWG10"
+    }
+  },
+  {
+    "title": "It's Time for a Song - Transcribing Recordings of Bell-playing Clocks.",
+    "author": [
+      "Matija Marolt",
+      "Marieke Lefeber"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416704",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416704",
+      "id": 1416704,
+      "pdf": "https://zenodo.org/record/1416704/files/MaroltL10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-57.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/MaroltL10"
+    }
+  },
+  {
+    "title": "Learning Features from Music Audio with Deep Belief Networks.",
+    "author": [
+      "Philippe Hamel",
+      "Douglas Eck"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1414970",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414970",
+      "id": 1414970,
+      "pdf": "https://zenodo.org/record/1414970/files/HamelE10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-58.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HamelE10"
+    }
+  },
+  {
+    "title": "Learning Similarity from Collaborative Filters.",
+    "author": [
+      "Brian McFee",
+      "Luke Barrington",
+      "Gert R. G. Lanckriet"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416198",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416198",
+      "id": 1416198,
+      "pdf": "https://zenodo.org/record/1416198/files/McFeeBL10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-59.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/McFeeBL10"
+    }
+  },
+  {
+    "title": "Characterization and Similarity in A Cappella Flamenco Cantes.",
+    "author": [
+      "Joaqu\u00edn Mora",
+      "Francisco G\u00f3mez",
+      "Emilia G\u00f3mez",
+      "Francisco Escobar-Borrego",
+      "Jos\u00e9 Miguel D\u00edaz-B\u00e1\u00f1ez"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415242",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415242",
+      "id": 1415242,
+      "pdf": "https://zenodo.org/record/1415242/files/MoraGGED10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-60.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/MoraGGED10"
+    }
+  },
+  {
+    "title": "Melody Extraction from Polyphonic Audio Based on Particle Filter.",
+    "author": [
+      "Seokhwan Jo",
+      "Chang D. Yoo"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1414978",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414978",
+      "id": 1414978,
+      "pdf": "https://zenodo.org/record/1414978/files/JoY10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-61.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/JoY10"
+    }
+  },
+  {
+    "title": "Multiple Pitch Transcription using DBN-based Musicological Models.",
+    "author": [
+      "Stanislaw Andrzej Raczynski",
+      "Emmanuel Vincent",
+      "Fr\u00e9d\u00e9ric Bimbot",
+      "Shigeki Sagayama"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415198",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415198",
+      "id": 1415198,
+      "pdf": "https://zenodo.org/record/1415198/files/RaczynskiVBS10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-62.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/RaczynskiVBS10"
+    }
+  },
+  {
+    "title": "Modified Ais-based Classifier for Music Genre Classification.",
+    "author": [
+      "Noor Azilah Draman",
+      "Campbell Wilson",
+      "Sea Ling"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417437",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417437",
+      "id": 1417437,
+      "pdf": "https://zenodo.org/record/1417437/files/DramanWL10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-63.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/DramanWL10"
+    }
+  },
+  {
+    "title": "Monophonic Instrument Sound Segregation by Clustering NMF Components Based on Basis Similarity and Gain Disjointness.",
+    "author": [
+      "Kazuma Murao",
+      "Masahiro Nakano",
+      "Yu Kitano",
+      "Nobutaka Ono",
+      "Shigeki Sagayama"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417113",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417113",
+      "id": 1417113,
+      "pdf": "https://zenodo.org/record/1417113/files/MuraoNKOS10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-64.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/MuraoNKOS10"
+    }
+  },
+  {
+    "title": "Multiple Viewpoints Modeling of Tabla Sequences.",
+    "author": [
+      "Parag Chordia",
+      "Avinash Sastry",
+      "Trishul Mallikarjuna",
+      "Aaron Albin"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416540",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416540",
+      "id": 1416540,
+      "pdf": "https://zenodo.org/record/1416540/files/ChordiaSMA10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-65.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ChordiaSMA10"
+    }
+  },
+  {
+    "title": "Music Genre Classification via Compressive Sampling.",
+    "author": [
+      "Kaichun K. Chang",
+      "Jyh-Shing Roger Jang",
+      "Costas S. Iliopoulos"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1418289",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418289",
+      "id": 1418289,
+      "pdf": "https://zenodo.org/record/1418289/files/ChangJI10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-66.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ChangJI10"
+    }
+  },
+  {
+    "title": "Sparse Multi-label Linear Embedding Within Nonnegative Tensor Factorization Applied to Music Tagging.",
+    "author": [
+      "Yannis Panagakis",
+      "Constantine Kotropoulos",
+      "Gonzalo R. Arce"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417036",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417036",
+      "id": 1417036,
+      "pdf": "https://zenodo.org/record/1417036/files/PanagakisKA10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-67.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/PanagakisKA10"
+    }
+  },
+  {
+    "title": "Learning Tags that Vary Within a Song.",
+    "author": [
+      "Michael I. Mandel",
+      "Douglas Eck",
+      "Yoshua Bengio"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416130",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416130",
+      "id": 1416130,
+      "pdf": "https://zenodo.org/record/1416130/files/MandelEB10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-68.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/MandelEB10"
+    }
+  },
+  {
+    "title": "Predicting High-level Music Semantics Using Social Tags via Ontology-based Reasoning.",
+    "author": [
+      "Jun Wang",
+      "Xiaoou Chen",
+      "Yajie Hu",
+      "Tao Feng"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417785",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417785",
+      "id": 1417785,
+      "pdf": "https://zenodo.org/record/1417785/files/WangCHF10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-69.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/WangCHF10"
+    }
+  },
+  {
+    "title": "Understanding Features and Distance Functions for Music Sequence Alignment.",
+    "author": [
+      "\u00d6zg\u00fcr Izmirli",
+      "Roger B. Dannenberg"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1418353",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418353",
+      "id": 1418353,
+      "pdf": "https://zenodo.org/record/1418353/files/IzmirliD10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-70.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/IzmirliD10"
+    }
+  },
+  {
+    "title": "A Multi-pass Algorithm for Accurate Audio-to-Score Alignment.",
+    "author": [
+      "Bernhard Niedermayer",
+      "Gerhard Widmer"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415910",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415910",
+      "id": 1415910,
+      "pdf": "https://zenodo.org/record/1415910/files/NiedermayerW10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-71.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/NiedermayerW10"
+    }
+  },
+  {
+    "title": "Accurate Real-time Windowed Time Warping.",
+    "author": [
+      "Robert Macrae",
+      "Simon Dixon"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416156",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416156",
+      "id": 1416156,
+      "pdf": "https://zenodo.org/record/1416156/files/MacraeD10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-72.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/MacraeD10"
+    }
+  },
+  {
+    "title": "Music Structure Discovery in Popular Music using Non-negative Matrix Factorization.",
+    "author": [
+      "Florian Kaiser",
+      "Thomas Sikora"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1418085",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418085",
+      "id": 1418085,
+      "pdf": "https://zenodo.org/record/1418085/files/KaiserS10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-73.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/KaiserS10"
+    }
+  },
+  {
+    "title": "Musical Instrument Recognition using Biologically Inspired Filtering of Temporal Dictionary Atoms.",
+    "author": [
+      "Steven K. Tjoa",
+      "K. J. Ray Liu"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416166",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416166",
+      "id": 1416166,
+      "pdf": "https://zenodo.org/record/1416166/files/TjoaL10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-74.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/TjoaL10"
+    }
+  },
+  {
+    "title": "YAAFE, an Easy to Use and Efficient Audio Feature Extraction Software.",
+    "author": [
+      "Beno\u00eet Mathieu",
+      "Slim Essid",
+      "Thomas Fillon",
+      "Jacques Prado",
+      "Ga\u00ebl Richard"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1418321",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418321",
+      "id": 1418321,
+      "pdf": "https://zenodo.org/record/1418321/files/MathieuEFPR10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-75.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/MathieuEFPR10"
+    }
+  },
+  {
+    "title": "On the Use of Microblogging Posts for Similarity Estimation and Artist Labeling.",
+    "author": [
+      "Markus Schedl"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1418215",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418215",
+      "id": 1418215,
+      "pdf": "https://zenodo.org/record/1418215/files/Schedl10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-76.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Schedl10"
+    }
+  },
+  {
+    "title": "Parataxis: Morphological Similarity in Traditional Music.",
+    "author": [
+      "Andre Holzapfel",
+      "Yannis Stylianou"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416896",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416896",
+      "id": 1416896,
+      "pdf": "https://zenodo.org/record/1416896/files/HolzapfelS10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-77.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HolzapfelS10"
+    }
+  },
+  {
+    "title": "Pitch Class Set Categories as Analysis Tools for Degrees of Tonality.",
+    "author": [
+      "Aline K. Honingh",
+      "Rens Bod"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417533",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417533",
+      "id": 1417533,
+      "pdf": "https://zenodo.org/record/1417533/files/HoninghB10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-78.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HoninghB10"
+    }
+  },
+  {
+    "title": "Prediction of Time-varying Musical Mood Distributions from Audio.",
+    "author": [
+      "Erik M. Schmidt",
+      "Youngmoo E. Kim"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416238",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416238",
+      "id": 1416238,
+      "pdf": "https://zenodo.org/record/1416238/files/SchmidtK10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-79.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/SchmidtK10"
+    }
+  },
+  {
+    "title": "Quantifying the Benefits of Using an Interactive Decision Support Tool for Creating Musical Accompaniment in a Particular Style.",
+    "author": [
+      "Ching-Hua Chuan",
+      "Elaine Chew"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417337",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417337",
+      "id": 1417337,
+      "pdf": "https://zenodo.org/record/1417337/files/ChuanC10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-80.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ChuanC10"
+    }
+  },
+  {
+    "title": "Query-by-conducting: An Interface to Retrieve Classical-music Interpretations by Real-time Tempo Input.",
+    "author": [
+      "Akira Maezawa",
+      "Masataka Goto",
+      "Hiroshi G. Okuno"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416614",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416614",
+      "id": 1416614,
+      "pdf": "https://zenodo.org/record/1416614/files/MaezawaGO10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-81.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/MaezawaGO10"
+    }
+  },
+  {
+    "title": "Querying Improvised Music: Do You Sound Like Yourself?.",
+    "author": [
+      "Michael O. Jewell",
+      "Christophe Rhodes",
+      "Mark d'Inverno"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417227",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417227",
+      "id": 1417227,
+      "pdf": "https://zenodo.org/record/1417227/files/JewellRd10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-82.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/JewellRd10"
+    }
+  },
+  {
+    "title": "Real-time Polyphonic Music Transcription with Non-negative Matrix Factorization and Beta-divergence.",
+    "author": [
+      "Arnaud Dessein",
+      "Arshia Cont",
+      "Guillaume Lemaitre"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1414824",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414824",
+      "id": 1414824,
+      "pdf": "https://zenodo.org/record/1414824/files/DesseinCL10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-83.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/DesseinCL10"
+    }
+  },
+  {
+    "title": "Recognising Classical Works in Historical Recordings.",
+    "author": [
+      "Tim Crawford",
+      "Matthias Mauch",
+      "Christophe Rhodes"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417429",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417429",
+      "id": 1417429,
+      "pdf": "https://zenodo.org/record/1417429/files/CrawfordMR10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-84.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/CrawfordMR10"
+    }
+  },
+  {
+    "title": "Recognition of Variations Using Automatic Schenkerian Reduction.",
+    "author": [
+      "Alan Marsden"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1418179",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418179",
+      "id": 1418179,
+      "pdf": "https://zenodo.org/record/1418179/files/Marsden10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-85.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Marsden10"
+    }
+  },
+  {
+    "title": "Scalable Genre and Tag Prediction with Spectral Covariance.",
+    "author": [
+      "James Bergstra",
+      "Michael I. Mandel",
+      "Douglas Eck"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416942",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416942",
+      "id": 1416942,
+      "pdf": "https://zenodo.org/record/1416942/files/BergstraME10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-86.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BergstraME10"
+    }
+  },
+  {
+    "title": "Similarity Measures for Chinese Pop Music Based on Low-level Audio Signal Attributes.",
+    "author": [
+      "Chun-Man Mak",
+      "Tan Lee",
+      "Suman Senapati",
+      "Yu Ting Yeung",
+      "Wang-Kong Lam"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415636",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415636",
+      "id": 1415636,
+      "pdf": "https://zenodo.org/record/1415636/files/MakLSYL10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-87.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/MakLSYL10"
+    }
+  },
+  {
+    "title": "Singing / Rap Classification of Isolated Vocal Tracks.",
+    "author": [
+      "Daniel G\u00e4rtner"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417089",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417089",
+      "id": 1417089,
+      "pdf": "https://zenodo.org/record/1417089/files/Gartner10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-88.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Gartner10"
+    }
+  },
+  {
+    "title": "Singing Pitch Extraction by Voice Vibrato / Tremolo Estimation and Instrument Partial Deletion.",
+    "author": [
+      "Chao-Ling Hsu",
+      "Jyh-Shing Roger Jang"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417357",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417357",
+      "id": 1417357,
+      "pdf": "https://zenodo.org/record/1417357/files/HsuJ10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-89.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HsuJ10"
+    }
+  },
+  {
+    "title": "SongWords: Exploring Music Collections Through Lyrics.",
+    "author": [
+      "Dominikus Baur",
+      "Bartholom\u00e4us Steinmayr",
+      "Andreas Butz"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416682",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416682",
+      "id": 1416682,
+      "pdf": "https://zenodo.org/record/1416682/files/BaurSB10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-90.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BaurSB10"
+    }
+  },
+  {
+    "title": "String Quartet Classification with Monophonic Models.",
+    "author": [
+      "Ruben Hillewaere",
+      "Bernard Manderick",
+      "Darrell Conklin"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417619",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417619",
+      "id": 1417619,
+      "pdf": "https://zenodo.org/record/1417619/files/HillewaereMC10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-91.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HillewaereMC10"
+    }
+  },
+  {
+    "title": "Supervised and Unsupervised Web Document Filtering Techniques to Improve Text-Based Music Retrieval.",
+    "author": [
+      "Peter Knees",
+      "Markus Schedl",
+      "Tim Pohle",
+      "Klaus Seyerlehner",
+      "Gerhard Widmer"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417173",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417173",
+      "id": 1417173,
+      "pdf": "https://zenodo.org/record/1417173/files/KneesSPSW10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-92.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/KneesSPSW10"
+    }
+  },
+  {
+    "title": "Symbol Classification Approach for OMR of Square Notation Manuscripts.",
+    "author": [
+      "Carolina Ramirez",
+      "Jun Ohya"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415122",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415122",
+      "id": 1415122,
+      "pdf": "https://zenodo.org/record/1415122/files/RamirezO10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-93.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/RamirezO10"
+    }
+  },
+  {
+    "title": "Tempo Induction Using Filterbank Analysis and Tonal Features.",
+    "author": [
+      "Aggelos Gkiokas",
+      "Vassilios Katsouros",
+      "George Carayannis"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415210",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415210",
+      "id": 1415210,
+      "pdf": "https://zenodo.org/record/1415210/files/GkiokasKC10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-95.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/GkiokasKC10"
+    }
+  },
+  {
+    "title": "The Standardized Variogram as a Novel Tool for Music Similarity Evaluation.",
+    "author": [
+      "Simone Sammartino",
+      "Lorenzo J. Tard\u00f3n",
+      "Cristina de la Bandera",
+      "Isabel Barbancho",
+      "Ana M. Barbancho"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417195",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417195",
+      "id": 1417195,
+      "pdf": "https://zenodo.org/record/1417195/files/SammartinoTBBB10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-96.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/SammartinoTBBB10"
+    }
+  },
+  {
+    "title": "ThumbnailDJ: Visual Thumbnails of Music Content.",
+    "author": [
+      "Ya-Xi Chen",
+      "Ren\u00e9 Kl\u00fcber"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1418271",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418271",
+      "id": 1418271,
+      "pdf": "https://zenodo.org/record/1418271/files/ChenK10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-97.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ChenK10"
+    }
+  },
+  {
+    "title": "Timbral Qualities of Semantic Structures of Music.",
+    "author": [
+      "Rafael Ferrer",
+      "Tuomas Eerola"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416484",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416484",
+      "id": 1416484,
+      "pdf": "https://zenodo.org/record/1416484/files/FerrerE10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-98.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/FerrerE10"
+    }
+  },
+  {
+    "title": "Towards More Robust Geometric Content-Based Music Retrieval.",
+    "author": [
+      "Kjell Lemstr\u00f6m"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415150",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415150",
+      "id": 1415150,
+      "pdf": "https://zenodo.org/record/1415150/files/Lemstrom10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-99.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Lemstrom10"
+    }
+  },
+  {
+    "title": "Tunepal - Disseminating a Music Information Retrieval System to the Traditional Irish Music Community.",
+    "author": [
+      "Bryan Duggan",
+      "Brendan O'Shea"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416312",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416312",
+      "id": 1416312,
+      "pdf": "https://zenodo.org/record/1416312/files/DugganO10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-100.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/DugganO10"
+    }
+  },
+  {
+    "title": "Universal Onset Detection with Bidirectional Long Short-Term Memory Neural Networks.",
+    "author": [
+      "Florian Eyben",
+      "Sebastian B\u00f6ck",
+      "Bj\u00f6rn W. Schuller",
+      "Alex Graves"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417131",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417131",
+      "id": 1417131,
+      "pdf": "https://zenodo.org/record/1417131/files/EybenBSG10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-101.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/EybenBSG10"
+    }
+  },
+  {
+    "title": "Unsupervised Accuracy Improvement for Cover Song Detection Using Spectral Connectivity Network.",
+    "author": [
+      "Mathieu Lagrange",
+      "Joan Serr\u00e0"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416998",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416998",
+      "id": 1416998,
+      "pdf": "https://zenodo.org/record/1416998/files/LagrangeS10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-102.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/LagrangeS10"
+    }
+  },
+  {
+    "title": "Users' Relevance Criteria in Music Retrieval in Everyday Life: An Exploratory Study.",
+    "author": [
+      "Audrey Laplante"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415578",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415578",
+      "id": 1415578,
+      "pdf": "https://zenodo.org/record/1415578/files/Laplante10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-103.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Laplante10"
+    }
+  },
+  {
+    "title": "Using jWebMiner 2.0 to Improve Music Classification Performance by Combining Different Types of Features Mined from the Web.",
+    "author": [
+      "Gabriel Vigliensoni",
+      "Cory McKay",
+      "Ichiro Fujinaga"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416590",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416590",
+      "id": 1416590,
+      "pdf": "https://zenodo.org/record/1416590/files/VigliensoniMF10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-104.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/VigliensoniMF10"
+    }
+  },
+  {
+    "title": "Vocalist Gender Recognition in Recorded Popular Music.",
+    "author": [
+      "Bj\u00f6rn W. Schuller",
+      "Christoph Kozielski",
+      "Felix Weninger",
+      "Florian Eyben",
+      "Gerhard Rigoll"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415984",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415984",
+      "id": 1415984,
+      "pdf": "https://zenodo.org/record/1415984/files/SchullerKWER10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-105.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/SchullerKWER10"
+    }
+  },
+  {
+    "title": "When Lyrics Outperform Audio for Music Mood Classification: A Feature Analysis.",
+    "author": [
+      "Xiao Hu",
+      "J. Stephen Downie"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415540",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415540",
+      "id": 1415540,
+      "pdf": "https://zenodo.org/record/1415540/files/HuD10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-106.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HuD10"
+    }
+  },
+  {
+    "title": "State of the Art Report: Audio-Based Music Structure Analysis.",
+    "author": [
+      "Jouni Paulus",
+      "Meinard M\u00fcller",
+      "Anssi Klapuri"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417289",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417289",
+      "id": 1417289,
+      "pdf": "https://zenodo.org/record/1417289/files/PaulusMK10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-107.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/PaulusMK10"
+    }
+  },
+  {
+    "title": "Music21: A Toolkit for Computer-Aided Musicology and Symbolic Music Data.",
+    "author": [
+      "Michael Scott Cuthbert",
+      "Christopher Ariza"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416114",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416114",
+      "id": 1416114,
+      "pdf": "https://zenodo.org/record/1416114/files/CuthbertA10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-108.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/CuthbertA10"
+    }
+  },
+  {
+    "title": "An Audio Processing Library for MIR Application Development in Flash.",
+    "author": [
+      "Jeffrey J. Scott",
+      "Raymond Migneco",
+      "Brandon G. Morton",
+      "Christian M. Hahn",
+      "Paul J. Diefenbach",
+      "Youngmoo E. Kim"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1414740",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414740",
+      "id": 1414740,
+      "pdf": "https://zenodo.org/record/1414740/files/ScottMMHDK10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-109.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ScottMMHDK10"
+    }
+  },
+  {
+    "title": "What Makes Beat Tracking Difficult? A Case Study on Chopin Mazurkas.",
+    "author": [
+      "Peter Grosche",
+      "Meinard M\u00fcller",
+      "Craig Stuart Sapp"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1415852",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415852",
+      "id": 1415852,
+      "pdf": "https://zenodo.org/record/1415852/files/GroscheMS10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-110.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/GroscheMS10"
+    }
+  },
+  {
+    "title": "Upbeat and Quirky, With a Bit of a Build: Interpretive Repertoires in Creative Music Search.",
+    "author": [
+      "Charlie Inskip",
+      "Andy MacFarlane",
+      "Pauline Rafferty"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1417617",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417617",
+      "id": 1417617,
+      "pdf": "https://zenodo.org/record/1417617/files/InskipMR10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-111.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/InskipMR10"
+    }
+  },
+  {
+    "title": "A Roadmap Towards Versatile MIR.",
+    "author": [
+      "Emmanuel Vincent",
+      "Stanislaw Andrzej Raczynski",
+      "Nobutaka Ono",
+      "Shigeki Sagayama"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1418141",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418141",
+      "id": 1418141,
+      "pdf": "https://zenodo.org/record/1418141/files/VincentROS10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-113.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/VincentROS10"
+    }
+  },
+  {
+    "title": "Predicting Development of Research in Music Based on Parallels with Natural Language Processing.",
+    "author": [
+      "Jacek Wolkowicz",
+      "Vlado Keselj"
+    ],
+    "year": "2010",
+    "doi": "10.5281/zenodo.1416808",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416808",
+      "id": 1416808,
+      "pdf": "https://zenodo.org/record/1416808/files/WolkowiczK10.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2010.ismir.net/proceedings/ismir2010-114.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/WolkowiczK10"
+    }
+  }
+]

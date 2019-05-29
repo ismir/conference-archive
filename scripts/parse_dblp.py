@@ -62,7 +62,7 @@ def fetch_record(cite_key):
 
 def main(output_file, num_cpus, verbose, resume=False, delay=0.5):
     cite_keys = []
-    for year in range(2000, 2018):
+    for year in range(2000, 2019):
         cite_keys += collect_citekeys(year)
 
     if resume and os.path.exists(output_file):

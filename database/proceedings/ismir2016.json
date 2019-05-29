@@ -1,0 +1,2609 @@
+[
+  {
+    "title": "SiMPle: Assessing Music Similarity Using Subsequences Joins.",
+    "author": [
+      "Diego Furtado Silva",
+      "Chin-Chia Michael Yeh",
+      "Gustavo E. A. P. A. Batista",
+      "Eamonn J. Keogh"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415012",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415012",
+      "id": 1415012,
+      "pdf": "https://zenodo.org/record/1415012/files/SilvaYBK16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/099_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/SilvaYBK16"
+    }
+  },
+  {
+    "title": "Score-Informed Identification of Missing and Extra Notes in Piano Recordings.",
+    "author": [
+      "Sebastian Ewert",
+      "Siying Wang",
+      "Meinard M\u00fcller",
+      "Mark B. Sandler"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418317",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418317",
+      "id": 1418317,
+      "pdf": "https://zenodo.org/record/1418317/files/EwertWMS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/123_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/EwertWMS16"
+    }
+  },
+  {
+    "title": "Feature Learning for Chord Recognition: The Deep Chroma Extractor.",
+    "author": [
+      "Filip Korzeniowski",
+      "Gerhard Widmer"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416314",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416314",
+      "id": 1416314,
+      "pdf": "https://zenodo.org/record/1416314/files/KorzeniowskiW16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/178_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/KorzeniowskiW16"
+    }
+  },
+  {
+    "title": "Learning to Pinpoint Singing Voice from Weakly Labeled Examples.",
+    "author": [
+      "Jan Schl\u00fcter"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417651",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417651",
+      "id": 1417651,
+      "pdf": "https://zenodo.org/record/1417651/files/Schluter16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/315_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Schluter16"
+    }
+  },
+  {
+    "title": "A Corpus of Annotated Irish Traditional Dance Music Recordings: Design and Benchmark Evaluations.",
+    "author": [
+      "Pierre Beauguitte",
+      "Bryan Duggan",
+      "John D. Kelleher"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417333",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417333",
+      "id": 1417333,
+      "pdf": "https://zenodo.org/record/1417333/files/BeauguitteDK16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/148_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BeauguitteDK16"
+    }
+  },
+  {
+    "title": "Adaptive Frequency Neural Networks for Dynamic Pulse and Metre Perception.",
+    "author": [
+      "Andrew John Lambert",
+      "Tillman Weyde",
+      "Newton Armstrong"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418305",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418305",
+      "id": 1418305,
+      "pdf": "https://zenodo.org/record/1418305/files/LambertWA16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/228_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/LambertWA16"
+    }
+  },
+  {
+    "title": "An Evaluation Framework and Case Study for Rhythmic Concatenative Synthesis.",
+    "author": [
+      "C\u00e1rthach \u00d3 Nuan\u00e1in",
+      "Perfecto Herrera",
+      "Sergi Jord\u00e0"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415648",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415648",
+      "id": 1415648,
+      "pdf": "https://zenodo.org/record/1415648/files/NuanainHJ16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/180_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/NuanainHJ16"
+    }
+  },
+  {
+    "title": "An Ontology for Audio Features.",
+    "author": [
+      "Alo Allik",
+      "Gy\u00f6rgy Fazekas",
+      "Mark B. Sandler"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416226",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416226",
+      "id": 1416226,
+      "pdf": "https://zenodo.org/record/1416226/files/AllikFS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/077_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/AllikFS16"
+    }
+  },
+  {
+    "title": "Analysis and Classification of Phonation Modes In Singing.",
+    "author": [
+      "Daniel Stoller",
+      "Simon Dixon"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416772",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416772",
+      "id": 1416772,
+      "pdf": "https://zenodo.org/record/1416772/files/StollerD16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/233_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/StollerD16"
+    }
+  },
+  {
+    "title": "Analysis of Vocal Imitations of Pitch Trajectories.",
+    "author": [
+      "Jiajie Dai",
+      "Simon Dixon"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416318",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416318",
+      "id": 1416318,
+      "pdf": "https://zenodo.org/record/1416318/files/DaiD16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/127_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/DaiD16"
+    }
+  },
+  {
+    "title": "Automatic Music Recommendation Systems: Do Demographic, Profiling, and Contextual Features Improve Their Performance?.",
+    "author": [
+      "Gabriel Vigliensoni",
+      "Ichiro Fujinaga"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417073",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417073",
+      "id": 1417073,
+      "pdf": "https://zenodo.org/record/1417073/files/VigliensoniF16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/044_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/VigliensoniF16"
+    }
+  },
+  {
+    "title": "Automatic Outlier Detection in Music Genre Datasets.",
+    "author": [
+      "Yen-Cheng Lu",
+      "Chih-Wei Wu",
+      "Alexander Lerch",
+      "Chang-Tien Lu"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418193",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418193",
+      "id": 1418193,
+      "pdf": "https://zenodo.org/record/1418193/files/LuWLL16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/215_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/LuWLL16"
+    }
+  },
+  {
+    "title": "AVA: An Interactive System for Visual and Quantitative Analyses of Vibrato and Portamento Performance Styles.",
+    "author": [
+      "Luwei Yang",
+      "Khalid Z. Rajab",
+      "Elaine Chew"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415592",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415592",
+      "id": 1415592,
+      "pdf": "https://zenodo.org/record/1415592/files/YangRC16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/314_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/YangRC16"
+    }
+  },
+  {
+    "title": "Composer Recognition Based on 2D-Filtered Piano-Rolls.",
+    "author": [
+      "Gissel Velarde",
+      "Tillman Weyde",
+      "Carlos Eduardo Cancino Chac\u00f3n",
+      "David Meredith",
+      "Maarten Grachten"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417641",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417641",
+      "id": 1417641,
+      "pdf": "https://zenodo.org/record/1417641/files/VelardeWCMG16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/063_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/VelardeWCMG16"
+    }
+  },
+  {
+    "title": "Conversations with Expert Users in Music Retrieval and Research Challenges for Creative MIR.",
+    "author": [
+      "Kristina Andersen",
+      "Peter Knees"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418323",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418323",
+      "id": 1418323,
+      "pdf": "https://zenodo.org/record/1418323/files/AndersenK16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/246_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/AndersenK16"
+    }
+  },
+  {
+    "title": "Downbeat Tracking Using Beat Synchronous Features with Recurrent Neural Networks.",
+    "author": [
+      "Florian Krebs",
+      "Sebastian B\u00f6ck",
+      "Matthias Dorfer",
+      "Gerhard Widmer"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417819",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417819",
+      "id": 1417819,
+      "pdf": "https://zenodo.org/record/1417819/files/KrebsBDW16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/249_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/KrebsBDW16"
+    }
+  },
+  {
+    "title": "Enhancing Cover Song Identification with Hierarchical Rank Aggregation.",
+    "author": [
+      "Julien Osmalskyj",
+      "Marc Van Droogenbroeck",
+      "Jean-Jacques Embrechts"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418109",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418109",
+      "id": 1418109,
+      "pdf": "https://zenodo.org/record/1418109/files/OsmalskyjDE16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/064_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/OsmalskyjDE16"
+    }
+  },
+  {
+    "title": "Ensemble: A Hybrid Human-Machine System for Generating Melody Scores from Audio.",
+    "author": [
+      "Tim Tse",
+      "Justin Salamon",
+      "Alex C. Williams",
+      "Helga Jiang",
+      "Edith Law"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416708",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416708",
+      "id": 1416708,
+      "pdf": "https://zenodo.org/record/1416708/files/TseSWJL16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/072_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/TseSWJL16"
+    }
+  },
+  {
+    "title": "Exploring Customer Reviews for Music Genre Classification and Evolutionary Studies.",
+    "author": [
+      "Sergio Oramas",
+      "Luis Espinosa Anke",
+      "Aonghus Lawlor",
+      "Xavier Serra",
+      "Horacio Saggion"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415544",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415544",
+      "id": 1415544,
+      "pdf": "https://zenodo.org/record/1415544/files/OramasALSS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/240_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/OramasALSS16"
+    }
+  },
+  {
+    "title": "Further Steps Towards a Standard Testbed for Optical Music Recognition.",
+    "author": [
+      "Jan Hajic Jr.",
+      "Jiri Novotn\u00fd",
+      "Pavel Pecina",
+      "Jaroslav Pokorn\u00fd"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418161",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418161",
+      "id": 1418161,
+      "pdf": "https://zenodo.org/record/1418161/files/HajicNPP16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/289_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HajicNPP16"
+    }
+  },
+  {
+    "title": "Improving Voice Separation by Better Connecting Contigs.",
+    "author": [
+      "Nicolas Guiomard-Kagan",
+      "Mathieu Giraud",
+      "Richard Groult",
+      "Florence Lev\u00e9"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417825",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417825",
+      "id": 1417825,
+      "pdf": "https://zenodo.org/record/1417825/files/Guiomard-KaganG16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/129_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Guiomard-KaganG16"
+    }
+  },
+  {
+    "title": "Integer Programming Formulation of the Problem of Generating Milton Babbitt's All-Partition Arrays.",
+    "author": [
+      "Tsubasa Tanaka",
+      "Brian Bemman",
+      "David Meredith"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416164",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416164",
+      "id": 1416164,
+      "pdf": "https://zenodo.org/record/1416164/files/TanakaBM16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/034_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/TanakaBM16"
+    }
+  },
+  {
+    "title": "Integration and Quality Assessment of Heterogeneous Chord Sequences Using Data Fusion.",
+    "author": [
+      "Hendrik Vincent Koops",
+      "W. Bas de Haas",
+      "Dimitrios Bountouridis",
+      "Anja Volk"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415954",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415954",
+      "id": 1415954,
+      "pdf": "https://zenodo.org/record/1415954/files/KoopsHBV16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/019_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/KoopsHBV16"
+    }
+  },
+  {
+    "title": "Landmark-Based Audio Fingerprinting for DJ Mix Monitoring.",
+    "author": [
+      "Reinhard Sonnleitner",
+      "Andreas Arzt",
+      "Gerhard Widmer"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417008",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417008",
+      "id": 1417008,
+      "pdf": "https://zenodo.org/record/1417008/files/SonnleitnerAW16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/187_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/SonnleitnerAW16"
+    }
+  },
+  {
+    "title": "Learning and Visualizing Music Specifications Using Pattern Graphs.",
+    "author": [
+      "Rafael Valle",
+      "Daniel J. Fremont",
+      "Ilge Akkaya",
+      "Alexandre Donz\u00e9",
+      "Adrian Freed",
+      "Sanjit A. Seshia"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1414954",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414954",
+      "id": 1414954,
+      "pdf": "https://zenodo.org/record/1414954/files/ValleFADFS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/280_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ValleFADFS16"
+    }
+  },
+  {
+    "title": "Listen To Me - Don't Listen To Me: What Communities of Critics Tell Us About Music.",
+    "author": [
+      "Ben Fields",
+      "Christophe Rhodes"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417801",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417801",
+      "id": 1417801,
+      "pdf": "https://zenodo.org/record/1417801/files/FieldsR16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/173_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/FieldsR16"
+    }
+  },
+  {
+    "title": "Long-Term Reverberation Modeling for Under-Determined Audio Source Separation with Application to Vocal Melody Extraction.",
+    "author": [
+      "Romain Hennequin",
+      "Fran\u00e7ois Rigaud"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417489",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417489",
+      "id": 1417489,
+      "pdf": "https://zenodo.org/record/1417489/files/HennequinR16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/196_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HennequinR16"
+    }
+  },
+  {
+    "title": "Nonnegative Tensor Factorization with Frequency Modulation Cues for Blind Audio Source Separation.",
+    "author": [
+      "Elliot Creager",
+      "Noah D. Stein",
+      "Roland Badeau",
+      "Philippe Depalle"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415736",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415736",
+      "id": 1415736,
+      "pdf": "https://zenodo.org/record/1415736/files/CreagerSBD16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/103_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/CreagerSBD16"
+    }
+  },
+  {
+    "title": "On Drum Playing Technique Detection in Polyphonic Mixtures.",
+    "author": [
+      "Chih-Wei Wu",
+      "Alexander Lerch"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416680",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416680",
+      "id": 1416680,
+      "pdf": "https://zenodo.org/record/1416680/files/WuL16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/268_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/WuL16"
+    }
+  },
+  {
+    "title": "Predicting Missing Music Components with Bidirectional Long Short-Term Memory Neural Networks.",
+    "author": [
+      "I-Ting Liu",
+      "Richard Randall"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417239",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417239",
+      "id": 1417239,
+      "pdf": "https://zenodo.org/record/1417239/files/LiuR16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/097_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/LiuR16"
+    }
+  },
+  {
+    "title": "Structural Segmentation and Visualization of Sitar and Sarod Concert Audio.",
+    "author": [
+      "Vinutha T. P.",
+      "Suryanarayana Sankagiri",
+      "Kaustuv Kanti Ganguli",
+      "Preeti Rao"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1414924",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414924",
+      "id": 1414924,
+      "pdf": "https://zenodo.org/record/1414924/files/PSGR16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/151_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/PSGR16"
+    }
+  },
+  {
+    "title": "Template-Based Vibrato Analysis in Complex Music Signals.",
+    "author": [
+      "Jonathan Driedger",
+      "Stefan Balke",
+      "Sebastian Ewert",
+      "Meinard M\u00fcller"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417006",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417006",
+      "id": 1417006,
+      "pdf": "https://zenodo.org/record/1417006/files/DriedgerBEM16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/005_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/DriedgerBEM16"
+    }
+  },
+  {
+    "title": "Towards Evaluating Multiple Predominant Melody Annotations in Jazz Recordings.",
+    "author": [
+      "Stefan Balke",
+      "Jonathan Driedger",
+      "Jakob Abe\u00dfer",
+      "Christian Dittmar",
+      "Meinard M\u00fcller"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415076",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415076",
+      "id": 1415076,
+      "pdf": "https://zenodo.org/record/1415076/files/BalkeDADM16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/049_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BalkeDADM16"
+    }
+  },
+  {
+    "title": "Joint Beat and Downbeat Tracking with Recurrent Neural Networks.",
+    "author": [
+      "Sebastian B\u00f6ck",
+      "Florian Krebs",
+      "Gerhard Widmer"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415836",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415836",
+      "id": 1415836,
+      "pdf": "https://zenodo.org/record/1415836/files/BockKW16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/186_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BockKW16"
+    }
+  },
+  {
+    "title": "Bayesian Meter Tracking on Learned Signal Representations.",
+    "author": [
+      "Andre Holzapfel",
+      "Thomas Grill"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417263",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417263",
+      "id": 1417263,
+      "pdf": "https://zenodo.org/record/1417263/files/HolzapfelG16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/132_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HolzapfelG16"
+    }
+  },
+  {
+    "title": "Tempo Estimation for Music Loops and a Simple Confidence Measure.",
+    "author": [
+      "Frederic Font",
+      "Xavier Serra"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417659",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417659",
+      "id": 1417659,
+      "pdf": "https://zenodo.org/record/1417659/files/FontS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/195_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/FontS16"
+    }
+  },
+  {
+    "title": "Brain Beats: Tempo Extraction from EEG Data.",
+    "author": [
+      "Sebastian Stober",
+      "Thomas Pr\u00e4tzlich",
+      "Meinard M\u00fcller"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416128",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416128",
+      "id": 1416128,
+      "pdf": "https://zenodo.org/record/1416128/files/StoberPM16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/022_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/StoberPM16"
+    }
+  },
+  {
+    "title": "A Plan for Sustainable MIR Evaluation.",
+    "author": [
+      "Brian McFee",
+      "Eric J. Humphrey",
+      "Juli\u00e1n Urbano"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417775",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417775",
+      "id": 1417775,
+      "pdf": "https://zenodo.org/record/1417775/files/McFeeHU16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/257_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/McFeeHU16"
+    }
+  },
+  {
+    "title": "Go with the Flow: When Listeners Use Music as Technology.",
+    "author": [
+      "Andrew Demetriou",
+      "Martha Larson",
+      "Cynthia C. S. Liem"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415528",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415528",
+      "id": 1415528,
+      "pdf": "https://zenodo.org/record/1415528/files/DemetriouLL16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/068_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/DemetriouLL16"
+    }
+  },
+  {
+    "title": "A Look at the Cloud from Both Sides Now: An Analysis of Cloud Music Service Usage.",
+    "author": [
+      "Jin Ha Lee",
+      "Yea-Seul Kim",
+      "Chris Hubbles"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417627",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417627",
+      "id": 1417627,
+      "pdf": "https://zenodo.org/record/1417627/files/LeeKH16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/087_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/LeeKH16"
+    }
+  },
+  {
+    "title": "A Hierarchical Bayesian Model of Chords, Pitches, and Spectrograms for Multipitch Analysis.",
+    "author": [
+      "Yuta Ojima",
+      "Eita Nakamura",
+      "Katsutoshi Itoyama",
+      "Kazuyoshi Yoshii"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1414968",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414968",
+      "id": 1414968,
+      "pdf": "https://zenodo.org/record/1414968/files/OjimaNIY16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/003_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/OjimaNIY16"
+    }
+  },
+  {
+    "title": "A Higher-Dimensional Expansion of Affective Norms for English Terms for Music Tagging.",
+    "author": [
+      "Michele Buccoli",
+      "Massimiliano Zanoni",
+      "Gy\u00f6rgy Fazekas",
+      "Augusto Sarti",
+      "Mark B. Sandler"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415194",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415194",
+      "id": 1415194,
+      "pdf": "https://zenodo.org/record/1415194/files/BuccoliZFSS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/253_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BuccoliZFSS16"
+    }
+  },
+  {
+    "title": "A Latent Representation of Users, Sessions, and Songs for Listening Behavior Analysis.",
+    "author": [
+      "Chia-Hao Chung",
+      "Jing-Kai Lou",
+      "Homer H. Chen"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416878",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416878",
+      "id": 1416878,
+      "pdf": "https://zenodo.org/record/1416878/files/ChungLC16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/110_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ChungLC16"
+    }
+  },
+  {
+    "title": "A Methodology for Quality Assessment in Collaborative Score Libraries.",
+    "author": [
+      "Vincent Besson",
+      "Marco Gurrieri",
+      "Philippe Rigaux",
+      "Alice Tacaille",
+      "Virginie Thion"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418105",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418105",
+      "id": 1418105,
+      "pdf": "https://zenodo.org/record/1418105/files/BessonGRTT16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/076_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BessonGRTT16"
+    }
+  },
+  {
+    "title": "Aligned Hierarchies: A Multi-Scale Structure-Based Representation for Music-Based Data Streams.",
+    "author": [
+      "Katherine M. Kinnaird"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417405",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417405",
+      "id": 1417405,
+      "pdf": "https://zenodo.org/record/1417405/files/Kinnaird16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/020_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Kinnaird16"
+    }
+  },
+  {
+    "title": "Analysing Scattering-Based Music Content Analysis Systems: Where's the Music?.",
+    "author": [
+      "Francisco Rodr\u00edguez-Algarra",
+      "Bob L. Sturm",
+      "Hugo Maruri-Aguilar"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1414724",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414724",
+      "id": 1414724,
+      "pdf": "https://zenodo.org/record/1414724/files/Rodriguez-Algarra16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/146_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Rodriguez-Algarra16"
+    }
+  },
+  {
+    "title": "Beat Tracking with a Cepstroid Invariant Neural Network.",
+    "author": [
+      "Anders Elowsson"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416054",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416054",
+      "id": 1416054,
+      "pdf": "https://zenodo.org/record/1416054/files/Elowsson16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/252_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Elowsson16"
+    }
+  },
+  {
+    "title": "Bootstrapping a System for Phoneme Recognition and Keyword Spotting in Unaccompanied Singing.",
+    "author": [
+      "Anna M. Kruspe"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417553",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417553",
+      "id": 1417553,
+      "pdf": "https://zenodo.org/record/1417553/files/Kruspe16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/070_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Kruspe16"
+    }
+  },
+  {
+    "title": "Can Microblogs Predict Music Charts? An Analysis of the Relationship Between #Nowplaying Tweets and Music Charts.",
+    "author": [
+      "Eva Zangerle",
+      "Martin Pichl",
+      "Benedikt Hupfauf",
+      "G\u00fcnther Specht"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417881",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417881",
+      "id": 1417881,
+      "pdf": "https://zenodo.org/record/1417881/files/ZangerlePHS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/039_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ZangerlePHS16"
+    }
+  },
+  {
+    "title": "Cross Task Study on MIREX Recent Results: An Index for Evolution Measurement and Some Stagnation Hypotheses.",
+    "author": [
+      "Ricardo Scholz",
+      "Geber Ramalho",
+      "Giordano Cabral"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416898",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416898",
+      "id": 1416898,
+      "pdf": "https://zenodo.org/record/1416898/files/ScholzRC16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/054_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ScholzRC16"
+    }
+  },
+  {
+    "title": "Cross-Collection Evaluation for Music Classification Tasks.",
+    "author": [
+      "Dmitry Bogdanov",
+      "Alastair Porter",
+      "Perfecto Herrera",
+      "Xavier Serra"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418131",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418131",
+      "id": 1418131,
+      "pdf": "https://zenodo.org/record/1418131/files/BogdanovPHS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/220_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BogdanovPHS16"
+    }
+  },
+  {
+    "title": "Downbeat Detection with Conditional Random Fields and Deep Learned Features.",
+    "author": [
+      "Simon Durand",
+      "Slim Essid"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417739",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417739",
+      "id": 1417739,
+      "pdf": "https://zenodo.org/record/1417739/files/DurandE16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/213_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/DurandE16"
+    }
+  },
+  {
+    "title": "Exploiting Frequency, Periodicity and Harmonicity Using Advanced Time-Frequency Concentration Techniques for Multipitch Estimation of Choir and Symphony.",
+    "author": [
+      "Li Su",
+      "Tsung-Ying Chuang",
+      "Yi-Hsuan Yang"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1414838",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414838",
+      "id": 1414838,
+      "pdf": "https://zenodo.org/record/1414838/files/SuCY16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/104_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/SuCY16"
+    }
+  },
+  {
+    "title": "Genre Ontology Learning: Comparing Curated with Crowd-Sourced Ontologies.",
+    "author": [
+      "Hendrik Schreiber"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417479",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417479",
+      "id": 1417479,
+      "pdf": "https://zenodo.org/record/1417479/files/Schreiber16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/074_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Schreiber16"
+    }
+  },
+  {
+    "title": "Genre Specific Dictionaries for Harmonic/Percussive Source Separation.",
+    "author": [
+      "Clement Laroche",
+      "H\u00e9l\u00e8ne Papadopoulos",
+      "Matthieu Kowalski",
+      "Ga\u00ebl Richard"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417147",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417147",
+      "id": 1417147,
+      "pdf": "https://zenodo.org/record/1417147/files/LarochePKR16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/042_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/LarochePKR16"
+    }
+  },
+  {
+    "title": "Good-sounds.org: A Framework to Explore Goodness in Instrumental Sounds.",
+    "author": [
+      "Giuseppe Bandiera",
+      "Oriol Romani Picas",
+      "Hiroshi Tokuda",
+      "Wataru Hariya",
+      "Koji Oishi",
+      "Xavier Serra"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416864",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416864",
+      "id": 1416864,
+      "pdf": "https://zenodo.org/record/1416864/files/BandieraPTHOS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/199_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BandieraPTHOS16"
+    }
+  },
+  {
+    "title": "Improving Predictions of Derived Viewpoints in Multiple Viewpoints Systems.",
+    "author": [
+      "Thomas Hedges",
+      "Geraint A. Wiggins"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416630",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416630",
+      "id": 1416630,
+      "pdf": "https://zenodo.org/record/1416630/files/HedgesW16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/208_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HedgesW16"
+    }
+  },
+  {
+    "title": "Known Artist Live Song ID: A Hashprint Approach.",
+    "author": [
+      "T. J. Tsai",
+      "Thomas Pr\u00e4tzlich",
+      "Meinard M\u00fcller"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418223",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418223",
+      "id": 1418223,
+      "pdf": "https://zenodo.org/record/1418223/files/TsaiPM16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/098_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/TsaiPM16"
+    }
+  },
+  {
+    "title": "Learning Temporal Features Using a Deep Neural Network and its Application to Music Genre Classification.",
+    "author": [
+      "Il-Young Jeong",
+      "Kyogu Lee"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416416",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416416",
+      "id": 1416416,
+      "pdf": "https://zenodo.org/record/1416416/files/JeongL16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/159_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/JeongL16"
+    }
+  },
+  {
+    "title": "Meter Detection in Symbolic Music Using Inner Metric Analysis.",
+    "author": [
+      "W. Bas de Haas",
+      "Anja Volk"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417345",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417345",
+      "id": 1417345,
+      "pdf": "https://zenodo.org/record/1417345/files/HaasV16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/033_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HaasV16"
+    }
+  },
+  {
+    "title": "Minimax Viterbi Algorithm for HMM-Based Guitar Fingering Decision.",
+    "author": [
+      "Gen Hori",
+      "Shigeki Sagayama"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417639",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417639",
+      "id": 1417639,
+      "pdf": "https://zenodo.org/record/1417639/files/HoriS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/285_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HoriS16"
+    }
+  },
+  {
+    "title": "Mixtape: Direction-Based Navigation in Large Media Collections.",
+    "author": [
+      "Jo\u00e3o Paulo V. Cardoso",
+      "Luciana Fujii Pontello",
+      "Pedro H. F. Holanda",
+      "Bruno Guilherme",
+      "Olga Goussevskaia",
+      "Ana Paula Couto da Silva"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416072",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416072",
+      "id": 1416072,
+      "pdf": "https://zenodo.org/record/1416072/files/CardosoPHGGS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/155_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/CardosoPHGGS16"
+    }
+  },
+  {
+    "title": "Musical Note Estimation for F0 Trajectories of Singing Voices Based on a Bayesian Semi-Beat-Synchronous HMM.",
+    "author": [
+      "Ryo Nishikimi",
+      "Eita Nakamura",
+      "Katsutoshi Itoyama",
+      "Kazuyoshi Yoshii"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418023",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418023",
+      "id": 1418023,
+      "pdf": "https://zenodo.org/record/1418023/files/NishikimiNIY16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/004_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/NishikimiNIY16"
+    }
+  },
+  {
+    "title": "On the Evaluation of Rhythmic and Melodic Descriptors for Music Similarity.",
+    "author": [
+      "Maria Panteli",
+      "Simon Dixon"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417555",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417555",
+      "id": 1417555,
+      "pdf": "https://zenodo.org/record/1417555/files/PanteliD16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/161_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/PanteliD16"
+    }
+  },
+  {
+    "title": "On the Potential of Simple Framewise Approaches to Piano Transcription.",
+    "author": [
+      "Rainer Kelz",
+      "Matthias Dorfer",
+      "Filip Korzeniowski",
+      "Sebastian B\u00f6ck",
+      "Andreas Arzt",
+      "Gerhard Widmer"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416488",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416488",
+      "id": 1416488,
+      "pdf": "https://zenodo.org/record/1416488/files/KelzDKBAW16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/179_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/KelzDKBAW16"
+    }
+  },
+  {
+    "title": "Phrase-Level Audio Segmentation of Jazz Improvisations Informed by Symbolic Data.",
+    "author": [
+      "Jeff Gregorio",
+      "Youngmoo Kim"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1414790",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414790",
+      "id": 1414790,
+      "pdf": "https://zenodo.org/record/1414790/files/GregorioK16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/245_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/GregorioK16"
+    }
+  },
+  {
+    "title": "Revisiting Priorities: Improving MIR Evaluation Practices.",
+    "author": [
+      "Bob L. Sturm"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416726",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416726",
+      "id": 1416726,
+      "pdf": "https://zenodo.org/record/1416726/files/Sturm16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/128_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Sturm16"
+    }
+  },
+  {
+    "title": "Simultaneous Separation and Segmentation in Layered Music.",
+    "author": [
+      "Prem Seetharaman",
+      "Bryan Pardo"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417987",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417987",
+      "id": 1417987,
+      "pdf": "https://zenodo.org/record/1417987/files/SeetharamanP16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/057_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/SeetharamanP16"
+    }
+  },
+  {
+    "title": "Towards Modeling and Decomposing Loop-Based Electronic Music.",
+    "author": [
+      "Patricio L\u00f3pez-Serrano",
+      "Christian Dittmar",
+      "Jonathan Driedger",
+      "Meinard M\u00fcller"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417999",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417999",
+      "id": 1417999,
+      "pdf": "https://zenodo.org/record/1417999/files/Lopez-SerranoDD16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/065_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Lopez-SerranoDD16"
+    }
+  },
+  {
+    "title": "Two (Note) Heads Are Better Than One: Pen-Based Multimodal Interaction with Music Scores.",
+    "author": [
+      "Jorge Calvo-Zaragoza",
+      "David Rizo",
+      "Jos\u00e9 Manuel I\u00f1esta Quereda"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417469",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417469",
+      "id": 1417469,
+      "pdf": "https://zenodo.org/record/1417469/files/Calvo-ZaragozaR16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/006_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Calvo-ZaragozaR16"
+    }
+  },
+  {
+    "title": "Analyzing Measure Annotations for Western Classical Music Recordings.",
+    "author": [
+      "Christof Wei\u00df",
+      "Vlora Arifi-M\u00fcller",
+      "Thomas Pr\u00e4tzlich",
+      "Rainer Kleinertz",
+      "Meinard M\u00fcller"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417449",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417449",
+      "id": 1417449,
+      "pdf": "https://zenodo.org/record/1417449/files/WeissAPKM16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/079_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/WeissAPKM16"
+    }
+  },
+  {
+    "title": "Instrumental Idiom in the 16th Century: Embellishment Patterns in Arrangements of Vocal Music.",
+    "author": [
+      "David Lewis",
+      "Tim Crawford",
+      "Daniel M\u00fcllensiefen"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415964",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415964",
+      "id": 1415964,
+      "pdf": "https://zenodo.org/record/1415964/files/LewisCM16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/165_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/LewisCM16"
+    }
+  },
+  {
+    "title": "The Sousta Corpus: Beat-Informed Automatic Transcription of Traditional Dance Tunes.",
+    "author": [
+      "Andre Holzapfel",
+      "Emmanouil Benetos"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416938",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416938",
+      "id": 1416938,
+      "pdf": "https://zenodo.org/record/1416938/files/HolzapfelB16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/156_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HolzapfelB16"
+    }
+  },
+  {
+    "title": "Learning a Feature Space for Similarity in World Music.",
+    "author": [
+      "Maria Panteli",
+      "Emmanouil Benetos",
+      "Simon Dixon"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415216",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415216",
+      "id": 1415216,
+      "pdf": "https://zenodo.org/record/1415216/files/PanteliBD16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/166_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/PanteliBD16"
+    }
+  },
+  {
+    "title": "Systematic Exploration of Computational Music Structure Research.",
+    "author": [
+      "Oriol Nieto",
+      "Juan Pablo Bello"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417661",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417661",
+      "id": 1417661,
+      "pdf": "https://zenodo.org/record/1417661/files/NietoB16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/043_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/NietoB16"
+    }
+  },
+  {
+    "title": "Using Priors to Improve Estimates of Music Structure.",
+    "author": [
+      "Jordan B. L. Smith",
+      "Masataka Goto"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416916",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416916",
+      "id": 1416916,
+      "pdf": "https://zenodo.org/record/1416916/files/SmithG16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/135_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/SmithG16"
+    }
+  },
+  {
+    "title": "Music Structural Segmentation Across Genres with Gammatone Features.",
+    "author": [
+      "Mi Tian",
+      "Mark B. Sandler"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417713",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417713",
+      "id": 1417713,
+      "pdf": "https://zenodo.org/record/1417713/files/TianS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/032_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/TianS16"
+    }
+  },
+  {
+    "title": "A Comparison of Melody Extraction Methods Based on Source-Filter Modelling.",
+    "author": [
+      "Juan J. Bosch",
+      "Rachel M. Bittner",
+      "Justin Salamon",
+      "Emilia G\u00f3mez"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418167",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418167",
+      "id": 1418167,
+      "pdf": "https://zenodo.org/record/1418167/files/BoschBSG16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/256_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BoschBSG16"
+    }
+  },
+  {
+    "title": "An Analysis of Agreement in Classical Music Perception and its Relationship to Listener Characteristics.",
+    "author": [
+      "Markus Schedl",
+      "Hamid Eghbal-Zadeh",
+      "Emilia G\u00f3mez",
+      "Marko Tkalcic"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417559",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417559",
+      "id": 1417559,
+      "pdf": "https://zenodo.org/record/1417559/files/SchedlEGT16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/260_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/SchedlEGT16"
+    }
+  },
+  {
+    "title": "An Attack/Decay Model for Piano Transcription.",
+    "author": [
+      "Tian Cheng",
+      "Matthias Mauch",
+      "Emmanouil Benetos",
+      "Simon Dixon"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418153",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418153",
+      "id": 1418153,
+      "pdf": "https://zenodo.org/record/1418153/files/0001MBD16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/085_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/0001MBD16"
+    }
+  },
+  {
+    "title": "Automatic Drum Transcription Using Bi-Directional Recurrent Neural Networks.",
+    "author": [
+      "Carl Southall",
+      "Ryan Stables",
+      "Jason Hockman"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416244",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416244",
+      "id": 1416244,
+      "pdf": "https://zenodo.org/record/1416244/files/SouthallSH16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/217_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/SouthallSH16"
+    }
+  },
+  {
+    "title": "Automatic Practice Logging: Introduction, Dataset & Preliminary Study.",
+    "author": [
+      "R. Michael Winters",
+      "Siddharth Gururani",
+      "Alexander Lerch"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416224",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416224",
+      "id": 1416224,
+      "pdf": "https://zenodo.org/record/1416224/files/WintersGL16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/181_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/WintersGL16"
+    }
+  },
+  {
+    "title": "Data-Driven Exploration of Melodic Structure in Hindustani Music.",
+    "author": [
+      "Kaustuv Kanti Ganguli",
+      "Sankalp Gulati",
+      "Xavier Serra",
+      "Preeti Rao"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416520",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416520",
+      "id": 1416520,
+      "pdf": "https://zenodo.org/record/1416520/files/GanguliGSR16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/121_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/GanguliGSR16"
+    }
+  },
+  {
+    "title": "Deep Convolutional Networks on the Pitch Spiral For Music Instrument Recognition.",
+    "author": [
+      "Vincent Lostanlen",
+      "Carmine-Emanuele Cella"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416928",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416928",
+      "id": 1416928,
+      "pdf": "https://zenodo.org/record/1416928/files/LostanlenC16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/093_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/LostanlenC16"
+    }
+  },
+  {
+    "title": "DTV-Based Melody Cutting for DTW-Based Melody Search and Indexing in QbH Systems.",
+    "author": [
+      "Bartlomiej Stasiak"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415704",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415704",
+      "id": 1415704,
+      "pdf": "https://zenodo.org/record/1415704/files/Stasiak16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/089_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Stasiak16"
+    }
+  },
+  {
+    "title": "Elucidating User Behavior in Music Services Through Persona and Gender.",
+    "author": [
+      "John Fuller",
+      "Lauren Hubener",
+      "Yea-Seul Kim",
+      "Jin Ha Lee"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415928",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415928",
+      "id": 1415928,
+      "pdf": "https://zenodo.org/record/1415928/files/FullerHKL16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/205_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/FullerHKL16"
+    }
+  },
+  {
+    "title": "Exploring the Latent Structure of Collaborations in Music Recordings: A Case Study in Jazz.",
+    "author": [
+      "Nazareno Andrade",
+      "Flavio Figueiredo"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416176",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416176",
+      "id": 1416176,
+      "pdf": "https://zenodo.org/record/1416176/files/AndradeF16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/251_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/AndradeF16"
+    }
+  },
+  {
+    "title": "Global Properties of Expert and Algorithmic Hierarchical Music Analyses.",
+    "author": [
+      "Phillip B. Kirlin"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416118",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416118",
+      "id": 1416118,
+      "pdf": "https://zenodo.org/record/1416118/files/Kirlin16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/259_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Kirlin16"
+    }
+  },
+  {
+    "title": "Human-Interactive Optical Music Recognition.",
+    "author": [
+      "Liang Chen",
+      "Erik Stolterman",
+      "Christopher Raphael"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416184",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416184",
+      "id": 1416184,
+      "pdf": "https://zenodo.org/record/1416184/files/ChenSR16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/106_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ChenSR16"
+    }
+  },
+  {
+    "title": "I Said it First: Topological Analysis of Lyrical Influence Networks.",
+    "author": [
+      "Jack Atherton",
+      "Blair Kaneshiro"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418047",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418047",
+      "id": 1418047,
+      "pdf": "https://zenodo.org/record/1418047/files/AthertonK16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/221_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/AthertonK16"
+    }
+  },
+  {
+    "title": "Impact of Music on Decision Making in Quantitative Tasks.",
+    "author": [
+      "Elad Liebman",
+      "Peter Stone",
+      "Corey N. White"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417743",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417743",
+      "id": 1417743,
+      "pdf": "https://zenodo.org/record/1417743/files/LiebmanSW16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/272_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/LiebmanSW16"
+    }
+  },
+  {
+    "title": "Interactive Scores in Classical Music Production.",
+    "author": [
+      "Simon Waloschek",
+      "Axel Berndt",
+      "Benjamin W. Bohl",
+      "Aristotelis Hadjakos"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416710",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416710",
+      "id": 1416710,
+      "pdf": "https://zenodo.org/record/1416710/files/WaloschekBBH16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/192_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/WaloschekBBH16"
+    }
+  },
+  {
+    "title": "Jazz Ensemble Expressive Performance Modeling.",
+    "author": [
+      "Helena Bantul\u00e0",
+      "Sergio I. Giraldo",
+      "Rafael Ram\u00edrez"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415876",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415876",
+      "id": 1415876,
+      "pdf": "https://zenodo.org/record/1415876/files/BantulaGR16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/162_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BantulaGR16"
+    }
+  },
+  {
+    "title": "Mining Musical Traits of Social Functions in Native American Music.",
+    "author": [
+      "Daniel Shanahan",
+      "Kerstin Neubarth",
+      "Darrell Conklin"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416408",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416408",
+      "id": 1416408,
+      "pdf": "https://zenodo.org/record/1416408/files/ShanahanNC16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/167_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ShanahanNC16"
+    }
+  },
+  {
+    "title": "Mining Online Music Listening Trajectories.",
+    "author": [
+      "Flavio Figueiredo",
+      "Bruno Ribeiro",
+      "Christos Faloutsos",
+      "Nazareno Andrade",
+      "Jussara M. Almeida"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417275",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417275",
+      "id": 1417275,
+      "pdf": "https://zenodo.org/record/1417275/files/FigueiredoRFAA16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/193_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/FigueiredoRFAA16"
+    }
+  },
+  {
+    "title": "Musical Typicality: How Many Similar Songs Exist?.",
+    "author": [
+      "Tomoyasu Nakano",
+      "Daichi Mochihashi",
+      "Kazuyoshi Yoshii",
+      "Masataka Goto"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417915",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417915",
+      "id": 1417915,
+      "pdf": "https://zenodo.org/record/1417915/files/NakanoMYG16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/191_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/NakanoMYG16"
+    }
+  },
+  {
+    "title": "MusicDB: A Platform for Longitudinal Music Analytics.",
+    "author": [
+      "Jeremy Hyrkas",
+      "Bill Howe"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417381",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417381",
+      "id": 1417381,
+      "pdf": "https://zenodo.org/record/1417381/files/HyrkasH16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/284_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HyrkasH16"
+    }
+  },
+  {
+    "title": "Noise Robust Music Artist Recognition Using I-Vector Features.",
+    "author": [
+      "Hamid Eghbal-zadeh",
+      "Gerhard Widmer"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417199",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417199",
+      "id": 1417199,
+      "pdf": "https://zenodo.org/record/1417199/files/Eghbal-zadehW16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/037_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Eghbal-zadehW16"
+    }
+  },
+  {
+    "title": "On the Use of Note Onsets for Improved Lyrics-To-Audio Alignment in Turkish Makam Music.",
+    "author": [
+      "Georgi Dzhambazov",
+      "Ajay Srinivasamurthy",
+      "Sertan Sent\u00fcrk",
+      "Xavier Serra"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415988",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415988",
+      "id": 1415988,
+      "pdf": "https://zenodo.org/record/1415988/files/DzhambazovSSS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/243_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/DzhambazovSSS16"
+    }
+  },
+  {
+    "title": "Querying XML Score Databases: XQuery is not Enough!.",
+    "author": [
+      "Rapha\u00ebl Fournier-S'niehotta",
+      "Philippe Rigaux",
+      "Nicolas Travers"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416976",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416976",
+      "id": 1416976,
+      "pdf": "https://zenodo.org/record/1416976/files/Fournier-Sniehotta16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/136_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Fournier-Sniehotta16"
+    }
+  },
+  {
+    "title": "Recurrent Neural Networks for Drum Transcription.",
+    "author": [
+      "Richard Vogl",
+      "Matthias Dorfer",
+      "Peter Knees"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417613",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417613",
+      "id": 1417613,
+      "pdf": "https://zenodo.org/record/1417613/files/VoglDK16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/269_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/VoglDK16"
+    }
+  },
+  {
+    "title": "Singing Voice Melody Transcription Using Deep Neural Networks.",
+    "author": [
+      "Fran\u00e7ois Rigaud",
+      "Mathieu Radenen"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418051",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418051",
+      "id": 1418051,
+      "pdf": "https://zenodo.org/record/1418051/files/RigaudR16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/163_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/RigaudR16"
+    }
+  },
+  {
+    "title": "Sparse Coding Based Music Genre Classification Using Spectro-Temporal Modulations.",
+    "author": [
+      "Kai-Chun Hsu",
+      "Chih-Shan Lin",
+      "Tai-Shih Chi"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418099",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418099",
+      "id": 1418099,
+      "pdf": "https://zenodo.org/record/1418099/files/HsuLC16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/046_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HsuLC16"
+    }
+  },
+  {
+    "title": "Time-Delayed Melody Surfaces for R\u0101ga Recognition.",
+    "author": [
+      "Sankalp Gulati",
+      "Joan Serr\u00e0",
+      "Kaustuv Kanti Ganguli",
+      "Sertan Sent\u00fcrk",
+      "Xavier Serra"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417905",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417905",
+      "id": 1417905,
+      "pdf": "https://zenodo.org/record/1417905/files/GulatiSGSS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/030_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/GulatiSGSS16"
+    }
+  },
+  {
+    "title": "Transcribing Human Piano Performances into Music Notation.",
+    "author": [
+      "Andrea Cogliati",
+      "David Temperley",
+      "Zhiyao Duan"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416466",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416466",
+      "id": 1416466,
+      "pdf": "https://zenodo.org/record/1416466/files/CogliatiTD16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/088_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/CogliatiTD16"
+    }
+  },
+  {
+    "title": "WiMIR: An Informetric Study On Women Authors In ISMIR.",
+    "author": [
+      "Xiao Hu",
+      "Kahyun Choi",
+      "Jin Ha Lee",
+      "Audrey Laplante",
+      "Yun Hao",
+      "Sally Jo Cunningham",
+      "J. Stephen Downie"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1414832",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414832",
+      "id": 1414832,
+      "pdf": "https://zenodo.org/record/1414832/files/HuCLLHCD16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/283_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/HuCLLHCD16"
+    }
+  },
+  {
+    "title": "Automatic Melodic Reduction Using a Supervised Probabilistic Context-Free Grammar.",
+    "author": [
+      "Ryan Groves"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416924",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416924",
+      "id": 1416924,
+      "pdf": "https://zenodo.org/record/1416924/files/Groves16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/274_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Groves16"
+    }
+  },
+  {
+    "title": "A Neural Greedy Model for Voice Separation in Symbolic Music.",
+    "author": [
+      "Patrick Gray",
+      "Razvan C. Bunescu"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1417251",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417251",
+      "id": 1417251,
+      "pdf": "https://zenodo.org/record/1417251/files/GrayB16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/296_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/GrayB16"
+    }
+  },
+  {
+    "title": "Towards Score Following In Sheet Music Images.",
+    "author": [
+      "Matthias Dorfer",
+      "Andreas Arzt",
+      "Gerhard Widmer"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415548",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415548",
+      "id": 1415548,
+      "pdf": "https://zenodo.org/record/1415548/files/DorferAW16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/027_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/DorferAW16"
+    }
+  },
+  {
+    "title": "Extracting Ground-Truth Information from MIDI Files: A MIDIfesto.",
+    "author": [
+      "Colin Raffel",
+      "Daniel P. W. Ellis"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1418233",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1418233",
+      "id": 1418233,
+      "pdf": "https://zenodo.org/record/1418233/files/RaffelE16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/105_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/RaffelE16"
+    }
+  },
+  {
+    "title": "Automatic Tagging Using Deep Convolutional Neural Networks.",
+    "author": [
+      "Keunwoo Choi",
+      "Gy\u00f6rgy Fazekas",
+      "Mark B. Sandler"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1416254",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416254",
+      "id": 1416254,
+      "pdf": "https://zenodo.org/record/1416254/files/ChoiFS16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/009_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ChoiFS16"
+    }
+  },
+  {
+    "title": "A Hybrid Gaussian-HMM-Deep Learning Approach for Automatic Chord Estimation with Very Large Vocabulary.",
+    "author": [
+      "Jun-qi Deng",
+      "Yu-Kwong Kwok"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1415718",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415718",
+      "id": 1415718,
+      "pdf": "https://zenodo.org/record/1415718/files/DengK16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/058_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/DengK16"
+    }
+  },
+  {
+    "title": "Melody Extraction on Vocal Segments Using Multi-Column Deep Neural Networks.",
+    "author": [
+      "Sangeun Kum",
+      "Changheun Oh",
+      "Juhan Nam"
+    ],
+    "year": "2016",
+    "doi": "10.5281/zenodo.1414788",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414788",
+      "id": 1414788,
+      "pdf": "https://zenodo.org/record/1414788/files/KumON16.pdf"
+    },
+    "ismir": {
+      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/119_Paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/KumON16"
+    }
+  }
+]

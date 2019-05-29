@@ -1,0 +1,768 @@
+[
+  {
+    "title": "The role of Music IR in the New Zealand Digital Music Library project.",
+    "author": [
+      "David Bainbridge"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1416260",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416260",
+      "id": 1416260,
+      "pdf": "https://zenodo.org/record/1416260/files/Bainbridge00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/invites/bainbridge_invite.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Bainbridge00"
+    }
+  },
+  {
+    "title": "Automatic Segmentation for Music Classification using Competitive Hidden Markov Models.",
+    "author": [
+      "Eloi Batlle",
+      "Pedro Cano"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1416764",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416764",
+      "id": 1416764,
+      "pdf": "https://zenodo.org/record/1416764/files/BatlleC00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/batlle.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BatlleC00"
+    }
+  },
+  {
+    "title": "Techniques for Automatic Music Transcription.",
+    "author": [
+      "Juan Pablo Bello",
+      "Giuliano Monti",
+      "Mark B. Sandler"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1414872",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414872",
+      "id": 1414872,
+      "pdf": "https://zenodo.org/record/1414872/files/BelloMS00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/bello_paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BelloMS00"
+    }
+  },
+  {
+    "title": "Time Domain Extraction of Vibrato from Monophonic Instruments.",
+    "author": [
+      "Daniel Bendor",
+      "Mark B. Sandler"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1416810",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416810",
+      "id": 1416810,
+      "pdf": "https://zenodo.org/record/1416810/files/BendorS00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/bendor.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/BendorS00"
+    }
+  },
+  {
+    "title": "IR for Contemporary Music: What the Musicologist Needs.",
+    "author": [
+      "Alain Bonardi"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1415912",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415912",
+      "id": 1415912,
+      "pdf": "https://zenodo.org/record/1415912/files/Bonardi00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/invites/bonardi_invite.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Bonardi00"
+    }
+  },
+  {
+    "title": "Using User Models in Music Information Retrieval Systems.",
+    "author": [
+      "Wei Chai",
+      "Barry Vercoe"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1415898",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415898",
+      "id": 1415898,
+      "pdf": "https://zenodo.org/record/1415898/files/ChaiV00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/chai.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ChaiV00"
+    }
+  },
+  {
+    "title": "Music Representation, Indexing and Retrieval at NTHU.",
+    "author": [
+      "Arbee L. P. Chen"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1417981",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417981",
+      "id": 1417981,
+      "pdf": "https://zenodo.org/record/1417981/files/Chen00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/invites/chen_invite.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Chen00"
+    }
+  },
+  {
+    "title": "Optical Music Recognition System within a Large-Scale Digitization Project.",
+    "author": [
+      "G. Sayeed Choudhury",
+      "M. Droetboom",
+      "Tim DiLauro",
+      "Ichiro Fujinaga",
+      "Brian Harrington"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1415730",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415730",
+      "id": 1415730,
+      "pdf": "https://zenodo.org/record/1415730/files/ChoudhuryDDFH00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/choudhury_paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ChoudhuryDDFH00"
+    }
+  },
+  {
+    "title": "PROMS: A Web-based Tool for Searching in Polyphonic Music.",
+    "author": [
+      "Michael Clausen",
+      "R. Engelbrecht",
+      "D. Meyer",
+      "J. Schmitz"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1417139",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417139",
+      "id": 1417139,
+      "pdf": "https://zenodo.org/record/1417139/files/ClausenEMS00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/clausen_abs.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/ClausenEMS00"
+    }
+  },
+  {
+    "title": "Exploration of Point-Distribution Models for Similarity-based Classification and Indexing of Polyphonic Music.",
+    "author": [
+      "Dave Cliff",
+      "Heppie Freeburn"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1416572",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416572",
+      "id": 1416572,
+      "pdf": "https://zenodo.org/record/1416572/files/CliffF00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/cliff.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/CliffF00"
+    }
+  },
+  {
+    "title": "Finding Motifs with Gaps.",
+    "author": [
+      "Maxime Crochemore",
+      "Costas S. Iliopoulos",
+      "Yoan J. Pinz\u00f3n"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1415986",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415986",
+      "id": 1415986,
+      "pdf": "https://zenodo.org/record/1415986/files/CrochemoreIP00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/pinzon.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/CrochemoreIP00"
+    }
+  },
+  {
+    "title": "Beyond VARIATIONS: Creating a Digital Music Library.",
+    "author": [
+      "Jon W. Dunn"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1415148",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415148",
+      "id": 1415148,
+      "pdf": "https://zenodo.org/record/1415148/files/Dunn00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/invites/dunn_invite.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Dunn00"
+    }
+  },
+  {
+    "title": "ARTHUR: Retrieving Orchestral Music by Long-Term Structure.",
+    "author": [
+      "Jonathan Foote"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1416644",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416644",
+      "id": 1416644,
+      "pdf": "https://zenodo.org/record/1416644/files/Foote00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/foote_paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Foote00"
+    }
+  },
+  {
+    "title": "A Music Interface for Visually Impaired People in the WEDELMUSIC Environment. Design and Architecture.",
+    "author": [
+      "Anastasia Georgaki",
+      "Spyros Raptis",
+      "Stelios Bakamidis"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1417291",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417291",
+      "id": 1417291,
+      "pdf": "https://zenodo.org/record/1417291/files/GeorgakiRB00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/georgaki.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/GeorgakiRB00"
+    }
+  },
+  {
+    "title": "Representing Music Using XML.",
+    "author": [
+      "Michael Good"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1415032",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415032",
+      "id": 1415032,
+      "pdf": "https://zenodo.org/record/1415032/files/Good00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/good.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Good00"
+    }
+  },
+  {
+    "title": "Towards Instrument Segmentation for Music Content Description: a Critical Review of Instrument Classification Techniques.",
+    "author": [
+      "Perfecto Herrera-Boyer",
+      "Xavier Amatriain",
+      "Eloi Batlle",
+      "Xavier Serra"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1416768",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416768",
+      "id": 1416768,
+      "pdf": "https://zenodo.org/record/1416768/files/Herrera-BoyerABS00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/herrera_paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Herrera-BoyerABS00"
+    }
+  },
+  {
+    "title": "Perceptual and Cognitive Applications in Music Information Retrieval.",
+    "author": [
+      "David Huron"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1414794",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414794",
+      "id": 1414794,
+      "pdf": "https://zenodo.org/record/1414794/files/Huron00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/invites/HuronAbstract.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Huron00"
+    }
+  },
+  {
+    "title": "Subject Search for Music: Quantitative Analysis of Access Point Selection.",
+    "author": [
+      "Mari Itoh"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1414950",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414950",
+      "id": 1414950,
+      "pdf": "https://zenodo.org/record/1414950/files/Itoh00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/itoh.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Itoh00"
+    }
+  },
+  {
+    "title": "Using a Spectral Flatness Based Feature for Audio Segmentation and Retrieval.",
+    "author": [
+      "\u00d6zg\u00fcr Izmirli"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1416438",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416438",
+      "id": 1416438,
+      "pdf": "https://zenodo.org/record/1416438/files/Izmirli00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/izmirli.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Izmirli00"
+    }
+  },
+  {
+    "title": "SEMEX - An efficient Music Retrieval Prototype.",
+    "author": [
+      "Kjell Lemstr\u00f6m",
+      "Sami Perttu"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1415908",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415908",
+      "id": 1415908,
+      "pdf": "https://zenodo.org/record/1415908/files/LemstromP00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/lemstrom_paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/LemstromP00"
+    }
+  },
+  {
+    "title": "Score-based Style Recognition Using Artificial Neural Networks.",
+    "author": [
+      "Francis J. Kiernan"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1416626",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416626",
+      "id": 1416626,
+      "pdf": "https://zenodo.org/record/1416626/files/Kiernan00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/kiernan.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Kiernan00"
+    }
+  },
+  {
+    "title": "Analysis of a Contour-based Representation for Melody.",
+    "author": [
+      "Youngmoo E. Kim",
+      "Wei Chai",
+      "Ricardo Garc\u00eda",
+      "Barry Vercoe"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1416760",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416760",
+      "id": 1416760,
+      "pdf": "https://zenodo.org/record/1416760/files/KimCGV00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/kim.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/KimCGV00"
+    }
+  },
+  {
+    "title": "Searching for Meaning: Melodic Patterns, Combinations, and Embellishments.",
+    "author": [
+      "Steve Larson"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1415738",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415738",
+      "id": 1415738,
+      "pdf": "https://zenodo.org/record/1415738/files/Larson00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/invites/larson_invite.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Larson00"
+    }
+  },
+  {
+    "title": "Intellectual Property Rights in Musical Works: Overview, Digital Library Issues and Related Initiatives.",
+    "author": [
+      "Mary Levering"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1416786",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416786",
+      "id": 1416786,
+      "pdf": "https://zenodo.org/record/1416786/files/Levering00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/invites/levering_invite.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Levering00"
+    }
+  },
+  {
+    "title": "Integrating Paper and Digital Music Information Systems.",
+    "author": [
+      "Karen Lin",
+      "Tim Bell"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1416544",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416544",
+      "id": 1416544,
+      "pdf": "https://zenodo.org/record/1416544/files/LinB00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/linbell_fullpaper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/LinB00"
+    }
+  },
+  {
+    "title": "Mel Frequency Cepstral Coefficients for Music Modeling.",
+    "author": [
+      "Beth Logan"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1416444",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416444",
+      "id": 1416444,
+      "pdf": "https://zenodo.org/record/1416444/files/Logan00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/logan_paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Logan00"
+    }
+  },
+  {
+    "title": "MuTaTeD'll: A System for Music Information Retrieval of Encoded Music.",
+    "author": [
+      "Donald MacLellan",
+      "Carola Boehm"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1417755",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417755",
+      "id": 1417755,
+      "pdf": "https://zenodo.org/record/1417755/files/MacLellanB00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/boehm.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/MacLellanB00"
+    }
+  },
+  {
+    "title": "A Comparison of Language Modeling and Probabilistic Text Information Retrieval Approaches to Monophonic Music Retrieval.",
+    "author": [
+      "Jeremy Pickens"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1415100",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415100",
+      "id": 1415100,
+      "pdf": "https://zenodo.org/record/1415100/files/Pickens00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/pickens_paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Pickens00"
+    }
+  },
+  {
+    "title": "XML4MIR: Extensible Markup Language for Music Information Retrieval.",
+    "author": [
+      "Perry Roland"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1417167",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417167",
+      "id": 1417167,
+      "pdf": "https://zenodo.org/record/1417167/files/Roland00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/roland_paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Roland00"
+    }
+  },
+  {
+    "title": "MCML - Music Contents Markup Language.",
+    "author": [
+      "Jochen Schimmelpfennig",
+      "Frank Kurth"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1415526",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415526",
+      "id": 1415526,
+      "pdf": "https://zenodo.org/record/1415526/files/SchimmelpfennigK00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/schimmelpfennig.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/SchimmelpfennigK00"
+    }
+  },
+  {
+    "title": "What Motivates a Musical Query?.",
+    "author": [
+      "Eleanor Selfridge-Field"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1415970",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1415970",
+      "id": 1415970,
+      "pdf": "https://zenodo.org/record/1415970/files/Selfridge-Field00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/invites/selfridge_invite.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Selfridge-Field00"
+    }
+  },
+  {
+    "title": "Audio Information Retrieval (AIR) Tools.",
+    "author": [
+      "Perry R. Cook",
+      "George Tzanetakis"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1416716",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416716",
+      "id": 1416716,
+      "pdf": "https://zenodo.org/record/1416716/files/CookT00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/tzanetakis_paper.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/CookT00"
+    }
+  },
+  {
+    "title": "Music IR: Past, Present, and Future.",
+    "author": [
+      "Alexandra L. Uitdenbogerd"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1417545",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1417545",
+      "id": 1417545,
+      "pdf": "https://zenodo.org/record/1417545/files/Uitdenbogerd00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/papers/invites/uitdenbogerd_invite.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/Uitdenbogerd00"
+    }
+  },
+  {
+    "title": "Music Ranking Techniques Evaluated.",
+    "author": [
+      "Alexandra L. Uitdenbogerd",
+      "Justin Zobel"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1414990",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1414990",
+      "id": 1414990,
+      "pdf": "https://zenodo.org/record/1414990/files/UitdenbogerdZ00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/uitdenbogerd.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/UitdenbogerdZ00"
+    }
+  },
+  {
+    "title": "From Raw Polyphonic Audio to Locating Recurring Themes.",
+    "author": [
+      "Thomas von Schroeter",
+      "Shyamala Doraisamy",
+      "Stefan M. R\u00fcger"
+    ],
+    "year": "2000",
+    "doi": "10.5281/zenodo.1416124",
+    "abstract": null,
+    "zenodo": {
+      "html": "https://doi.org/10.5281/zenodo.1416124",
+      "id": 1416124,
+      "pdf": "https://zenodo.org/record/1416124/files/SchroeterDR00.pdf"
+    },
+    "ismir": {
+      "pdf": "http://ismir2000.ismir.net/posters/shroeter_ruger.pdf",
+      "id": null
+    },
+    "dblp": {
+      "id": "conf/ismir/SchroeterDR00"
+    }
+  }
+]
