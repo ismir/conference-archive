@@ -12,8 +12,8 @@ $ ./scripts/export_to_markdown.py \
 Or, this can be used with `parallel` to bulk export a number of pages:
 
 $ seq -w 00 18 | \
-    parallel -j4 -v "./scripts/metadata_to_markdown.py \
-        database/proceedings/2018.json \
+    parallel -j4 -v "./scripts/export_to_markdown.py \
+        database/proceedings/ismir20{}.json \
         assets/md/ismir20{}.md --page_sort"
 """
 import argparse
@@ -36,17 +36,14 @@ title: Conferences
 
 def render_one(record):
     record = copy.deepcopy(record)
-    record['url'] = record.get('url', '')
-    record['ee'] = record.get('ee', '')
+    record['html'] = record['zenodo'].get('html', '')
+    record['pdf'] = record['ismir'].get('pdf', '')
 
-    if isinstance(record['author'], list):
-        authors = ', '.join(record['author'])
-    else:
-        authors = record['author']
+    authors = ', '.join(record['author'])
 
     pages = record.pop('pages', '') + ' '
 
-    return ('|{0}<br>**[{title}]({url})** {1}[[pdf]({ee})]|'
+    return ('|{0}<br>**[{title}]({html})** {1}[[pdf]({pdf})]|'
             .format(authors, pages, **record))
 
 
@@ -55,7 +52,7 @@ def render(records, year=None, page_sort=False):
         records = filter(lambda x: x['year'] == year, records)
 
     if page_sort:
-        records = sorted(records, key=lambda x: int(x['pages'].split('-')[0]))
+        records = sorted(records, key=lambda x: int(x.get('pages', '0').split('-')[0]))
 
     lines = [render_one(record) for record in records]
     return '\n'.join([TEMPLATE] + lines)
