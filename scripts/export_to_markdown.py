@@ -11,10 +11,11 @@ $ ./scripts/export_to_markdown.py \
 
 Or, this can be used with `parallel` to bulk export a number of pages:
 
-$ seq -w 00 18 | \
-    parallel -j4 -v "./scripts/export_to_markdown.py \
-        database/proceedings/ismir20{}.json \
-        assets/md/ismir20{}.md --page_sort"
+$ seq -w 00 18 | parallel -j4 -v "./scripts/export_to_markdown.py \
+    database/proceedings/ismir20{}.json \
+    ../ismir-home/docs/conferences/ismir20{}.md \
+    --page_sort \
+    --year 20{}"
 """
 import argparse
 import copy
@@ -24,14 +25,13 @@ import sys
 
 TEMPLATE = '''
 ---
-title: Conferences
+title: ISMIR {year}
 ---
 
-## [Conferences](/conferences) / ISMIR {year}
+## [Conferences]({{{{site.base_url}}}}/conferences) / ISMIR {year}
 
 | Papers |
-| --- |
-'''
+| --- |'''
 
 
 def render_one(record):
@@ -55,7 +55,7 @@ def render(records, year=None, page_sort=False):
         records = sorted(records, key=lambda x: int(x.get('pages', '0').split('-')[0]))
 
     lines = [render_one(record) for record in records]
-    return '\n'.join([TEMPLATE] + lines)
+    return '\n'.join([TEMPLATE.format(year=year)] + lines)
 
 
 if __name__ == '__main__':
@@ -67,12 +67,14 @@ if __name__ == '__main__':
     parser.add_argument("output_file", type=str,
                         help="Path to output markdown file.")
     parser.add_argument("--page_sort", dest="page_sort", action='store_true',
-                        help="Path to output markdown file.")
+                        help="If given, sort records by page number.")
+    parser.add_argument("--year", type=str, default=None,
+                        help="Year of the conference records.")
 
     args = parser.parse_args()
     proceedings = json.load(open(args.proceedings))
 
     with open(args.output_file, 'w') as fp:
-        fp.write(render(proceedings, page_sort=args.page_sort))
+        fp.write(render(proceedings, page_sort=args.page_sort, year=args.year))
 
     sys.exit(0 if os.path.exists(args.output_file) else 1)
