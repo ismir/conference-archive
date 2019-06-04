@@ -34,7 +34,7 @@
       "pdf": "https://zenodo.org/record/1417161/files/Barthelemy01.pdf"
     },
     "ismir": {
-      "pdf": "https://dblp.uni-trier.de/rec/bibtex/conf/ismir/Barthelemy01",
+      "pdf": "http://ismir2001.ismir.net/pdf/barthelemy.pdf",
       "id": null
     },
     "dblp": {
@@ -76,7 +76,7 @@
       "pdf": "https://zenodo.org/record/1414822/files/Chen01.pdf"
     },
     "ismir": {
-      "pdf": "https://dblp.uni-trier.de/rec/bibtex/conf/ismir/Chen01",
+      "pdf": null,
       "id": null
     },
     "dblp": {
@@ -97,7 +97,7 @@
       "pdf": null
     },
     "ismir": {
-      "pdf": "https://dblp.uni-trier.de/rec/bibtex/conf/ismir/Cope01",
+      "pdf": null,
       "id": null
     },
     "dblp": {
@@ -118,7 +118,7 @@
       "pdf": "https://zenodo.org/record/1418263/files/Dannenberg01.pdf"
     },
     "ismir": {
-      "pdf": "https://dblp.uni-trier.de/rec/bibtex/conf/ismir/Dannenberg01",
+      "pdf": null,
       "id": null
     },
     "dblp": {
@@ -181,7 +181,7 @@
       "pdf": null
     },
     "ismir": {
-      "pdf": "https://dblp.uni-trier.de/rec/bibtex/conf/ismir/Downie01",
+      "pdf": "http://ismir2001.ismir.net/posters/downie.pdf",
       "id": null
     },
     "dblp": {
@@ -310,7 +310,7 @@
       "pdf": "https://zenodo.org/record/1418071/files/LindsayK01.pdf"
     },
     "ismir": {
-      "pdf": "https://dblp.uni-trier.de/rec/bibtex/conf/ismir/LindsayK01",
+      "pdf": null,
       "id": null
     },
     "dblp": {
@@ -415,7 +415,7 @@
       "pdf": "https://zenodo.org/record/1415056/files/Pollastri01.pdf"
     },
     "ismir": {
-      "pdf": "https://dblp.uni-trier.de/rec/bibtex/conf/ismir/Pollastri01",
+      "pdf": null,
       "id": null
     },
     "dblp": {
@@ -457,7 +457,7 @@
       "pdf": null
     },
     "ismir": {
-      "pdf": "https://dblp.uni-trier.de/rec/bibtex/conf/ismir/Raskin01",
+      "pdf": null,
       "id": null
     },
     "dblp": {
