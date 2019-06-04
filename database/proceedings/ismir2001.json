@@ -13,8 +13,9 @@
       "pdf": "https://zenodo.org/record/1417853/files/Allamanche01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/allamanche.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000000.pdf",
+      "id": "ismir2001:paper:000000",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/allamanche.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Allamanche01"
@@ -34,8 +35,9 @@
       "pdf": "https://zenodo.org/record/1417161/files/Barthelemy01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/barthelemy.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000001.pdf",
+      "id": "ismir2001:paper:000001",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/barthelemy.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Barthelemy01"
@@ -55,8 +57,9 @@
       "pdf": "https://zenodo.org/record/1415810/files/Birmingham01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/birmingham.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000002.pdf",
+      "id": "ismir2001:paper:000002",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/birmingham.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Birmingham01"
@@ -77,7 +80,8 @@
     },
     "ismir": {
       "pdf": null,
-      "id": null
+      "id": null,
+      "original_pdf": null
     },
     "dblp": {
       "id": "conf/ismir/Chen01"
@@ -98,7 +102,8 @@
     },
     "ismir": {
       "pdf": null,
-      "id": null
+      "id": null,
+      "original_pdf": null
     },
     "dblp": {
       "id": "conf/ismir/Cope01"
@@ -119,7 +124,8 @@
     },
     "ismir": {
       "pdf": null,
-      "id": null
+      "id": null,
+      "original_pdf": null
     },
     "dblp": {
       "id": "conf/ismir/Dannenberg01"
@@ -139,8 +145,9 @@
       "pdf": "https://zenodo.org/record/1415622/files/Doraisamy01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/doraisamy.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000003.pdf",
+      "id": "ismir2001:paper:000003",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/doraisamy.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Doraisamy01"
@@ -160,8 +167,9 @@
       "pdf": "https://zenodo.org/record/1416140/files/Dovey01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/dovey.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000004.pdf",
+      "id": "ismir2001:paper:000004",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/dovey.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Dovey01"
@@ -181,8 +189,9 @@
       "pdf": null
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/posters/downie.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/poster/000002.pdf",
+      "id": "ismir2001:poster:000002",
+      "original_pdf": "http://ismir2001.ismir.net/posters/downie.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Downie01"
@@ -202,8 +211,9 @@
       "pdf": "https://zenodo.org/record/1417741/files/Droettboom01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/droettboom.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000005.pdf",
+      "id": "ismir2001:paper:000005",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/droettboom.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Droettboom01"
@@ -223,8 +233,9 @@
       "pdf": "https://zenodo.org/record/1415680/files/Durey01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/durey.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000006.pdf",
+      "id": "ismir2001:paper:000006",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/durey.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Durey01"
@@ -244,8 +255,9 @@
       "pdf": "https://zenodo.org/record/1417359/files/Hofmann-Engl01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/hofmann-engl.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000008.pdf",
+      "id": "ismir2001:paper:000008",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/hofmann-engl.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Hofmann-Engl01"
@@ -267,8 +279,9 @@
       "pdf": "https://zenodo.org/record/1417517/files/Holger01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/hoos.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000009.pdf",
+      "id": "ismir2001:paper:000009",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/hoos.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Holger01"
@@ -288,8 +301,9 @@
       "pdf": "https://zenodo.org/record/1416100/files/Kornstadt01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/kornstadt.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000011.pdf",
+      "id": "ismir2001:paper:000011",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/kornstadt.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Kornstadt01"
@@ -311,7 +325,8 @@
     },
     "ismir": {
       "pdf": null,
-      "id": null
+      "id": null,
+      "original_pdf": null
     },
     "dblp": {
       "id": "conf/ismir/LindsayK01"
@@ -331,8 +346,9 @@
       "pdf": "https://zenodo.org/record/1414828/files/Meek01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/meek.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000012.pdf",
+      "id": "ismir2001:paper:000012",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/meek.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Meek01"
@@ -352,8 +368,9 @@
       "pdf": "https://zenodo.org/record/1417191/files/Nishimura01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/nishimura.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000013.pdf",
+      "id": "ismir2001:paper:000013",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/nishimura.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Nishimura01"
@@ -373,8 +390,9 @@
       "pdf": "https://zenodo.org/record/1416442/files/Maidin01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/omaidin.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000014.pdf",
+      "id": "ismir2001:paper:000014",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/omaidin.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Maidin01"
@@ -394,8 +412,9 @@
       "pdf": "https://zenodo.org/record/1415856/files/Pachet01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/pachet.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000015.pdf",
+      "id": "ismir2001:paper:000015",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/pachet.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Pachet01"
@@ -416,7 +435,8 @@
     },
     "ismir": {
       "pdf": null,
-      "id": null
+      "id": null,
+      "original_pdf": null
     },
     "dblp": {
       "id": "conf/ismir/Pollastri01"
@@ -436,8 +456,9 @@
       "pdf": "https://zenodo.org/record/1416122/files/Raphael01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/raphael.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000016.pdf",
+      "id": "ismir2001:paper:000016",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/raphael.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Raphael01"
@@ -458,7 +479,8 @@
     },
     "ismir": {
       "pdf": null,
-      "id": null
+      "id": null,
+      "original_pdf": null
     },
     "dblp": {
       "id": "conf/ismir/Raskin01"
@@ -478,8 +500,9 @@
       "pdf": "https://zenodo.org/record/1415546/files/Reiss01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/reiss.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000017.pdf",
+      "id": "ismir2001:paper:000017",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/reiss.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Reiss01"
@@ -499,8 +522,9 @@
       "pdf": "https://zenodo.org/record/1416512/files/Smiraglia01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/smiraglia.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000018.pdf",
+      "id": "ismir2001:paper:000018",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/smiraglia.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Smiraglia01"
@@ -520,8 +544,9 @@
       "pdf": "https://zenodo.org/record/1415058/files/Tzanetakis01.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2001.ismir.net/pdf/tzanetakis.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2001/paper/000019.pdf",
+      "id": "ismir2001:paper:000019",
+      "original_pdf": "http://ismir2001.ismir.net/pdf/tzanetakis.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Tzanetakis01"

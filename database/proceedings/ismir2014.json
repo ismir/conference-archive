@@ -14,8 +14,9 @@
       "pdf": "https://zenodo.org/record/1417391/files/SinghiB14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T002_113_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000113.pdf",
+      "id": "ismir2014:paper:000113",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T002_113_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SinghiB14"
@@ -37,8 +38,9 @@
       "pdf": "https://zenodo.org/record/1417215/files/SuYY14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T003_213_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000213.pdf",
+      "id": "ismir2014:paper:000213",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T003_213_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SuYY14"
@@ -61,8 +63,9 @@
       "pdf": "https://zenodo.org/record/1415266/files/KokuerJAA14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T004_203_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000203.pdf",
+      "id": "ismir2014:paper:000203",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T004_203_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KokuerJAA14"
@@ -83,8 +86,9 @@
       "pdf": "https://zenodo.org/record/1416364/files/SturmC14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T005_176_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000176.pdf",
+      "id": "ismir2014:paper:000176",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T005_176_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SturmC14"
@@ -106,8 +110,9 @@
       "pdf": "https://zenodo.org/record/1415890/files/OordDS14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T007_118_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000118.pdf",
+      "id": "ismir2014:paper:000118",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T007_118_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OordDS14"
@@ -129,8 +134,9 @@
       "pdf": "https://zenodo.org/record/1417925/files/GrohganzCM14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T008_121_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000121.pdf",
+      "id": "ismir2014:paper:000121",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T008_121_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GrohganzCM14"
@@ -154,8 +160,9 @@
       "pdf": "https://zenodo.org/record/1418053/files/BarbanchoTTDB14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T009_130_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000130.pdf",
+      "id": "ismir2014:paper:000130",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T009_130_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BarbanchoTTDB14"
@@ -177,8 +184,9 @@
       "pdf": "https://zenodo.org/record/1416678/files/HerwaardenGH14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T010_132_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000132.pdf",
+      "id": "ismir2014:paper:000132",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T010_132_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HerwaardenGH14"
@@ -203,8 +211,9 @@
       "pdf": "https://zenodo.org/record/1416792/files/SigtiaBCWGD14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T011_142_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000142.pdf",
+      "id": "ismir2014:paper:000142",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T011_142_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SigtiaBCWGD14"
@@ -228,8 +237,9 @@
       "pdf": "https://zenodo.org/record/1415030/files/GiraudLMRT14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T012_143_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000143.pdf",
+      "id": "ismir2014:paper:000143",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T012_143_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GiraudLMRT14"
@@ -253,8 +263,9 @@
       "pdf": "https://zenodo.org/record/1416306/files/KroherGGGB14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T013_148_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000148.pdf",
+      "id": "ismir2014:paper:000148",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T013_148_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KroherGGGB14"
@@ -275,8 +286,9 @@
       "pdf": "https://zenodo.org/record/1417767/files/AntilaC14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T014_162_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000162.pdf",
+      "id": "ismir2014:paper:000162",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T014_162_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AntilaC14"
@@ -297,8 +309,9 @@
       "pdf": "https://zenodo.org/record/1415878/files/HanL14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T015_165_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000165.pdf",
+      "id": "ismir2014:paper:000165",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T015_165_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HanL14"
@@ -320,8 +333,9 @@
       "pdf": "https://zenodo.org/record/1416382/files/WangED14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T016_174_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000174.pdf",
+      "id": "ismir2014:paper:000174",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T016_174_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WangED14"
@@ -344,8 +358,9 @@
       "pdf": "https://zenodo.org/record/1414914/files/SturmBLE14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T017_180_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000180.pdf",
+      "id": "ismir2014:paper:000180",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T017_180_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SturmBLE14"
@@ -366,8 +381,9 @@
       "pdf": "https://zenodo.org/record/1415786/files/ArjannikovZ14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T018_186_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000186.pdf",
+      "id": "ismir2014:paper:000186",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T018_186_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ArjannikovZ14"
@@ -389,8 +405,9 @@
       "pdf": "https://zenodo.org/record/1416944/files/CherlaWG14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T019_187_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000187.pdf",
+      "id": "ismir2014:paper:000187",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T019_187_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CherlaWG14"
@@ -412,8 +429,9 @@
       "pdf": "https://zenodo.org/record/1417589/files/PuginZR14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T020_221_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000221.pdf",
+      "id": "ismir2014:paper:000221",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T020_221_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PuginZR14"
@@ -436,8 +454,9 @@
       "pdf": "https://zenodo.org/record/1418265/files/SilvaRRB14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T021_263_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000263.pdf",
+      "id": "ismir2014:paper:000263",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T021_263_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SilvaRRB14"
@@ -457,8 +476,9 @@
       "pdf": "https://zenodo.org/record/1415218/files/Laaksonen14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T022_277_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000277.pdf",
+      "id": "ismir2014:paper:000277",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T022_277_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Laaksonen14"
@@ -480,8 +500,9 @@
       "pdf": "https://zenodo.org/record/1416150/files/MironCJ14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T023_281_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000281.pdf",
+      "id": "ismir2014:paper:000281",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T023_281_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MironCJ14"
@@ -503,8 +524,9 @@
       "pdf": "https://zenodo.org/record/1416084/files/PesekLM14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T024_286_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000286.pdf",
+      "id": "ismir2014:paper:000286",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T024_286_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PesekLM14"
@@ -527,8 +549,9 @@
       "pdf": "https://zenodo.org/record/1416832/files/ManLKR14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T025_293_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000293.pdf",
+      "id": "ismir2014:paper:000293",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T025_293_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ManLKR14"
@@ -551,8 +574,9 @@
       "pdf": "https://zenodo.org/record/1417081/files/YadatiLLH14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T026_297_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000297.pdf",
+      "id": "ismir2014:paper:000297",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T026_297_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YadatiLLH14"
@@ -572,8 +596,9 @@
       "pdf": "https://zenodo.org/record/1415566/files/Glazyrin14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T027_311_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000311.pdf",
+      "id": "ismir2014:paper:000311",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T027_311_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Glazyrin14"
@@ -598,8 +623,9 @@
       "pdf": "https://zenodo.org/record/1417889/files/BittnerSTMCB14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T028_322_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000322.pdf",
+      "id": "ismir2014:paper:000322",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T028_322_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BittnerSTMCB14"
@@ -620,8 +646,9 @@
       "pdf": "https://zenodo.org/record/1416714/files/TangB14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T029_329_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000329.pdf",
+      "id": "ismir2014:paper:000329",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T029_329_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TangB14"
@@ -643,8 +670,9 @@
       "pdf": "https://zenodo.org/record/1416120/files/LiangPE14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T030_363_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000363.pdf",
+      "id": "ismir2014:paper:000363",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T030_363_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiangPE14"
@@ -667,8 +695,9 @@
       "pdf": "https://zenodo.org/record/1418059/files/BenetosBWR14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T032_235_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000235.pdf",
+      "id": "ismir2014:paper:000235",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T032_235_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BenetosBWR14"
@@ -689,8 +718,9 @@
       "pdf": "https://zenodo.org/record/1416534/files/DuanT14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T033_333_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000333.pdf",
+      "id": "ismir2014:paper:000333",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T033_333_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DuanT14"
@@ -712,8 +742,9 @@
       "pdf": "https://zenodo.org/record/1417341/files/ThompsonDM14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T034_302_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000302.pdf",
+      "id": "ismir2014:paper:000302",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T034_302_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ThompsonDM14"
@@ -735,8 +766,9 @@
       "pdf": "https://zenodo.org/record/1416058/files/ChaconLG14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T036_230_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000230.pdf",
+      "id": "ismir2014:paper:000230",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T036_230_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChaconLG14"
@@ -758,8 +790,9 @@
       "pdf": "https://zenodo.org/record/1415772/files/BazzicaLH14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T037_182_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000182.pdf",
+      "id": "ismir2014:paper:000182",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T037_182_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BazzicaLH14"
@@ -781,8 +814,9 @@
       "pdf": "https://zenodo.org/record/1418013/files/Rodriguez-LopezVB14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T038_294_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000294.pdf",
+      "id": "ismir2014:paper:000294",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T038_294_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Rodriguez-LopezVB14"
@@ -802,8 +836,9 @@
       "pdf": "https://zenodo.org/record/1417833/files/Kirlin14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T039_344_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000344.pdf",
+      "id": "ismir2014:paper:000344",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T039_344_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Kirlin14"
@@ -824,8 +859,9 @@
       "pdf": "https://zenodo.org/record/1417595/files/MartorellG14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T040_305_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000305.pdf",
+      "id": "ismir2014:paper:000305",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T040_305_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MartorellG14"
@@ -848,8 +884,9 @@
       "pdf": "https://zenodo.org/record/1415780/files/MasudaYGM14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T042_131_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000131.pdf",
+      "id": "ismir2014:paper:000131",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T042_131_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MasudaYGM14"
@@ -872,8 +909,9 @@
       "pdf": "https://zenodo.org/record/1415594/files/MaezawaIYO14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T043_173_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000173.pdf",
+      "id": "ismir2014:paper:000173",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T043_173_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MaezawaIYO14"
@@ -896,8 +934,9 @@
       "pdf": "https://zenodo.org/record/1417361/files/WangYYW14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T044_211_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000211.pdf",
+      "id": "ismir2014:paper:000211",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T044_211_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WangYYW14"
@@ -917,8 +956,9 @@
       "pdf": "https://zenodo.org/record/1416970/files/Flexer14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T045_256_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000256.pdf",
+      "id": "ismir2014:paper:000256",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T045_256_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Flexer14"
@@ -940,8 +980,9 @@
       "pdf": "https://zenodo.org/record/1417153/files/WuHL14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T047_109_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000109.pdf",
+      "id": "ismir2014:paper:000109",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T047_109_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WuHL14"
@@ -962,8 +1003,9 @@
       "pdf": "https://zenodo.org/record/1416190/files/SixL14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T048_122_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000122.pdf",
+      "id": "ismir2014:paper:000122",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T048_122_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SixL14"
@@ -986,8 +1028,9 @@
       "pdf": "https://zenodo.org/record/1414958/files/NietoFJB14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T049_124_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000124.pdf",
+      "id": "ismir2014:paper:000124",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T049_124_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NietoFJB14"
@@ -1007,8 +1050,9 @@
       "pdf": "https://zenodo.org/record/1416870/files/Kruspe14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T050_126_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000126.pdf",
+      "id": "ismir2014:paper:000126",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T050_126_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Kruspe14"
@@ -1031,8 +1075,9 @@
       "pdf": "https://zenodo.org/record/1416818/files/MolinaTBB14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T051_147_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000147.pdf",
+      "id": "ismir2014:paper:000147",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T051_147_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MolinaTBB14"
@@ -1055,8 +1100,9 @@
       "pdf": "https://zenodo.org/record/1414974/files/VenkataramaniNRV14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T052_177_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000177.pdf",
+      "id": "ismir2014:paper:000177",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T052_177_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VenkataramaniNRV14"
@@ -1078,8 +1124,9 @@
       "pdf": "https://zenodo.org/record/1416910/files/ChenJL14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T053_181_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000181.pdf",
+      "id": "ismir2014:paper:000181",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T053_181_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChenJL14"
@@ -1102,8 +1149,9 @@
       "pdf": "https://zenodo.org/record/1417655/files/FourerRHR14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T054_206_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000206.pdf",
+      "id": "ismir2014:paper:000206",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T054_206_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FourerRHR14"
@@ -1125,8 +1173,9 @@
       "pdf": "https://zenodo.org/record/1417653/files/SidorovJM14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T055_226_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000226.pdf",
+      "id": "ismir2014:paper:000226",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T055_226_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SidorovJM14"
@@ -1147,8 +1196,9 @@
       "pdf": "https://zenodo.org/record/1418039/files/PratzlichM14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T056_231_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000231.pdf",
+      "id": "ismir2014:paper:000231",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T056_231_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PratzlichM14"
@@ -1169,8 +1219,9 @@
       "pdf": "https://zenodo.org/record/1416030/files/RepettoS14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T057_237_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000237.pdf",
+      "id": "ismir2014:paper:000237",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T057_237_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RepettoS14"
@@ -1192,8 +1243,9 @@
       "pdf": "https://zenodo.org/record/1416384/files/MadsenJL14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T058_254_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000254.pdf",
+      "id": "ismir2014:paper:000254",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T058_254_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MadsenJL14"
@@ -1215,8 +1267,9 @@
       "pdf": "https://zenodo.org/record/1415658/files/HamanakaHT14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T059_257_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000257.pdf",
+      "id": "ismir2014:paper:000257",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T059_257_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HamanakaHT14"
@@ -1237,8 +1290,9 @@
       "pdf": "https://zenodo.org/record/1417211/files/CaetanoW14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T060_258_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000258.pdf",
+      "id": "ismir2014:paper:000258",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T060_258_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CaetanoW14"
@@ -1259,8 +1313,9 @@
       "pdf": "https://zenodo.org/record/1414764/files/PeetersB14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T061_288_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000288.pdf",
+      "id": "ismir2014:paper:000288",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T061_288_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PeetersB14"
@@ -1282,8 +1337,9 @@
       "pdf": "https://zenodo.org/record/1416250/files/ZhangRS14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T062_292_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000292.pdf",
+      "id": "ismir2014:paper:000292",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T062_292_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ZhangRS14"
@@ -1308,8 +1364,9 @@
       "pdf": "https://zenodo.org/record/1417245/files/FrissonDYRSD14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T063_299_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000299.pdf",
+      "id": "ismir2014:paper:000299",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T063_299_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FrissonDYRSD14"
@@ -1336,8 +1393,9 @@
       "pdf": "https://zenodo.org/record/1415926/files/PesekGPSGSPM14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T064_307_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000307.pdf",
+      "id": "ismir2014:paper:000307",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T064_307_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PesekGPSGSPM14"
@@ -1357,8 +1415,9 @@
       "pdf": "https://zenodo.org/record/1418345/files/Lartillot14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T065_308_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000308.pdf",
+      "id": "ismir2014:paper:000308",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T065_308_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Lartillot14"
@@ -1384,8 +1443,9 @@
       "pdf": "https://zenodo.org/record/1416528/files/RaffelMHSNLE14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T066_320_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000320.pdf",
+      "id": "ismir2014:paper:000320",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T066_320_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RaffelMHSNLE14"
@@ -1407,8 +1467,9 @@
       "pdf": "https://zenodo.org/record/1415192/files/AljanakiWV14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T067_325_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000325.pdf",
+      "id": "ismir2014:paper:000325",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T067_325_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AljanakiWV14"
@@ -1431,8 +1492,9 @@
       "pdf": "https://zenodo.org/record/1417795/files/BalenBWV14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T068_337_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000337.pdf",
+      "id": "ismir2014:paper:000337",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T068_337_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BalenBWV14"
@@ -1455,8 +1517,9 @@
       "pdf": "https://zenodo.org/record/1417993/files/HuLCD14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T069_341_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000341.pdf",
+      "id": "ismir2014:paper:000341",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T069_341_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HuLCD14"
@@ -1477,8 +1540,9 @@
       "pdf": "https://zenodo.org/record/1416172/files/KranenburgK14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T070_347_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000347.pdf",
+      "id": "ismir2014:paper:000347",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T070_347_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KranenburgK14"
@@ -1499,8 +1563,9 @@
       "pdf": "https://zenodo.org/record/1418157/files/DuttaM14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T071_380_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000380.pdf",
+      "id": "ismir2014:paper:000380",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T071_380_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DuttaM14"
@@ -1521,8 +1586,9 @@
       "pdf": "https://zenodo.org/record/1415778/files/McFeeE14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T073_319_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000319.pdf",
+      "id": "ismir2014:paper:000319",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T073_319_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McFeeE14"
@@ -1543,8 +1609,9 @@
       "pdf": "https://zenodo.org/record/1417259/files/NietoF14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T074_150_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000150.pdf",
+      "id": "ismir2014:paper:000150",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T074_150_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NietoF14"
@@ -1566,8 +1633,9 @@
       "pdf": "https://zenodo.org/record/1415886/files/UllrichSG14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T075_271_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000271.pdf",
+      "id": "ismir2014:paper:000271",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T075_271_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/UllrichSG14"
@@ -1589,8 +1657,9 @@
       "pdf": "https://zenodo.org/record/1415000/files/HolzapfelKS14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T077_265_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000265.pdf",
+      "id": "ismir2014:paper:000265",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T077_265_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HolzapfelKS14"
@@ -1613,8 +1682,9 @@
       "pdf": "https://zenodo.org/record/1417267/files/SrinivasamurthyRHS14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T078_134_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000134.pdf",
+      "id": "ismir2014:paper:000134",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T078_134_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SrinivasamurthyRHS14"
@@ -1636,8 +1706,9 @@
       "pdf": "https://zenodo.org/record/1415178/files/MooreJT14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T080_188_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000188.pdf",
+      "id": "ismir2014:paper:000188",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T080_188_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MooreJT14"
@@ -1659,8 +1730,9 @@
       "pdf": "https://zenodo.org/record/1416776/files/XingWW14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T081_140_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000140.pdf",
+      "id": "ismir2014:paper:000140",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T081_140_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/XingWW14"
@@ -1680,8 +1752,9 @@
       "pdf": "https://zenodo.org/record/1417797/files/Laplante14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T082_339_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000339.pdf",
+      "id": "ismir2014:paper:000339",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T082_339_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Laplante14"
@@ -1704,8 +1777,9 @@
       "pdf": "https://zenodo.org/record/1415676/files/CunninghamNBA14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T083_184_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000184.pdf",
+      "id": "ismir2014:paper:000184",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T083_184_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CunninghamNBA14"
@@ -1727,8 +1801,9 @@
       "pdf": "https://zenodo.org/record/1415098/files/MorchidDL14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T086_151_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000151.pdf",
+      "id": "ismir2014:paper:000151",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T086_151_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MorchidDL14"
@@ -1749,8 +1824,9 @@
       "pdf": "https://zenodo.org/record/1417004/files/SinghiB14a.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T085_107_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000107.pdf",
+      "id": "ismir2014:paper:000107",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T085_107_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SinghiB14a"
@@ -1773,8 +1849,9 @@
       "pdf": "https://zenodo.org/record/1415678/files/HuangKHS14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T087_154_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000154.pdf",
+      "id": "ismir2014:paper:000154",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T087_154_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HuangKHS14"
@@ -1798,8 +1875,9 @@
       "pdf": "https://zenodo.org/record/1417505/files/FarrahiSVHT14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T088_192_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000192.pdf",
+      "id": "ismir2014:paper:000192",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T088_192_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FarrahiSVHT14"
@@ -1820,8 +1898,9 @@
       "pdf": "https://zenodo.org/record/1416186/files/VeraC14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T089_194_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000194.pdf",
+      "id": "ismir2014:paper:000194",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T089_194_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VeraC14"
@@ -1845,8 +1924,9 @@
       "pdf": "https://zenodo.org/record/1416452/files/HsuWLMS14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T090_227_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000227.pdf",
+      "id": "ismir2014:paper:000227",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T090_227_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HsuWLMS14"
@@ -1867,8 +1947,9 @@
       "pdf": "https://zenodo.org/record/1414748/files/LamL14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T091_236_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000236.pdf",
+      "id": "ismir2014:paper:000236",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T091_236_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LamL14"
@@ -1890,8 +1971,9 @@
       "pdf": "https://zenodo.org/record/1417373/files/YangHC14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T092_241_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000241.pdf",
+      "id": "ismir2014:paper:000241",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T092_241_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YangHC14"
@@ -1913,8 +1995,9 @@
       "pdf": "https://zenodo.org/record/1415118/files/KorzeniowskiBW14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T093_242_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000242.pdf",
+      "id": "ismir2014:paper:000242",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T093_242_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KorzeniowskiBW14"
@@ -1936,8 +2019,9 @@
       "pdf": "https://zenodo.org/record/1418011/files/JunRH14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T094_244_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000244.pdf",
+      "id": "ismir2014:paper:000244",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T094_244_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/JunRH14"
@@ -1959,8 +2043,9 @@
       "pdf": "https://zenodo.org/record/1417091/files/BurgoyneHP14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T095_250_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000250.pdf",
+      "id": "ismir2014:paper:000250",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T095_250_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BurgoyneHP14"
@@ -1982,8 +2067,9 @@
       "pdf": "https://zenodo.org/record/1415152/files/NakamuraOS14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T096_251_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000251.pdf",
+      "id": "ismir2014:paper:000251",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T096_251_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NakamuraOS14"
@@ -2005,8 +2091,9 @@
       "pdf": "https://zenodo.org/record/1416664/files/PanteliBH14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T097_268_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000268.pdf",
+      "id": "ismir2014:paper:000268",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T097_268_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PanteliBH14"
@@ -2031,8 +2118,9 @@
       "pdf": "https://zenodo.org/record/1418195/files/Przyjaciel-ZablockiHSGTL14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T098_270_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000270.pdf",
+      "id": "ismir2014:paper:000270",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T098_270_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Przyjaciel-ZablockiHSGTL14"
@@ -2054,8 +2142,9 @@
       "pdf": "https://zenodo.org/record/1415850/files/ArztWS14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T099_276_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000276.pdf",
+      "id": "ismir2014:paper:000276",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T099_276_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ArztWS14"
@@ -2077,8 +2166,9 @@
       "pdf": "https://zenodo.org/record/1417605/files/WuJL14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T100_278_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000278.pdf",
+      "id": "ismir2014:paper:000278",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T100_278_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WuJL14"
@@ -2099,8 +2189,9 @@
       "pdf": "https://zenodo.org/record/1416192/files/BolandM14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T101_296_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000296.pdf",
+      "id": "ismir2014:paper:000296",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T101_296_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BolandM14"
@@ -2123,8 +2214,9 @@
       "pdf": "https://zenodo.org/record/1417729/files/MolinaBTB14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T102_298_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000298.pdf",
+      "id": "ismir2014:paper:000298",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T102_298_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MolinaBTB14"
@@ -2148,8 +2240,9 @@
       "pdf": "https://zenodo.org/record/1416276/files/UrbanoBHGS14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T103_326_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000326.pdf",
+      "id": "ismir2014:paper:000326",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T103_326_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/UrbanoBHGS14"
@@ -2171,8 +2264,9 @@
       "pdf": "https://zenodo.org/record/1414778/files/HuLW14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T104_346_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000346.pdf",
+      "id": "ismir2014:paper:000346",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T104_346_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HuLW14"
@@ -2196,8 +2290,9 @@
       "pdf": "https://zenodo.org/record/1418075/files/SasakiYNGM14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T105_352_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000352.pdf",
+      "id": "ismir2014:paper:000352",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T105_352_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SasakiYNGM14"
@@ -2222,8 +2317,9 @@
       "pdf": "https://zenodo.org/record/1415924/files/HumphreySNFBB14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T106_355_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000355.pdf",
+      "id": "ismir2014:paper:000355",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T106_355_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HumphreySNFBB14"
@@ -2245,8 +2341,9 @@
       "pdf": "https://zenodo.org/record/1416638/files/SaurelRD14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T107_356_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000356.pdf",
+      "id": "ismir2014:paper:000356",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T107_356_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SaurelRD14"
@@ -2268,8 +2365,9 @@
       "pdf": "https://zenodo.org/record/1415240/files/BockKW14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T108_367_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000367.pdf",
+      "id": "ismir2014:paper:000367",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T108_367_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BockKW14"
@@ -2291,8 +2389,9 @@
       "pdf": "https://zenodo.org/record/1415226/files/DriedgerMD14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T110_127_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000127.pdf",
+      "id": "ismir2014:paper:000127",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T110_127_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DriedgerMD14"
@@ -2314,8 +2413,9 @@
       "pdf": "https://zenodo.org/record/1417695/files/YenLC14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T111_217_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000217.pdf",
+      "id": "ismir2014:paper:000217",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T111_217_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YenLC14"
@@ -2338,8 +2438,9 @@
       "pdf": "https://zenodo.org/record/1417463/files/NakamuraSTK14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T112_135_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000135.pdf",
+      "id": "ismir2014:paper:000135",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T112_135_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NakamuraSTK14"
@@ -2362,8 +2463,9 @@
       "pdf": "https://zenodo.org/record/1415002/files/TianFBS14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T114_229_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000229.pdf",
+      "id": "ismir2014:paper:000229",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T114_229_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TianFBS14"
@@ -2384,8 +2486,9 @@
       "pdf": "https://zenodo.org/record/1415128/files/DaviesB14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T115_238_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000238.pdf",
+      "id": "ismir2014:paper:000238",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T115_238_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DaviesB14"
@@ -2406,8 +2509,9 @@
       "pdf": "https://zenodo.org/record/1416752/files/ChurchC14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T116_357_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000357.pdf",
+      "id": "ismir2014:paper:000357",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T116_357_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChurchC14"
@@ -2429,8 +2533,9 @@
       "pdf": "https://zenodo.org/record/1415734/files/StoberCG14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T117_317_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000317.pdf",
+      "id": "ismir2014:paper:000317",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T117_317_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/StoberCG14"
@@ -2455,8 +2560,9 @@
       "pdf": "https://zenodo.org/record/1417181/files/DownieHLCCH14.pdf"
     },
     "ismir": {
-      "pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T119_342_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2014/paper/000342.pdf",
+      "id": "ismir2014:paper:000342",
+      "original_pdf": "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T119_342_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DownieHLCCH14"

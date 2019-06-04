@@ -16,7 +16,8 @@
     },
     "ismir": {
       "pdf": null,
-      "id": null
+      "id": null,
+      "original_pdf": null
     },
     "dblp": {
       "id": "conf/ismir/WangFC08"
@@ -37,7 +38,8 @@
     },
     "ismir": {
       "pdf": null,
-      "id": null
+      "id": null,
+      "original_pdf": null
     },
     "dblp": {
       "id": "conf/ismir/Dubnov08"
@@ -59,7 +61,8 @@
     },
     "ismir": {
       "pdf": null,
-      "id": null
+      "id": null,
+      "original_pdf": null
     },
     "dblp": {
       "id": "conf/ismir/LamereP08"
@@ -81,7 +84,8 @@
     },
     "ismir": {
       "pdf": null,
-      "id": null
+      "id": null,
+      "original_pdf": null
     },
     "dblp": {
       "id": "conf/ismir/Selfridge-FieldS08"
@@ -102,8 +106,9 @@
       "pdf": "https://zenodo.org/record/1416986/files/ScholzR08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_200.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000200.pdf",
+      "id": "ismir2008:paper:000200",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_200.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ScholzR08"
@@ -124,8 +129,9 @@
       "pdf": "https://zenodo.org/record/1414826/files/ZhangG08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_241.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000241.pdf",
+      "id": "ismir2008:paper:000241",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_241.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ZhangG08"
@@ -150,8 +156,9 @@
       "pdf": "https://zenodo.org/record/1417221/files/SumiIYKOO08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_236.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000236.pdf",
+      "id": "ismir2008:paper:000236",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_236.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SumiIYKOO08"
@@ -172,8 +179,9 @@
       "pdf": "https://zenodo.org/record/1416982/files/MauchD08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_214.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000214.pdf",
+      "id": "ismir2008:paper:000214",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_214.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MauchD08"
@@ -195,8 +203,9 @@
       "pdf": "https://zenodo.org/record/1418069/files/HaasVW08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_252.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000252.pdf",
+      "id": "ismir2008:paper:000252",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_252.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HaasVW08"
@@ -217,8 +226,9 @@
       "pdf": "https://zenodo.org/record/1417095/files/ChuanC08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_179.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000179.pdf",
+      "id": "ismir2008:paper:000179",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_179.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChuanC08"
@@ -239,8 +249,9 @@
       "pdf": "https://zenodo.org/record/1416550/files/AngladeD08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_189.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000189.pdf",
+      "id": "ismir2008:paper:000189",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_189.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AngladeD08"
@@ -261,8 +272,9 @@
       "pdf": "https://zenodo.org/record/1415638/files/BergeronC08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_177.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000177.pdf",
+      "id": "ismir2008:paper:000177",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_177.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BergeronC08"
@@ -283,8 +295,9 @@
       "pdf": "https://zenodo.org/record/1415794/files/MaxwellE08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_158.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000158.pdf",
+      "id": "ismir2008:paper:000158",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_158.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MaxwellE08"
@@ -307,8 +320,9 @@
       "pdf": "https://zenodo.org/record/1416002/files/RafailidisNMC08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_163.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000163.pdf",
+      "id": "ismir2008:paper:000163",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_163.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RafailidisNMC08"
@@ -330,8 +344,9 @@
       "pdf": "https://zenodo.org/record/1417115/files/PearceMW08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_228.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000228.pdf",
+      "id": "ismir2008:paper:000228",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_228.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PearceMW08"
@@ -353,8 +368,9 @@
       "pdf": "https://zenodo.org/record/1415714/files/SkalakHP08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_216.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000216.pdf",
+      "id": "ismir2008:paper:000216",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_216.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SkalakHP08"
@@ -379,8 +395,9 @@
       "pdf": "https://zenodo.org/record/1416428/files/VolkKGWVG08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_165.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000165.pdf",
+      "id": "ismir2008:paper:000165",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_165.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VolkKGWVG08"
@@ -402,8 +419,9 @@
       "pdf": "https://zenodo.org/record/1416822/files/HamanakaHT08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_142.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000142.pdf",
+      "id": "ismir2008:paper:000142",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_142.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HamanakaHT08"
@@ -425,8 +443,9 @@
       "pdf": "https://zenodo.org/record/1416358/files/TsaiLL08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_188.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000188.pdf",
+      "id": "ismir2008:paper:000188",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_188.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TsaiLL08"
@@ -448,8 +467,9 @@
       "pdf": "https://zenodo.org/record/1416932/files/FengNH08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_201.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000201.pdf",
+      "id": "ismir2008:paper:000201",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_201.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FengNH08"
@@ -470,8 +490,9 @@
       "pdf": "https://zenodo.org/record/1417815/files/LittleP08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_239.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000239.pdf",
+      "id": "ismir2008:paper:000239",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_239.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LittleP08"
@@ -495,8 +516,9 @@
       "pdf": "https://zenodo.org/record/1417407/files/ItoyamaGKOO08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_264.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000264.pdf",
+      "id": "ismir2008:paper:000264",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_264.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ItoyamaGKOO08"
@@ -519,8 +541,9 @@
       "pdf": "https://zenodo.org/record/1415044/files/OnoMKS08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_120.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000120.pdf",
+      "id": "ismir2008:paper:000120",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_120.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OnoMKS08"
@@ -540,8 +563,9 @@
       "pdf": "https://zenodo.org/record/1416894/files/Knopke08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_253.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000253.pdf",
+      "id": "ismir2008:paper:000253",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_253.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Knopke08"
@@ -563,8 +587,9 @@
       "pdf": "https://zenodo.org/record/1415268/files/FiebrinkWC08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_151.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000151.pdf",
+      "id": "ismir2008:paper:000151",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_151.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FiebrinkWC08"
@@ -585,8 +610,9 @@
       "pdf": "https://zenodo.org/record/1418139/files/MagnoS08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_157.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000157.pdf",
+      "id": "ismir2008:paper:000157",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_157.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MagnoS08"
@@ -607,8 +633,9 @@
       "pdf": "https://zenodo.org/record/1415962/files/MohB08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_119.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000119.pdf",
+      "id": "ismir2008:paper:000119",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_119.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MohB08"
@@ -631,8 +658,9 @@
       "pdf": "https://zenodo.org/record/1418273/files/FlexerSGW08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_143.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000143.pdf",
+      "id": "ismir2008:paper:000143",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_143.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FlexerSGW08"
@@ -655,8 +683,9 @@
       "pdf": "https://zenodo.org/record/1417305/files/DoplerSPK08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_169.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000169.pdf",
+      "id": "ismir2008:paper:000169",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_169.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DoplerSPK08"
@@ -677,8 +706,9 @@
       "pdf": "https://zenodo.org/record/1418329/files/CunninghamZ08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_123.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000123.pdf",
+      "id": "ismir2008:paper:000123",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_123.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CunninghamZ08"
@@ -702,8 +732,9 @@
       "pdf": "https://zenodo.org/record/1415900/files/NiitsumaTDOS08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_167.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000167.pdf",
+      "id": "ismir2008:paper:000167",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_167.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NiitsumaTDOS08"
@@ -730,8 +761,9 @@
       "pdf": "https://zenodo.org/record/1415108/files/MurataNYTTOHT08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_199.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000199.pdf",
+      "id": "ismir2008:paper:000199",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_199.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MurataNYTTOHT08"
@@ -753,8 +785,9 @@
       "pdf": "https://zenodo.org/record/1416362/files/GasserFW08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_178.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000178.pdf",
+      "id": "ismir2008:paper:000178",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_178.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GasserFW08"
@@ -775,8 +808,9 @@
       "pdf": "https://zenodo.org/record/1415936/files/YoshiiG08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_166.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000166.pdf",
+      "id": "ismir2008:paper:000166",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_166.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YoshiiG08"
@@ -799,8 +833,9 @@
       "pdf": "https://zenodo.org/record/1416672/files/SymeonidisRNM08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_102.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000102.pdf",
+      "id": "ismir2008:paper:000102",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_102.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SymeonidisRNM08"
@@ -822,8 +857,9 @@
       "pdf": "https://zenodo.org/record/1416804/files/TurnbullBL08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_128.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000128.pdf",
+      "id": "ismir2008:paper:000128",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_128.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TurnbullBL08"
@@ -845,8 +881,9 @@
       "pdf": "https://zenodo.org/record/1416586/files/KimSE08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_257.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000257.pdf",
+      "id": "ismir2008:paper:000257",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_257.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KimSE08"
@@ -868,8 +905,9 @@
       "pdf": "https://zenodo.org/record/1416694/files/DuanLZ08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_250.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000250.pdf",
+      "id": "ismir2008:paper:000250",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_250.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DuanLZ08"
@@ -891,8 +929,9 @@
       "pdf": "https://zenodo.org/record/1415796/files/PeetersFR08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_190.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000190.pdf",
+      "id": "ismir2008:paper:000190",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_190.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PeetersFR08"
@@ -915,8 +954,9 @@
       "pdf": "https://zenodo.org/record/1415244/files/CorthautGVD08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_213.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000213.pdf",
+      "id": "ismir2008:paper:000213",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_213.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CorthautGVD08"
@@ -939,8 +979,9 @@
       "pdf": "https://zenodo.org/record/1415262/files/SordoCBG08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_267.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000267.pdf",
+      "id": "ismir2008:paper:000267",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_267.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SordoCBG08"
@@ -961,8 +1002,9 @@
       "pdf": "https://zenodo.org/record/1414840/files/RaimondS08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_109.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000109.pdf",
+      "id": "ismir2008:paper:000109",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_109.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RaimondS08"
@@ -984,8 +1026,9 @@
       "pdf": "https://zenodo.org/record/1417867/files/JacobsonSF08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_118.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000118.pdf",
+      "id": "ismir2008:paper:000118",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_118.pdf"
     },
     "dblp": {
       "id": "conf/ismir/JacobsonSF08"
@@ -1007,8 +1050,9 @@
       "pdf": "https://zenodo.org/record/1417823/files/BaccigalupoPD08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_131.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000131.pdf",
+      "id": "ismir2008:paper:000131",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_131.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BaccigalupoPD08"
@@ -1030,8 +1074,9 @@
       "pdf": "https://zenodo.org/record/1418251/files/FujiharaGO08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_111.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000111.pdf",
+      "id": "ismir2008:paper:000111",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_111.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FujiharaGO08"
@@ -1053,8 +1098,9 @@
       "pdf": "https://zenodo.org/record/1416154/files/KleedorferKP08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_211.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000211.pdf",
+      "id": "ismir2008:paper:000211",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_211.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KleedorferKP08"
@@ -1076,8 +1122,9 @@
       "pdf": "https://zenodo.org/record/1417985/files/RileyHG08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_220.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000220.pdf",
+      "id": "ismir2008:paper:000220",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_220.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RileyHG08"
@@ -1098,8 +1145,9 @@
       "pdf": "https://zenodo.org/record/1415254/files/MiottoO08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_234.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000234.pdf",
+      "id": "ismir2008:paper:000234",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_234.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MiottoO08"
@@ -1120,8 +1168,9 @@
       "pdf": "https://zenodo.org/record/1415154/files/GodfreyC08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_266.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000266.pdf",
+      "id": "ismir2008:paper:000266",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_266.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GodfreyC08"
@@ -1143,8 +1192,9 @@
       "pdf": "https://zenodo.org/record/1415554/files/SlaneyWW08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_148.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000148.pdf",
+      "id": "ismir2008:paper:000148",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_148.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SlaneyWW08"
@@ -1168,8 +1218,9 @@
       "pdf": "https://zenodo.org/record/1417375/files/LiuWSTC08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_161.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000161.pdf",
+      "id": "ismir2008:paper:000161",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_161.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiuWSTC08"
@@ -1192,8 +1243,9 @@
       "pdf": "https://zenodo.org/record/1414900/files/TrohidisTKV08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_275.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000275.pdf",
+      "id": "ismir2008:paper:000275",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_275.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TrohidisTKV08"
@@ -1217,8 +1269,9 @@
       "pdf": "https://zenodo.org/record/1415124/files/DoraisamyGNSU08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_256.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000256.pdf",
+      "id": "ismir2008:paper:000256",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_256.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DoraisamyGNSU08"
@@ -1240,8 +1293,9 @@
       "pdf": "https://zenodo.org/record/1416758/files/MayerNR08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_235.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000235.pdf",
+      "id": "ismir2008:paper:000235",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_235.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MayerNR08"
@@ -1264,8 +1318,9 @@
       "pdf": "https://zenodo.org/record/1416778/files/ManarisKRZ08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_249.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000249.pdf",
+      "id": "ismir2008:paper:000249",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_249.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ManarisKRZ08"
@@ -1287,8 +1342,9 @@
       "pdf": "https://zenodo.org/record/1417223/files/HoffmanBC08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_130.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000130.pdf",
+      "id": "ismir2008:paper:000130",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_130.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HoffmanBC08"
@@ -1309,8 +1365,9 @@
       "pdf": "https://zenodo.org/record/1417723/files/PachetR08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_133.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000133.pdf",
+      "id": "ismir2008:paper:000133",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_133.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PachetR08"
@@ -1331,8 +1388,9 @@
       "pdf": "https://zenodo.org/record/1415892/files/KirlinU08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_229.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000229.pdf",
+      "id": "ismir2008:paper:000229",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_229.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KirlinU08"
@@ -1353,8 +1411,9 @@
       "pdf": "https://zenodo.org/record/1415826/files/PaulusK08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_186.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000186.pdf",
+      "id": "ismir2008:paper:000186",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_186.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PaulusK08"
@@ -1374,8 +1433,9 @@
       "pdf": "https://zenodo.org/record/1417623/files/Lukashevich08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_219.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000219.pdf",
+      "id": "ismir2008:paper:000219",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_219.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Lukashevich08"
@@ -1396,8 +1456,9 @@
       "pdf": "https://zenodo.org/record/1415838/files/GarbersW08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_172.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000172.pdf",
+      "id": "ismir2008:paper:000172",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_172.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GarbersW08"
@@ -1418,8 +1479,9 @@
       "pdf": "https://zenodo.org/record/1415236/files/MullerE08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_115.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000115.pdf",
+      "id": "ismir2008:paper:000115",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_115.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MullerE08"
@@ -1440,8 +1502,9 @@
       "pdf": "https://zenodo.org/record/1416934/files/LeeC08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_126.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000126.pdf",
+      "id": "ismir2008:paper:000126",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_126.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LeeC08"
@@ -1464,8 +1527,9 @@
       "pdf": "https://zenodo.org/record/1415106/files/DugganOGC08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_137.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000137.pdf",
+      "id": "ismir2008:paper:000137",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_137.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DugganOGC08"
@@ -1488,8 +1552,9 @@
       "pdf": "https://zenodo.org/record/1417235/files/BurgoyneDPF08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_221.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000221.pdf",
+      "id": "ismir2008:paper:000221",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_221.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BurgoyneDPF08"
@@ -1512,8 +1577,9 @@
       "pdf": "https://zenodo.org/record/1416034/files/FremereyMKC08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_116.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000116.pdf",
+      "id": "ismir2008:paper:000116",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_116.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FremereyMKC08"
@@ -1536,8 +1602,9 @@
       "pdf": "https://zenodo.org/record/1417683/files/PuginHBF08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_247.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000247.pdf",
+      "id": "ismir2008:paper:000247",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_247.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PuginHBF08"
@@ -1561,8 +1628,9 @@
       "pdf": "https://zenodo.org/record/1415762/files/BurredCPRS08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_197.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000197.pdf",
+      "id": "ismir2008:paper:000197",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_197.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BurredCPRS08"
@@ -1584,8 +1652,9 @@
       "pdf": "https://zenodo.org/record/1414836/files/GansemanSD08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_217.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000217.pdf",
+      "id": "ismir2008:paper:000217",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_217.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GansemanSD08"
@@ -1605,8 +1674,9 @@
       "pdf": "https://zenodo.org/record/1416446/files/Riley08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_244.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000244.pdf",
+      "id": "ismir2008:paper:000244",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_244.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Riley08"
@@ -1628,8 +1698,9 @@
       "pdf": "https://zenodo.org/record/1418341/files/DollMK08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_246.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000246.pdf",
+      "id": "ismir2008:paper:000246",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_246.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DollMK08"
@@ -1651,8 +1722,9 @@
       "pdf": "https://zenodo.org/record/1416282/files/SillaKK08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_106.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000106.pdf",
+      "id": "ismir2008:paper:000106",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_106.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SillaKK08"
@@ -1672,8 +1744,9 @@
       "pdf": "https://zenodo.org/record/1417933/files/Winget08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_268.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000268.pdf",
+      "id": "ismir2008:paper:000268",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_268.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Winget08"
@@ -1697,8 +1770,9 @@
       "pdf": "https://zenodo.org/record/1416380/files/HuDLBE08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_263.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000263.pdf",
+      "id": "ismir2008:paper:000263",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_263.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HuDLBE08"
@@ -1721,8 +1795,9 @@
       "pdf": "https://zenodo.org/record/1417133/files/DownieBEJ08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_265.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000265.pdf",
+      "id": "ismir2008:paper:000265",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_265.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DownieBEJ08"
@@ -1744,8 +1819,9 @@
       "pdf": "https://zenodo.org/record/1418101/files/InskipMR08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_117.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000117.pdf",
+      "id": "ismir2008:paper:000117",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_117.pdf"
     },
     "dblp": {
       "id": "conf/ismir/InskipMR08"
@@ -1767,8 +1843,9 @@
       "pdf": "https://zenodo.org/record/1416988/files/RamirezPK08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_136.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000136.pdf",
+      "id": "ismir2008:paper:000136",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_136.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RamirezPK08"
@@ -1790,8 +1867,9 @@
       "pdf": "https://zenodo.org/record/1416418/files/HashidaMK08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_173.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000173.pdf",
+      "id": "ismir2008:paper:000173",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_173.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HashidaMK08"
@@ -1813,8 +1891,9 @@
       "pdf": "https://zenodo.org/record/1417907/files/Molina-SolanaAG08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_210.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000210.pdf",
+      "id": "ismir2008:paper:000210",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_210.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Molina-SolanaAG08"
@@ -1834,8 +1913,9 @@
       "pdf": "https://zenodo.org/record/1417561/files/Sapp08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_240.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000240.pdf",
+      "id": "ismir2008:paper:000240",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_240.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Sapp08"
@@ -1856,8 +1936,9 @@
       "pdf": "https://zenodo.org/record/1415510/files/MeintanisS08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_233.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000233.pdf",
+      "id": "ismir2008:paper:000233",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_233.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MeintanisS08"
@@ -1879,8 +1960,9 @@
       "pdf": "https://zenodo.org/record/1414756/files/TohZW08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_127.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000127.pdf",
+      "id": "ismir2008:paper:000127",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_127.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TohZW08"
@@ -1903,8 +1985,9 @@
       "pdf": "https://zenodo.org/record/1415514/files/LartillotETF08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_145.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000145.pdf",
+      "id": "ismir2008:paper:000145",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_145.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LartillotETF08"
@@ -1926,8 +2009,9 @@
       "pdf": "https://zenodo.org/record/1417002/files/RavelliRD08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_141.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000141.pdf",
+      "id": "ismir2008:paper:000141",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_141.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RavelliRD08"
@@ -1947,8 +2031,9 @@
       "pdf": "https://zenodo.org/record/1418169/files/Camacho08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_274.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000274.pdf",
+      "id": "ismir2008:paper:000274",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_274.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Camacho08"
@@ -1970,8 +2055,9 @@
       "pdf": "https://zenodo.org/record/1417279/files/WoodruffLW08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_139.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000139.pdf",
+      "id": "ismir2008:paper:000139",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_139.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WoodruffLW08"
@@ -1991,8 +2077,9 @@
       "pdf": "https://zenodo.org/record/1415040/files/Niedermayer08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_198.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000198.pdf",
+      "id": "ismir2008:paper:000198",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_198.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Niedermayer08"
@@ -2014,8 +2101,9 @@
       "pdf": "https://zenodo.org/record/1417155/files/DanielED08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_203.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000203.pdf",
+      "id": "ismir2008:paper:000203",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_203.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DanielED08"
@@ -2038,8 +2126,9 @@
       "pdf": "https://zenodo.org/record/1417939/files/FieldsRCJ08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_209.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000209.pdf",
+      "id": "ismir2008:paper:000209",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_209.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FieldsRCJ08"
@@ -2061,8 +2150,9 @@
       "pdf": "https://zenodo.org/record/1416514/files/DeliegeCP08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_225.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000225.pdf",
+      "id": "ismir2008:paper:000225",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_225.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DeliegeCP08"
@@ -2084,8 +2174,9 @@
       "pdf": "https://zenodo.org/record/1415132/files/ChordiaGR08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_271.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000271.pdf",
+      "id": "ismir2008:paper:000271",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_271.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChordiaGR08"
@@ -2106,8 +2197,9 @@
       "pdf": "https://zenodo.org/record/1418299/files/MandelE08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_205.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000205.pdf",
+      "id": "ismir2008:paper:000205",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_205.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MandelE08"
@@ -2129,8 +2221,9 @@
       "pdf": "https://zenodo.org/record/1414714/files/PanagakisBK08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_181.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000181.pdf",
+      "id": "ismir2008:paper:000181",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_181.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PanagakisBK08"
@@ -2151,8 +2244,9 @@
       "pdf": "https://zenodo.org/record/1416486/files/RabbatP08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_135.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000135.pdf",
+      "id": "ismir2008:paper:000135",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_135.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RabbatP08"
@@ -2173,8 +2267,9 @@
       "pdf": "https://zenodo.org/record/1415576/files/McKayF08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_259.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000259.pdf",
+      "id": "ismir2008:paper:000259",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_259.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McKayF08"
@@ -2196,8 +2291,9 @@
       "pdf": "https://zenodo.org/record/1415034/files/ManzagolBE08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_261.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000261.pdf",
+      "id": "ismir2008:paper:000261",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_261.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ManzagolBE08"
@@ -2218,8 +2314,9 @@
       "pdf": "https://zenodo.org/record/1417399/files/IzumitaniK08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_114.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000114.pdf",
+      "id": "ismir2008:paper:000114",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_114.pdf"
     },
     "dblp": {
       "id": "conf/ismir/IzumitaniK08"
@@ -2242,8 +2339,9 @@
       "pdf": "https://zenodo.org/record/1415070/files/BarringtonYTL08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_160.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000160.pdf",
+      "id": "ismir2008:paper:000160",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_160.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BarringtonYTL08"
@@ -2265,8 +2363,9 @@
       "pdf": "https://zenodo.org/record/1417895/files/TsuchihashiKK08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_171.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000171.pdf",
+      "id": "ismir2008:paper:000171",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_171.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TsuchihashiKK08"
@@ -2286,8 +2385,9 @@
       "pdf": "https://zenodo.org/record/1418113/files/Scaringella08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_193.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000193.pdf",
+      "id": "ismir2008:paper:000193",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_193.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Scaringella08"
@@ -2307,8 +2407,9 @@
       "pdf": "https://zenodo.org/record/1417117/files/Flanagan08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_153.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000153.pdf",
+      "id": "ismir2008:paper:000153",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_153.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Flanagan08"
@@ -2329,8 +2430,9 @@
       "pdf": "https://zenodo.org/record/1417959/files/LimaR08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_238.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000238.pdf",
+      "id": "ismir2008:paper:000238",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_238.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LimaR08"
@@ -2352,8 +2454,9 @@
       "pdf": "https://zenodo.org/record/1416356/files/WrightST08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_273.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000273.pdf",
+      "id": "ismir2008:paper:000273",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_273.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WrightST08"
@@ -2374,8 +2477,9 @@
       "pdf": "https://zenodo.org/record/1415516/files/HolzapfelS08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_174.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000174.pdf",
+      "id": "ismir2008:paper:000174",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_174.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HolzapfelS08"
@@ -2398,8 +2502,9 @@
       "pdf": "https://zenodo.org/record/1414922/files/XiaoTLZ08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_231.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000231.pdf",
+      "id": "ismir2008:paper:000231",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_231.pdf"
     },
     "dblp": {
       "id": "conf/ismir/XiaoTLZ08"
@@ -2420,8 +2525,9 @@
       "pdf": "https://zenodo.org/record/1416218/files/ThulT08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_125.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000125.pdf",
+      "id": "ismir2008:paper:000125",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_125.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ThulT08"
@@ -2442,8 +2548,9 @@
       "pdf": "https://zenodo.org/record/1415956/files/OgiharaL08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_107.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000107.pdf",
+      "id": "ismir2008:paper:000107",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_107.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OgiharaL08"
@@ -2465,8 +2572,9 @@
       "pdf": "https://zenodo.org/record/1416774/files/LemstromMM08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_132.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000132.pdf",
+      "id": "ismir2008:paper:000132",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_132.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LemstromMM08"
@@ -2487,8 +2595,9 @@
       "pdf": "https://zenodo.org/record/1417307/files/TypkeW08.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_110.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2008/paper/000110.pdf",
+      "id": "ismir2008:paper:000110",
+      "original_pdf": "http://ismir2008.ismir.net/papers/ISMIR2008_110.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TypkeW08"

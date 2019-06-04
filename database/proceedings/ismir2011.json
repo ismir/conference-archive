@@ -13,8 +13,9 @@
       "pdf": "https://zenodo.org/record/1416112/files/Dressler11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS1-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000000.pdf",
+      "id": "ismir2011:paper:000000",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS1-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Dressler11"
@@ -36,8 +37,9 @@
       "pdf": "https://zenodo.org/record/1416450/files/ChienWJ11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS1-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000001.pdf",
+      "id": "ismir2011:paper:000001",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS1-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChienWJ11"
@@ -61,8 +63,9 @@
       "pdf": "https://zenodo.org/record/1417343/files/DaidoHIMI11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS1-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000002.pdf",
+      "id": "ismir2011:paper:000002",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS1-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DaidoHIMI11"
@@ -84,8 +87,9 @@
       "pdf": "https://zenodo.org/record/1417821/files/WeningerWS11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS1-4.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000003.pdf",
+      "id": "ismir2011:paper:000003",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS1-4.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WeningerWS11"
@@ -108,8 +112,9 @@
       "pdf": "https://zenodo.org/record/1415134/files/UnalCGN11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000036.pdf",
+      "id": "ismir2011:paper:000036",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/UnalCGN11"
@@ -133,8 +138,9 @@
       "pdf": "https://zenodo.org/record/1416610/files/BanderaBTSB11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000046.pdf",
+      "id": "ismir2011:paper:000046",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BanderaBTSB11"
@@ -155,8 +161,9 @@
       "pdf": "https://zenodo.org/record/1414930/files/McFeeL11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000047.pdf",
+      "id": "ismir2011:paper:000047",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McFeeL11"
@@ -179,8 +186,9 @@
       "pdf": "https://zenodo.org/record/1415172/files/Garcia-DiezSSF11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-4.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000048.pdf",
+      "id": "ismir2011:paper:000048",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-4.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Garcia-DiezSSF11"
@@ -203,8 +211,9 @@
       "pdf": "https://zenodo.org/record/1417063/files/HaasMVW11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-5.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000049.pdf",
+      "id": "ismir2011:paper:000049",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-5.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HaasMVW11"
@@ -225,8 +234,9 @@
       "pdf": "https://zenodo.org/record/1416440/files/WolffW11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-6.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000050.pdf",
+      "id": "ismir2011:paper:000050",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-6.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WolffW11"
@@ -249,8 +259,9 @@
       "pdf": "https://zenodo.org/record/1417979/files/SchnitzerFSW11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-7.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000051.pdf",
+      "id": "ismir2011:paper:000051",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-7.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchnitzerFSW11"
@@ -273,8 +284,9 @@
       "pdf": "https://zenodo.org/record/1417219/files/WangLWJ11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-8.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000052.pdf",
+      "id": "ismir2011:paper:000052",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-8.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WangLWJ11"
@@ -296,8 +308,9 @@
       "pdf": "https://zenodo.org/record/1414816/files/AhonenLL11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-9.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000053.pdf",
+      "id": "ismir2011:paper:000053",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-9.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AhonenLL11"
@@ -318,8 +331,9 @@
       "pdf": "https://zenodo.org/record/1415104/files/BogdanovH11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-10.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000037.pdf",
+      "id": "ismir2011:paper:000037",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-10.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BogdanovH11"
@@ -340,8 +354,9 @@
       "pdf": "https://zenodo.org/record/1418301/files/HuO11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-11.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000038.pdf",
+      "id": "ismir2011:paper:000038",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-11.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HuO11"
@@ -361,8 +376,9 @@
       "pdf": "https://zenodo.org/record/1417125/files/Lee11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-12.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000039.pdf",
+      "id": "ismir2011:paper:000039",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-12.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Lee11"
@@ -387,8 +403,9 @@
       "pdf": "https://zenodo.org/record/1418081/files/GangBLRHB11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-13.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000040.pdf",
+      "id": "ismir2011:paper:000040",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-13.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GangBLRHB11"
@@ -410,8 +427,9 @@
       "pdf": "https://zenodo.org/record/1417593/files/FenetRG11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-14.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000041.pdf",
+      "id": "ismir2011:paper:000041",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-14.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FenetRG11"
@@ -433,8 +451,9 @@
       "pdf": "https://zenodo.org/record/1417607/files/SchreiberGM11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-15.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000042.pdf",
+      "id": "ismir2011:paper:000042",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-15.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchreiberGM11"
@@ -456,8 +475,9 @@
       "pdf": "https://zenodo.org/record/1418143/files/XiaoSK11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-16.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000043.pdf",
+      "id": "ismir2011:paper:000043",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-16.pdf"
     },
     "dblp": {
       "id": "conf/ismir/XiaoSK11"
@@ -480,8 +500,9 @@
       "pdf": "https://zenodo.org/record/1418185/files/XiaLDH11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-17.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000044.pdf",
+      "id": "ismir2011:paper:000044",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-17.pdf"
     },
     "dblp": {
       "id": "conf/ismir/XiaLDH11"
@@ -504,8 +525,9 @@
       "pdf": "https://zenodo.org/record/1416134/files/GulluniEBR11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS1-18.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000045.pdf",
+      "id": "ismir2011:paper:000045",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS1-18.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GulluniEBR11"
@@ -525,8 +547,9 @@
       "pdf": "https://zenodo.org/record/1416592/files/Serra11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS2-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000007.pdf",
+      "id": "ismir2011:paper:000007",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS2-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Serra11"
@@ -549,8 +572,9 @@
       "pdf": "https://zenodo.org/record/1415102/files/SerraKMS11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS2-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000008.pdf",
+      "id": "ismir2011:paper:000008",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS2-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SerraKMS11"
@@ -573,8 +597,9 @@
       "pdf": "https://zenodo.org/record/1415612/files/KranenburgBNT11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS2-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000009.pdf",
+      "id": "ismir2011:paper:000009",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS2-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KranenburgBNT11"
@@ -595,8 +620,9 @@
       "pdf": "https://zenodo.org/record/1418355/files/SixC11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS2-4.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000010.pdf",
+      "id": "ismir2011:paper:000010",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS2-4.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SixC11"
@@ -619,8 +645,9 @@
       "pdf": "https://zenodo.org/record/1418351/files/NamNLS11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000054.pdf",
+      "id": "ismir2011:paper:000054",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NamNLS11"
@@ -642,8 +669,9 @@
       "pdf": "https://zenodo.org/record/1415774/files/NakashikaTA11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000065.pdf",
+      "id": "ismir2011:paper:000065",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NakashikaTA11"
@@ -664,8 +692,9 @@
       "pdf": "https://zenodo.org/record/1417519/files/VelascoL11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000067.pdf",
+      "id": "ismir2011:paper:000067",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VelascoL11"
@@ -690,8 +719,9 @@
       "pdf": "https://zenodo.org/record/1416782/files/WuLJCLW11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-4.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000068.pdf",
+      "id": "ismir2011:paper:000068",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-4.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WuLJCLW11"
@@ -713,8 +743,9 @@
       "pdf": "https://zenodo.org/record/1416386/files/TryfouHM11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-5.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000069.pdf",
+      "id": "ismir2011:paper:000069",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-5.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TryfouHM11"
@@ -736,8 +767,9 @@
       "pdf": "https://zenodo.org/record/1415630/files/ThoshkahnaNK11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-6.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000070.pdf",
+      "id": "ismir2011:paper:000070",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-6.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ThoshkahnaNK11"
@@ -758,8 +790,9 @@
       "pdf": "https://zenodo.org/record/1417529/files/AbesserL11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-7.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000071.pdf",
+      "id": "ismir2011:paper:000071",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-7.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AbesserL11"
@@ -780,8 +813,9 @@
       "pdf": "https://zenodo.org/record/1416032/files/MullerE11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-8.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000072.pdf",
+      "id": "ismir2011:paper:000072",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-8.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MullerE11"
@@ -801,8 +835,9 @@
       "pdf": "https://zenodo.org/record/1417365/files/Chuan11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-9.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000073.pdf",
+      "id": "ismir2011:paper:000073",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-9.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Chuan11"
@@ -825,8 +860,9 @@
       "pdf": "https://zenodo.org/record/1417243/files/JooPJY11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-10.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000055.pdf",
+      "id": "ismir2011:paper:000055",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-10.pdf"
     },
     "dblp": {
       "id": "conf/ismir/JooPJY11"
@@ -849,8 +885,9 @@
       "pdf": "https://zenodo.org/record/1415716/files/MauchFYG11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-11.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000056.pdf",
+      "id": "ismir2011:paper:000056",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-11.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MauchFYG11"
@@ -871,8 +908,9 @@
       "pdf": "https://zenodo.org/record/1416350/files/FuhrmannH11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-12.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000057.pdf",
+      "id": "ismir2011:paper:000057",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-12.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FuhrmannH11"
@@ -893,8 +931,9 @@
       "pdf": "https://zenodo.org/record/1417581/files/EwertM11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-13.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000058.pdf",
+      "id": "ismir2011:paper:000058",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-13.pdf"
     },
     "dblp": {
       "id": "conf/ismir/EwertM11"
@@ -915,8 +954,9 @@
       "pdf": "https://zenodo.org/record/1417056/files/ThoshkahnaK11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-14.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000059.pdf",
+      "id": "ismir2011:paper:000059",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-14.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ThoshkahnaK11"
@@ -937,8 +977,9 @@
       "pdf": "https://zenodo.org/record/1414962/files/TjoaL11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-15.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000060.pdf",
+      "id": "ismir2011:paper:000060",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-15.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TjoaL11"
@@ -961,8 +1002,9 @@
       "pdf": "https://zenodo.org/record/1415238/files/KoduriMSS11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-16.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000061.pdf",
+      "id": "ismir2011:paper:000061",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-16.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KoduriMSS11"
@@ -983,8 +1025,9 @@
       "pdf": "https://zenodo.org/record/1415570/files/SenturkC11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-17.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000062.pdf",
+      "id": "ismir2011:paper:000062",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-17.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SenturkC11"
@@ -1004,8 +1047,9 @@
       "pdf": "https://zenodo.org/record/1417425/files/Abdoli11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-18.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000063.pdf",
+      "id": "ismir2011:paper:000063",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-18.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Abdoli11"
@@ -1027,8 +1071,9 @@
       "pdf": "https://zenodo.org/record/1418197/files/DixonTB11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-19.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000064.pdf",
+      "id": "ismir2011:paper:000064",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-19.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DixonTB11"
@@ -1051,8 +1096,9 @@
       "pdf": "https://zenodo.org/record/1417611/files/BimbotDSV11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS2-20.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000066.pdf",
+      "id": "ismir2011:paper:000066",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS2-20.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BimbotDSV11"
@@ -1074,8 +1120,9 @@
       "pdf": "https://zenodo.org/record/1417609/files/HankinsonRF11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS3-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000011.pdf",
+      "id": "ismir2011:paper:000011",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS3-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HankinsonRF11"
@@ -1095,8 +1142,9 @@
       "pdf": "https://zenodo.org/record/1417433/files/Juhasz11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS3-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000012.pdf",
+      "id": "ismir2011:paper:000012",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS3-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Juhasz11"
@@ -1117,8 +1165,9 @@
       "pdf": "https://zenodo.org/record/1414856/files/RaphaelW11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS3-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000013.pdf",
+      "id": "ismir2011:paper:000013",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS3-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RaphaelW11"
@@ -1142,8 +1191,9 @@
       "pdf": "https://zenodo.org/record/1416256/files/GotoYFMN11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS4-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000014.pdf",
+      "id": "ismir2011:paper:000014",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS4-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GotoYFMN11"
@@ -1163,8 +1213,9 @@
       "pdf": "https://zenodo.org/record/1417583/files/Levy11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS4-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000015.pdf",
+      "id": "ismir2011:paper:000015",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS4-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Levy11"
@@ -1186,8 +1237,9 @@
       "pdf": "https://zenodo.org/record/1414808/files/SchedlKB11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS4-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000016.pdf",
+      "id": "ismir2011:paper:000016",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS4-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchedlKB11"
@@ -1208,8 +1260,9 @@
       "pdf": "https://zenodo.org/record/1415768/files/BryanW11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS4-4.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000017.pdf",
+      "id": "ismir2011:paper:000017",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS4-4.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BryanW11"
@@ -1230,8 +1283,9 @@
       "pdf": "https://zenodo.org/record/1417811/files/WeiglG11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS5-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000018.pdf",
+      "id": "ismir2011:paper:000018",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS5-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WeiglG11"
@@ -1251,8 +1305,9 @@
       "pdf": "https://zenodo.org/record/1417253/files/Laplante11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS5-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000019.pdf",
+      "id": "ismir2011:paper:000019",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS5-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Laplante11"
@@ -1273,8 +1328,9 @@
       "pdf": "https://zenodo.org/record/1416980/files/StowellD11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS5-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000020.pdf",
+      "id": "ismir2011:paper:000020",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS5-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/StowellD11"
@@ -1295,8 +1351,9 @@
       "pdf": "https://zenodo.org/record/1415670/files/BarthetD11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS5-4.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000021.pdf",
+      "id": "ismir2011:paper:000021",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS5-4.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BarthetD11"
@@ -1316,8 +1373,9 @@
       "pdf": "https://zenodo.org/record/1417261/files/Viro11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000074.pdf",
+      "id": "ismir2011:paper:000074",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Viro11"
@@ -1340,8 +1398,9 @@
       "pdf": "https://zenodo.org/record/1416860/files/ConstantinMFR11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000085.pdf",
+      "id": "ismir2011:paper:000085",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ConstantinMFR11"
@@ -1362,8 +1421,9 @@
       "pdf": "https://zenodo.org/record/1416094/files/LaitinenL11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000087.pdf",
+      "id": "ismir2011:paper:000087",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LaitinenL11"
@@ -1388,8 +1448,9 @@
       "pdf": "https://zenodo.org/record/1416368/files/LeveGASGG11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-4.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000088.pdf",
+      "id": "ismir2011:paper:000088",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-4.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LeveGASGG11"
@@ -1410,8 +1471,9 @@
       "pdf": "https://zenodo.org/record/1415804/files/SiorosG11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-5.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000089.pdf",
+      "id": "ismir2011:paper:000089",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-5.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SiorosG11"
@@ -1433,8 +1495,9 @@
       "pdf": "https://zenodo.org/record/1416288/files/CuthbertAF11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-6.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000090.pdf",
+      "id": "ismir2011:paper:000090",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-6.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CuthbertAF11"
@@ -1455,8 +1518,9 @@
       "pdf": "https://zenodo.org/record/1417119/files/KirlinJ11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-7.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000091.pdf",
+      "id": "ismir2011:paper:000091",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-7.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KirlinJ11"
@@ -1478,8 +1542,9 @@
       "pdf": "https://zenodo.org/record/1416152/files/BraggCS11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-8.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000092.pdf",
+      "id": "ismir2011:paper:000092",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-8.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BraggCS11"
@@ -1502,8 +1567,9 @@
       "pdf": "https://zenodo.org/record/1418175/files/BuggeJMS11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-9.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000093.pdf",
+      "id": "ismir2011:paper:000093",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-9.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BuggeJMS11"
@@ -1525,8 +1591,9 @@
       "pdf": "https://zenodo.org/record/1415790/files/ThomasWC11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-10.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000075.pdf",
+      "id": "ismir2011:paper:000075",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-10.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ThomasWC11"
@@ -1547,8 +1614,9 @@
       "pdf": "https://zenodo.org/record/1415822/files/NiitsumaT11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-11.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000076.pdf",
+      "id": "ismir2011:paper:000076",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-11.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NiitsumaT11"
@@ -1571,8 +1639,9 @@
       "pdf": "https://zenodo.org/record/1415580/files/VigliensoniBHF11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-12.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000077.pdf",
+      "id": "ismir2011:paper:000077",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-12.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VigliensoniBHF11"
@@ -1594,8 +1663,9 @@
       "pdf": "https://zenodo.org/record/1416564/files/NeubarthBC11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-13.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000078.pdf",
+      "id": "ismir2011:paper:000078",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-13.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NeubarthBC11"
@@ -1616,8 +1686,9 @@
       "pdf": "https://zenodo.org/record/1418221/files/WangO11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-14.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000079.pdf",
+      "id": "ismir2011:paper:000079",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-14.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WangO11"
@@ -1639,8 +1710,9 @@
       "pdf": "https://zenodo.org/record/1415818/files/GunaratnaSM11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-15.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000080.pdf",
+      "id": "ismir2011:paper:000080",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-15.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GunaratnaSM11"
@@ -1662,8 +1734,9 @@
       "pdf": "https://zenodo.org/record/1418147/files/CorreaLC11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-16.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000081.pdf",
+      "id": "ismir2011:paper:000081",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-16.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CorreaLC11"
@@ -1684,8 +1757,9 @@
       "pdf": "https://zenodo.org/record/1416476/files/MacraeD11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-17.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000082.pdf",
+      "id": "ismir2011:paper:000082",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-17.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MacraeD11"
@@ -1706,8 +1780,9 @@
       "pdf": "https://zenodo.org/record/1415006/files/McKayB11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-18.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000083.pdf",
+      "id": "ismir2011:paper:000083",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-18.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McKayB11"
@@ -1730,8 +1805,9 @@
       "pdf": "https://zenodo.org/record/1416142/files/KolozaliBFS11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-19.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000084.pdf",
+      "id": "ismir2011:paper:000084",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-19.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KolozaliBFS11"
@@ -1752,8 +1828,9 @@
       "pdf": "https://zenodo.org/record/1417735/files/FazekasS11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS3-20.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000086.pdf",
+      "id": "ismir2011:paper:000086",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS3-20.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FazekasS11"
@@ -1774,8 +1851,9 @@
       "pdf": "https://zenodo.org/record/1414774/files/ChenL11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000094.pdf",
+      "id": "ismir2011:paper:000094",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChenL11"
@@ -1797,8 +1875,9 @@
       "pdf": "https://zenodo.org/record/1415950/files/SargentBV11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000105.pdf",
+      "id": "ismir2011:paper:000105",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SargentBV11"
@@ -1819,8 +1898,9 @@
       "pdf": "https://zenodo.org/record/1416240/files/MauchL11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000106.pdf",
+      "id": "ismir2011:paper:000106",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MauchL11"
@@ -1842,8 +1922,9 @@
       "pdf": "https://zenodo.org/record/1417335/files/PanagakisKA11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-4.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000107.pdf",
+      "id": "ismir2011:paper:000107",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-4.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PanagakisKA11"
@@ -1865,8 +1946,9 @@
       "pdf": "https://zenodo.org/record/1418337/files/FosterKP11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-5.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000108.pdf",
+      "id": "ismir2011:paper:000108",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-5.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FosterKP11"
@@ -1890,8 +1972,9 @@
       "pdf": "https://zenodo.org/record/1417977/files/MartinHTDF11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-6.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000109.pdf",
+      "id": "ismir2011:paper:000109",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-6.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MartinHTDF11"
@@ -1912,8 +1995,9 @@
       "pdf": "https://zenodo.org/record/1417325/files/DuanP11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-7.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000110.pdf",
+      "id": "ismir2011:paper:000110",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-7.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DuanP11"
@@ -1934,8 +2018,9 @@
       "pdf": "https://zenodo.org/record/1416992/files/LiemH11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-8.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000111.pdf",
+      "id": "ismir2011:paper:000111",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-8.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiemH11"
@@ -1958,8 +2043,9 @@
       "pdf": "https://zenodo.org/record/1418159/files/OtsukaNOO11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-9.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000112.pdf",
+      "id": "ismir2011:paper:000112",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-9.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OtsukaNOO11"
@@ -1981,8 +2067,9 @@
       "pdf": "https://zenodo.org/record/1417093/files/OkumuraSK11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-10.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000095.pdf",
+      "id": "ismir2011:paper:000095",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-10.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OkumuraSK11"
@@ -2003,8 +2090,9 @@
       "pdf": "https://zenodo.org/record/1418119/files/McFeeL11a.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-11.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000096.pdf",
+      "id": "ismir2011:paper:000096",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-11.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McFeeL11a"
@@ -2026,8 +2114,9 @@
       "pdf": "https://zenodo.org/record/1417923/files/NiedermayerBW11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-12.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000097.pdf",
+      "id": "ismir2011:paper:000097",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-12.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NiedermayerBW11"
@@ -2050,8 +2139,9 @@
       "pdf": "https://zenodo.org/record/1417075/files/SpeckSMK11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-13.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000098.pdf",
+      "id": "ismir2011:paper:000098",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-13.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SpeckSMK11"
@@ -2075,8 +2165,9 @@
       "pdf": "https://zenodo.org/record/1416884/files/SmithBFRD11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-14.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000099.pdf",
+      "id": "ismir2011:paper:000099",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-14.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SmithBFRD11"
@@ -2100,8 +2191,9 @@
       "pdf": "https://zenodo.org/record/1418151/files/EhmannBDFR11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-15.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000100.pdf",
+      "id": "ismir2011:paper:000100",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-15.pdf"
     },
     "dblp": {
       "id": "conf/ismir/EhmannBDFR11"
@@ -2125,8 +2217,9 @@
       "pdf": "https://zenodo.org/record/1415868/files/NessTDST11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-16.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000101.pdf",
+      "id": "ismir2011:paper:000101",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-16.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NessTDST11"
@@ -2148,8 +2241,9 @@
       "pdf": "https://zenodo.org/record/1418123/files/KnightUF11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-17.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000102.pdf",
+      "id": "ismir2011:paper:000102",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-17.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KnightUF11"
@@ -2170,8 +2264,9 @@
       "pdf": "https://zenodo.org/record/1417351/files/TopelC11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-18.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000103.pdf",
+      "id": "ismir2011:paper:000103",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-18.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TopelC11"
@@ -2192,8 +2287,9 @@
       "pdf": "https://zenodo.org/record/1414906/files/MattekC11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS4-19.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000104.pdf",
+      "id": "ismir2011:paper:000104",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS4-19.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MattekC11"
@@ -2216,8 +2312,9 @@
       "pdf": "https://zenodo.org/record/1415820/files/Bertin-MahieuxEWL11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS6-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000022.pdf",
+      "id": "ismir2011:paper:000022",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS6-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Bertin-MahieuxEWL11"
@@ -2240,8 +2337,9 @@
       "pdf": "https://zenodo.org/record/1417269/files/UrbanoMMM11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS6-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000023.pdf",
+      "id": "ismir2011:paper:000023",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS6-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/UrbanoMMM11"
@@ -2266,8 +2364,9 @@
       "pdf": "https://zenodo.org/record/1416506/files/OrioRMSML11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS6-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000024.pdf",
+      "id": "ismir2011:paper:000024",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS6-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OrioRMSML11"
@@ -2287,8 +2386,9 @@
       "pdf": "https://zenodo.org/record/1417897/files/Urbano11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS6-4.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000025.pdf",
+      "id": "ismir2011:paper:000025",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS6-4.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Urbano11"
@@ -2310,8 +2410,9 @@
       "pdf": "https://zenodo.org/record/1416342/files/MullerGJ11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS7-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000026.pdf",
+      "id": "ismir2011:paper:000026",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS7-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MullerGJ11"
@@ -2332,8 +2433,9 @@
       "pdf": "https://zenodo.org/record/1416038/files/ScottK11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS7-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000027.pdf",
+      "id": "ismir2011:paper:000027",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS7-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ScottK11"
@@ -2354,8 +2456,9 @@
       "pdf": "https://zenodo.org/record/1415228/files/MontecchioC11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS7-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000028.pdf",
+      "id": "ismir2011:paper:000028",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS7-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MontecchioC11"
@@ -2377,8 +2480,9 @@
       "pdf": "https://zenodo.org/record/1417547/files/BurgoyneWF11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS8-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000029.pdf",
+      "id": "ismir2011:paper:000029",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS8-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BurgoyneWF11"
@@ -2401,8 +2505,9 @@
       "pdf": "https://zenodo.org/record/1418311/files/McVicarNBS11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS8-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000030.pdf",
+      "id": "ismir2011:paper:000030",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS8-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McVicarNBS11"
@@ -2423,8 +2528,9 @@
       "pdf": "https://zenodo.org/record/1417389/files/YoshiiG11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS8-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000031.pdf",
+      "id": "ismir2011:paper:000031",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS8-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YoshiiG11"
@@ -2445,8 +2551,9 @@
       "pdf": "https://zenodo.org/record/1417557/files/ChoB11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS8-4.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000032.pdf",
+      "id": "ismir2011:paper:000032",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS8-4.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChoB11"
@@ -2467,8 +2574,9 @@
       "pdf": "https://zenodo.org/record/1415750/files/AndenM11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000113.pdf",
+      "id": "ismir2011:paper:000113",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AndenM11"
@@ -2491,8 +2599,9 @@
       "pdf": "https://zenodo.org/record/1416904/files/FoucardELR11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000124.pdf",
+      "id": "ismir2011:paper:000124",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FoucardELR11"
@@ -2514,8 +2623,9 @@
       "pdf": "https://zenodo.org/record/1415188/files/DielemanBS11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000126.pdf",
+      "id": "ismir2011:paper:000126",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DielemanBS11"
@@ -2536,8 +2646,9 @@
       "pdf": "https://zenodo.org/record/1416844/files/MayerR11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-4.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000127.pdf",
+      "id": "ismir2011:paper:000127",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-4.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MayerR11"
@@ -2560,8 +2671,9 @@
       "pdf": "https://zenodo.org/record/1416086/files/HenaffJKL11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-5.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000128.pdf",
+      "id": "ismir2011:paper:000128",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-5.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HenaffJKL11"
@@ -2582,8 +2694,9 @@
       "pdf": "https://zenodo.org/record/1416264/files/PapadopoulosK11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-6.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000129.pdf",
+      "id": "ismir2011:paper:000129",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-6.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PapadopoulosK11"
@@ -2606,8 +2719,9 @@
       "pdf": "https://zenodo.org/record/1418019/files/AnanHBT11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-7.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000130.pdf",
+      "id": "ismir2011:paper:000130",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-7.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AnanHBT11"
@@ -2630,8 +2744,9 @@
       "pdf": "https://zenodo.org/record/1417657/files/MarquesGNP11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-8.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000131.pdf",
+      "id": "ismir2011:paper:000131",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-8.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MarquesGNP11"
@@ -2653,8 +2768,9 @@
       "pdf": "https://zenodo.org/record/1415666/files/CovielloML11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-9.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000132.pdf",
+      "id": "ismir2011:paper:000132",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-9.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CovielloML11"
@@ -2677,8 +2793,9 @@
       "pdf": "https://zenodo.org/record/1415258/files/XieBTC11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-10.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000114.pdf",
+      "id": "ismir2011:paper:000114",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-10.pdf"
     },
     "dblp": {
       "id": "conf/ismir/XieBTC11"
@@ -2699,8 +2816,9 @@
       "pdf": "https://zenodo.org/record/1416432/files/SandenZ11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-11.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000115.pdf",
+      "id": "ismir2011:paper:000115",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-11.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SandenZ11"
@@ -2722,8 +2840,9 @@
       "pdf": "https://zenodo.org/record/1416390/files/EllisCL11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-12.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000116.pdf",
+      "id": "ismir2011:paper:000116",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-12.pdf"
     },
     "dblp": {
       "id": "conf/ismir/EllisCL11"
@@ -2746,8 +2865,9 @@
       "pdf": "https://zenodo.org/record/1418237/files/HamelLBE11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-13.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000117.pdf",
+      "id": "ismir2011:paper:000117",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-13.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HamelLBE11"
@@ -2769,8 +2889,9 @@
       "pdf": "https://zenodo.org/record/1415884/files/MannCL11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-14.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000118.pdf",
+      "id": "ismir2011:paper:000118",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-14.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MannCL11"
@@ -2793,8 +2914,9 @@
       "pdf": "https://zenodo.org/record/1415920/files/DaviesAMC11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-15.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000119.pdf",
+      "id": "ismir2011:paper:000119",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-15.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DaviesAMC11"
@@ -2816,8 +2938,9 @@
       "pdf": "https://zenodo.org/record/1416580/files/VaizmanGL11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-16.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000120.pdf",
+      "id": "ismir2011:paper:000120",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-16.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VaizmanGL11"
@@ -2839,8 +2962,9 @@
       "pdf": "https://zenodo.org/record/1416872/files/CabredoLN11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-17.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000121.pdf",
+      "id": "ismir2011:paper:000121",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-17.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CabredoLN11"
@@ -2862,8 +2986,9 @@
       "pdf": "https://zenodo.org/record/1417097/files/SchullerWD11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-18.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000122.pdf",
+      "id": "ismir2011:paper:000122",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-18.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchullerWD11"
@@ -2886,8 +3011,9 @@
       "pdf": "https://zenodo.org/record/1416458/files/WangCYW11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-19.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000123.pdf",
+      "id": "ismir2011:paper:000123",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-19.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WangCYW11"
@@ -2909,8 +3035,9 @@
       "pdf": "https://zenodo.org/record/1416602/files/BennettML11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/PS6-20.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000125.pdf",
+      "id": "ismir2011:paper:000125",
+      "original_pdf": "http://ismir2011.ismir.net/papers/PS6-20.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BennettML11"
@@ -2931,8 +3058,9 @@
       "pdf": "https://zenodo.org/record/1416606/files/SchmidtK11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS9-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000033.pdf",
+      "id": "ismir2011:paper:000033",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS9-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchmidtK11"
@@ -2954,8 +3082,9 @@
       "pdf": "https://zenodo.org/record/1415888/files/McVicarFB11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS9-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000034.pdf",
+      "id": "ismir2011:paper:000034",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS9-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McVicarFB11"
@@ -2976,8 +3105,9 @@
       "pdf": "https://zenodo.org/record/1415690/files/HuY11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS9-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000035.pdf",
+      "id": "ismir2011:paper:000035",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS9-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HuY11"
@@ -3000,8 +3130,9 @@
       "pdf": "https://zenodo.org/record/1417757/files/MarquesDLG11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS10-1.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000004.pdf",
+      "id": "ismir2011:paper:000004",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS10-1.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MarquesDLG11"
@@ -3023,8 +3154,9 @@
       "pdf": "https://zenodo.org/record/1415260/files/ChandrasekharSR11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS10-2.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000005.pdf",
+      "id": "ismir2011:paper:000005",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS10-2.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChandrasekharSR11"
@@ -3047,8 +3179,9 @@
       "pdf": "https://zenodo.org/record/1414964/files/ZacharakisPPR11.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2011.ismir.net/papers/OS10-3.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2011/paper/000006.pdf",
+      "id": "ismir2011:paper:000006",
+      "original_pdf": "http://ismir2011.ismir.net/papers/OS10-3.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ZacharakisPPR11"

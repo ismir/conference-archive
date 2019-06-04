@@ -14,8 +14,9 @@
       "pdf": "https://zenodo.org/record/1414890/files/RingwaltD15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/37_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000037.pdf",
+      "id": "ismir2015:paper:000037",
+      "original_pdf": "http://ismir2015.uma.es/articles/37_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RingwaltD15"
@@ -37,8 +38,9 @@
       "pdf": "https://zenodo.org/record/1417835/files/WolffMW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/151_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000151.pdf",
+      "id": "ismir2015:paper:000151",
+      "original_pdf": "http://ismir2015.uma.es/articles/151_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WolffMW15"
@@ -63,8 +65,9 @@
       "pdf": "https://zenodo.org/record/1417523/files/ProckupEGSCK15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/276_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000276.pdf",
+      "id": "ismir2015:paper:000276",
+      "original_pdf": "http://ismir2015.uma.es/articles/276_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ProckupEGSCK15"
@@ -85,8 +88,9 @@
       "pdf": "https://zenodo.org/record/1416824/files/TralieB15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/277_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000277.pdf",
+      "id": "ismir2015:paper:000277",
+      "original_pdf": "http://ismir2015.uma.es/articles/277_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TralieB15"
@@ -107,8 +111,9 @@
       "pdf": "https://zenodo.org/record/1416246/files/WeissS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/44_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000044.pdf",
+      "id": "ismir2015:paper:000044",
+      "original_pdf": "http://ismir2015.uma.es/articles/44_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WeissS15"
@@ -129,8 +134,9 @@
       "pdf": "https://zenodo.org/record/1416968/files/ZhouL15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/96_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000096.pdf",
+      "id": "ismir2015:paper:000096",
+      "original_pdf": "http://ismir2015.uma.es/articles/96_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ZhouL15"
@@ -151,8 +157,9 @@
       "pdf": "https://zenodo.org/record/1415938/files/SummersP15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/195_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000195.pdf",
+      "id": "ismir2015:paper:000195",
+      "original_pdf": "http://ismir2015.uma.es/articles/195_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SummersP15"
@@ -175,8 +182,9 @@
       "pdf": "https://zenodo.org/record/1416802/files/VallSKS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/129_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000129.pdf",
+      "id": "ismir2015:paper:000129",
+      "original_pdf": "http://ismir2015.uma.es/articles/129_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VallSKS15"
@@ -198,8 +206,9 @@
       "pdf": "https://zenodo.org/record/1414966/files/KrebsBW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/239_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000239.pdf",
+      "id": "ismir2015:paper:000239",
+      "original_pdf": "http://ismir2015.uma.es/articles/239_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KrebsBW15"
@@ -223,8 +232,9 @@
       "pdf": "https://zenodo.org/record/1418267/files/HuangCBBG15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/191_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000191.pdf",
+      "id": "ismir2015:paper:000191",
+      "original_pdf": "http://ismir2015.uma.es/articles/191_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HuangCBBG15"
@@ -246,8 +256,9 @@
       "pdf": "https://zenodo.org/record/1417575/files/YoshiiIG15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/161_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000161.pdf",
+      "id": "ismir2015:paper:000161",
+      "original_pdf": "http://ismir2015.uma.es/articles/161_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YoshiiIG15"
@@ -270,8 +281,9 @@
       "pdf": "https://zenodo.org/record/1414858/files/RiskMHC15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/183_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000183.pdf",
+      "id": "ismir2015:paper:000183",
+      "original_pdf": "http://ismir2015.uma.es/articles/183_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RiskMHC15"
@@ -294,8 +306,9 @@
       "pdf": "https://zenodo.org/record/1415976/files/OramasSAS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/305_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000305.pdf",
+      "id": "ismir2015:paper:000305",
+      "original_pdf": "http://ismir2015.uma.es/articles/305_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OramasSAS15"
@@ -317,8 +330,9 @@
       "pdf": "https://zenodo.org/record/1416066/files/ZhangRS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/282_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000282.pdf",
+      "id": "ismir2015:paper:000282",
+      "original_pdf": "http://ismir2015.uma.es/articles/282_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ZhangRS15"
@@ -340,8 +354,9 @@
       "pdf": "https://zenodo.org/record/1415014/files/PercivalFG15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/141_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000141.pdf",
+      "id": "ismir2015:paper:000141",
+      "original_pdf": "http://ismir2015.uma.es/articles/141_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PercivalFG15"
@@ -362,8 +377,9 @@
       "pdf": "https://zenodo.org/record/1417745/files/SchluterG15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/264_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000264.pdf",
+      "id": "ismir2015:paper:000264",
+      "original_pdf": "http://ismir2015.uma.es/articles/264_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchluterG15"
@@ -385,8 +401,9 @@
       "pdf": "https://zenodo.org/record/1416594/files/SigtiaBD15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/227_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000227.pdf",
+      "id": "ismir2015:paper:000227",
+      "original_pdf": "http://ismir2015.uma.es/articles/227_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SigtiaBD15"
@@ -410,8 +427,9 @@
       "pdf": "https://zenodo.org/record/1416670/files/VadBWMS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/254_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000254.pdf",
+      "id": "ismir2015:paper:000254",
+      "original_pdf": "http://ismir2015.uma.es/articles/254_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VadBWMS15"
@@ -433,8 +451,9 @@
       "pdf": "https://zenodo.org/record/1416056/files/ZacharakisKC15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/166_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000166.pdf",
+      "id": "ismir2015:paper:000166",
+      "original_pdf": "http://ismir2015.uma.es/articles/166_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ZacharakisKC15"
@@ -455,8 +474,9 @@
       "pdf": "https://zenodo.org/record/1417323/files/ParkL15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/219_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000219.pdf",
+      "id": "ismir2015:paper:000219",
+      "original_pdf": "http://ismir2015.uma.es/articles/219_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ParkL15"
@@ -477,8 +497,9 @@
       "pdf": "https://zenodo.org/record/1417061/files/SzetoW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/316_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000316.pdf",
+      "id": "ismir2015:paper:000316",
+      "original_pdf": "http://ismir2015.uma.es/articles/316_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SzetoW15"
@@ -499,8 +520,9 @@
       "pdf": "https://zenodo.org/record/1417135/files/SavageA15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/76_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000076.pdf",
+      "id": "ismir2015:paper:000076",
+      "original_pdf": "http://ismir2015.uma.es/articles/76_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SavageA15"
@@ -522,8 +544,9 @@
       "pdf": "https://zenodo.org/record/1416328/files/VatolkinRW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/202_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000202.pdf",
+      "id": "ismir2015:paper:000202",
+      "original_pdf": "http://ismir2015.uma.es/articles/202_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VatolkinRW15"
@@ -545,8 +568,9 @@
       "pdf": "https://zenodo.org/record/1416480/files/WangHD15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/78_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000078.pdf",
+      "id": "ismir2015:paper:000078",
+      "original_pdf": "http://ismir2015.uma.es/articles/78_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WangHD15"
@@ -568,8 +592,9 @@
       "pdf": "https://zenodo.org/record/1414720/files/SchrammNJ15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/75_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000075.pdf",
+      "id": "ismir2015:paper:000075",
+      "original_pdf": "http://ismir2015.uma.es/articles/75_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchrammNJ15"
@@ -590,8 +615,9 @@
       "pdf": "https://zenodo.org/record/1416232/files/VieiraA15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/212_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000212.pdf",
+      "id": "ismir2015:paper:000212",
+      "original_pdf": "http://ismir2015.uma.es/articles/212_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VieiraA15"
@@ -614,8 +640,9 @@
       "pdf": "https://zenodo.org/record/1416736/files/Srinivasamurthy15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/97_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000097.pdf",
+      "id": "ismir2015:paper:000097",
+      "original_pdf": "http://ismir2015.uma.es/articles/97_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Srinivasamurthy15"
@@ -637,8 +664,9 @@
       "pdf": "https://zenodo.org/record/1416354/files/SordoOW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/301_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000301.pdf",
+      "id": "ismir2015:paper:000301",
+      "original_pdf": "http://ismir2015.uma.es/articles/301_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SordoOW15"
@@ -664,8 +692,9 @@
       "pdf": "https://zenodo.org/record/1415582/files/PageNRWLDR15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/311_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000311.pdf",
+      "id": "ismir2015:paper:000311",
+      "original_pdf": "http://ismir2015.uma.es/articles/311_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PageNRWLDR15"
@@ -686,8 +715,9 @@
       "pdf": "https://zenodo.org/record/1415064/files/Rodriguez-Lopez15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/319_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000319.pdf",
+      "id": "ismir2015:paper:000319",
+      "original_pdf": "http://ismir2015.uma.es/articles/319_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Rodriguez-Lopez15"
@@ -711,8 +741,9 @@
       "pdf": "https://zenodo.org/record/1415038/files/BalenBBMV15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/148_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000148.pdf",
+      "id": "ismir2015:paper:000148",
+      "original_pdf": "http://ismir2015.uma.es/articles/148_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BalenBBMV15"
@@ -733,8 +764,9 @@
       "pdf": "https://zenodo.org/record/1417371/files/RaffelE15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/114_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000114.pdf",
+      "id": "ismir2015:paper:000114",
+      "original_pdf": "http://ismir2015.uma.es/articles/114_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RaffelE15"
@@ -754,8 +786,9 @@
       "pdf": "https://zenodo.org/record/1414760/files/Schreiber15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/102_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000102.pdf",
+      "id": "ismir2015:paper:000102",
+      "original_pdf": "http://ismir2015.uma.es/articles/102_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Schreiber15"
@@ -777,8 +810,9 @@
       "pdf": "https://zenodo.org/record/1418365/files/McFeeHB15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/228_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000228.pdf",
+      "id": "ismir2015:paper:000228",
+      "original_pdf": "http://ismir2015.uma.es/articles/228_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McFeeHB15"
@@ -799,8 +833,9 @@
       "pdf": "https://zenodo.org/record/1417839/files/WuL15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/199_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000199.pdf",
+      "id": "ismir2015:paper:000199",
+      "original_pdf": "http://ismir2015.uma.es/articles/199_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WuL15"
@@ -823,8 +858,9 @@
       "pdf": "https://zenodo.org/record/1415728/files/NunesRJB15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/95_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000095.pdf",
+      "id": "ismir2015:paper:000095",
+      "original_pdf": "http://ismir2015.uma.es/articles/95_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NunesRJB15"
@@ -846,8 +882,9 @@
       "pdf": "https://zenodo.org/record/1418149/files/DittmarPM15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/143_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000143.pdf",
+      "id": "ismir2015:paper:000143",
+      "original_pdf": "http://ismir2015.uma.es/articles/143_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DittmarPM15"
@@ -870,8 +907,9 @@
       "pdf": "https://zenodo.org/record/1416834/files/LiangSYL15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/118_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000118.pdf",
+      "id": "ismir2015:paper:000118",
+      "original_pdf": "http://ismir2015.uma.es/articles/118_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiangSYL15"
@@ -892,8 +930,9 @@
       "pdf": "https://zenodo.org/record/1415596/files/ManarisS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/270_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000270.pdf",
+      "id": "ismir2015:paper:000270",
+      "original_pdf": "http://ismir2015.uma.es/articles/270_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ManarisS15"
@@ -915,8 +954,9 @@
       "pdf": "https://zenodo.org/record/1416308/files/LiangZE15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/290_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000290.pdf",
+      "id": "ismir2015:paper:000290",
+      "original_pdf": "http://ismir2015.uma.es/articles/290_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiangZE15"
@@ -937,8 +977,9 @@
       "pdf": "https://zenodo.org/record/1416248/files/LiemH15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/108_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000108.pdf",
+      "id": "ismir2015:paper:000108",
+      "original_pdf": "http://ismir2015.uma.es/articles/108_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiemH15"
@@ -959,8 +1000,9 @@
       "pdf": "https://zenodo.org/record/1415940/files/LehnerW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/160_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000160.pdf",
+      "id": "ismir2015:paper:000160",
+      "original_pdf": "http://ismir2015.uma.es/articles/160_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LehnerW15"
@@ -983,8 +1025,9 @@
       "pdf": "https://zenodo.org/record/1415968/files/LuoSYC15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/197_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000197.pdf",
+      "id": "ismir2015:paper:000197",
+      "original_pdf": "http://ismir2015.uma.es/articles/197_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LuoSYC15"
@@ -1006,8 +1049,9 @@
       "pdf": "https://zenodo.org/record/1416374/files/MakrisKC15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/189_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000189.pdf",
+      "id": "ismir2015:paper:000189",
+      "original_pdf": "http://ismir2015.uma.es/articles/189_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MakrisKC15"
@@ -1028,8 +1072,9 @@
       "pdf": "https://zenodo.org/record/1416686/files/KhlifS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/90_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000090.pdf",
+      "id": "ismir2015:paper:000090",
+      "original_pdf": "http://ismir2015.uma.es/articles/90_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KhlifS15"
@@ -1049,8 +1094,9 @@
       "pdf": "https://zenodo.org/record/1416858/files/Kruspe15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/34_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000034.pdf",
+      "id": "ismir2015:paper:000034",
+      "original_pdf": "http://ismir2015.uma.es/articles/34_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Kruspe15"
@@ -1071,8 +1117,9 @@
       "pdf": "https://zenodo.org/record/1418287/files/JinR15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/226_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000226.pdf",
+      "id": "ismir2015:paper:000226",
+      "original_pdf": "http://ismir2015.uma.es/articles/226_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/JinR15"
@@ -1094,8 +1141,9 @@
       "pdf": "https://zenodo.org/record/1415698/files/DriedgerPM15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/13_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000013.pdf",
+      "id": "ismir2015:paper:000013",
+      "original_pdf": "http://ismir2015.uma.es/articles/13_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DriedgerPM15"
@@ -1116,8 +1164,9 @@
       "pdf": "https://zenodo.org/record/1417205/files/ArztW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/150_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000150.pdf",
+      "id": "ismir2015:paper:000150",
+      "original_pdf": "http://ismir2015.uma.es/articles/150_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ArztW15"
@@ -1143,8 +1192,9 @@
       "pdf": "https://zenodo.org/record/1414996/files/KneesFHVBHG15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/246_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000246.pdf",
+      "id": "ismir2015:paper:000246",
+      "original_pdf": "http://ismir2015.uma.es/articles/246_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KneesFHVBHG15"
@@ -1166,8 +1216,9 @@
       "pdf": "https://zenodo.org/record/1416138/files/KuribayashiAY15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/287_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000287.pdf",
+      "id": "ismir2015:paper:000287",
+      "original_pdf": "http://ismir2015.uma.es/articles/287_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KuribayashiAY15"
@@ -1190,8 +1241,9 @@
       "pdf": "https://zenodo.org/record/1417183/files/OramasGGM15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/304_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000304.pdf",
+      "id": "ismir2015:paper:000304",
+      "original_pdf": "http://ismir2015.uma.es/articles/304_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OramasGGM15"
@@ -1215,8 +1267,9 @@
       "pdf": "https://zenodo.org/record/1416558/files/GuptaSKMS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/86_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000086.pdf",
+      "id": "ismir2015:paper:000086",
+      "original_pdf": "http://ismir2015.uma.es/articles/86_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GuptaSKMS15"
@@ -1240,8 +1293,9 @@
       "pdf": "https://zenodo.org/record/1417030/files/NakamuraCCOS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/15_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000015.pdf",
+      "id": "ismir2015:paper:000015",
+      "original_pdf": "http://ismir2015.uma.es/articles/15_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NakamuraCCOS15"
@@ -1265,8 +1319,9 @@
       "pdf": "https://zenodo.org/record/1416712/files/LeeLYLW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/302_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000302.pdf",
+      "id": "ismir2015:paper:000302",
+      "original_pdf": "http://ismir2015.uma.es/articles/302_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LeeLYLW15"
@@ -1288,8 +1343,9 @@
       "pdf": "https://zenodo.org/record/1414866/files/McFeeNB15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/174_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000174.pdf",
+      "id": "ismir2015:paper:000174",
+      "original_pdf": "http://ismir2015.uma.es/articles/174_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McFeeNB15"
@@ -1310,8 +1366,9 @@
       "pdf": "https://zenodo.org/record/1417531/files/OtsukaK15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/56_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000056.pdf",
+      "id": "ismir2015:paper:000056",
+      "original_pdf": "http://ismir2015.uma.es/articles/56_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OtsukaK15"
@@ -1333,8 +1390,9 @@
       "pdf": "https://zenodo.org/record/1417169/files/DaiMD15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/233_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000233.pdf",
+      "id": "ismir2015:paper:000233",
+      "original_pdf": "http://ismir2015.uma.es/articles/233_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DaiMD15"
@@ -1357,8 +1415,9 @@
       "pdf": "https://zenodo.org/record/1417379/files/Kaliakatsos-Papakostas15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/158_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000158.pdf",
+      "id": "ismir2015:paper:000158",
+      "original_pdf": "http://ismir2015.uma.es/articles/158_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Kaliakatsos-Papakostas15"
@@ -1380,8 +1439,9 @@
       "pdf": "https://zenodo.org/record/1418145/files/LykartsisWL15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/300_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000300.pdf",
+      "id": "ismir2015:paper:000300",
+      "original_pdf": "http://ismir2015.uma.es/articles/300_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LykartsisWL15"
@@ -1403,8 +1463,9 @@
       "pdf": "https://zenodo.org/record/1416236/files/SilvaSB15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/164_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000164.pdf",
+      "id": "ismir2015:paper:000164",
+      "original_pdf": "http://ismir2015.uma.es/articles/164_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SilvaSB15"
@@ -1426,8 +1487,9 @@
       "pdf": "https://zenodo.org/record/1417689/files/MironCJ15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/99_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000099.pdf",
+      "id": "ismir2015:paper:000099",
+      "original_pdf": "http://ismir2015.uma.es/articles/99_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MironCJ15"
@@ -1448,8 +1510,9 @@
       "pdf": "https://zenodo.org/record/1416422/files/InskipW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/171_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000171.pdf",
+      "id": "ismir2015:paper:000171",
+      "original_pdf": "http://ismir2015.uma.es/articles/171_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/InskipW15"
@@ -1472,8 +1535,9 @@
       "pdf": "https://zenodo.org/record/1417295/files/OsmalskyjFDE15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/198_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000198.pdf",
+      "id": "ismir2015:paper:000198",
+      "original_pdf": "http://ismir2015.uma.es/articles/198_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OsmalskyjFDE15"
@@ -1494,8 +1558,9 @@
       "pdf": "https://zenodo.org/record/1418127/files/LiD15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/285_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000285.pdf",
+      "id": "ismir2015:paper:000285",
+      "original_pdf": "http://ismir2015.uma.es/articles/285_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiD15"
@@ -1516,8 +1581,9 @@
       "pdf": "https://zenodo.org/record/1418297/files/LeeP15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/12_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000012.pdf",
+      "id": "ismir2015:paper:000012",
+      "original_pdf": "http://ismir2015.uma.es/articles/12_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LeeP15"
@@ -1539,8 +1605,9 @@
       "pdf": "https://zenodo.org/record/1417213/files/KoopsVH15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/241_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000241.pdf",
+      "id": "ismir2015:paper:000241",
+      "original_pdf": "http://ismir2015.uma.es/articles/241_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KoopsVH15"
@@ -1563,8 +1630,9 @@
       "pdf": "https://zenodo.org/record/1414916/files/Guiomard-KaganG15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/180_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000180.pdf",
+      "id": "ismir2015:paper:000180",
+      "original_pdf": "http://ismir2015.uma.es/articles/180_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Guiomard-KaganG15"
@@ -1587,8 +1655,9 @@
       "pdf": "https://zenodo.org/record/1416322/files/BittnerSEB15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/247_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000247.pdf",
+      "id": "ismir2015:paper:000247",
+      "original_pdf": "http://ismir2015.uma.es/articles/247_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BittnerSEB15"
@@ -1611,8 +1680,9 @@
       "pdf": "https://zenodo.org/record/1416692/files/RepettoGKS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/257_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000257.pdf",
+      "id": "ismir2015:paper:000257",
+      "original_pdf": "http://ismir2015.uma.es/articles/257_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RepettoGKS15"
@@ -1635,8 +1705,9 @@
       "pdf": "https://zenodo.org/record/1416258/files/PadillaMMN15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/187_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000187.pdf",
+      "id": "ismir2015:paper:000187",
+      "original_pdf": "http://ismir2015.uma.es/articles/187_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PadillaMMN15"
@@ -1661,8 +1732,9 @@
       "pdf": "https://zenodo.org/record/1415270/files/SutcliffeCFRHL15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/263_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000263.pdf",
+      "id": "ismir2015:paper:000263",
+      "original_pdf": "http://ismir2015.uma.es/articles/263_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SutcliffeCFRHL15"
@@ -1683,8 +1755,9 @@
       "pdf": "https://zenodo.org/record/1417461/files/GrillS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/134_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000134.pdf",
+      "id": "ismir2015:paper:000134",
+      "original_pdf": "http://ismir2015.uma.es/articles/134_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GrillS15"
@@ -1705,8 +1778,9 @@
       "pdf": "https://zenodo.org/record/1416082/files/KaneshiroD15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/250_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000250.pdf",
+      "id": "ismir2015:paper:000250",
+      "original_pdf": "http://ismir2015.uma.es/articles/250_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KaneshiroD15"
@@ -1726,8 +1800,9 @@
       "pdf": "https://zenodo.org/record/1416472/files/Flexer15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/35_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000035.pdf",
+      "id": "ismir2015:paper:000035",
+      "original_pdf": "http://ismir2015.uma.es/articles/35_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Flexer15"
@@ -1750,8 +1825,9 @@
       "pdf": "https://zenodo.org/record/1416762/files/Eghbal-zadehLSW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/128_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000128.pdf",
+      "id": "ismir2015:paper:000128",
+      "original_pdf": "http://ismir2015.uma.es/articles/128_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Eghbal-zadehLSW15"
@@ -1773,8 +1849,9 @@
       "pdf": "https://zenodo.org/record/1418111/files/FreedmanKT15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/271_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000271.pdf",
+      "id": "ismir2015:paper:000271",
+      "original_pdf": "http://ismir2015.uma.es/articles/271_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FreedmanKT15"
@@ -1798,8 +1875,9 @@
       "pdf": "https://zenodo.org/record/1417717/files/GasserAGGW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/123_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000123.pdf",
+      "id": "ismir2015:paper:000123",
+      "original_pdf": "http://ismir2015.uma.es/articles/123_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GasserAGGW15"
@@ -1822,8 +1900,9 @@
       "pdf": "https://zenodo.org/record/1417034/files/FuXDW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/73_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000073.pdf",
+      "id": "ismir2015:paper:000073",
+      "original_pdf": "http://ismir2015.uma.es/articles/73_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FuXDW15"
@@ -1846,8 +1925,9 @@
       "pdf": "https://zenodo.org/record/1417315/files/CherlaTWG15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/140_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000140.pdf",
+      "id": "ismir2015:paper:000140",
+      "original_pdf": "http://ismir2015.uma.es/articles/140_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CherlaTWG15"
@@ -1871,8 +1951,9 @@
       "pdf": "https://zenodo.org/record/1417203/files/GanguliRPKR15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/170_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000170.pdf",
+      "id": "ismir2015:paper:000170",
+      "original_pdf": "http://ismir2015.uma.es/articles/170_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GanguliRPKR15"
@@ -1896,8 +1977,9 @@
       "pdf": "https://zenodo.org/record/1416096/files/ChenDXZZ15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/28_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000028.pdf",
+      "id": "ismir2015:paper:000028",
+      "original_pdf": "http://ismir2015.uma.es/articles/28_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChenDXZZ15"
@@ -1919,8 +2001,9 @@
       "pdf": "https://zenodo.org/record/1417751/files/DuttaPM15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/172_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000172.pdf",
+      "id": "ismir2015:paper:000172",
+      "original_pdf": "http://ismir2015.uma.es/articles/172_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DuttaPM15"
@@ -1941,8 +2024,9 @@
       "pdf": "https://zenodo.org/record/1416116/files/JiangR15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/193_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000193.pdf",
+      "id": "ismir2015:paper:000193",
+      "original_pdf": "http://ismir2015.uma.es/articles/193_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/JiangR15"
@@ -1966,8 +2050,9 @@
       "pdf": "https://zenodo.org/record/1416958/files/DittmarLPMW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/201_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000201.pdf",
+      "id": "ismir2015:paper:000201",
+      "original_pdf": "http://ismir2015.uma.es/articles/201_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DittmarLPMW15"
@@ -1989,8 +2074,9 @@
       "pdf": "https://zenodo.org/record/1416026/files/BockKW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/196_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000196.pdf",
+      "id": "ismir2015:paper:000196",
+      "original_pdf": "http://ismir2015.uma.es/articles/196_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BockKW15"
@@ -2014,8 +2100,9 @@
       "pdf": "https://zenodo.org/record/1417509/files/DuvalBJCD15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/232_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000232.pdf",
+      "id": "ismir2015:paper:000232",
+      "original_pdf": "http://ismir2015.uma.es/articles/232_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DuvalBJCD15"
@@ -2037,8 +2124,9 @@
       "pdf": "https://zenodo.org/record/1417044/files/ChoLK15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/55_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000055.pdf",
+      "id": "ismir2015:paper:000055",
+      "original_pdf": "http://ismir2015.uma.es/articles/55_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChoLK15"
@@ -2060,8 +2148,9 @@
       "pdf": "https://zenodo.org/record/1417369/files/SiglerWH15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/153_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000153.pdf",
+      "id": "ismir2015:paper:000153",
+      "original_pdf": "http://ismir2015.uma.es/articles/153_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SiglerWH15"
@@ -2082,8 +2171,9 @@
       "pdf": "https://zenodo.org/record/1417467/files/BansalW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/269_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000269.pdf",
+      "id": "ismir2015:paper:000269",
+      "original_pdf": "http://ismir2015.uma.es/articles/269_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BansalW15"
@@ -2105,8 +2195,9 @@
       "pdf": "https://zenodo.org/record/1418357/files/JanssenKV15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/124_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000124.pdf",
+      "id": "ismir2015:paper:000124",
+      "original_pdf": "http://ismir2015.uma.es/articles/124_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/JanssenKV15"
@@ -2128,8 +2219,9 @@
       "pdf": "https://zenodo.org/record/1416286/files/Gomez-MarinJH15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/185_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000185.pdf",
+      "id": "ismir2015:paper:000185",
+      "original_pdf": "http://ismir2015.uma.es/articles/185_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Gomez-MarinJH15"
@@ -2150,8 +2242,9 @@
       "pdf": "https://zenodo.org/record/1417549/files/HumphreyB15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/294_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000294.pdf",
+      "id": "ismir2015:paper:000294",
+      "original_pdf": "http://ismir2015.uma.es/articles/294_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HumphreyB15"
@@ -2173,8 +2266,9 @@
       "pdf": "https://zenodo.org/record/1418261/files/GulatiSS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/69_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000069.pdf",
+      "id": "ismir2015:paper:000069",
+      "original_pdf": "http://ismir2015.uma.es/articles/69_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GulatiSS15"
@@ -2196,8 +2290,9 @@
       "pdf": "https://zenodo.org/record/1417921/files/DzhambazovSS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/249_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000249.pdf",
+      "id": "ismir2015:paper:000249",
+      "original_pdf": "http://ismir2015.uma.es/articles/249_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DzhambazovSS15"
@@ -2220,8 +2315,9 @@
       "pdf": "https://zenodo.org/record/1417577/files/EllisXFW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/116_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000116.pdf",
+      "id": "ismir2015:paper:000116",
+      "original_pdf": "http://ismir2015.uma.es/articles/116_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/EllisXFW15"
@@ -2242,8 +2338,9 @@
       "pdf": "https://zenodo.org/record/1418017/files/BenetosW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/131_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000131.pdf",
+      "id": "ismir2015:paper:000131",
+      "original_pdf": "http://ismir2015.uma.es/articles/131_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BenetosW15"
@@ -2265,8 +2362,9 @@
       "pdf": "https://zenodo.org/record/1414806/files/ChenSY15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/119_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000119.pdf",
+      "id": "ismir2015:paper:000119",
+      "original_pdf": "http://ismir2015.uma.es/articles/119_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChenSY15"
@@ -2287,8 +2385,9 @@
       "pdf": "https://zenodo.org/record/1416296/files/KirlinT15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/216_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000216.pdf",
+      "id": "ismir2015:paper:000216",
+      "original_pdf": "http://ismir2015.uma.es/articles/216_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KirlinT15"
@@ -2309,8 +2408,9 @@
       "pdf": "https://zenodo.org/record/1417995/files/DerutyP15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/136_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000136.pdf",
+      "id": "ismir2015:paper:000136",
+      "original_pdf": "http://ismir2015.uma.es/articles/136_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DerutyP15"
@@ -2333,8 +2433,9 @@
       "pdf": "https://zenodo.org/record/1417497/files/DevaneyACN15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/261_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000261.pdf",
+      "id": "ismir2015:paper:000261",
+      "original_pdf": "http://ismir2015.uma.es/articles/261_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DevaneyACN15"
@@ -2357,8 +2458,9 @@
       "pdf": "https://zenodo.org/record/1417012/files/BarbanchoTBS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/30_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000030.pdf",
+      "id": "ismir2015:paper:000030",
+      "original_pdf": "http://ismir2015.uma.es/articles/30_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BarbanchoTBS15"
@@ -2382,8 +2484,9 @@
       "pdf": "https://zenodo.org/record/1418371/files/Carabias-OrtiRV15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/94_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000094.pdf",
+      "id": "ismir2015:paper:000094",
+      "original_pdf": "http://ismir2015.uma.es/articles/94_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Carabias-OrtiRV15"
@@ -2405,8 +2508,9 @@
       "pdf": "https://zenodo.org/record/1416568/files/MatzCA15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/190_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000190.pdf",
+      "id": "ismir2015:paper:000190",
+      "original_pdf": "http://ismir2015.uma.es/articles/190_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MatzCA15"
@@ -2428,8 +2532,9 @@
       "pdf": "https://zenodo.org/record/1415116/files/JancovicKB15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/106_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000106.pdf",
+      "id": "ismir2015:paper:000106",
+      "original_pdf": "http://ismir2015.uma.es/articles/106_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/JancovicKB15"
@@ -2452,8 +2557,9 @@
       "pdf": "https://zenodo.org/record/1416270/files/StoberSOG15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/224_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000224.pdf",
+      "id": "ismir2015:paper:000224",
+      "original_pdf": "http://ismir2015.uma.es/articles/224_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/StoberSOG15"
@@ -2475,8 +2581,9 @@
       "pdf": "https://zenodo.org/record/1418201/files/AljanakiWV15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/265_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000265.pdf",
+      "id": "ismir2015:paper:000265",
+      "original_pdf": "http://ismir2015.uma.es/articles/265_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AljanakiWV15"
@@ -2499,8 +2606,9 @@
       "pdf": "https://zenodo.org/record/1417103/files/LeeHCD15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/51_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000051.pdf",
+      "id": "ismir2015:paper:000051",
+      "original_pdf": "http://ismir2015.uma.es/articles/51_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LeeHCD15"
@@ -2524,8 +2632,9 @@
       "pdf": "https://zenodo.org/record/1414938/files/PorterBKTS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/210_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000210.pdf",
+      "id": "ismir2015:paper:000210",
+      "original_pdf": "http://ismir2015.uma.es/articles/210_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PorterBKTS15"
@@ -2547,8 +2656,9 @@
       "pdf": "https://zenodo.org/record/1414908/files/LiebmanSW15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/293_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000293.pdf",
+      "id": "ismir2015:paper:000293",
+      "original_pdf": "http://ismir2015.uma.es/articles/293_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiebmanSW15"
@@ -2569,8 +2679,9 @@
       "pdf": "https://zenodo.org/record/1416820/files/MelenhorstL15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/67_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000067.pdf",
+      "id": "ismir2015:paper:000067",
+      "original_pdf": "http://ismir2015.uma.es/articles/67_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MelenhorstL15"
@@ -2593,8 +2704,9 @@
       "pdf": "https://zenodo.org/record/1416784/files/LiSYS15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/179_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000179.pdf",
+      "id": "ismir2015:paper:000179",
+      "original_pdf": "http://ismir2015.uma.es/articles/179_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiSYS15"
@@ -2617,8 +2729,9 @@
       "pdf": "https://zenodo.org/record/1415806/files/XiaWDG15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/72_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000072.pdf",
+      "id": "ismir2015:paper:000072",
+      "original_pdf": "http://ismir2015.uma.es/articles/72_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/XiaWDG15"
@@ -2642,8 +2755,9 @@
       "pdf": "https://zenodo.org/record/1416836/files/AbesserCFPZ15.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2015.uma.es/articles/135_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2015/paper/000135.pdf",
+      "id": "ismir2015:paper:000135",
+      "original_pdf": "http://ismir2015.uma.es/articles/135_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AbesserCFPZ15"

@@ -16,8 +16,9 @@
       "pdf": "https://zenodo.org/record/1415012/files/SilvaYBK16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/099_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000099.pdf",
+      "id": "ismir2016:paper:000099",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/099_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SilvaYBK16"
@@ -40,8 +41,9 @@
       "pdf": "https://zenodo.org/record/1418317/files/EwertWMS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/123_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000123.pdf",
+      "id": "ismir2016:paper:000123",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/123_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/EwertWMS16"
@@ -62,8 +64,9 @@
       "pdf": "https://zenodo.org/record/1416314/files/KorzeniowskiW16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/178_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000178.pdf",
+      "id": "ismir2016:paper:000178",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/178_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KorzeniowskiW16"
@@ -83,8 +86,9 @@
       "pdf": "https://zenodo.org/record/1417651/files/Schluter16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/315_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000315.pdf",
+      "id": "ismir2016:paper:000315",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/315_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Schluter16"
@@ -106,8 +110,9 @@
       "pdf": "https://zenodo.org/record/1417333/files/BeauguitteDK16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/148_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000148.pdf",
+      "id": "ismir2016:paper:000148",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/148_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BeauguitteDK16"
@@ -129,8 +134,9 @@
       "pdf": "https://zenodo.org/record/1418305/files/LambertWA16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/228_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000228.pdf",
+      "id": "ismir2016:paper:000228",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/228_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LambertWA16"
@@ -152,8 +158,9 @@
       "pdf": "https://zenodo.org/record/1415648/files/NuanainHJ16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/180_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000180.pdf",
+      "id": "ismir2016:paper:000180",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/180_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NuanainHJ16"
@@ -175,8 +182,9 @@
       "pdf": "https://zenodo.org/record/1416226/files/AllikFS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/077_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000077.pdf",
+      "id": "ismir2016:paper:000077",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/077_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AllikFS16"
@@ -197,8 +205,9 @@
       "pdf": "https://zenodo.org/record/1416772/files/StollerD16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/233_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000233.pdf",
+      "id": "ismir2016:paper:000233",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/233_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/StollerD16"
@@ -219,8 +228,9 @@
       "pdf": "https://zenodo.org/record/1416318/files/DaiD16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/127_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000127.pdf",
+      "id": "ismir2016:paper:000127",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/127_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DaiD16"
@@ -241,8 +251,9 @@
       "pdf": "https://zenodo.org/record/1417073/files/VigliensoniF16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/044_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000044.pdf",
+      "id": "ismir2016:paper:000044",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/044_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VigliensoniF16"
@@ -265,8 +276,9 @@
       "pdf": "https://zenodo.org/record/1418193/files/LuWLL16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/215_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000215.pdf",
+      "id": "ismir2016:paper:000215",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/215_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LuWLL16"
@@ -288,8 +300,9 @@
       "pdf": "https://zenodo.org/record/1415592/files/YangRC16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/314_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000314.pdf",
+      "id": "ismir2016:paper:000314",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/314_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YangRC16"
@@ -313,8 +326,9 @@
       "pdf": "https://zenodo.org/record/1417641/files/VelardeWCMG16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/063_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000063.pdf",
+      "id": "ismir2016:paper:000063",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/063_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VelardeWCMG16"
@@ -335,8 +349,9 @@
       "pdf": "https://zenodo.org/record/1418323/files/AndersenK16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/246_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000246.pdf",
+      "id": "ismir2016:paper:000246",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/246_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AndersenK16"
@@ -359,8 +374,9 @@
       "pdf": "https://zenodo.org/record/1417819/files/KrebsBDW16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/249_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000249.pdf",
+      "id": "ismir2016:paper:000249",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/249_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KrebsBDW16"
@@ -382,8 +398,9 @@
       "pdf": "https://zenodo.org/record/1418109/files/OsmalskyjDE16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/064_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000064.pdf",
+      "id": "ismir2016:paper:000064",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/064_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OsmalskyjDE16"
@@ -407,8 +424,9 @@
       "pdf": "https://zenodo.org/record/1416708/files/TseSWJL16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/072_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000072.pdf",
+      "id": "ismir2016:paper:000072",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/072_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TseSWJL16"
@@ -432,8 +450,9 @@
       "pdf": "https://zenodo.org/record/1415544/files/OramasALSS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/240_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000240.pdf",
+      "id": "ismir2016:paper:000240",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/240_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OramasALSS16"
@@ -456,8 +475,9 @@
       "pdf": "https://zenodo.org/record/1418161/files/HajicNPP16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/289_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000289.pdf",
+      "id": "ismir2016:paper:000289",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/289_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HajicNPP16"
@@ -480,8 +500,9 @@
       "pdf": "https://zenodo.org/record/1417825/files/Guiomard-KaganG16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/129_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000129.pdf",
+      "id": "ismir2016:paper:000129",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/129_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Guiomard-KaganG16"
@@ -503,8 +524,9 @@
       "pdf": "https://zenodo.org/record/1416164/files/TanakaBM16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/034_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000034.pdf",
+      "id": "ismir2016:paper:000034",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/034_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TanakaBM16"
@@ -527,8 +549,9 @@
       "pdf": "https://zenodo.org/record/1415954/files/KoopsHBV16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/019_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000019.pdf",
+      "id": "ismir2016:paper:000019",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/019_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KoopsHBV16"
@@ -550,8 +573,9 @@
       "pdf": "https://zenodo.org/record/1417008/files/SonnleitnerAW16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/187_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000187.pdf",
+      "id": "ismir2016:paper:000187",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/187_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SonnleitnerAW16"
@@ -576,8 +600,9 @@
       "pdf": "https://zenodo.org/record/1414954/files/ValleFADFS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/280_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000280.pdf",
+      "id": "ismir2016:paper:000280",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/280_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ValleFADFS16"
@@ -598,8 +623,9 @@
       "pdf": "https://zenodo.org/record/1417801/files/FieldsR16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/173_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000173.pdf",
+      "id": "ismir2016:paper:000173",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/173_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FieldsR16"
@@ -620,8 +646,9 @@
       "pdf": "https://zenodo.org/record/1417489/files/HennequinR16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/196_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000196.pdf",
+      "id": "ismir2016:paper:000196",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/196_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HennequinR16"
@@ -644,8 +671,9 @@
       "pdf": "https://zenodo.org/record/1415736/files/CreagerSBD16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/103_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000103.pdf",
+      "id": "ismir2016:paper:000103",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/103_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CreagerSBD16"
@@ -666,8 +694,9 @@
       "pdf": "https://zenodo.org/record/1416680/files/WuL16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/268_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000268.pdf",
+      "id": "ismir2016:paper:000268",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/268_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WuL16"
@@ -688,8 +717,9 @@
       "pdf": "https://zenodo.org/record/1417239/files/LiuR16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/097_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000097.pdf",
+      "id": "ismir2016:paper:000097",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/097_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiuR16"
@@ -712,8 +742,9 @@
       "pdf": "https://zenodo.org/record/1414924/files/PSGR16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/151_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000151.pdf",
+      "id": "ismir2016:paper:000151",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/151_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PSGR16"
@@ -736,8 +767,9 @@
       "pdf": "https://zenodo.org/record/1417006/files/DriedgerBEM16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/005_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000005.pdf",
+      "id": "ismir2016:paper:000005",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/005_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DriedgerBEM16"
@@ -761,8 +793,9 @@
       "pdf": "https://zenodo.org/record/1415076/files/BalkeDADM16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/049_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000049.pdf",
+      "id": "ismir2016:paper:000049",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/049_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BalkeDADM16"
@@ -784,8 +817,9 @@
       "pdf": "https://zenodo.org/record/1415836/files/BockKW16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/186_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000186.pdf",
+      "id": "ismir2016:paper:000186",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/186_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BockKW16"
@@ -806,8 +840,9 @@
       "pdf": "https://zenodo.org/record/1417263/files/HolzapfelG16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/132_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000132.pdf",
+      "id": "ismir2016:paper:000132",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/132_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HolzapfelG16"
@@ -828,8 +863,9 @@
       "pdf": "https://zenodo.org/record/1417659/files/FontS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/195_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000195.pdf",
+      "id": "ismir2016:paper:000195",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/195_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FontS16"
@@ -851,8 +887,9 @@
       "pdf": "https://zenodo.org/record/1416128/files/StoberPM16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/022_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000022.pdf",
+      "id": "ismir2016:paper:000022",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/022_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/StoberPM16"
@@ -874,8 +911,9 @@
       "pdf": "https://zenodo.org/record/1417775/files/McFeeHU16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/257_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000257.pdf",
+      "id": "ismir2016:paper:000257",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/257_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McFeeHU16"
@@ -897,8 +935,9 @@
       "pdf": "https://zenodo.org/record/1415528/files/DemetriouLL16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/068_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000068.pdf",
+      "id": "ismir2016:paper:000068",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/068_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DemetriouLL16"
@@ -920,8 +959,9 @@
       "pdf": "https://zenodo.org/record/1417627/files/LeeKH16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/087_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000087.pdf",
+      "id": "ismir2016:paper:000087",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/087_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LeeKH16"
@@ -944,8 +984,9 @@
       "pdf": "https://zenodo.org/record/1414968/files/OjimaNIY16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/003_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000003.pdf",
+      "id": "ismir2016:paper:000003",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/003_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OjimaNIY16"
@@ -969,8 +1010,9 @@
       "pdf": "https://zenodo.org/record/1415194/files/BuccoliZFSS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/253_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000253.pdf",
+      "id": "ismir2016:paper:000253",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/253_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BuccoliZFSS16"
@@ -992,8 +1034,9 @@
       "pdf": "https://zenodo.org/record/1416878/files/ChungLC16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/110_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000110.pdf",
+      "id": "ismir2016:paper:000110",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/110_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChungLC16"
@@ -1017,8 +1060,9 @@
       "pdf": "https://zenodo.org/record/1418105/files/BessonGRTT16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/076_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000076.pdf",
+      "id": "ismir2016:paper:000076",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/076_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BessonGRTT16"
@@ -1038,8 +1082,9 @@
       "pdf": "https://zenodo.org/record/1417405/files/Kinnaird16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/020_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000020.pdf",
+      "id": "ismir2016:paper:000020",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/020_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Kinnaird16"
@@ -1061,8 +1106,9 @@
       "pdf": "https://zenodo.org/record/1414724/files/Rodriguez-Algarra16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/146_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000146.pdf",
+      "id": "ismir2016:paper:000146",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/146_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Rodriguez-Algarra16"
@@ -1082,8 +1128,9 @@
       "pdf": "https://zenodo.org/record/1416054/files/Elowsson16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/252_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000252.pdf",
+      "id": "ismir2016:paper:000252",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/252_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Elowsson16"
@@ -1103,8 +1150,9 @@
       "pdf": "https://zenodo.org/record/1417553/files/Kruspe16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/070_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000070.pdf",
+      "id": "ismir2016:paper:000070",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/070_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Kruspe16"
@@ -1127,8 +1175,9 @@
       "pdf": "https://zenodo.org/record/1417881/files/ZangerlePHS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/039_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000039.pdf",
+      "id": "ismir2016:paper:000039",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/039_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ZangerlePHS16"
@@ -1150,8 +1199,9 @@
       "pdf": "https://zenodo.org/record/1416898/files/ScholzRC16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/054_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000054.pdf",
+      "id": "ismir2016:paper:000054",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/054_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ScholzRC16"
@@ -1174,8 +1224,9 @@
       "pdf": "https://zenodo.org/record/1418131/files/BogdanovPHS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/220_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000220.pdf",
+      "id": "ismir2016:paper:000220",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/220_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BogdanovPHS16"
@@ -1196,8 +1247,9 @@
       "pdf": "https://zenodo.org/record/1417739/files/DurandE16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/213_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000213.pdf",
+      "id": "ismir2016:paper:000213",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/213_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DurandE16"
@@ -1219,8 +1271,9 @@
       "pdf": "https://zenodo.org/record/1414838/files/SuCY16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/104_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000104.pdf",
+      "id": "ismir2016:paper:000104",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/104_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SuCY16"
@@ -1240,8 +1293,9 @@
       "pdf": "https://zenodo.org/record/1417479/files/Schreiber16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/074_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000074.pdf",
+      "id": "ismir2016:paper:000074",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/074_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Schreiber16"
@@ -1264,8 +1318,9 @@
       "pdf": "https://zenodo.org/record/1417147/files/LarochePKR16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/042_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000042.pdf",
+      "id": "ismir2016:paper:000042",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/042_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LarochePKR16"
@@ -1290,8 +1345,9 @@
       "pdf": "https://zenodo.org/record/1416864/files/BandieraPTHOS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/199_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000199.pdf",
+      "id": "ismir2016:paper:000199",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/199_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BandieraPTHOS16"
@@ -1312,8 +1368,9 @@
       "pdf": "https://zenodo.org/record/1416630/files/HedgesW16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/208_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000208.pdf",
+      "id": "ismir2016:paper:000208",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/208_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HedgesW16"
@@ -1335,8 +1392,9 @@
       "pdf": "https://zenodo.org/record/1418223/files/TsaiPM16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/098_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000098.pdf",
+      "id": "ismir2016:paper:000098",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/098_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TsaiPM16"
@@ -1357,8 +1415,9 @@
       "pdf": "https://zenodo.org/record/1416416/files/JeongL16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/159_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000159.pdf",
+      "id": "ismir2016:paper:000159",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/159_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/JeongL16"
@@ -1379,8 +1438,9 @@
       "pdf": "https://zenodo.org/record/1417345/files/HaasV16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/033_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000033.pdf",
+      "id": "ismir2016:paper:000033",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/033_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HaasV16"
@@ -1401,8 +1461,9 @@
       "pdf": "https://zenodo.org/record/1417639/files/HoriS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/285_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000285.pdf",
+      "id": "ismir2016:paper:000285",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/285_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HoriS16"
@@ -1427,8 +1488,9 @@
       "pdf": "https://zenodo.org/record/1416072/files/CardosoPHGGS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/155_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000155.pdf",
+      "id": "ismir2016:paper:000155",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/155_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CardosoPHGGS16"
@@ -1451,8 +1513,9 @@
       "pdf": "https://zenodo.org/record/1418023/files/NishikimiNIY16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/004_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000004.pdf",
+      "id": "ismir2016:paper:000004",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/004_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NishikimiNIY16"
@@ -1473,8 +1536,9 @@
       "pdf": "https://zenodo.org/record/1417555/files/PanteliD16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/161_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000161.pdf",
+      "id": "ismir2016:paper:000161",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/161_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PanteliD16"
@@ -1499,8 +1563,9 @@
       "pdf": "https://zenodo.org/record/1416488/files/KelzDKBAW16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/179_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000179.pdf",
+      "id": "ismir2016:paper:000179",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/179_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KelzDKBAW16"
@@ -1521,8 +1586,9 @@
       "pdf": "https://zenodo.org/record/1414790/files/GregorioK16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/245_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000245.pdf",
+      "id": "ismir2016:paper:000245",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/245_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GregorioK16"
@@ -1542,8 +1608,9 @@
       "pdf": "https://zenodo.org/record/1416726/files/Sturm16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/128_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000128.pdf",
+      "id": "ismir2016:paper:000128",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/128_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Sturm16"
@@ -1564,8 +1631,9 @@
       "pdf": "https://zenodo.org/record/1417987/files/SeetharamanP16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/057_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000057.pdf",
+      "id": "ismir2016:paper:000057",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/057_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SeetharamanP16"
@@ -1588,8 +1656,9 @@
       "pdf": "https://zenodo.org/record/1417999/files/Lopez-SerranoDD16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/065_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000065.pdf",
+      "id": "ismir2016:paper:000065",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/065_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Lopez-SerranoDD16"
@@ -1611,8 +1680,9 @@
       "pdf": "https://zenodo.org/record/1417469/files/Calvo-ZaragozaR16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/006_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000006.pdf",
+      "id": "ismir2016:paper:000006",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/006_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Calvo-ZaragozaR16"
@@ -1636,8 +1706,9 @@
       "pdf": "https://zenodo.org/record/1417449/files/WeissAPKM16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/079_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000079.pdf",
+      "id": "ismir2016:paper:000079",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/079_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WeissAPKM16"
@@ -1659,8 +1730,9 @@
       "pdf": "https://zenodo.org/record/1415964/files/LewisCM16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/165_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000165.pdf",
+      "id": "ismir2016:paper:000165",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/165_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LewisCM16"
@@ -1681,8 +1753,9 @@
       "pdf": "https://zenodo.org/record/1416938/files/HolzapfelB16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/156_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000156.pdf",
+      "id": "ismir2016:paper:000156",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/156_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HolzapfelB16"
@@ -1704,8 +1777,9 @@
       "pdf": "https://zenodo.org/record/1415216/files/PanteliBD16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/166_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000166.pdf",
+      "id": "ismir2016:paper:000166",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/166_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PanteliBD16"
@@ -1726,8 +1800,9 @@
       "pdf": "https://zenodo.org/record/1417661/files/NietoB16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/043_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000043.pdf",
+      "id": "ismir2016:paper:000043",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/043_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NietoB16"
@@ -1748,8 +1823,9 @@
       "pdf": "https://zenodo.org/record/1416916/files/SmithG16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/135_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000135.pdf",
+      "id": "ismir2016:paper:000135",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/135_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SmithG16"
@@ -1770,8 +1846,9 @@
       "pdf": "https://zenodo.org/record/1417713/files/TianS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/032_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000032.pdf",
+      "id": "ismir2016:paper:000032",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/032_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TianS16"
@@ -1794,8 +1871,9 @@
       "pdf": "https://zenodo.org/record/1418167/files/BoschBSG16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/256_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000256.pdf",
+      "id": "ismir2016:paper:000256",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/256_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BoschBSG16"
@@ -1818,8 +1896,9 @@
       "pdf": "https://zenodo.org/record/1417559/files/SchedlEGT16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/260_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000260.pdf",
+      "id": "ismir2016:paper:000260",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/260_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchedlEGT16"
@@ -1842,8 +1921,9 @@
       "pdf": "https://zenodo.org/record/1418153/files/0001MBD16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/085_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000085.pdf",
+      "id": "ismir2016:paper:000085",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/085_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/0001MBD16"
@@ -1865,8 +1945,9 @@
       "pdf": "https://zenodo.org/record/1416244/files/SouthallSH16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/217_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000217.pdf",
+      "id": "ismir2016:paper:000217",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/217_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SouthallSH16"
@@ -1888,8 +1969,9 @@
       "pdf": "https://zenodo.org/record/1416224/files/WintersGL16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/181_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000181.pdf",
+      "id": "ismir2016:paper:000181",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/181_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WintersGL16"
@@ -1912,8 +1994,9 @@
       "pdf": "https://zenodo.org/record/1416520/files/GanguliGSR16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/121_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000121.pdf",
+      "id": "ismir2016:paper:000121",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/121_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GanguliGSR16"
@@ -1934,8 +2017,9 @@
       "pdf": "https://zenodo.org/record/1416928/files/LostanlenC16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/093_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000093.pdf",
+      "id": "ismir2016:paper:000093",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/093_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LostanlenC16"
@@ -1955,8 +2039,9 @@
       "pdf": "https://zenodo.org/record/1415704/files/Stasiak16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/089_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000089.pdf",
+      "id": "ismir2016:paper:000089",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/089_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Stasiak16"
@@ -1979,8 +2064,9 @@
       "pdf": "https://zenodo.org/record/1415928/files/FullerHKL16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/205_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000205.pdf",
+      "id": "ismir2016:paper:000205",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/205_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FullerHKL16"
@@ -2001,8 +2087,9 @@
       "pdf": "https://zenodo.org/record/1416176/files/AndradeF16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/251_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000251.pdf",
+      "id": "ismir2016:paper:000251",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/251_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AndradeF16"
@@ -2022,8 +2109,9 @@
       "pdf": "https://zenodo.org/record/1416118/files/Kirlin16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/259_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000259.pdf",
+      "id": "ismir2016:paper:000259",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/259_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Kirlin16"
@@ -2045,8 +2133,9 @@
       "pdf": "https://zenodo.org/record/1416184/files/ChenSR16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/106_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000106.pdf",
+      "id": "ismir2016:paper:000106",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/106_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChenSR16"
@@ -2067,8 +2156,9 @@
       "pdf": "https://zenodo.org/record/1418047/files/AthertonK16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/221_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000221.pdf",
+      "id": "ismir2016:paper:000221",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/221_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AthertonK16"
@@ -2090,8 +2180,9 @@
       "pdf": "https://zenodo.org/record/1417743/files/LiebmanSW16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/272_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000272.pdf",
+      "id": "ismir2016:paper:000272",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/272_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiebmanSW16"
@@ -2114,8 +2205,9 @@
       "pdf": "https://zenodo.org/record/1416710/files/WaloschekBBH16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/192_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000192.pdf",
+      "id": "ismir2016:paper:000192",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/192_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WaloschekBBH16"
@@ -2137,8 +2229,9 @@
       "pdf": "https://zenodo.org/record/1415876/files/BantulaGR16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/162_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000162.pdf",
+      "id": "ismir2016:paper:000162",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/162_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BantulaGR16"
@@ -2160,8 +2253,9 @@
       "pdf": "https://zenodo.org/record/1416408/files/ShanahanNC16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/167_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000167.pdf",
+      "id": "ismir2016:paper:000167",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/167_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ShanahanNC16"
@@ -2185,8 +2279,9 @@
       "pdf": "https://zenodo.org/record/1417275/files/FigueiredoRFAA16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/193_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000193.pdf",
+      "id": "ismir2016:paper:000193",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/193_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FigueiredoRFAA16"
@@ -2209,8 +2304,9 @@
       "pdf": "https://zenodo.org/record/1417915/files/NakanoMYG16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/191_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000191.pdf",
+      "id": "ismir2016:paper:000191",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/191_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NakanoMYG16"
@@ -2231,8 +2327,9 @@
       "pdf": "https://zenodo.org/record/1417381/files/HyrkasH16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/284_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000284.pdf",
+      "id": "ismir2016:paper:000284",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/284_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HyrkasH16"
@@ -2253,8 +2350,9 @@
       "pdf": "https://zenodo.org/record/1417199/files/Eghbal-zadehW16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/037_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000037.pdf",
+      "id": "ismir2016:paper:000037",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/037_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Eghbal-zadehW16"
@@ -2277,8 +2375,9 @@
       "pdf": "https://zenodo.org/record/1415988/files/DzhambazovSSS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/243_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000243.pdf",
+      "id": "ismir2016:paper:000243",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/243_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DzhambazovSSS16"
@@ -2300,8 +2399,9 @@
       "pdf": "https://zenodo.org/record/1416976/files/Fournier-Sniehotta16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/136_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000136.pdf",
+      "id": "ismir2016:paper:000136",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/136_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Fournier-Sniehotta16"
@@ -2323,8 +2423,9 @@
       "pdf": "https://zenodo.org/record/1417613/files/VoglDK16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/269_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000269.pdf",
+      "id": "ismir2016:paper:000269",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/269_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VoglDK16"
@@ -2345,8 +2446,9 @@
       "pdf": "https://zenodo.org/record/1418051/files/RigaudR16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/163_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000163.pdf",
+      "id": "ismir2016:paper:000163",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/163_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RigaudR16"
@@ -2368,8 +2470,9 @@
       "pdf": "https://zenodo.org/record/1418099/files/HsuLC16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/046_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000046.pdf",
+      "id": "ismir2016:paper:000046",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/046_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HsuLC16"
@@ -2393,8 +2496,9 @@
       "pdf": "https://zenodo.org/record/1417905/files/GulatiSGSS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/030_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000030.pdf",
+      "id": "ismir2016:paper:000030",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/030_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GulatiSGSS16"
@@ -2416,8 +2520,9 @@
       "pdf": "https://zenodo.org/record/1416466/files/CogliatiTD16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/088_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000088.pdf",
+      "id": "ismir2016:paper:000088",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/088_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CogliatiTD16"
@@ -2443,8 +2548,9 @@
       "pdf": "https://zenodo.org/record/1414832/files/HuCLLHCD16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/283_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000283.pdf",
+      "id": "ismir2016:paper:000283",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/283_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HuCLLHCD16"
@@ -2464,8 +2570,9 @@
       "pdf": "https://zenodo.org/record/1416924/files/Groves16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/274_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000274.pdf",
+      "id": "ismir2016:paper:000274",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/274_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Groves16"
@@ -2486,8 +2593,9 @@
       "pdf": "https://zenodo.org/record/1417251/files/GrayB16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/296_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000296.pdf",
+      "id": "ismir2016:paper:000296",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/296_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GrayB16"
@@ -2509,8 +2617,9 @@
       "pdf": "https://zenodo.org/record/1415548/files/DorferAW16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/027_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000027.pdf",
+      "id": "ismir2016:paper:000027",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/027_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DorferAW16"
@@ -2531,8 +2640,9 @@
       "pdf": "https://zenodo.org/record/1418233/files/RaffelE16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/105_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000105.pdf",
+      "id": "ismir2016:paper:000105",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/105_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RaffelE16"
@@ -2554,8 +2664,9 @@
       "pdf": "https://zenodo.org/record/1416254/files/ChoiFS16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/009_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000009.pdf",
+      "id": "ismir2016:paper:000009",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/009_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChoiFS16"
@@ -2576,8 +2687,9 @@
       "pdf": "https://zenodo.org/record/1415718/files/DengK16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/058_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000058.pdf",
+      "id": "ismir2016:paper:000058",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/058_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DengK16"
@@ -2599,8 +2711,9 @@
       "pdf": "https://zenodo.org/record/1414788/files/KumON16.pdf"
     },
     "ismir": {
-      "pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/119_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2016/paper/000119.pdf",
+      "id": "ismir2016:paper:000119",
+      "original_pdf": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/119_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KumON16"

@@ -14,8 +14,9 @@
       "pdf": "https://zenodo.org/record/1416676/files/DielemanS13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/69_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000069.pdf",
+      "id": "ismir2013:paper:000069",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/69_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DielemanS13"
@@ -38,8 +39,9 @@
       "pdf": "https://zenodo.org/record/1416108/files/HamelDYG13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/76_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000076.pdf",
+      "id": "ismir2013:paper:000076",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/76_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HamelDYG13"
@@ -62,8 +64,9 @@
       "pdf": "https://zenodo.org/record/1415682/files/CherlaWGP13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/135_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000135.pdf",
+      "id": "ismir2013:paper:000135",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/135_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CherlaWGP13"
@@ -84,8 +87,9 @@
       "pdf": "https://zenodo.org/record/1417185/files/SchmidtK13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/193_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000193.pdf",
+      "id": "ismir2013:paper:000193",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/193_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchmidtK13"
@@ -107,8 +111,9 @@
       "pdf": "https://zenodo.org/record/1416882/files/AgarwalKR13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/27_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000027.pdf",
+      "id": "ismir2013:paper:000027",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/27_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AgarwalKR13"
@@ -130,8 +135,9 @@
       "pdf": "https://zenodo.org/record/1417841/files/DigheKR13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/43_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000043.pdf",
+      "id": "ismir2013:paper:000043",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/43_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DigheKR13"
@@ -154,8 +160,9 @@
       "pdf": "https://zenodo.org/record/1415066/files/RafiiGSM13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/63_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000063.pdf",
+      "id": "ismir2013:paper:000063",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/63_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RafiiGSM13"
@@ -176,8 +183,9 @@
       "pdf": "https://zenodo.org/record/1418349/files/LaaksonenL13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/66_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000066.pdf",
+      "id": "ismir2013:paper:000066",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/66_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LaaksonenL13"
@@ -199,8 +207,9 @@
       "pdf": "https://zenodo.org/record/1415512/files/LehnerSW13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/89_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000089.pdf",
+      "id": "ismir2013:paper:000089",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/89_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LehnerSW13"
@@ -222,8 +231,9 @@
       "pdf": "https://zenodo.org/record/1418235/files/ChoudhuryBB13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/103_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000103.pdf",
+      "id": "ismir2013:paper:000103",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/103_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChoudhuryBB13"
@@ -247,8 +257,9 @@
       "pdf": "https://zenodo.org/record/1415914/files/YakarSLBS13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/110_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000110.pdf",
+      "id": "ismir2013:paper:000110",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/110_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YakarSLBS13"
@@ -268,8 +279,9 @@
       "pdf": "https://zenodo.org/record/1416180/files/McKay13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/112_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000112.pdf",
+      "id": "ismir2013:paper:000112",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/112_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McKay13"
@@ -290,8 +302,9 @@
       "pdf": "https://zenodo.org/record/1415834/files/OrioP13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/129_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000129.pdf",
+      "id": "ismir2013:paper:000129",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/129_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OrioP13"
@@ -312,8 +325,9 @@
       "pdf": "https://zenodo.org/record/1415862/files/MauchE13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/145_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000145.pdf",
+      "id": "ismir2013:paper:000145",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/145_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MauchE13"
@@ -336,8 +350,9 @@
       "pdf": "https://zenodo.org/record/1415212/files/SongDPH13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/170_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000170.pdf",
+      "id": "ismir2013:paper:000170",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/170_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SongDPH13"
@@ -360,8 +375,9 @@
       "pdf": "https://zenodo.org/record/1417087/files/SilvaPBE13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/174_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000174.pdf",
+      "id": "ismir2013:paper:000174",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/174_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SilvaPBE13"
@@ -383,8 +399,9 @@
       "pdf": "https://zenodo.org/record/1417355/files/PorterSS13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/179_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000179.pdf",
+      "id": "ismir2013:paper:000179",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/179_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PorterSS13"
@@ -407,8 +424,9 @@
       "pdf": "https://zenodo.org/record/1415624/files/BalenBWV13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/180_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000180.pdf",
+      "id": "ismir2013:paper:000180",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/180_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BalenBWV13"
@@ -429,8 +447,9 @@
       "pdf": "https://zenodo.org/record/1418057/files/KuuskankareS13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/184_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000184.pdf",
+      "id": "ismir2013:paper:000184",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/184_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KuuskankareS13"
@@ -452,8 +471,9 @@
       "pdf": "https://zenodo.org/record/1418247/files/BryanMW13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/188_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000188.pdf",
+      "id": "ismir2013:paper:000188",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/188_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BryanMW13"
@@ -475,8 +495,9 @@
       "pdf": "https://zenodo.org/record/1417024/files/VigliensoniBF13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/207_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000207.pdf",
+      "id": "ismir2013:paper:000207",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/207_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VigliensoniBF13"
@@ -498,8 +519,9 @@
       "pdf": "https://zenodo.org/record/1417951/files/VigliensoniBF13a.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/212_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000212.pdf",
+      "id": "ismir2013:paper:000212",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/212_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VigliensoniBF13a"
@@ -520,8 +542,9 @@
       "pdf": "https://zenodo.org/record/1417303/files/CunninghamL13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/226_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000226.pdf",
+      "id": "ismir2013:paper:000226",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/226_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CunninghamL13"
@@ -544,8 +567,9 @@
       "pdf": "https://zenodo.org/record/1414726/files/ProckupSSK13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/242_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000242.pdf",
+      "id": "ismir2013:paper:000242",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/242_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ProckupSSK13"
@@ -567,8 +591,9 @@
       "pdf": "https://zenodo.org/record/1416548/files/HumphreyNB13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/246_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000246.pdf",
+      "id": "ismir2013:paper:000246",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/246_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HumphreyNB13"
@@ -588,8 +613,9 @@
       "pdf": "https://zenodo.org/record/1414772/files/Wu13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/259_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000259.pdf",
+      "id": "ismir2013:paper:000259",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/259_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Wu13"
@@ -610,8 +636,9 @@
       "pdf": "https://zenodo.org/record/1415846/files/VolkH13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/10_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000010.pdf",
+      "id": "ismir2013:paper:000010",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/10_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VolkH13"
@@ -632,8 +659,9 @@
       "pdf": "https://zenodo.org/record/1417040/files/PanteliP13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/98_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000098.pdf",
+      "id": "ismir2013:paper:000098",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/98_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PanteliP13"
@@ -655,8 +683,9 @@
       "pdf": "https://zenodo.org/record/1416950/files/SenturkGS13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/185_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000185.pdf",
+      "id": "ismir2013:paper:000185",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/185_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SenturkGS13"
@@ -678,8 +707,9 @@
       "pdf": "https://zenodo.org/record/1414948/files/BountouridisVB13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/37_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000037.pdf",
+      "id": "ismir2013:paper:000037",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/37_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BountouridisVB13"
@@ -702,8 +732,9 @@
       "pdf": "https://zenodo.org/record/1417649/files/HaugerSKT13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/85_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000085.pdf",
+      "id": "ismir2013:paper:000085",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/85_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HaugerSKT13"
@@ -725,8 +756,9 @@
       "pdf": "https://zenodo.org/record/1417123/files/ArjannikovSZ13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/198_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000198.pdf",
+      "id": "ismir2013:paper:000198",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/198_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ArjannikovSZ13"
@@ -751,8 +783,9 @@
       "pdf": "https://zenodo.org/record/1418049/files/SaariEFBLS13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/225_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000225.pdf",
+      "id": "ismir2013:paper:000225",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/225_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SaariEFBLS13"
@@ -775,8 +808,9 @@
       "pdf": "https://zenodo.org/record/1417813/files/GrohganzCJM13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/23_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000023.pdf",
+      "id": "ismir2013:paper:000023",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/23_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GrohganzCJM13"
@@ -798,8 +832,9 @@
       "pdf": "https://zenodo.org/record/1415004/files/WilmeringFS13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/41_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000041.pdf",
+      "id": "ismir2013:paper:000041",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/41_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WilmeringFS13"
@@ -821,8 +856,9 @@
       "pdf": "https://zenodo.org/record/1416604/files/LinCY13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/45_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000045.pdf",
+      "id": "ismir2013:paper:000045",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/45_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LinCY13"
@@ -844,8 +880,9 @@
       "pdf": "https://zenodo.org/record/1416392/files/KrebsBW13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/51_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000051.pdf",
+      "id": "ismir2013:paper:000051",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/51_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KrebsBW13"
@@ -866,8 +903,9 @@
       "pdf": "https://zenodo.org/record/1415844/files/KhadkevichO13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/67_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000067.pdf",
+      "id": "ismir2013:paper:000067",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/67_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KhadkevichO13"
@@ -890,8 +928,9 @@
       "pdf": "https://zenodo.org/record/1416624/files/MiryalaBBC13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/97_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000097.pdf",
+      "id": "ismir2013:paper:000097",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/97_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MiryalaBBC13"
@@ -914,8 +953,9 @@
       "pdf": "https://zenodo.org/record/1417599/files/BurgoyneBBH13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/101_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000101.pdf",
+      "id": "ismir2013:paper:000101",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/101_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BurgoyneBBH13"
@@ -936,8 +976,9 @@
       "pdf": "https://zenodo.org/record/1415182/files/RanjaniS13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/104_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000104.pdf",
+      "id": "ismir2013:paper:000104",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/104_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RanjaniS13"
@@ -958,8 +999,9 @@
       "pdf": "https://zenodo.org/record/1416046/files/KaiserP13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/106_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000106.pdf",
+      "id": "ismir2013:paper:000106",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/106_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KaiserP13"
@@ -980,8 +1022,9 @@
       "pdf": "https://zenodo.org/record/1418001/files/BonninJ13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/114_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000114.pdf",
+      "id": "ismir2013:paper:000114",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/114_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BonninJ13"
@@ -1002,8 +1045,9 @@
       "pdf": "https://zenodo.org/record/1416088/files/BenetosW13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/117_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000117.pdf",
+      "id": "ismir2013:paper:000117",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/117_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BenetosW13"
@@ -1025,8 +1069,9 @@
       "pdf": "https://zenodo.org/record/1417473/files/PachetSM13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/149_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000149.pdf",
+      "id": "ismir2013:paper:000149",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/149_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PachetSM13"
@@ -1048,8 +1093,9 @@
       "pdf": "https://zenodo.org/record/1418027/files/GrantET13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/150_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000150.pdf",
+      "id": "ismir2013:paper:000150",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/150_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GrantET13"
@@ -1070,8 +1116,9 @@
       "pdf": "https://zenodo.org/record/1417705/files/DupontR13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/154_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000154.pdf",
+      "id": "ismir2013:paper:000154",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/154_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DupontR13"
@@ -1093,8 +1140,9 @@
       "pdf": "https://zenodo.org/record/1417363/files/VeraCH13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/171_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000171.pdf",
+      "id": "ismir2013:paper:000171",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/171_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VeraCH13"
@@ -1115,8 +1163,9 @@
       "pdf": "https://zenodo.org/record/1417903/files/SarroffC13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/181_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000181.pdf",
+      "id": "ismir2013:paper:000181",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/181_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SarroffC13"
@@ -1137,8 +1186,9 @@
       "pdf": "https://zenodo.org/record/1416578/files/ScottK13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/200_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000200.pdf",
+      "id": "ismir2013:paper:000200",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/200_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ScottK13"
@@ -1158,8 +1208,9 @@
       "pdf": "https://zenodo.org/record/1415552/files/Gartner13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/218_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000218.pdf",
+      "id": "ismir2013:paper:000218",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/218_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Gartner13"
@@ -1182,8 +1233,9 @@
       "pdf": "https://zenodo.org/record/1415748/files/KostaSFS13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/222_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000222.pdf",
+      "id": "ismir2013:paper:000222",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/222_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KostaSFS13"
@@ -1205,8 +1257,9 @@
       "pdf": "https://zenodo.org/record/1416300/files/HuLO13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/231_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000231.pdf",
+      "id": "ismir2013:paper:000231",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/231_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HuLO13"
@@ -1231,8 +1284,9 @@
       "pdf": "https://zenodo.org/record/1415756/files/KaneshiroKHOBS13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/238_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000238.pdf",
+      "id": "ismir2013:paper:000238",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/238_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KaneshiroKHOBS13"
@@ -1254,8 +1308,9 @@
       "pdf": "https://zenodo.org/record/1418319/files/Boulanger-LewandowskiBV13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/243_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000243.pdf",
+      "id": "ismir2013:paper:000243",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/243_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Boulanger-LewandowskiBV13"
@@ -1277,8 +1332,9 @@
       "pdf": "https://zenodo.org/record/1414798/files/MoreiraRP13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/277_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000277.pdf",
+      "id": "ismir2013:paper:000277",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/277_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MoreiraRP13"
@@ -1299,8 +1355,9 @@
       "pdf": "https://zenodo.org/record/1417107/files/SuY13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/54_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000054.pdf",
+      "id": "ismir2013:paper:000054",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/54_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SuY13"
@@ -1321,8 +1378,9 @@
       "pdf": "https://zenodo.org/record/1416468/files/BenetosH13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/119_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000119.pdf",
+      "id": "ismir2013:paper:000119",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/119_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BenetosH13"
@@ -1343,8 +1401,9 @@
       "pdf": "https://zenodo.org/record/1416460/files/BockW13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/175_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000175.pdf",
+      "id": "ismir2013:paper:000175",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/175_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BockW13"
@@ -1367,8 +1426,9 @@
       "pdf": "https://zenodo.org/record/1415060/files/YoshiiTMG13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/32_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000032.pdf",
+      "id": "ismir2013:paper:000032",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/32_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YoshiiTMG13"
@@ -1390,8 +1450,9 @@
       "pdf": "https://zenodo.org/record/1416206/files/LiangHE13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/229_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000229.pdf",
+      "id": "ismir2013:paper:000229",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/229_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiangHE13"
@@ -1412,8 +1473,9 @@
       "pdf": "https://zenodo.org/record/1418293/files/AroraB13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/265_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000265.pdf",
+      "id": "ismir2013:paper:000265",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/265_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AroraB13"
@@ -1437,8 +1499,9 @@
       "pdf": "https://zenodo.org/record/1417943/files/SchoefflerSBEH13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/59_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000059.pdf",
+      "id": "ismir2013:paper:000059",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/59_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchoefflerSBEH13"
@@ -1459,8 +1522,9 @@
       "pdf": "https://zenodo.org/record/1415792/files/CartwrightP13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/173_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000173.pdf",
+      "id": "ismir2013:paper:000173",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/173_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CartwrightP13"
@@ -1483,8 +1547,9 @@
       "pdf": "https://zenodo.org/record/1416148/files/MooreCTJ13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/220_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000220.pdf",
+      "id": "ismir2013:paper:000220",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/220_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MooreCTJ13"
@@ -1506,8 +1571,9 @@
       "pdf": "https://zenodo.org/record/1416660/files/RamosAM13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/257_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000257.pdf",
+      "id": "ismir2013:paper:000257",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/257_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RamosAM13"
@@ -1530,8 +1596,9 @@
       "pdf": "https://zenodo.org/record/1417443/files/WuWLH13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/7_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000007.pdf",
+      "id": "ismir2013:paper:000007",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/7_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WuWLH13"
@@ -1555,8 +1622,9 @@
       "pdf": "https://zenodo.org/record/1418005/files/BarthetMBFS13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/14_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000014.pdf",
+      "id": "ismir2013:paper:000014",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/14_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BarthetMBFS13"
@@ -1576,8 +1644,9 @@
       "pdf": "https://zenodo.org/record/1418089/files/Yang13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/17_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000017.pdf",
+      "id": "ismir2013:paper:000017",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/17_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Yang13"
@@ -1600,8 +1669,9 @@
       "pdf": "https://zenodo.org/record/1415110/files/StoberLGN13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/40_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000040.pdf",
+      "id": "ismir2013:paper:000040",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/40_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/StoberLGN13"
@@ -1622,8 +1692,9 @@
       "pdf": "https://zenodo.org/record/1415946/files/PuginC13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/65_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000065.pdf",
+      "id": "ismir2013:paper:000065",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/65_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PuginC13"
@@ -1645,8 +1716,9 @@
       "pdf": "https://zenodo.org/record/1416994/files/GaoDC13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/71_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000071.pdf",
+      "id": "ismir2013:paper:000071",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/71_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GaoDC13"
@@ -1668,8 +1740,9 @@
       "pdf": "https://zenodo.org/record/1418199/files/SebastienSC13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/83_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000083.pdf",
+      "id": "ismir2013:paper:000083",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/83_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SebastienSC13"
@@ -1691,8 +1764,9 @@
       "pdf": "https://zenodo.org/record/1417701/files/FukayamaYG13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/84_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000084.pdf",
+      "id": "ismir2013:paper:000084",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/84_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FukayamaYG13"
@@ -1714,8 +1788,9 @@
       "pdf": "https://zenodo.org/record/1415764/files/LiuLW13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/92_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000092.pdf",
+      "id": "ismir2013:paper:000092",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/92_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiuLW13"
@@ -1736,8 +1811,9 @@
       "pdf": "https://zenodo.org/record/1415816/files/SmithC13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/144_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000144.pdf",
+      "id": "ismir2013:paper:000144",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/144_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SmithC13"
@@ -1759,8 +1835,9 @@
       "pdf": "https://zenodo.org/record/1417014/files/ChengDM13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/155_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000155.pdf",
+      "id": "ismir2013:paper:000155",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/155_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChengDM13"
@@ -1783,8 +1860,9 @@
       "pdf": "https://zenodo.org/record/1414928/files/ElowssonFMP13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/165_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000165.pdf",
+      "id": "ismir2013:paper:000165",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/165_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ElowssonFMP13"
@@ -1805,8 +1883,9 @@
       "pdf": "https://zenodo.org/record/1414892/files/SaralaM13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/167_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000167.pdf",
+      "id": "ismir2013:paper:000167",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/167_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SaralaM13"
@@ -1835,8 +1914,9 @@
       "pdf": "https://zenodo.org/record/1415016/files/BogdanovWGGHMRSZS13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/177_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000177.pdf",
+      "id": "ismir2013:paper:000177",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/177_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BogdanovWGGHMRSZS13"
@@ -1859,8 +1939,9 @@
       "pdf": "https://zenodo.org/record/1416332/files/IshwarDBM13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/205_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000205.pdf",
+      "id": "ismir2013:paper:000205",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/205_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/IshwarDBM13"
@@ -1881,8 +1962,9 @@
       "pdf": "https://zenodo.org/record/1415654/files/KellT13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/210_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000210.pdf",
+      "id": "ismir2013:paper:000210",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/210_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KellT13"
@@ -1902,8 +1984,9 @@
       "pdf": "https://zenodo.org/record/1416570/files/Koerich13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/214_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000214.pdf",
+      "id": "ismir2013:paper:000214",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/214_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Koerich13"
@@ -1924,8 +2007,9 @@
       "pdf": "https://zenodo.org/record/1415042/files/BurletF13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/217_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000217.pdf",
+      "id": "ismir2013:paper:000217",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/217_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BurletF13"
@@ -1945,8 +2029,9 @@
       "pdf": "https://zenodo.org/record/1415232/files/Polfreman13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/224_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000224.pdf",
+      "id": "ismir2013:paper:000224",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/224_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Polfreman13"
@@ -1969,8 +2054,9 @@
       "pdf": "https://zenodo.org/record/1416222/files/LeeCHD13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/233_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000233.pdf",
+      "id": "ismir2013:paper:000233",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/233_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LeeCHD13"
@@ -1993,8 +2079,9 @@
       "pdf": "https://zenodo.org/record/1415604/files/ScheerenPKL13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/234_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000234.pdf",
+      "id": "ismir2013:paper:000234",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/234_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ScheerenPKL13"
@@ -2018,8 +2105,9 @@
       "pdf": "https://zenodo.org/record/1415096/files/CaiEDLW13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/249_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000249.pdf",
+      "id": "ismir2013:paper:000249",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/249_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CaiEDLW13"
@@ -2042,8 +2130,9 @@
       "pdf": "https://zenodo.org/record/1416622/files/CollinsAFW13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/161_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000161.pdf",
+      "id": "ismir2013:paper:000161",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/161_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CollinsAFW13"
@@ -2065,8 +2154,9 @@
       "pdf": "https://zenodo.org/record/1418279/files/ValkWB13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/221_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000221.pdf",
+      "id": "ismir2013:paper:000221",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/221_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ValkWB13"
@@ -2089,8 +2179,9 @@
       "pdf": "https://zenodo.org/record/1416092/files/ThomasPEM13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/228_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000228.pdf",
+      "id": "ismir2013:paper:000228",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/228_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ThomasPEM13"
@@ -2112,8 +2203,9 @@
       "pdf": "https://zenodo.org/record/1418255/files/FenetGR13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/46_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000046.pdf",
+      "id": "ismir2013:paper:000046",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/46_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FenetGR13"
@@ -2136,8 +2228,9 @@
       "pdf": "https://zenodo.org/record/1416050/files/DaviesHYG13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/77_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000077.pdf",
+      "id": "ismir2013:paper:000077",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/77_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DaviesHYG13"
@@ -2157,8 +2250,9 @@
       "pdf": "https://zenodo.org/record/1416508/files/Schluter13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/189_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000189.pdf",
+      "id": "ismir2013:paper:000189",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/189_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Schluter13"
@@ -2179,8 +2273,9 @@
       "pdf": "https://zenodo.org/record/1416814/files/PratzlichM13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/82_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000082.pdf",
+      "id": "ismir2013:paper:000082",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/82_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PratzlichM13"
@@ -2201,8 +2296,9 @@
       "pdf": "https://zenodo.org/record/1418283/files/JiangM13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/90_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000090.pdf",
+      "id": "ismir2013:paper:000090",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/90_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/JiangM13"
@@ -2224,8 +2320,9 @@
       "pdf": "https://zenodo.org/record/1416104/files/PauwelsKP13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/138_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000138.pdf",
+      "id": "ismir2013:paper:000138",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/138_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PauwelsKP13"
@@ -2248,8 +2345,9 @@
       "pdf": "https://zenodo.org/record/1416628/files/GrachtenGAW13.pdf"
     },
     "ismir": {
-      "pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/158_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2013/paper/000158.pdf",
+      "id": "ismir2013:paper:000158",
+      "original_pdf": "http://www.ppgia.pucpr.br/ismir2013/wp-content/uploads/2013/09/158_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GrachtenGAW13"

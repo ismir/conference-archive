@@ -16,8 +16,9 @@
       "pdf": "https://zenodo.org/api/files/eaecfb4b-c463-48d8-bbec-66684e3628e5/72_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/72_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000072.pdf",
+      "id": "ismir2018:paper:000072",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/72_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GebhardtSL18"
@@ -39,8 +40,9 @@
       "pdf": "https://zenodo.org/api/files/d2b605ee-e6ec-4c18-92e3-101085353f5f/300_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/300_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000300.pdf",
+      "id": "ismir2018:paper:000300",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/300_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KorzeniowskiW18"
@@ -63,8 +65,9 @@
       "pdf": "https://zenodo.org/api/files/1bffd8d4-3038-49db-b465-782f29137fc1/231_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/231_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000231.pdf",
+      "id": "ismir2018:paper:000231",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/231_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CarsaultNE18"
@@ -87,8 +90,9 @@
       "pdf": "https://zenodo.org/api/files/4341cf40-6410-4caf-a9c7-21fd89d0be48/179_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/179_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000179.pdf",
+      "id": "ismir2018:paper:000179",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/179_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LattnerGW18"
@@ -111,8 +115,9 @@
       "pdf": "https://zenodo.org/api/files/e4f82de7-b9ae-4818-b055-facf34eb5cd2/87_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/87_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000087.pdf",
+      "id": "ismir2018:paper:000087",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/87_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RomanPC18"
@@ -134,8 +139,9 @@
       "pdf": "https://zenodo.org/api/files/4719b94e-1cdc-4dc0-ad22-86d0181095dc/148_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/148_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000148.pdf",
+      "id": "ismir2018:paper:000148",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/148_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McleodS18"
@@ -164,8 +170,9 @@
       "pdf": "https://zenodo.org/api/files/ede71e11-bd00-40ca-afae-d9716f1144b5/19_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/19_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000019.pdf",
+      "id": "ismir2018:paper:000019",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/19_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HawthorneESRSRE18"
@@ -188,8 +195,9 @@
       "pdf": "https://zenodo.org/api/files/0ae20fef-757f-40c8-8792-b1ca91fedfa4/24_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/24_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000024.pdf",
+      "id": "ismir2018:paper:000024",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/24_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SouthallSH18"
@@ -212,8 +220,9 @@
       "pdf": "https://zenodo.org/api/files/1d591c4e-b0dc-4ce6-9bd8-7a260e0fc821/283_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/283_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000283.pdf",
+      "id": "ismir2018:paper:000283",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/283_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Condit-SchultzJ18"
@@ -236,8 +245,9 @@
       "pdf": "https://zenodo.org/api/files/020298f6-bd07-45b9-afe5-938816ee1d8c/209_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/209_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000209.pdf",
+      "id": "ismir2018:paper:000209",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/209_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KelkarRJ18"
@@ -260,8 +270,9 @@
       "pdf": "https://zenodo.org/api/files/2137f3d9-e81f-4852-933c-aee74f1c434e/273_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/273_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000273.pdf",
+      "id": "ismir2018:paper:000273",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/273_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BasaranEP18"
@@ -283,8 +294,9 @@
       "pdf": "https://zenodo.org/api/files/6e2fa608-d893-4c4a-8a58-5cd9bf231d53/178_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/178_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000178.pdf",
+      "id": "ismir2018:paper:000178",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/178_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChenS18"
@@ -306,8 +318,9 @@
       "pdf": "https://zenodo.org/api/files/458c5384-c9d3-477e-bcde-5636ff921939/141_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/141_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000141.pdf",
+      "id": "ismir2018:paper:000141",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/141_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchreiberM18"
@@ -332,8 +345,9 @@
       "pdf": "https://zenodo.org/api/files/200d34ec-5f6c-403b-912e-0b062f559144/203_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/203_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000203.pdf",
+      "id": "ismir2018:paper:000203",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/203_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FuentesMCEB18"
@@ -355,8 +369,9 @@
       "pdf": "https://zenodo.org/api/files/e6e5be5c-68ba-4599-8726-e9b052f00428/136_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/148_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000148.pdf",
+      "id": "ismir2018:paper:000148",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/148_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McleodS18"
@@ -379,8 +394,9 @@
       "pdf": "https://zenodo.org/api/files/c0555597-7782-44cb-ab20-6dd155c6642d/196_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/196_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000196.pdf",
+      "id": "ismir2018:paper:000196",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/196_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/JeongKN18"
@@ -402,8 +418,9 @@
       "pdf": "https://zenodo.org/api/files/2f9cf469-9c3c-4e5c-9740-023fec2ad4c2/249_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/249_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000249.pdf",
+      "id": "ismir2018:paper:000249",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/249_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BigoniD18"
@@ -425,8 +442,9 @@
       "pdf": "https://zenodo.org/api/files/a2a87568-77f2-429e-be17-a0f643db4752/55_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/55_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000055.pdf",
+      "id": "ismir2018:paper:000055",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/55_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HungY18"
@@ -450,8 +468,9 @@
       "pdf": "https://zenodo.org/api/files/a936f0d5-b869-461a-9b0c-2b615831eadf/1_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/1_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000001.pdf",
+      "id": "ismir2018:paper:000001",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/1_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TsushimaNIY18"
@@ -474,8 +493,9 @@
       "pdf": "https://zenodo.org/api/files/7d669aaf-46d1-4bd0-b577-9c7fbeb0df82/258_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/258_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000258.pdf",
+      "id": "ismir2018:paper:000258",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/258_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HarasimRO18"
@@ -497,8 +517,9 @@
       "pdf": "https://zenodo.org/api/files/1c74618b-55d7-4bbb-8cfc-64b7cd588a1d/215_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/215_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000215.pdf",
+      "id": "ismir2018:paper:000215",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/215_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HarrisonP18"
@@ -520,8 +541,9 @@
       "pdf": "https://zenodo.org/api/files/385cb8d0-d924-4eeb-b3ce-b81e246a1040/18_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/18_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000018.pdf",
+      "id": "ismir2018:paper:000018",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/18_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ShihC18"
@@ -544,8 +566,9 @@
       "pdf": "https://zenodo.org/api/files/1a62bc5d-8187-498f-bd1f-74f30b344743/219_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/219_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000219.pdf",
+      "id": "ismir2018:paper:000219",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/219_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/EslingCB18"
@@ -569,8 +592,9 @@
       "pdf": "https://zenodo.org/api/files/2cc892b9-d5d9-4201-84b6-345ef987b25c/192_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/192_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000192.pdf",
+      "id": "ismir2018:paper:000192",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/192_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ManzelliTSK18"
@@ -592,8 +616,9 @@
       "pdf": "https://zenodo.org/api/files/c190911b-7164-4f5f-baec-96de88086a16/218_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/218_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000218.pdf",
+      "id": "ismir2018:paper:000218",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/218_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DongY18"
@@ -614,8 +639,9 @@
       "pdf": "https://zenodo.org/api/files/ef32252d-cf64-41f3-a1e9-018f2f934295/103_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/103_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000103.pdf",
+      "id": "ismir2018:paper:000103",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/103_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Tralie18"
@@ -639,8 +665,9 @@
       "pdf": "https://zenodo.org/api/files/1f7c3cc9-445f-4a72-97a7-b9b63f016f23/293_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/293_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000293.pdf",
+      "id": "ismir2018:paper:000293",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/293_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YanLVD18"
@@ -663,8 +690,9 @@
       "pdf": "https://zenodo.org/api/files/a32e47b4-2cfc-4116-97ef-51163ec967bf/262_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/262_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000262.pdf",
+      "id": "ismir2018:paper:000262",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/262_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SearsKW18"
@@ -687,8 +715,9 @@
       "pdf": "https://zenodo.org/api/files/d3efafbf-46d5-40eb-9147-15bc52c35ecf/109_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/109_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000109.pdf",
+      "id": "ismir2018:paper:000109",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/109_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiMD18"
@@ -712,8 +741,9 @@
       "pdf": "https://zenodo.org/api/files/9d045570-eb43-4932-95eb-c94db0da8c6d/175_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/175_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000175.pdf",
+      "id": "ismir2018:paper:000175",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/175_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HajicDWP18"
@@ -736,8 +766,9 @@
       "pdf": "https://zenodo.org/api/files/34b9c0fd-3124-4629-9fc2-7ba2d04de2c4/210_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/210_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000210.pdf",
+      "id": "ismir2018:paper:000210",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/210_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CrawfordB018"
@@ -759,8 +790,9 @@
       "pdf": "https://zenodo.org/api/files/43cfacba-439c-49b9-b564-efb02f5cf785/32_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/32_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000032.pdf",
+      "id": "ismir2018:paper:000032",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/32_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PachaC18"
@@ -782,8 +814,9 @@
       "pdf": "https://zenodo.org/api/files/c8f31ace-dfc8-4c68-bbd5-4054b4a42c78/33_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/33_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000033.pdf",
+      "id": "ismir2018:paper:000033",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/33_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Calvo-ZaragozaR18"
@@ -807,8 +840,9 @@
       "pdf": "https://zenodo.org/api/files/cb975810-3865-42c4-8b3c-22c066f18503/93_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/93_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000093.pdf",
+      "id": "ismir2018:paper:000093",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/93_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CastellanosCVF18"
@@ -830,8 +864,9 @@
       "pdf": "https://zenodo.org/api/files/31e88a77-b35b-4b2f-a1b8-ab13cd7a2a26/7_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/300_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000300.pdf",
+      "id": "ismir2018:paper:000300",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/300_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KorzeniowskiW18"
@@ -855,8 +890,9 @@
       "pdf": "https://zenodo.org/api/files/61bd9369-e1c3-4db1-9088-13725129787d/225_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/225_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000225.pdf",
+      "id": "ismir2018:paper:000225",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/225_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TuggenerESS18"
@@ -878,8 +914,9 @@
       "pdf": "https://zenodo.org/api/files/8d1fa125-004f-42c5-811f-6b2310953224/304_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/304_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000304.pdf",
+      "id": "ismir2018:paper:000304",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/304_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ValkW18"
@@ -903,8 +940,9 @@
       "pdf": "https://zenodo.org/api/files/a19e0825-f8f3-4de1-9e32-cf04b3ccc568/138_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/138_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000138.pdf",
+      "id": "ismir2018:paper:000138",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/138_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ParkKLK18"
@@ -927,8 +965,9 @@
       "pdf": "https://zenodo.org/api/files/689117ec-0670-41e3-805f-f49e36b439e9/37_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/37_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000037.pdf",
+      "id": "ismir2018:paper:000037",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/37_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ManilowSP18"
@@ -951,8 +990,9 @@
       "pdf": "https://zenodo.org/api/files/2a44f0d2-3a61-4c74-917b-d762efd0bfd3/143_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/143_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000143.pdf",
+      "id": "ismir2018:paper:000143",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/143_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AbesserBM18"
@@ -975,8 +1015,9 @@
       "pdf": "https://zenodo.org/api/files/198645df-9fec-48ef-ad9a-6b32cba23522/25_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/24_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000024.pdf",
+      "id": "ismir2018:paper:000024",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/24_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SouthallSH18"
@@ -998,8 +1039,9 @@
       "pdf": "https://zenodo.org/api/files/889c988b-280a-4b97-bf43-bd3a84287d71/189_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/189_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000189.pdf",
+      "id": "ismir2018:paper:000189",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/189_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchluterL18"
@@ -1021,8 +1063,9 @@
       "pdf": "https://zenodo.org/api/files/4725ca84-b725-4464-8fb1-336f90613547/131_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/131_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000131.pdf",
+      "id": "ismir2018:paper:000131",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/131_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AndreuxM18"
@@ -1045,8 +1088,9 @@
       "pdf": "https://zenodo.org/api/files/76569791-0a3b-4d4a-ae00-63a2bd250fb8/205_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/205_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000205.pdf",
+      "id": "ismir2018:paper:000205",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/205_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/StollerED18"
@@ -1070,8 +1114,9 @@
       "pdf": "https://zenodo.org/api/files/46bcde2d-4049-4461-b28c-c98c91f9c1a5/105_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/105_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000105.pdf",
+      "id": "ismir2018:paper:000105",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/105_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McGuirlKSB18"
@@ -1094,8 +1139,9 @@
       "pdf": "https://zenodo.org/api/files/7b11f751-d940-412d-ba5d-aed8a08c5e8c/26_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/26_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000026.pdf",
+      "id": "ismir2018:paper:000026",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/26_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McKayCF18"
@@ -1119,8 +1165,9 @@
       "pdf": "https://zenodo.org/api/files/2a715a5d-de9f-46cb-b8fc-7d9c280ffcea/243_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/243_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000243.pdf",
+      "id": "ismir2018:paper:000243",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/243_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BigoFGL18"
@@ -1143,8 +1190,9 @@
       "pdf": "https://zenodo.org/api/files/54a046c2-389a-49ea-ba2a-d8e54e5ad9d8/115_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/115_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000115.pdf",
+      "id": "ismir2018:paper:000115",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/115_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/0001LN18"
@@ -1169,8 +1217,9 @@
       "pdf": "https://zenodo.org/api/files/23bb0d0f-94f5-4d95-8252-1c6dca108fcb/99_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/99_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000099.pdf",
+      "id": "ismir2018:paper:000099",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/99_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DelbouysHPRM18"
@@ -1197,8 +1246,9 @@
       "pdf": "https://zenodo.org/api/files/77a99a83-d337-4813-821f-69ee3471cc68/22_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/22_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000022.pdf",
+      "id": "ismir2018:paper:000022",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/22_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Parada-Cabaleiro18"
@@ -1221,8 +1271,9 @@
       "pdf": "https://zenodo.org/api/files/376f35ce-2abe-4451-9584-5603390dc671/250_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/250_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000250.pdf",
+      "id": "ismir2018:paper:000250",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/250_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PandaMP18"
@@ -1244,8 +1295,9 @@
       "pdf": "https://zenodo.org/api/files/82c15895-84fe-437f-9327-3652ad88dc83/101_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/101_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000101.pdf",
+      "id": "ismir2018:paper:000101",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/101_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OfnerS18"
@@ -1269,8 +1321,9 @@
       "pdf": "https://zenodo.org/api/files/0f1a96bb-b379-47da-956a-f358bd170bb6/268_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/268_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000268.pdf",
+      "id": "ismir2018:paper:000268",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/268_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PaduaCRS18"
@@ -1292,8 +1345,9 @@
       "pdf": "https://zenodo.org/api/files/d10480ae-72c9-4bdd-913b-4042aa688398/220_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/141_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000141.pdf",
+      "id": "ismir2018:paper:000141",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/141_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchreiberM18"
@@ -1317,8 +1371,9 @@
       "pdf": "https://zenodo.org/api/files/3964530f-210e-4e56-b2cb-481efcc0b39a/23_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/23_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000023.pdf",
+      "id": "ismir2018:paper:000023",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/23_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WeissBAM18"
@@ -1347,8 +1402,9 @@
       "pdf": "https://zenodo.org/api/files/e34bc10b-f0da-485d-8b77-8cfb4a9822cc/68_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/68_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000068.pdf",
+      "id": "ismir2018:paper:000068",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/68_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LisenaTCLCPVMT18"
@@ -1371,8 +1427,9 @@
       "pdf": "https://zenodo.org/api/files/e7829958-d679-4089-af70-adb4ea85e7ec/35_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/35_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000035.pdf",
+      "id": "ismir2018:paper:000035",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/35_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Meseguer-Brocal18"
@@ -1395,8 +1452,9 @@
       "pdf": "https://zenodo.org/api/files/f93ad30e-a345-4169-a752-e0f3484990b7/248_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/248_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000248.pdf",
+      "id": "ismir2018:paper:000248",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/248_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HumphreyDM18"
@@ -1418,8 +1476,9 @@
       "pdf": "https://zenodo.org/api/files/c5889dc1-165d-4dc6-bd02-e3cbbc67adc2/185_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/185_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000185.pdf",
+      "id": "ismir2018:paper:000185",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/185_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WuL18"
@@ -1444,8 +1503,9 @@
       "pdf": "https://zenodo.org/api/files/fc7ad16a-c9e4-4d54-95aa-eb2f092df10b/188_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/188_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000188.pdf",
+      "id": "ismir2018:paper:000188",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/188_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/XiBPYB18"
@@ -1469,8 +1529,9 @@
       "pdf": "https://zenodo.org/api/files/a251d35c-d3d7-4cd5-be36-dbbe3df0e2ce/11_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/11_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000011.pdf",
+      "id": "ismir2018:paper:000011",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/11_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Parada-Cabaleiro18a"
@@ -1494,8 +1555,9 @@
       "pdf": "https://zenodo.org/api/files/3e1998e9-f474-4f5e-a929-d1bc47620d14/114_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/114_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000114.pdf",
+      "id": "ismir2018:paper:000114",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/114_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WilkinsSWP18"
@@ -1518,8 +1580,9 @@
       "pdf": "https://zenodo.org/api/files/807aa984-cb94-4585-b620-b67f6377156a/265_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/265_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000265.pdf",
+      "id": "ismir2018:paper:000265",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/265_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DonahueMM18"
@@ -1543,8 +1606,9 @@
       "pdf": "https://zenodo.org/api/files/f248723f-e783-450c-8082-6d84bfed8a66/206_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/206_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000206.pdf",
+      "id": "ismir2018:paper:000206",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/206_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/EremenkoDBS18"
@@ -1568,8 +1632,9 @@
       "pdf": "https://zenodo.org/api/files/6ed09ea9-78a1-4006-81a5-f8b7e5529fec/46_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/46_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000046.pdf",
+      "id": "ismir2018:paper:000046",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/46_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CummingMSF18"
@@ -1592,8 +1657,9 @@
       "pdf": "https://zenodo.org/api/files/0254c8d9-b3a1-4452-96dc-997321e965d5/120_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/120_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000120.pdf",
+      "id": "ismir2018:paper:000120",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/120_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ViraraghavanAM18"
@@ -1616,8 +1682,9 @@
       "pdf": "https://zenodo.org/api/files/301d2b1f-fe4e-4ed2-a791-21b9ad30bc59/38_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/38_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000038.pdf",
+      "id": "ismir2018:paper:000038",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/38_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LeeCN18"
@@ -1641,8 +1708,9 @@
       "pdf": "https://zenodo.org/api/files/ea146aa2-ccd2-45e7-b7b5-fa2a4f6d3cbf/98_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/98_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000098.pdf",
+      "id": "ismir2018:paper:000098",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/98_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DemetriouJKB18"
@@ -1664,8 +1732,9 @@
       "pdf": "https://zenodo.org/api/files/5087725e-e7a3-42ea-94d1-95eb33f6f8f5/286_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/286_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000286.pdf",
+      "id": "ismir2018:paper:000286",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/286_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LuS18"
@@ -1689,8 +1758,9 @@
       "pdf": "https://zenodo.org/api/files/dbab7a75-0ba3-4ada-89ba-4473ec703101/117_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/117_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000117.pdf",
+      "id": "ismir2018:paper:000117",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/117_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BaroneIGW18"
@@ -1714,8 +1784,9 @@
       "pdf": "https://zenodo.org/api/files/1d4373e5-3f18-451e-a073-291b4c185f15/75_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/75_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000075.pdf",
+      "id": "ismir2018:paper:000075",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/75_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RenVSV18"
@@ -1738,8 +1809,9 @@
       "pdf": "https://zenodo.org/api/files/0b0026e7-e676-49ee-87b7-4fc82f08b1ea/202_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/202_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000202.pdf",
+      "id": "ismir2018:paper:000202",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/202_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FinkensiepNR18"
@@ -1761,8 +1833,9 @@
       "pdf": "https://zenodo.org/api/files/4230e44c-e5ef-421c-9ee2-023ca323b7b5/139_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/139_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000139.pdf",
+      "id": "ismir2018:paper:000139",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/139_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VatolkinR18"
@@ -1785,8 +1858,9 @@
       "pdf": "https://zenodo.org/api/files/2fb21fe1-e9aa-453f-9a0a-0072b4ec7ac9/63_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/63_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000063.pdf",
+      "id": "ismir2018:paper:000063",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/63_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TakahashiFG18"
@@ -1809,8 +1883,9 @@
       "pdf": "https://zenodo.org/api/files/6931b387-f4b6-47b6-bf5b-24e877b41829/275_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/275_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000275.pdf",
+      "id": "ismir2018:paper:000275",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/275_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GururaniSL18"
@@ -1833,8 +1908,9 @@
       "pdf": "https://zenodo.org/api/files/595fe647-98a4-493a-b6b4-38655b9107a8/145_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/145_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000145.pdf",
+      "id": "ismir2018:paper:000145",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/145_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GomezAC18"
@@ -1855,8 +1931,9 @@
       "pdf": "https://zenodo.org/api/files/639f5b59-3648-41d8-b463-bf8ec28cc020/81_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/81_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000081.pdf",
+      "id": "ismir2018:paper:000081",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/81_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Kinnaird18"
@@ -1878,8 +1955,9 @@
       "pdf": "https://zenodo.org/api/files/4de2b20c-c4df-4fbb-bc09-e9721197f2eb/166_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/166_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000166.pdf",
+      "id": "ismir2018:paper:000166",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/166_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ArztL18"
@@ -1903,8 +1981,9 @@
       "pdf": "https://zenodo.org/api/files/73bdedc0-623b-4fdb-9bfa-9a80a7e747f4/30_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/30_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000030.pdf",
+      "id": "ismir2018:paper:000030",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/30_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GuptaT0W18"
@@ -1926,8 +2005,9 @@
       "pdf": "https://zenodo.org/api/files/bb8430a2-bbce-4f60-9a9e-cdba3a21a128/182_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/182_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000182.pdf",
+      "id": "ismir2018:paper:000182",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/182_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SubramanianL18"
@@ -1949,8 +2029,9 @@
       "pdf": "https://zenodo.org/api/files/dd276d11-6cda-4f98-990b-b612897ae8d2/183_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/183_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000183.pdf",
+      "id": "ismir2018:paper:000183",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/183_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AljanakiS18"
@@ -1974,8 +2055,9 @@
       "pdf": "https://zenodo.org/api/files/094268b7-a045-4439-b8e8-3773c9d1f8f1/211_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/211_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000211.pdf",
+      "id": "ismir2018:paper:000211",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/211_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Royo-LetelierHT18"
@@ -1997,8 +2079,9 @@
       "pdf": "https://zenodo.org/api/files/9d224dad-3ebd-4916-af31-700a29f7e81b/97_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/97_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000097.pdf",
+      "id": "ismir2018:paper:000097",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/97_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WaloschekH18"
@@ -2024,8 +2107,9 @@
       "pdf": "https://zenodo.org/api/files/02bb650d-dae1-4325-8922-fbcc3f20991c/191_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/191_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000191.pdf",
+      "id": "ismir2018:paper:000191",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/191_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PonsNPSES18"
@@ -2048,8 +2132,9 @@
       "pdf": "https://zenodo.org/api/files/47cd25c1-e1ff-462d-892e-c44f0afe55be/163_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/163_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000163.pdf",
+      "id": "ismir2018:paper:000163",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/163_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HennequinRM18"
@@ -2071,8 +2156,9 @@
       "pdf": "https://zenodo.org/api/files/4871ab01-a8fa-41b0-b743-37f88292ad66/169_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/169_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000169.pdf",
+      "id": "ismir2018:paper:000169",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/169_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LuoS18"
@@ -2095,8 +2181,9 @@
       "pdf": "https://zenodo.org/api/files/d9c722f3-0d32-41bc-91cf-ba417a24fe37/172_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/179_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000179.pdf",
+      "id": "ismir2018:paper:000179",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/179_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LattnerGW18"
@@ -2120,8 +2207,9 @@
       "pdf": "https://zenodo.org/api/files/a3d4bbab-e86f-45ac-a1f5-5eb57f86462d/52_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/52_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000052.pdf",
+      "id": "ismir2018:paper:000052",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/52_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SpinelliLPL18"
@@ -2143,8 +2231,9 @@
       "pdf": "https://zenodo.org/api/files/16e33fbf-4ede-4820-9c5f-e332d12da69b/130_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/130_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000130.pdf",
+      "id": "ismir2018:paper:000130",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/130_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/0001S18"
@@ -2167,8 +2256,9 @@
       "pdf": "https://zenodo.org/api/files/524b0dbd-fd98-4ad1-905b-8566b2dfc753/78_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/78_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000078.pdf",
+      "id": "ismir2018:paper:000078",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/78_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TsukudaFG18"
@@ -2191,8 +2281,9 @@
       "pdf": "https://zenodo.org/api/files/102aba8e-49c1-4b4f-8bb0-51a82b1dc881/298_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/298_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000298.pdf",
+      "id": "ismir2018:paper:000298",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/298_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiebmanWS18"
@@ -2217,8 +2308,9 @@
       "pdf": "https://zenodo.org/api/files/53f19161-e250-4573-bbfb-001659320524/91_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/91_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000091.pdf",
+      "id": "ismir2018:paper:000091",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/91_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KrasanakisSPKM18"
@@ -2240,8 +2332,9 @@
       "pdf": "https://zenodo.org/api/files/dc0939f5-df45-4e21-9060-3b3b3824a095/128_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/128_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000128.pdf",
+      "id": "ismir2018:paper:000128",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/128_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ZangerleP18"
@@ -2266,8 +2359,9 @@
       "pdf": "https://zenodo.org/api/files/170352b5-2491-4f10-8520-85e59b25be69/168_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/168_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000168.pdf",
+      "id": "ismir2018:paper:000168",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/168_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ParkLPHN18"
@@ -2295,8 +2389,9 @@
       "pdf": "https://zenodo.org/api/files/3144d160-ee67-4bca-8de2-a2bed6f67726/126_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/126_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000126.pdf",
+      "id": "ismir2018:paper:000126",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/126_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MedeotCKMASNW18"
@@ -2319,8 +2414,9 @@
       "pdf": "https://zenodo.org/api/files/cdb6dd18-5b85-4206-8489-c9131a9a1cce/36_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/36_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000036.pdf",
+      "id": "ismir2018:paper:000036",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/36_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SilvaFA18"
@@ -2342,8 +2438,9 @@
       "pdf": "https://zenodo.org/api/files/37e94d35-4cde-4644-92d8-2494f9a0b3e5/107_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/286_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000286.pdf",
+      "id": "ismir2018:paper:000286",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/286_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LuS18"
@@ -2367,8 +2464,9 @@
       "pdf": "https://zenodo.org/api/files/54cdd6cf-73e4-4530-828d-a6411d585811/204_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/204_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000204.pdf",
+      "id": "ismir2018:paper:000204",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/204_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BrunnerKWW18"
@@ -2391,8 +2489,9 @@
       "pdf": "https://zenodo.org/api/files/02fa8fa5-5906-4398-b6a1-78fb1ae17464/272_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/272_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000272.pdf",
+      "id": "ismir2018:paper:000272",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/272_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MishraSD18"
@@ -2415,8 +2514,9 @@
       "pdf": "https://zenodo.org/api/files/e686650c-2bc5-404c-937a-c3b419c3fb32/61_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/61_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000061.pdf",
+      "id": "ismir2018:paper:000061",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/61_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/0001FG18"
@@ -2439,8 +2539,9 @@
       "pdf": "https://zenodo.org/api/files/1b5a5e12-dcbf-49fa-b09f-c1494c4fdf38/96_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/96_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000096.pdf",
+      "id": "ismir2018:paper:000096",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/96_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LagrangeRL18"
@@ -2464,8 +2565,9 @@
       "pdf": "https://zenodo.org/api/files/937c9ac9-a2b2-4664-b687-11e81249d158/177_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/177_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000177.pdf",
+      "id": "ismir2018:paper:000177",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/177_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FrielerHPD18"
@@ -2488,8 +2590,9 @@
       "pdf": "https://zenodo.org/api/files/fc09d5c6-1335-4e9e-b02f-be27c2f2acc1/45_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/45_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000045.pdf",
+      "id": "ismir2018:paper:000045",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/45_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DorferHW18"
@@ -2512,8 +2615,9 @@
       "pdf": "https://zenodo.org/api/files/7f2a806b-7b6d-47e1-a8f3-a358317f6d24/142_Paper.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2018.ircam.fr/doc/pdfs/142_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2018/paper/000142.pdf",
+      "id": "ismir2018:paper:000142",
+      "original_pdf": "http://ismir2018.ircam.fr/doc/pdfs/142_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GouvertOF18"

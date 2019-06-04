@@ -16,8 +16,9 @@
       "pdf": "https://zenodo.org/record/1417427/files/OramasNBS17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/126_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000126.pdf",
+      "id": "ismir2017:paper:000126",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/126_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OramasNBS17"
@@ -39,8 +40,9 @@
       "pdf": "https://zenodo.org/record/1416400/files/EnsRP17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/79_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000079.pdf",
+      "id": "ismir2017:paper:000079",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/79_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/EnsRP17"
@@ -61,8 +63,9 @@
       "pdf": "https://zenodo.org/record/1417349/files/GanguliR17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/89_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000089.pdf",
+      "id": "ismir2017:paper:000089",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/89_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GanguliR17"
@@ -83,8 +86,9 @@
       "pdf": "https://zenodo.org/record/1416346/files/RepettoS17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/119_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000119.pdf",
+      "id": "ismir2017:paper:000119",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/119_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RepettoS17"
@@ -106,8 +110,9 @@
       "pdf": "https://zenodo.org/record/1416498/files/MironJG17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/51_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000051.pdf",
+      "id": "ismir2017:paper:000051",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/51_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MironJG17"
@@ -131,8 +136,9 @@
       "pdf": "https://zenodo.org/record/1417937/files/BittnerMSLB17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/85_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000085.pdf",
+      "id": "ismir2017:paper:000085",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/85_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BittnerMSLB17"
@@ -157,8 +163,9 @@
       "pdf": "https://zenodo.org/record/1415588/files/SalamonBBBGB17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/164_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000164.pdf",
+      "id": "ismir2017:paper:000164",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/164_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SalamonBBBGB17"
@@ -180,8 +187,9 @@
       "pdf": "https://zenodo.org/record/1417018/files/TsaiTM17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/220_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000220.pdf",
+      "id": "ismir2017:paper:000220",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/220_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TsaiTM17"
@@ -202,8 +210,9 @@
       "pdf": "https://zenodo.org/record/1416376/files/BogdanovS17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/172_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000172.pdf",
+      "id": "ismir2017:paper:000172",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/172_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BogdanovS17"
@@ -224,8 +233,9 @@
       "pdf": "https://zenodo.org/record/1417499/files/VigliensoniF17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/180_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000180.pdf",
+      "id": "ismir2017:paper:000180",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/180_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VigliensoniF17"
@@ -247,8 +257,9 @@
       "pdf": "https://zenodo.org/record/1417193/files/LiuHS17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/234_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000234.pdf",
+      "id": "ismir2017:paper:000234",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/234_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiuHS17"
@@ -270,8 +281,9 @@
       "pdf": "https://zenodo.org/record/1417807/files/DorferAW17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/32_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000032.pdf",
+      "id": "ismir2017:paper:000032",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/32_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DorferAW17"
@@ -294,8 +306,9 @@
       "pdf": "https://zenodo.org/record/1417249/files/LiDSD17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/105_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000105.pdf",
+      "id": "ismir2017:paper:000105",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/105_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiDSD17"
@@ -318,8 +331,9 @@
       "pdf": "https://zenodo.org/record/1417137/files/GangKBD17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/184_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000184.pdf",
+      "id": "ismir2017:paper:000184",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/184_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GangKBD17"
@@ -342,8 +356,9 @@
       "pdf": "https://zenodo.org/record/1418015/files/ChoiFSC17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/12_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000012.pdf",
+      "id": "ismir2017:paper:000012",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/12_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChoiFSC17"
@@ -366,8 +381,9 @@
       "pdf": "https://zenodo.org/record/1415136/files/VoglDWK17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/123_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000123.pdf",
+      "id": "ismir2017:paper:000123",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/123_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VoglDWK17"
@@ -389,8 +405,9 @@
       "pdf": "https://zenodo.org/record/1415052/files/PeperkampHL17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/176_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000176.pdf",
+      "id": "ismir2017:paper:000176",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/176_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PeperkampHL17"
@@ -412,8 +429,9 @@
       "pdf": "https://zenodo.org/record/1416588/files/PachetPR17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/50_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000050.pdf",
+      "id": "ismir2017:paper:000050",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/50_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PachetPR17"
@@ -435,8 +453,9 @@
       "pdf": "https://zenodo.org/record/1417567/files/RanjaniPS17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/61_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000061.pdf",
+      "id": "ismir2017:paper:000061",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/61_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RanjaniPS17"
@@ -457,8 +476,9 @@
       "pdf": "https://zenodo.org/record/1415186/files/LouboutinB17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/70_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000070.pdf",
+      "id": "ismir2017:paper:000070",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/70_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LouboutinB17"
@@ -479,8 +499,9 @@
       "pdf": "https://zenodo.org/record/1414880/files/McFeeB17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/77_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000077.pdf",
+      "id": "ismir2017:paper:000077",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/77_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McFeeB17"
@@ -502,8 +523,9 @@
       "pdf": "https://zenodo.org/record/1416634/files/ShiAS17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/25_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000025.pdf",
+      "id": "ismir2017:paper:000025",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/25_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ShiAS17"
@@ -524,8 +546,9 @@
       "pdf": "https://zenodo.org/record/1415508/files/KranenburgM17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/174_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000174.pdf",
+      "id": "ismir2017:paper:000174",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/174_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KranenburgM17"
@@ -549,8 +572,9 @@
       "pdf": "https://zenodo.org/record/1416370/files/HuangCRCE17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/187_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000187.pdf",
+      "id": "ismir2017:paper:000187",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/187_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HuangCRCE17"
@@ -571,8 +595,9 @@
       "pdf": "https://zenodo.org/record/1415894/files/WeiglP17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/190_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000190.pdf",
+      "id": "ismir2017:paper:000190",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/190_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WeiglP17"
@@ -593,8 +618,9 @@
       "pdf": "https://zenodo.org/record/1414868/files/SuzukiK17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/112_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000112.pdf",
+      "id": "ismir2017:paper:000112",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/112_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SuzukiK17"
@@ -615,8 +641,9 @@
       "pdf": "https://zenodo.org/record/1415046/files/SchreiberM17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/137_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000137.pdf",
+      "id": "ismir2017:paper:000137",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/137_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchreiberM17"
@@ -638,8 +665,9 @@
       "pdf": "https://zenodo.org/record/1417837/files/ViraraghavanAM17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/82_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000082.pdf",
+      "id": "ismir2017:paper:000082",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/82_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ViraraghavanAM17"
@@ -665,8 +693,9 @@
       "pdf": "https://zenodo.org/record/1416188/files/SyueSLLLWS17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/107_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000107.pdf",
+      "id": "ismir2017:paper:000107",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/107_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SyueSLLLWS17"
@@ -687,8 +716,9 @@
       "pdf": "https://zenodo.org/record/1416274/files/NarangR17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/30_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000030.pdf",
+      "id": "ismir2017:paper:000030",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/30_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NarangR17"
@@ -709,8 +739,9 @@
       "pdf": "https://zenodo.org/record/1418331/files/GururaniL17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/118_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000118.pdf",
+      "id": "ismir2017:paper:000118",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/118_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GururaniL17"
@@ -731,8 +762,9 @@
       "pdf": "https://zenodo.org/record/1418343/files/MasadaB17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/224_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000224.pdf",
+      "id": "ismir2017:paper:000224",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/224_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MasadaB17"
@@ -755,8 +787,9 @@
       "pdf": "https://zenodo.org/record/1418155/files/PauwelsOFS17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/195_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000195.pdf",
+      "id": "ismir2017:paper:000195",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/195_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PauwelsOFS17"
@@ -777,8 +810,9 @@
       "pdf": "https://zenodo.org/record/1417737/files/GkiokasK17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/135_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000135.pdf",
+      "id": "ismir2017:paper:000135",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/135_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GkiokasK17"
@@ -798,8 +832,9 @@
       "pdf": "https://zenodo.org/record/1417331/files/Tralie17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/219_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000219.pdf",
+      "id": "ismir2017:paper:000219",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/219_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Tralie17"
@@ -826,8 +861,9 @@
       "pdf": "https://zenodo.org/record/1415824/files/HuCHCLLBD17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/192_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000192.pdf",
+      "id": "ismir2017:paper:000192",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/192_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HuCHCLLBD17"
@@ -847,8 +883,9 @@
       "pdf": "https://zenodo.org/record/1415520/files/Maezawa17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/9_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000009.pdf",
+      "id": "ismir2017:paper:000009",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/9_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Maezawa17"
@@ -871,8 +908,9 @@
       "pdf": "https://zenodo.org/record/1414728/files/DefferrardBVB17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/75_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000075.pdf",
+      "id": "ismir2017:paper:000075",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/75_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DefferrardBVB17"
@@ -894,8 +932,9 @@
       "pdf": "https://zenodo.org/record/1415990/files/YangCY17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/226_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000226.pdf",
+      "id": "ismir2017:paper:000226",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/226_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YangCY17"
@@ -919,8 +958,9 @@
       "pdf": "https://zenodo.org/record/1416196/files/SearsAFSW17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/18_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000018.pdf",
+      "id": "ismir2017:paper:000018",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/18_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SearsAFSW17"
@@ -943,8 +983,9 @@
       "pdf": "https://zenodo.org/record/1417917/files/LosorelliNDK17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/198_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000198.pdf",
+      "id": "ismir2017:paper:000198",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/198_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LosorelliNDK17"
@@ -966,8 +1007,9 @@
       "pdf": "https://zenodo.org/record/1414940/files/NakamuraYK17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/35_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000035.pdf",
+      "id": "ismir2017:paper:000035",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/35_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NakamuraYK17"
@@ -988,8 +1030,9 @@
       "pdf": "https://zenodo.org/record/1417673/files/ArztW17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/127_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000127.pdf",
+      "id": "ismir2017:paper:000127",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/127_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ArztW17"
@@ -1012,8 +1055,9 @@
       "pdf": "https://zenodo.org/record/1416912/files/SchnellSLB17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/125_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000125.pdf",
+      "id": "ismir2017:paper:000125",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/125_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchnellSLB17"
@@ -1036,8 +1080,9 @@
       "pdf": "https://zenodo.org/record/1417475/files/FanTTP17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/217_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000217.pdf",
+      "id": "ismir2017:paper:000217",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/217_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FanTTP17"
@@ -1061,8 +1106,9 @@
       "pdf": "https://zenodo.org/record/1416330/files/NishikimiNGIY17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/4_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000004.pdf",
+      "id": "ismir2017:paper:000004",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/4_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NishikimiNGIY17"
@@ -1084,8 +1130,9 @@
       "pdf": "https://zenodo.org/record/1415632/files/PonsGS17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/46_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000046.pdf",
+      "id": "ismir2017:paper:000046",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/46_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PonsGS17"
@@ -1108,8 +1155,9 @@
       "pdf": "https://zenodo.org/record/1418073/files/GuptaGRW17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/56_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000056.pdf",
+      "id": "ismir2017:paper:000056",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/56_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GuptaGRW17"
@@ -1131,8 +1179,9 @@
       "pdf": "https://zenodo.org/record/1416608/files/ZhangRS17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/215_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000215.pdf",
+      "id": "ismir2017:paper:000215",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/215_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ZhangRS17"
@@ -1153,8 +1202,9 @@
       "pdf": "https://zenodo.org/record/1415830/files/CogliatiD17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/131_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000131.pdf",
+      "id": "ismir2017:paper:000131",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/131_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CogliatiD17"
@@ -1177,8 +1227,9 @@
       "pdf": "https://zenodo.org/record/1417000/files/OliveiraNMA17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/153_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000153.pdf",
+      "id": "ismir2017:paper:000153",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/153_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OliveiraNMA17"
@@ -1199,8 +1250,9 @@
       "pdf": "https://zenodo.org/record/1415018/files/YcartB17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/60_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000060.pdf",
+      "id": "ismir2017:paper:000060",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/60_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YcartB17"
@@ -1222,8 +1274,9 @@
       "pdf": "https://zenodo.org/record/1415766/files/GongPS17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/45_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000045.pdf",
+      "id": "ismir2017:paper:000045",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/45_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GongPS17"
@@ -1244,8 +1297,9 @@
       "pdf": "https://zenodo.org/record/1415196/files/SmithC17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/130_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000130.pdf",
+      "id": "ismir2017:paper:000130",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/130_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SmithC17"
@@ -1271,8 +1325,9 @@
       "pdf": "https://zenodo.org/record/1417028/files/BittnerGHHJMM17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/86_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000086.pdf",
+      "id": "ismir2017:paper:000086",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/86_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BittnerGHHJMM17"
@@ -1295,8 +1350,9 @@
       "pdf": "https://zenodo.org/record/1416208/files/LiangG0S17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/156_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000156.pdf",
+      "id": "ismir2017:paper:000156",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/156_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiangG0S17"
@@ -1318,8 +1374,9 @@
       "pdf": "https://zenodo.org/record/1417101/files/LiDP17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/36_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000036.pdf",
+      "id": "ismir2017:paper:000036",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/36_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiDP17"
@@ -1342,8 +1399,9 @@
       "pdf": "https://zenodo.org/record/1416946/files/FangGLW17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/37_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000037.pdf",
+      "id": "ismir2017:paper:000037",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/37_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FangGLW17"
@@ -1365,8 +1423,9 @@
       "pdf": "https://zenodo.org/record/1418333/files/Calvo-ZaragozaV17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/34_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000034.pdf",
+      "id": "ismir2017:paper:000034",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/34_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Calvo-ZaragozaV17"
@@ -1388,8 +1447,9 @@
       "pdf": "https://zenodo.org/record/1416436/files/ChungCC17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/47_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000047.pdf",
+      "id": "ismir2017:paper:000047",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/47_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChungCC17"
@@ -1417,8 +1477,9 @@
       "pdf": "https://zenodo.org/record/1417159/files/FonsecaPFFBFOPS17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/161_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000161.pdf",
+      "id": "ismir2017:paper:000161",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/161_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FonsecaPFFBFOPS17"
@@ -1440,8 +1501,9 @@
       "pdf": "https://zenodo.org/record/1416886/files/ChaconGA17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/129_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000129.pdf",
+      "id": "ismir2017:paper:000129",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/129_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChaconGA17"
@@ -1464,8 +1526,9 @@
       "pdf": "https://zenodo.org/record/1416848/files/TsushimaNIY17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/2_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000002.pdf",
+      "id": "ismir2017:paper:000002",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/2_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TsushimaNIY17"
@@ -1486,8 +1549,9 @@
       "pdf": "https://zenodo.org/record/1417901/files/ChenW17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/17_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000017.pdf",
+      "id": "ismir2017:paper:000017",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/17_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChenW17"
@@ -1511,8 +1575,9 @@
       "pdf": "https://zenodo.org/record/1417032/files/RossMGBR17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/122_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000122.pdf",
+      "id": "ismir2017:paper:000122",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/122_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RossMGBR17"
@@ -1536,8 +1601,9 @@
       "pdf": "https://zenodo.org/record/1417929/files/CazauWAWN17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/100_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000100.pdf",
+      "id": "ismir2017:paper:000100",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/100_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CazauWAWN17"
@@ -1558,8 +1624,9 @@
       "pdf": "https://zenodo.org/record/1417421/files/DengK17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/28_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000028.pdf",
+      "id": "ismir2017:paper:000028",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/28_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DengK17"
@@ -1581,8 +1648,9 @@
       "pdf": "https://zenodo.org/record/1417387/files/MishraSD17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/216_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000216.pdf",
+      "id": "ismir2017:paper:000216",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/216_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MishraSD17"
@@ -1604,8 +1672,9 @@
       "pdf": "https://zenodo.org/record/1417749/files/TsukudaIG17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/96_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000096.pdf",
+      "id": "ismir2017:paper:000096",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/96_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TsukudaIG17"
@@ -1628,8 +1697,9 @@
       "pdf": "https://zenodo.org/record/1417671/files/SchrammMSB17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/26_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000026.pdf",
+      "id": "ismir2017:paper:000026",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/26_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchrammMSB17"
@@ -1650,8 +1720,9 @@
       "pdf": "https://zenodo.org/record/1414830/files/SebastianM17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/91_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000091.pdf",
+      "id": "ismir2017:paper:000091",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/91_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SebastianM17"
@@ -1673,8 +1744,9 @@
       "pdf": "https://zenodo.org/record/1417501/files/ArigaFG17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/41_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000041.pdf",
+      "id": "ismir2017:paper:000041",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/41_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ArigaFG17"
@@ -1697,8 +1769,9 @@
       "pdf": "https://zenodo.org/record/1415164/files/Parada-Cabaleiro17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/14_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000014.pdf",
+      "id": "ismir2017:paper:000014",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/14_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Parada-Cabaleiro17"
@@ -1720,8 +1793,9 @@
       "pdf": "https://zenodo.org/record/1416352/files/LaplanteBA17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/207_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000207.pdf",
+      "id": "ismir2017:paper:000207",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/207_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LaplanteBA17"
@@ -1744,8 +1818,9 @@
       "pdf": "https://zenodo.org/record/1416204/files/CrestelEHM17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/235_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000235.pdf",
+      "id": "ismir2017:paper:000235",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/235_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CrestelEHM17"
@@ -1766,8 +1841,9 @@
       "pdf": "https://zenodo.org/record/1418327/files/DaiD17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/24_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000024.pdf",
+      "id": "ismir2017:paper:000024",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/24_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DaiD17"
@@ -1789,8 +1865,9 @@
       "pdf": "https://zenodo.org/record/1415616/files/SouthallSH17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/146_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000146.pdf",
+      "id": "ismir2017:paper:000146",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/146_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SouthallSH17"
@@ -1811,8 +1888,9 @@
       "pdf": "https://zenodo.org/record/1415904/files/WuL17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/148_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000148.pdf",
+      "id": "ismir2017:paper:000148",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/148_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WuL17"
@@ -1834,8 +1912,9 @@
       "pdf": "https://zenodo.org/record/1417327/files/LimRL17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/134_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000134.pdf",
+      "id": "ismir2017:paper:000134",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/134_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LimRL17"
@@ -1858,8 +1937,9 @@
       "pdf": "https://zenodo.org/record/1416556/files/HeoKKL17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/33_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000033.pdf",
+      "id": "ismir2017:paper:000033",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/33_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HeoKKL17"
@@ -1879,8 +1959,9 @@
       "pdf": "https://zenodo.org/record/1417721/files/Kinnaird17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/39_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000039.pdf",
+      "id": "ismir2017:paper:000039",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/39_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Kinnaird17"
@@ -1902,8 +1983,9 @@
       "pdf": "https://zenodo.org/record/1415760/files/ZalkowWM17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/132_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000132.pdf",
+      "id": "ismir2017:paper:000132",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/132_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ZalkowWM17"
@@ -1926,8 +2008,9 @@
       "pdf": "https://zenodo.org/record/1418249/files/LanghabelLTR17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/163_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000163.pdf",
+      "id": "ismir2017:paper:000163",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/163_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LanghabelLTR17"
@@ -1949,8 +2032,9 @@
       "pdf": "https://zenodo.org/record/1416336/files/TengZG17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/178_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000178.pdf",
+      "id": "ismir2017:paper:000178",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/178_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TengZG17"
@@ -1973,8 +2057,9 @@
       "pdf": "https://zenodo.org/record/1417991/files/KedytePWD17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/59_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000059.pdf",
+      "id": "ismir2017:paper:000059",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/59_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KedytePWD17"
@@ -1997,8 +2082,9 @@
       "pdf": "https://zenodo.org/record/1417105/files/RenKVS17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/120_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000120.pdf",
+      "id": "ismir2017:paper:000120",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/120_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RenKVS17"
@@ -2020,8 +2106,9 @@
       "pdf": "https://zenodo.org/record/1415688/files/Srinivasamurthy17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/93_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000093.pdf",
+      "id": "ismir2017:paper:000093",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/93_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Srinivasamurthy17"
@@ -2045,8 +2132,9 @@
       "pdf": "https://zenodo.org/record/1414730/files/IbrahimGAGW17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/103_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000103.pdf",
+      "id": "ismir2017:paper:000103",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/103_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/IbrahimGAGW17"
@@ -2066,8 +2154,9 @@
       "pdf": "https://zenodo.org/record/1417241/files/Tsaptsinos17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/43_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000043.pdf",
+      "id": "ismir2017:paper:000043",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/43_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Tsaptsinos17"
@@ -2090,8 +2179,9 @@
       "pdf": "https://zenodo.org/record/1415086/files/DzhambazovHSS17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/159_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000159.pdf",
+      "id": "ismir2017:paper:000159",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/159_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DzhambazovHSS17"
@@ -2115,8 +2205,9 @@
       "pdf": "https://zenodo.org/record/1417769/files/HumphreyMBJJ17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/181_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000181.pdf",
+      "id": "ismir2017:paper:000181",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/181_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HumphreyMBJJ17"
@@ -2137,8 +2228,9 @@
       "pdf": "https://zenodo.org/record/1417685/files/SmithG17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/94_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000094.pdf",
+      "id": "ismir2017:paper:000094",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/94_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SmithG17"
@@ -2160,8 +2252,9 @@
       "pdf": "https://zenodo.org/record/1417493/files/Calvo-ZaragozaV17a.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/162_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000162.pdf",
+      "id": "ismir2017:paper:000162",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/162_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Calvo-ZaragozaV17a"
@@ -2182,8 +2275,9 @@
       "pdf": "https://zenodo.org/record/1415664/files/WelU17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/69_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000069.pdf",
+      "id": "ismir2017:paper:000069",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/69_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WelU17"
@@ -2205,8 +2299,9 @@
       "pdf": "https://zenodo.org/record/1415944/files/WangMD17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/102_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000102.pdf",
+      "id": "ismir2017:paper:000102",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/102_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WangMD17"
@@ -2231,8 +2326,9 @@
       "pdf": "https://zenodo.org/record/1414934/files/JanssonHMBKW17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/171_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000171.pdf",
+      "id": "ismir2017:paper:000171",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/171_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/JanssonHMBKW17"
@@ -2256,8 +2352,9 @@
       "pdf": "https://zenodo.org/record/1415020/files/BigoGGGL17.pdf"
     },
     "ismir": {
-      "pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/228_Paper.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2017/paper/000228.pdf",
+      "id": "ismir2017:paper:000228",
+      "original_pdf": "https://ismir2017.smcnus.org/wp-content/uploads/2017/10/228_Paper.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BigoGGGL17"

@@ -14,8 +14,9 @@
       "pdf": "https://zenodo.org/record/1415770/files/DeliegeP07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p021_deliege.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000021.pdf",
+      "id": "ismir2007:paper:000021",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p021_deliege.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DeliegeP07"
@@ -37,8 +38,9 @@
       "pdf": "https://zenodo.org/record/1418087/files/PengLO07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p027_peng.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000027.pdf",
+      "id": "ismir2007:paper:000027",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p027_peng.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PengLO07"
@@ -58,8 +60,9 @@
       "pdf": "https://zenodo.org/record/1416748/files/Peeters07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p035_peeters.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000035.pdf",
+      "id": "ismir2007:paper:000035",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p035_peeters.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Peeters07"
@@ -80,8 +83,9 @@
       "pdf": "https://zenodo.org/record/1418095/files/RhodesC07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p041_rhodes.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000041.pdf",
+      "id": "ismir2007:paper:000041",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p041_rhodes.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RhodesC07"
@@ -102,8 +106,9 @@
       "pdf": "https://zenodo.org/record/1414814/files/MullerC07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p047_mullermuller.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000047.pdf",
+      "id": "ismir2007:paper:000047",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p047_mullermuller.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MullerC07"
@@ -126,8 +131,9 @@
       "pdf": "https://zenodo.org/record/1415082/files/TurnbullLPG07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p051_turnbull.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000051.pdf",
+      "id": "ismir2007:paper:000051",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p051_turnbull.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TurnbullLPG07"
@@ -147,8 +153,9 @@
       "pdf": "https://zenodo.org/record/1415814/files/Marsden07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p055_marsden.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000055.pdf",
+      "id": "ismir2007:paper:000055",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p055_marsden.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Marsden07"
@@ -171,8 +178,9 @@
       "pdf": "https://zenodo.org/record/1416344/files/LidyRPQ07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p061_lidy.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000061.pdf",
+      "id": "ismir2007:paper:000061",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p061_lidy.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LidyRPQ07"
@@ -193,8 +201,9 @@
       "pdf": "https://zenodo.org/record/1415126/files/HuD07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p067_hu.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000067.pdf",
+      "id": "ismir2007:paper:000067",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p067_hu.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HuD07"
@@ -216,8 +225,9 @@
       "pdf": "https://zenodo.org/record/1414982/files/CraftWC07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p073_craft.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000073.pdf",
+      "id": "ismir2007:paper:000073",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p073_craft.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CraftWC07"
@@ -239,8 +249,9 @@
       "pdf": "https://zenodo.org/record/1416012/files/DeCoroBF07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p077_decoro.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000077.pdf",
+      "id": "ismir2007:paper:000077",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p077_decoro.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DeCoroBF07"
@@ -262,8 +273,9 @@
       "pdf": "https://zenodo.org/record/1417083/files/CunninghamBM07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p083_cunningham.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000083.pdf",
+      "id": "ismir2007:paper:000083",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p083_cunningham.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CunninghamBM07"
@@ -287,8 +299,9 @@
       "pdf": "https://zenodo.org/record/1416880/files/YoshiiGKOO07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p089_yoshii.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000089.pdf",
+      "id": "ismir2007:paper:000089",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p089_yoshii.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YoshiiGKOO07"
@@ -310,8 +323,9 @@
       "pdf": "https://zenodo.org/record/1414710/files/AngladeTV07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p095_anglade.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000095.pdf",
+      "id": "ismir2007:paper:000095",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p095_anglade.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AngladeTV07"
@@ -332,8 +346,9 @@
       "pdf": "https://zenodo.org/record/1417487/files/PampalkG07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p101_pampalk.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000101.pdf",
+      "id": "ismir2007:paper:000101",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p101_pampalk.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PampalkG07"
@@ -356,8 +371,9 @@
       "pdf": "https://zenodo.org/record/1415752/files/JensenECJ07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p107_jensen.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000107.pdf",
+      "id": "ismir2007:paper:000107",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p107_jensen.pdf"
     },
     "dblp": {
       "id": "conf/ismir/JensenECJ07"
@@ -379,8 +395,9 @@
       "pdf": "https://zenodo.org/record/1417931/files/GomezAR07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p109_gomezgomez.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000109.pdf",
+      "id": "ismir2007:paper:000109",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p109_gomezgomez.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GomezAR07"
@@ -401,8 +418,9 @@
       "pdf": "https://zenodo.org/record/1415050/files/NovelloM07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p111_novello.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000111.pdf",
+      "id": "ismir2007:paper:000111",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p111_novello.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NovelloM07"
@@ -423,8 +441,9 @@
       "pdf": "https://zenodo.org/record/1417679/files/McKayF07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p113_mckay.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000113.pdf",
+      "id": "ismir2007:paper:000113",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p113_mckay.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McKayF07"
@@ -447,8 +466,9 @@
       "pdf": "https://zenodo.org/record/1417777/files/PohleKSW07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p115_pohle.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000115.pdf",
+      "id": "ismir2007:paper:000115",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p115_pohle.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PohleKSW07"
@@ -471,8 +491,9 @@
       "pdf": "https://zenodo.org/record/1418325/files/SchedlWPS07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p117_schedl.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000117.pdf",
+      "id": "ismir2007:paper:000117",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p117_schedl.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SchedlWPS07"
@@ -493,8 +514,9 @@
       "pdf": "https://zenodo.org/record/1416430/files/GeleijnseK07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p119_geleijnse.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000119.pdf",
+      "id": "ismir2007:paper:000119",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p119_geleijnse.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GeleijnseK07"
@@ -516,8 +538,9 @@
       "pdf": "https://zenodo.org/record/1418369/files/WeiZO07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p121_wei.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000121.pdf",
+      "id": "ismir2007:paper:000121",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p121_wei.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WeiZO07"
@@ -538,8 +561,9 @@
       "pdf": "https://zenodo.org/record/1416522/files/KnopkeB07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p123_knopke.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000123.pdf",
+      "id": "ismir2007:paper:000123",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p123_knopke.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KnopkeB07"
@@ -560,8 +584,9 @@
       "pdf": "https://zenodo.org/record/1417145/files/LartillotT07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p127_lartillot.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000127.pdf",
+      "id": "ismir2007:paper:000127",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p127_lartillot.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LartillotT07"
@@ -584,8 +609,9 @@
       "pdf": "https://zenodo.org/record/1415586/files/FremereyKMC07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p131_fremerey.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000131.pdf",
+      "id": "ismir2007:paper:000131",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p131_fremerey.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FremereyKMC07"
@@ -608,8 +634,9 @@
       "pdf": "https://zenodo.org/record/1416068/files/HurleyBMS07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p133_hurley.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000133.pdf",
+      "id": "ismir2007:paper:000133",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p133_hurley.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HurleyBMS07"
@@ -631,8 +658,9 @@
       "pdf": "https://zenodo.org/record/1418043/files/MohriMW07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p135_mohri.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000135.pdf",
+      "id": "ismir2007:paper:000135",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p135_mohri.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MohriMW07"
@@ -654,8 +682,9 @@
       "pdf": "https://zenodo.org/record/1416890/files/BetserCR07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p139_betser.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000139.pdf",
+      "id": "ismir2007:paper:000139",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p139_betser.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BetserCR07"
@@ -676,8 +705,9 @@
       "pdf": "https://zenodo.org/record/1417927/files/LebosseB07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p143_lebosse.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000143.pdf",
+      "id": "ismir2007:paper:000143",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p143_lebosse.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LebosseB07"
@@ -698,8 +728,9 @@
       "pdf": "https://zenodo.org/record/1417507/files/HanR07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p145_han.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000145.pdf",
+      "id": "ismir2007:paper:000145",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p145_han.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HanR07"
@@ -720,8 +751,9 @@
       "pdf": "https://zenodo.org/record/1416396/files/BurredS07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p149_burred.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000149.pdf",
+      "id": "ismir2007:paper:000149",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p149_burred.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BurredS07"
@@ -745,8 +777,9 @@
       "pdf": "https://zenodo.org/record/1416744/files/PintoLDWV07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p153_pinto.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000153.pdf",
+      "id": "ismir2007:paper:000153",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p153_pinto.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PintoLDWV07"
@@ -772,8 +805,9 @@
       "pdf": "https://zenodo.org/record/1415224/files/LaiFDFRHM07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p157_lai.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000157.pdf",
+      "id": "ismir2007:paper:000157",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p157_lai.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LaiFDFRHM07"
@@ -795,8 +829,9 @@
       "pdf": "https://zenodo.org/record/1415584/files/LandoneHR07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p159_landone.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000159.pdf",
+      "id": "ismir2007:paper:000159",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p159_landone.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LandoneHR07"
@@ -816,8 +851,9 @@
       "pdf": "https://zenodo.org/record/1416316/files/Proutskova07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p161_proutskova.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000161.pdf",
+      "id": "ismir2007:paper:000161",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p161_proutskova.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Proutskova07"
@@ -839,8 +875,9 @@
       "pdf": "https://zenodo.org/record/1415634/files/LanzelotteBU07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p163_lanzelotte.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000163.pdf",
+      "id": "ismir2007:paper:000163",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p163_lanzelotte.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LanzelotteBU07"
@@ -862,8 +899,9 @@
       "pdf": "https://zenodo.org/record/1415746/files/LiLF07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p165_li.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000165.pdf",
+      "id": "ismir2007:paper:000165",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p165_li.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LiLF07"
@@ -884,8 +922,9 @@
       "pdf": "https://zenodo.org/record/1416930/files/LeitichT07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p167_leitich.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000167.pdf",
+      "id": "ismir2007:paper:000167",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p167_leitich.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LeitichT07"
@@ -907,8 +946,9 @@
       "pdf": "https://zenodo.org/record/1418243/files/TindaleST07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p171_tindale.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000171.pdf",
+      "id": "ismir2007:paper:000171",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p171_tindale.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TindaleST07"
@@ -929,8 +969,9 @@
       "pdf": "https://zenodo.org/record/1415022/files/LamereE07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p173_lamere.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000173.pdf",
+      "id": "ismir2007:paper:000173",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p173_lamere.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LamereE07"
@@ -952,8 +993,9 @@
       "pdf": "https://zenodo.org/record/1415896/files/HitchnerMT07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p175_hitchner.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000175.pdf",
+      "id": "ismir2007:paper:000175",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p175_hitchner.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HitchnerMT07"
@@ -973,8 +1015,9 @@
       "pdf": "https://zenodo.org/record/1416456/files/Knees07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p177_knees.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000177.pdf",
+      "id": "ismir2007:paper:000177",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p177_knees.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Knees07"
@@ -996,8 +1039,9 @@
       "pdf": "https://zenodo.org/record/1417781/files/TiemannPV07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p179_tiemann.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000179.pdf",
+      "id": "ismir2007:paper:000179",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p179_tiemann.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TiemannPV07"
@@ -1018,8 +1062,9 @@
       "pdf": "https://zenodo.org/record/1417329/files/DonaldsonK07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p181_donaldson.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000181.pdf",
+      "id": "ismir2007:paper:000181",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p181_donaldson.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DonaldsonK07"
@@ -1039,8 +1084,9 @@
       "pdf": "https://zenodo.org/record/1418107/files/Ahmaniemi07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p183_ahmaniemi.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000183.pdf",
+      "id": "ismir2007:paper:000183",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p183_ahmaniemi.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Ahmaniemi07"
@@ -1061,8 +1107,9 @@
       "pdf": "https://zenodo.org/record/1414854/files/McEnnisC07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p185_mcennis.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000185.pdf",
+      "id": "ismir2007:paper:000185",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p185_mcennis.pdf"
     },
     "dblp": {
       "id": "conf/ismir/McEnnisC07"
@@ -1083,8 +1130,9 @@
       "pdf": "https://zenodo.org/record/1417773/files/MardirossianC07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p189_mardirossian.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000189.pdf",
+      "id": "ismir2007:paper:000189",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p189_mardirossian.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MardirossianC07"
@@ -1104,8 +1152,9 @@
       "pdf": "https://zenodo.org/record/1417197/files/Izmirli07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p195_izmirli.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000195.pdf",
+      "id": "ismir2007:paper:000195",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p195_izmirli.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Izmirli07"
@@ -1126,8 +1175,9 @@
       "pdf": "https://zenodo.org/record/1414946/files/TeodoruR07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p201_teodoru.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000201.pdf",
+      "id": "ismir2007:paper:000201",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p201_teodoru.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TeodoruR07"
@@ -1150,8 +1200,9 @@
       "pdf": "https://zenodo.org/record/1416214/files/GatzscheMGB07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p207_gatzsche.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000207.pdf",
+      "id": "ismir2007:paper:000207",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p207_gatzsche.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GatzscheMGB07"
@@ -1174,8 +1225,9 @@
       "pdf": "https://zenodo.org/record/1415074/files/MartinsBTL07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p213_martins.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000213.pdf",
+      "id": "ismir2007:paper:000213",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p213_martins.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MartinsBTL07"
@@ -1196,8 +1248,9 @@
       "pdf": "https://zenodo.org/record/1417237/files/GilletR07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p219_gillet.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000219.pdf",
+      "id": "ismir2007:paper:000219",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p219_gillet.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GilletR07"
@@ -1218,8 +1271,9 @@
       "pdf": "https://zenodo.org/record/1417257/files/PaulusK07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p225_paulus.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000225.pdf",
+      "id": "ismir2007:paper:000225",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p225_paulus.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PaulusK07"
@@ -1241,8 +1295,9 @@
       "pdf": "https://zenodo.org/record/1417875/files/RoyPK07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p229_roy.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000229.pdf",
+      "id": "ismir2007:paper:000229",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p229_roy.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RoyPK07"
@@ -1264,8 +1319,9 @@
       "pdf": "https://zenodo.org/record/1414984/files/LeveauSD07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p233_leveau.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000233.pdf",
+      "id": "ismir2007:paper:000233",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p233_leveau.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LeveauSD07"
@@ -1285,8 +1341,9 @@
       "pdf": "https://zenodo.org/record/1417911/files/Bello07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p239_bello.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000239.pdf",
+      "id": "ismir2007:paper:000239",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p239_bello.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Bello07"
@@ -1307,8 +1364,9 @@
       "pdf": "https://zenodo.org/record/1415208/files/LeeS07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p245_lee.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000245.pdf",
+      "id": "ismir2007:paper:000245",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p245_lee.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LeeS07"
@@ -1331,8 +1389,9 @@
       "pdf": "https://zenodo.org/record/1416816/files/BurgoynePKF07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p251_burgoyne.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000251.pdf",
+      "id": "ismir2007:paper:000251",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p251_burgoyne.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BurgoynePKF07"
@@ -1356,8 +1415,9 @@
       "pdf": "https://zenodo.org/record/1415564/files/MauchDHCF07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p255_mauch.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000255.pdf",
+      "id": "ismir2007:paper:000255",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p255_mauch.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MauchDHCF07"
@@ -1381,8 +1441,9 @@
       "pdf": "https://zenodo.org/record/1416918/files/KurthMFCC07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p261_kurth.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000261.pdf",
+      "id": "ismir2007:paper:000261",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p261_kurth.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KurthMFCC07"
@@ -1404,8 +1465,9 @@
       "pdf": "https://zenodo.org/record/1417677/files/PeelingCG07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p267_peeling.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000267.pdf",
+      "id": "ismir2007:paper:000267",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p267_peeling.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PeelingCG07"
@@ -1426,8 +1488,9 @@
       "pdf": "https://zenodo.org/record/1415952/files/MiottoO07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p273_miotto.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000273.pdf",
+      "id": "ismir2007:paper:000273",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p273_miotto.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MiottoO07"
@@ -1448,8 +1511,9 @@
       "pdf": "https://zenodo.org/record/1417385/files/YouD07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p279_you.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000279.pdf",
+      "id": "ismir2007:paper:000279",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p279_you.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YouD07"
@@ -1471,8 +1535,9 @@
       "pdf": "https://zenodo.org/record/1418269/files/HamanakaHT07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p285_hamanaka.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000285.pdf",
+      "id": "ismir2007:paper:000285",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p285_hamanaka.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HamanakaHT07"
@@ -1494,8 +1559,9 @@
       "pdf": "https://zenodo.org/record/1417591/files/WeydeWN07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p287_weyde.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000287.pdf",
+      "id": "ismir2007:paper:000287",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p287_weyde.pdf"
     },
     "dblp": {
       "id": "conf/ismir/WeydeWN07"
@@ -1516,8 +1582,9 @@
       "pdf": "https://zenodo.org/record/1418189/files/KuuskankareL07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p289_kuuskankare.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000289.pdf",
+      "id": "ismir2007:paper:000289",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p289_kuuskankare.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KuuskankareL07"
@@ -1537,8 +1604,9 @@
       "pdf": "https://zenodo.org/record/1416798/files/Frieler07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p291_frieler.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000291.pdf",
+      "id": "ismir2007:paper:000291",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p291_frieler.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Frieler07"
@@ -1563,8 +1631,9 @@
       "pdf": "https://zenodo.org/record/1416830/files/VolkGKWVG07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p293_volk.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000293.pdf",
+      "id": "ismir2007:paper:000293",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p293_volk.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VolkGKWVG07"
@@ -1589,8 +1658,9 @@
       "pdf": "https://zenodo.org/record/1417503/files/AntonopoulosPTCML07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p297_antonopoulos.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000297.pdf",
+      "id": "ismir2007:paper:000297",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p297_antonopoulos.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AntonopoulosPTCML07"
@@ -1611,8 +1681,9 @@
       "pdf": "https://zenodo.org/record/1418103/files/PikrakisT07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p301_pikrakis.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000301.pdf",
+      "id": "ismir2007:paper:000301",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p301_pikrakis.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PikrakisT07"
@@ -1633,8 +1704,9 @@
       "pdf": "https://zenodo.org/record/1416584/files/ChuanC07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p305_chuan.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000305.pdf",
+      "id": "ismir2007:paper:000305",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p305_chuan.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChuanC07"
@@ -1656,8 +1728,9 @@
       "pdf": "https://zenodo.org/record/1416920/files/HuBD07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p309_hu.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000309.pdf",
+      "id": "ismir2007:paper:000309",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p309_hu.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HuBD07"
@@ -1678,8 +1751,9 @@
       "pdf": "https://zenodo.org/record/1417367/files/VarewyckM07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p311_varewyck.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000311.pdf",
+      "id": "ismir2007:paper:000311",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p311_varewyck.pdf"
     },
     "dblp": {
       "id": "conf/ismir/VarewyckM07"
@@ -1702,8 +1776,9 @@
       "pdf": "https://zenodo.org/record/1416304/files/ContSSR07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p315_cont.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000315.pdf",
+      "id": "ismir2007:paper:000315",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p315_cont.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ContSSR07"
@@ -1726,8 +1801,9 @@
       "pdf": "https://zenodo.org/record/1417779/files/MullensiefenLRW07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p317_mullensiefenmullensiefen.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000317.pdf",
+      "id": "ismir2007:paper:000317",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p317_mullensiefenmullensiefen.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MullensiefenLRW07"
@@ -1747,8 +1823,9 @@
       "pdf": "https://zenodo.org/record/1415174/files/Serra07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p319_serra.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000319.pdf",
+      "id": "ismir2007:paper:000319",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p319_serra.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Serra07"
@@ -1770,8 +1847,9 @@
       "pdf": "https://zenodo.org/record/1417949/files/EhmannDJ07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p323_ehmann.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000323.pdf",
+      "id": "ismir2007:paper:000323",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p323_ehmann.pdf"
     },
     "dblp": {
       "id": "conf/ismir/EhmannDJ07"
@@ -1793,8 +1871,9 @@
       "pdf": "https://zenodo.org/record/1415860/files/LeeDJ07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p325_lee.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000325.pdf",
+      "id": "ismir2007:paper:000325",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p325_lee.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LeeDJ07"
@@ -1814,8 +1893,9 @@
       "pdf": "https://zenodo.org/record/1417747/files/Davis07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p329_davis.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000329.pdf",
+      "id": "ismir2007:paper:000329",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p329_davis.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Davis07"
@@ -1837,8 +1917,9 @@
       "pdf": "https://zenodo.org/record/1414804/files/DudaNS07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p331_duda.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000331.pdf",
+      "id": "ismir2007:paper:000331",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p331_duda.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DudaNS07"
@@ -1860,8 +1941,9 @@
       "pdf": "https://zenodo.org/record/1416642/files/LittleRP07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p335_little.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000335.pdf",
+      "id": "ismir2007:paper:000335",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p335_little.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LittleRP07"
@@ -1881,8 +1963,9 @@
       "pdf": "https://zenodo.org/record/1416906/files/Ellis07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p339_ellis.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000339.pdf",
+      "id": "ismir2007:paper:000339",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p339_ellis.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Ellis07"
@@ -1902,8 +1985,9 @@
       "pdf": "https://zenodo.org/record/1415668/files/Flexer07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p341_flexer.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000341.pdf",
+      "id": "ismir2007:paper:000341",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p341_flexer.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Flexer07"
@@ -1925,8 +2009,9 @@
       "pdf": "https://zenodo.org/record/1417669/files/SkowronekMP07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p345_skowronek.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000345.pdf",
+      "id": "ismir2007:paper:000345",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p345_skowronek.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SkowronekMP07"
@@ -1948,8 +2033,9 @@
       "pdf": "https://zenodo.org/record/1415918/files/GovaertsCD07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p347_govaerts.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000347.pdf",
+      "id": "ismir2007:paper:000347",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p347_govaerts.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GovaertsCD07"
@@ -1972,8 +2058,9 @@
       "pdf": "https://zenodo.org/record/1417127/files/KapurPLT07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p351_kapur.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000351.pdf",
+      "id": "ismir2007:paper:000351",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p351_kapur.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KapurPLT07"
@@ -1994,8 +2081,9 @@
       "pdf": "https://zenodo.org/record/1417455/files/MoreauF07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p353_moreau.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000353.pdf",
+      "id": "ismir2007:paper:000353",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p353_moreau.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MoreauF07"
@@ -2017,8 +2105,9 @@
       "pdf": "https://zenodo.org/record/1415880/files/KasimiNR07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p355_kasimi.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000355.pdf",
+      "id": "ismir2007:paper:000355",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p355_kasimi.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KasimiNR07"
@@ -2039,8 +2128,9 @@
       "pdf": "https://zenodo.org/record/1416294/files/DresslerS07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p357_dressler.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000357.pdf",
+      "id": "ismir2007:paper:000357",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p357_dressler.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DresslerS07"
@@ -2063,8 +2153,9 @@
       "pdf": "https://zenodo.org/record/1415568/files/LawADC07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p361_law.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000361.pdf",
+      "id": "ismir2007:paper:000361",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p361_law.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LawADC07"
@@ -2085,8 +2176,9 @@
       "pdf": "https://zenodo.org/record/1414768/files/MandelE07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p365_mandel.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000365.pdf",
+      "id": "ismir2007:paper:000365",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p365_mandel.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MandelE07"
@@ -2108,8 +2200,9 @@
       "pdf": "https://zenodo.org/record/1417869/files/EckBL07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p367_eck.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000367.pdf",
+      "id": "ismir2007:paper:000367",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p367_eck.pdf"
     },
     "dblp": {
       "id": "conf/ismir/EckBL07"
@@ -2131,8 +2224,9 @@
       "pdf": "https://zenodo.org/record/1417111/files/GruhneDS07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p369_gruhne.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000369.pdf",
+      "id": "ismir2007:paper:000369",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p369_gruhne.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GruhneDS07"
@@ -2155,8 +2249,9 @@
       "pdf": "https://zenodo.org/record/1414732/files/OhishiGIT07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p371_ohishi.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000371.pdf",
+      "id": "ismir2007:paper:000371",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p371_ohishi.pdf"
     },
     "dblp": {
       "id": "conf/ismir/OhishiGIT07"
@@ -2179,8 +2274,9 @@
       "pdf": "https://zenodo.org/record/1414708/files/CaoLLY07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p373_cao.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000373.pdf",
+      "id": "ismir2007:paper:000373",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p373_cao.pdf"
     },
     "dblp": {
       "id": "conf/ismir/CaoLLY07"
@@ -2202,8 +2298,9 @@
       "pdf": "https://zenodo.org/record/1417395/files/MesarosVK07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p375_mesaros.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000375.pdf",
+      "id": "ismir2007:paper:000375",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p375_mesaros.pdf"
     },
     "dblp": {
       "id": "conf/ismir/MesarosVK07"
@@ -2225,8 +2322,9 @@
       "pdf": "https://zenodo.org/record/1417809/files/RaczynskiOS07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p381_raczynski.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000381.pdf",
+      "id": "ismir2007:paper:000381",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p381_raczynski.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RaczynskiOS07"
@@ -2247,8 +2345,9 @@
       "pdf": "https://zenodo.org/record/1416162/files/NicholsR07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p387_nichols.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000387.pdf",
+      "id": "ismir2007:paper:000387",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p387_nichols.pdf"
     },
     "dblp": {
       "id": "conf/ismir/NicholsR07"
@@ -2270,8 +2369,9 @@
       "pdf": "https://zenodo.org/record/1415732/files/YehBR07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p393_yeh.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000393.pdf",
+      "id": "ismir2007:paper:000393",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p393_yeh.pdf"
     },
     "dblp": {
       "id": "conf/ismir/YehBR07"
@@ -2293,8 +2393,9 @@
       "pdf": "https://zenodo.org/record/1415972/files/BarbedoLW07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p399_barbedo.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000399.pdf",
+      "id": "ismir2007:paper:000399",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p399_barbedo.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BarbedoLW07"
@@ -2317,8 +2418,9 @@
       "pdf": "https://zenodo.org/record/1417175/files/TorresTBL07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p405_torres.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000405.pdf",
+      "id": "ismir2007:paper:000405",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p405_torres.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TorresTBL07"
@@ -2339,8 +2441,9 @@
       "pdf": "https://zenodo.org/record/1415628/files/LevyS07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p411_levy.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000411.pdf",
+      "id": "ismir2007:paper:000411",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p411_levy.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LevyS07"
@@ -2363,8 +2466,9 @@
       "pdf": "https://zenodo.org/record/1415966/files/RaimondASG07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p417_raimond.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000417.pdf",
+      "id": "ismir2007:paper:000417",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p417_raimond.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RaimondASG07"
@@ -2387,8 +2491,9 @@
       "pdf": "https://zenodo.org/record/1416852/files/AucouturierPRB07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p425_aucouturier.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000425.pdf",
+      "id": "ismir2007:paper:000425",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p425_aucouturier.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AucouturierPRB07"
@@ -2409,8 +2514,9 @@
       "pdf": "https://zenodo.org/record/1416888/files/ChordiaR07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p431_chordia.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000431.pdf",
+      "id": "ismir2007:paper:000431",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p431_chordia.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ChordiaR07"
@@ -2432,8 +2538,9 @@
       "pdf": "https://zenodo.org/record/1414902/files/LeonRQ07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p437_poncedeleon.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000437.pdf",
+      "id": "ismir2007:paper:000437",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p437_poncedeleon.pdf"
     },
     "dblp": {
       "id": "conf/ismir/LeonRQ07"
@@ -2455,8 +2562,9 @@
       "pdf": "https://zenodo.org/record/1417537/files/TzanetakisJM07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p441_tzanetakis.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000441.pdf",
+      "id": "ismir2007:paper:000441",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p441_tzanetakis.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TzanetakisJM07"
@@ -2479,8 +2587,9 @@
       "pdf": "https://zenodo.org/record/1416552/files/KarydisNPC07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p445_karydis.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000445.pdf",
+      "id": "ismir2007:paper:000445",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p445_karydis.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KarydisNPC07"
@@ -2505,8 +2614,9 @@
       "pdf": "https://zenodo.org/record/1418191/files/GarbersKVWVG07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p451_garbers.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000451.pdf",
+      "id": "ismir2007:paper:000451",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p451_garbers.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GarbersKVWVG07"
@@ -2527,8 +2637,9 @@
       "pdf": "https://zenodo.org/record/1417615/files/RommingS07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p457_romming.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000457.pdf",
+      "id": "ismir2007:paper:000457",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p457_romming.pdf"
     },
     "dblp": {
       "id": "conf/ismir/RommingS07"
@@ -2551,8 +2662,9 @@
       "pdf": "https://zenodo.org/record/1416004/files/HoashiIMS07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p463_hoashi.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000463.pdf",
+      "id": "ismir2007:paper:000463",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p463_hoashi.pdf"
     },
     "dblp": {
       "id": "conf/ismir/HoashiIMS07"
@@ -2573,8 +2685,9 @@
       "pdf": "https://zenodo.org/record/1416228/files/FujiharaG07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p467_fujihara.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000467.pdf",
+      "id": "ismir2007:paper:000467",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p467_fujihara.pdf"
     },
     "dblp": {
       "id": "conf/ismir/FujiharaG07"
@@ -2596,8 +2709,9 @@
       "pdf": "https://zenodo.org/record/1416956/files/AllanMW07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p473_allan.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000473.pdf",
+      "id": "ismir2007:paper:000473",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p473_allan.pdf"
     },
     "dblp": {
       "id": "conf/ismir/AllanMW07"
@@ -2618,8 +2732,9 @@
       "pdf": "https://zenodo.org/record/1416402/files/SlaneyW07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p479_slaney.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000479.pdf",
+      "id": "ismir2007:paper:000479",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p479_slaney.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SlaneyW07"
@@ -2640,8 +2755,9 @@
       "pdf": "https://zenodo.org/record/1414910/files/ReedL07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p485_reed.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000485.pdf",
+      "id": "ismir2007:paper:000485",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p485_reed.pdf"
     },
     "dblp": {
       "id": "conf/ismir/ReedL07"
@@ -2661,8 +2777,9 @@
       "pdf": "https://zenodo.org/record/1415506/files/Balkema07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p491_balkema.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000491.pdf",
+      "id": "ismir2007:paper:000491",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p491_balkema.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Balkema07"
@@ -2682,8 +2799,9 @@
       "pdf": "https://zenodo.org/record/1417693/files/Sapp07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p497_sapp.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000497.pdf",
+      "id": "ismir2007:paper:000497",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p497_sapp.pdf"
     },
     "dblp": {
       "id": "conf/ismir/Sapp07"
@@ -2704,8 +2822,9 @@
       "pdf": "https://zenodo.org/record/1417527/files/DietK07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p501_diet.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000501.pdf",
+      "id": "ismir2007:paper:000501",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p501_diet.pdf"
     },
     "dblp": {
       "id": "conf/ismir/DietK07"
@@ -2730,8 +2849,9 @@
       "pdf": "https://zenodo.org/record/1414754/files/KranenburgGVWGV07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p505_vankranenburg.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000505.pdf",
+      "id": "ismir2007:paper:000505",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p505_vankranenburg.pdf"
     },
     "dblp": {
       "id": "conf/ismir/KranenburgGVWGV07"
@@ -2754,8 +2874,9 @@
       "pdf": "https://zenodo.org/record/1418203/files/BurgoynePEF07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p509_burgoyne.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000509.pdf",
+      "id": "ismir2007:paper:000509",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p509_burgoyne.pdf"
     },
     "dblp": {
       "id": "conf/ismir/BurgoynePEF07"
@@ -2777,8 +2898,9 @@
       "pdf": "https://zenodo.org/record/1415922/files/PuginBF07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p513_pugin.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000513.pdf",
+      "id": "ismir2007:paper:000513",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p513_pugin.pdf"
     },
     "dblp": {
       "id": "conf/ismir/PuginBF07"
@@ -2800,8 +2922,9 @@
       "pdf": "https://zenodo.org/record/1418373/files/SeyerlehnerWS07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p519_seyerlehner.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000519.pdf",
+      "id": "ismir2007:paper:000519",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p519_seyerlehner.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SeyerlehnerWS07"
@@ -2823,8 +2946,9 @@
       "pdf": "https://zenodo.org/record/1416582/files/GeleijnseSK07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p525_geleijnse.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000525.pdf",
+      "id": "ismir2007:paper:000525",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p525_geleijnse.pdf"
     },
     "dblp": {
       "id": "conf/ismir/GeleijnseSK07"
@@ -2846,8 +2970,9 @@
       "pdf": "https://zenodo.org/record/1415708/files/SordoLC07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p531_sordo.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000531.pdf",
+      "id": "ismir2007:paper:000531",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p531_sordo.pdf"
     },
     "dblp": {
       "id": "conf/ismir/SordoLC07"
@@ -2870,8 +2995,9 @@
       "pdf": "https://zenodo.org/record/1416464/files/TurnbullLBL07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p535_turnbull.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000535.pdf",
+      "id": "ismir2007:paper:000535",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p535_turnbull.pdf"
     },
     "dblp": {
       "id": "conf/ismir/TurnbullLBL07"
@@ -2893,8 +3019,9 @@
       "pdf": "https://zenodo.org/record/1416126/files/JonesDE07.pdf"
     },
     "ismir": {
-      "pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p539_jones.pdf",
-      "id": null
+      "pdf": "https://archives.ismir.net/ismir2007/paper/000539.pdf",
+      "id": "ismir2007:paper:000539",
+      "original_pdf": "http://ismir2007.ismir.net/proceedings/ISMIR2007_p539_jones.pdf"
     },
     "dblp": {
       "id": "conf/ismir/JonesDE07"
