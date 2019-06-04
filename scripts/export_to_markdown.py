@@ -23,8 +23,7 @@ import json
 import os
 import sys
 
-TEMPLATE = '''
----
+TEMPLATE = '''---
 title: ISMIR {year}
 ---
 
