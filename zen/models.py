@@ -54,8 +54,8 @@ class IsmirPaper(Record):
     FIELDS = ['title', 'author', 'year', 'doi', 'url', 'ee', 'abstract',
               'pages', 'zenodo_id', 'dblp_key']
 
-    def __init__(self, title, author, year, doi, url, ee, pages, abstract='',
-                 zenodo_id=None, dblp_key=None):
+    def __init__(self, title, author, year, ee, pages, abstract='',
+                 zenodo_id=None, dblp_key=None, doi=None, url=None, **kwargs):
         super().__init__(title=title, author=author, year=year, doi=doi, url=url, ee=ee,
                          pages=pages, abstract=abstract, zenodo_id=zenodo_id, dblp_key=dblp_key)
 
