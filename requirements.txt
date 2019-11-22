@@ -6,3 +6,4 @@ pdfminer.six
 pdfrw
 joblib
 xmltodict
+jinja2
