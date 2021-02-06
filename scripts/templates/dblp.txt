@@ -1,0 +1,20 @@
+<title>{{ meta.partof_title}}, {{ meta.conference_acronym }}, {{ meta.conference_place }}, {{ meta.conference_dates }}</title>
+<booktitle>ISMIR {{ year }}</booktitle>
+<editor>[FILL IN MANUALLY]</editor>
+<publisher></publisher>
+<series></series>
+<volume></volume>
+<year>{{ year }}</year>
+<issn></issn>
+<isbn>{{ meta.imprint_isbn }}</isbn>
+
+<h2>Papers</h2>
+<ul>
+{%- for publication in publications %}
+<li>{{ publication.authors }}:
+{{ publication.title }}.
+{{ publication.pages }}
+<ee>{{ publication.ee }}</ee>
+{%- endfor %}
+</ul>
+<footer>
