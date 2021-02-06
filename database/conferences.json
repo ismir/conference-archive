@@ -309,5 +309,21 @@
         "publication_type": "conferencepaper",
         "access_right": "open",
         "license": "CC-BY-4.0"
+    },
+    "2019": {
+        "conference_dates": "November 4-8, 2019",
+        "conference_place": "Delft, The Netherlands",
+        "imprint_place": "Delft, The Netherlands",
+        "conference_title": "International Society for Music Information Retrieval Conference",
+        "partof_title": "Proceedings of the 20th International Society for Music Information Retrieval Conference",
+        "publication_date": "2019-11-04",
+        "imprint_isbn": "978-1-7327299-1-9",
+        "conference_acronym": "ISMIR 2019",
+        "conference_url": "https://ismir2019.ismir.net",
+        "imprint_publisher": "ISMIR",
+        "upload_type": "publication",
+        "publication_type": "conferencepaper",
+        "access_right": "open",
+        "license": "CC-BY-4.0"
     }
 }
