@@ -325,5 +325,21 @@
         "publication_type": "conferencepaper",
         "access_right": "open",
         "license": "CC-BY-4.0"
+    },
+    "2021": {
+        "conference_dates": "November 7-12, 2021",
+        "conference_place": "Online",
+        "imprint_place": "Online",
+        "conference_title": "International Society for Music Information Retrieval Conference",
+        "partof_title": "Proceedings of the 22nd International Society for Music Information Retrieval Conference",
+        "publication_date": "2021-11-07",
+        "imprint_isbn": "978-1-7327299-0-2",
+        "conference_acronym": "ISMIR 2021",
+        "conference_url": "https://ismir2021.ismir.net",
+        "imprint_publisher": "ISMIR",
+        "upload_type": "publication",
+        "publication_type": "conferencepaper",
+        "access_right": "open",
+        "license": "CC-BY-4.0"
     }
 }
