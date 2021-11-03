@@ -326,6 +326,22 @@
         "access_right": "open",
         "license": "CC-BY-4.0"
     },
+    "2020": {
+        "conference_dates": "October 11-16, 2020",
+        "conference_place": "Montreal, Canada",
+        "imprint_place": "Montreal, Canada",
+        "conference_title": "International Society for Music Information Retrieval Conference",
+        "partof_title": "Proceedings of the 21th International Society for Music Information Retrieval Conference",
+        "publication_date": "2020-10-04",
+        "imprint_isbn": "978-0-9813537-1-5",
+        "conference_acronym": "ISMIR 2020",
+        "conference_url": "https://www.ismir2020.net/",
+        "imprint_publisher": "ISMIR",
+        "upload_type": "publication",
+        "publication_type": "conferencepaper",
+        "access_right": "open",
+        "license": "CC-BY-4.0"
+    },
     "2021": {
         "conference_dates": "November 7-12, 2021",
         "conference_place": "Online",
