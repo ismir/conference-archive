@@ -433,12 +433,12 @@
       "Stephanie Klauk"
     ],
     "year": "2021",
-    "doi": "10.5281/zenodo.5624493",
-    "url": "https://doi.org/10.5281/zenodo.5624493",
+    "doi": "10.5281/zenodo.5676067",
+    "url": "https://doi.org/10.5281/zenodo.5676067",
     "ee": "https://archives.ismir.net/ismir2021/paper/000028.pdf",
     "pages": "229-236",
     "abstract": "This paper uses the emerging provision of human harmonic analyses to assess how reliably we can map from knowing only when chords and keys change to a full identification of what those chords and keys are. We do this with a simple implementation of pitch class profile matching methods, partly to provide a benchmark score against which to judge the performance of less readily interpretable machine learning systems, many of which explicitly separate these when and what tasks and provide performance evaluation for these separate stages. Additionally, as this ‘oracle’-style, ‘perfect’ segmentation information will not usually be available in practice, we test the sensitivity of these methods to slight modifications in the position of segment boundaries by introducing deliberate errors. This study examines several corpora. The focus on is symbolic data, though we include one audio dataset for comparison. The code and corpora (of symbolic scores and analyses) are available within: https://github.com/MarkGotham/When-in-Rome",
-    "zenodo_id": 5624493,
+    "zenodo_id": 5676067,
     "dblp_key": null
   },
   {
