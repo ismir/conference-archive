@@ -1,4 +1,4 @@
-# ISMIR 2021 Conference archival
+# ISMIR 2021 Conference Archival
 
 This readme explains the process of migrating proceedings and information for ISMIR 2021 conference to persistent web properties for posterity. Please look at https://github.com/ismir/conference-archive/blob/master/README.md to get an overall understanding of the workflow. 
 
