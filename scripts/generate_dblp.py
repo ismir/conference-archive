@@ -11,7 +11,7 @@ def main(year, conferences_json, proceedings_json):
     with open(conferences_json) as fp:
         conferences = json.load(fp)
 
-    with open(proceedings_json) as fp:
+    with open(proceedings_json) as fp:  # 'encoding' = 'utf-8' might need to be added based on the encoding
         proceedings = json.load(fp)
         for p in proceedings:
             p["authors"] = ", ".join(p["author"])

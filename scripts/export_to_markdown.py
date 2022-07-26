@@ -73,7 +73,7 @@ if __name__ == '__main__':
                         help="Path to output markdown file.")
 
     args = parser.parse_args()
-    proceedings = json.load(open(args.proceedings))
+    proceedings = json.load(open(args.proceedings)) # 'encoding' = 'utf-8' might need to be added based on the encoding
 
     with open(args.output_file, 'w') as fp:
         fp.write(render(proceedings, page_sort=args.page_sort))

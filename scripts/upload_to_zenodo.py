@@ -122,8 +122,8 @@ if __name__ == '__main__':
                         metavar="max_items", type=int, default=None,
                         help="Maximum number of items to upload.")
     args = parser.parse_args()
-    proceedings = json.load(open(args.proceedings))
-    conferences = json.load(open(args.conferences))
+    proceedings = json.load(open(args.proceedings)) # 'encoding' = 'utf-8' might need to be added based on the encoding
+    conferences = json.load(open(args.conferences)) 
 
     # Subsample for staging
     if args.max_items is not None:
