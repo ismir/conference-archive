@@ -75,7 +75,7 @@ $ ../scripts/export_to_markdown.py \
     ../database/proceedings/2021.json \
     ismir2021.md
 ```
-and then copy `ismir2021.md` to the target repository. Edit it to add an entry for the full proceedings PDF, e.g. as you see in https://www.ismir.net/conferences/ismir2021.html and any additional edits you see are needed. Then involve ISMIR tech team to merge it to ISMIR website. 
+and then copy `ismir2021.md` to the target repository. Edit it to add an entry for the full proceedings PDF, e.g. as you see in https://www.ismir.net/conferences/ismir2021.html and any additional edits you see are needed. 
    
 To generate DBLP metadata file to be added to DBLP database, you can run
 
@@ -86,6 +86,7 @@ $ ../scripts/generate_dblp.py \
     ../database/proceedings/2021.json > ../database/proceedings/2021_dblp.html
     
 ```
-Please then get in touch with the ISMIR board to import `../database/proceedings/2021_dblp.html` into the DBLP database. 
+### Step-4: Merge, Approve, Register
+Please involve the ISMIR board or the ISMIR tech team to merge the markdown file to ISMIR web repo and to import `../database/proceedings/2021_dblp.html` into the DBLP database. Also work with the ISMIR board/tech team to approve the requests for the full proceedings PDF and each paper PDF that have been uploaded to Zenodo to be added to the ["ISMIR" community on Zenodo](https://zenodo.org/communities/ismir). Finally, work with the board/tech team to register the ISBN for the full conference proceedings. 
 
 This completes the archival of proceedings for ISMIR 2021!
