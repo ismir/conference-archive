@@ -2,7 +2,7 @@
 
 This readme explains the process of migrating proceedings and information for ISMIR 2021 conference to persistent web properties for posterity. Please look at https://github.com/ismir/conference-archive/blob/master/README.md to get an overall understanding of the workflow. 
 
-For any questions about these scripts (2021 edition), please write to Ajay Srinivasamurthy [ajays.murthy@upf.edu](mailto:ajays.murthy@upf.edu)
+For any questions about these scripts (2021 edition), please write to Ajay Srinivasamurthy at [ajays.murthy@upf.edu](mailto:ajays.murthy@upf.edu)
 
 ## Conference metadata
 The conference metadata for ISMIR 2021 was generated manually and it has been added to https://github.com/ismir/conference-archive/blob/master/database/conferences.json This file is an input to the steps that follow. 
@@ -31,12 +31,12 @@ It is assumed that you have used the [proceedings-builder](https://github.com/is
 1. A final JSON of proceedings metadata, generated using the proceedings builder. It will have the doi and url links empty, which will be added when we run the archiving tools below. In the scripts below, this input JSON is stored at `../temp_data/2021_input.json`
 2. Set of final PDF files split from the full proceedings in a single folder, also generated using the proceedings builder. These files will be archived on Zenodo and a DOI will be assigned to each of them. In the steps below, this input folder with PDFs is assumed to be `../temp_data/split_articles/`.
 
-### Step-1: Archival on ISMIR archive
+### Step-1: Upload to ISMIR archives
 While the official atchive of the papers is Zenodo, we also maintain an archive on [archives.ismir.net](archives.ismir.net) for historical reasons mostly. The PDFs are usually added with the filename template: https://archives.ismir.net/ismir<year>/paper/<paperID>.pdf  The path to the file in ISMIR archives is recorded in the metadata JSON at the key `"ee"` for each paper PDF, while the `"url"` key stores the path to the PDF in Zenodo. Please get in touch with the ISMIR board or the ISMIR tech team to add the files to the ISMIR archive. The complete proceedings PDF also needs to be added to the archive, e.g. [Full ISMIR 2021 proceedings PDF on ISMIR archive](http://archives.ismir.net/ismir2021/2021_Proceedings_ISMIR.pdf)
 
 The following steps can use the PDF files from your local computer, e.g. `../temp_data/split_articles/` or from the ISMIR archives `https://archives.ismir.net/ismir<year>/paper/`, but will read the path to the PDF from the input metadata JSON (`../temp_data/2021_input.json`) using the `"ee"` key. So, please ensure the key points to the right path in the input JSON before running the following steps. 
 
-### Step-2: Archival on Zenodo and assign DOI
+### Step-2: Upload to Zenodo and generate DOI
 
 The high level process is to upload each PDF to Zenodo using the Zenodo API and generate DOI for it. With the assigned DOI, we can update metadata JSON with the DOI and Zenodo URL to generate a final metadata JSOn complete in all respects. The final updated metadata JSON is then added to `../database/proceedings/2021.json` for posterity. 
 
@@ -64,7 +64,7 @@ Here is an example of a paper from ISMIR 2021 proceedings archived on Zenodo: ht
 
 Follow the same process as a single paper, but manually upload the entire proceedings PDF to Zenodo as well and add the right tags, e.g. here is the final proceedings PDF archived on Zenodo: https://zenodo.org/record/5776687#.Yt-eAewzb_0
 
-### 4. Export to Markdown/DBLP
+### Step-3: Export to Markdown/DBLP
 Once proceedings have been uploaded to Zenodo (and the corresponding URLs have been generated), the proceedings metadata can be exported to markdown for serving on the web, e.g. DBLP, the ISMIR homepage, etc.
 
 For the website, we need to generate [the proceedings markdown file](https://github.com/ismir/ismir-home/blob/master/docs/conferences/ismir2021.md) that will then produce the page [https://www.ismir.net/conferences/ismir2021.html](https://www.ismir.net/conferences/ismir2021.html). 
@@ -75,15 +75,17 @@ $ ../scripts/export_to_markdown.py \
     ../database/proceedings/2021.json \
     ismir2021.md
 ```
-and then copy it to the target repository and add add an entry for the full proceedings PDF to it, e.g. as you see in https://www.ismir.net/conferences/ismir2021.html Then involve ISMIR tech team to merge it. To generate DBLP metadata file to be added to DBLP, you can run
+and then copy `ismir2021.md` to the target repository. Edit it to add an entry for the full proceedings PDF, e.g. as you see in https://www.ismir.net/conferences/ismir2021.html and any additional edits you see are needed. Then involve ISMIR tech team to merge it to ISMIR website. 
+   
+To generate DBLP metadata file to be added to DBLP database, you can run
 
 ```
 $ ../scripts/generate_dblp.py \
     -y 2021 \ 
     ../database/conferences.json \ 
-    ../database/proceedings/2021.json > 2021_dblp.html
+    ../database/proceedings/2021.json > ../database/proceedings/2021_dblp.html
     
 ```
-Please then get in touch with the board to import `2021_dblp.html` into the DBLP database. 
+Please then get in touch with the ISMIR board to import `../database/proceedings/2021_dblp.html` into the DBLP database. 
 
 This completes the archival of proceedings for ISMIR 2021!
