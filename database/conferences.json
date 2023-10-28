@@ -357,5 +357,21 @@
         "publication_type": "conferencepaper",
         "access_right": "open",
         "license": "CC-BY-4.0"
+    },
+    "2022": {
+        "conference_dates": "December 4-8, 2022",
+        "conference_place": "Bengaluru, India",
+        "imprint_place": "Bengaluru, India",
+        "conference_title": "International Society for Music Information Retrieval Conference",
+        "partof_title": "Proceedings of the 23rd International Society for Music Information Retrieval Conference",
+        "publication_date": "2022-12-04",
+        "imprint_isbn": "978-1-7327299-2-6",
+        "conference_acronym": "ISMIR 2022",
+        "conference_url": "https://ismir2022.ismir.net",
+        "imprint_publisher": "ISMIR",
+        "upload_type": "publication",
+        "publication_type": "conferencepaper",
+        "access_right": "open",
+        "license": "CC-BY-4.0"
     }
 }
