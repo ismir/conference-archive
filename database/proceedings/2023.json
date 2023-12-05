@@ -1,0 +1,1715 @@
+[
+  {
+    "title": "Exploring the Correspondence of Melodic Contour With Gesture in Raga Alap Singing",
+    "author": [
+      "Shreyas Nadkarni",
+      "Sujoy Roychowdhury",
+      "Preeti Rao",
+      "Martin Clayton"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265213",
+    "url": "https://doi.org/10.5281/zenodo.10265213",
+    "ee": "https://zenodo.org/record/10265213/files/000001.pdf",
+    "pages": "21-28",
+    "abstract": "Musicology research suggests a correspondence between manual gesture and melodic contour in raga performance. Computational tools such as pose estimation from video and time series pattern matching potentially facilitate larger-scale studies of gesture and audio correspondence. We present a dataset of audiovisual recordings of Hindustani vocal music comprising 9 ragas sung by 11 expert performers. With the automatic segmentation of the audiovisual time series based on analyses of the extracted F0 contour, we study whether melodic similarity implies gesture similarity. Our results indicate that specific representations of gesture kinematics can predict high-level melodic features such as held notes and raga-characteristic motifs significantly better than chance.",
+    "zenodo_id": 10265213,
+    "dblp_key": null
+  },
+  {
+    "title": "TriAD: Capturing Harmonics With 3D Convolutions",
+    "author": [
+      "Miguel Perez",
+      "Holger Kirchhoff",
+      "Xavier Serra"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265215",
+    "url": "https://doi.org/10.5281/zenodo.10265215",
+    "ee": "https://zenodo.org/record/10265215/files/000002.pdf",
+    "pages": "29-36",
+    "abstract": "Thanks to advancements in deep learning (DL), automatic music transcription (AMT) systems recently outperformed previous ones fully based on manual feature design. Many of these highly capable DL models, however, are computationally expensive. Researchers are moving towards smaller models capable of maintaining state-of-the-art (SOTA) results by embedding musical knowledge in the network architecture. Existing approaches employ convolutional blocks specifically designed to capture the harmonic structure. These approaches, however, require either large kernels or multiple kernels, with each kernel aiming to capture a different harmonic. We present TriAD, a convolutional block that achieves an unequally distanced dilation over the frequency axis. This allows our method to capture multiple harmonics with a single yet small kernel. We compare TriAD with other methods of capturing harmonics, and we observe that our approach maintains SOTA results while reducing the number of parameters required. We also conduct an ablation study showing that our proposed method effectively relies on harmonic information.",
+    "zenodo_id": 10265215,
+    "dblp_key": null
+  },
+  {
+    "title": "Data Collection in Music Generation Training Sets: A Critical Analysis",
+    "author": [
+      "Fabio Morreale",
+      "Megha Sharma",
+      "I-Chieh Wei"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265217",
+    "url": "https://doi.org/10.5281/zenodo.10265217",
+    "ee": "https://zenodo.org/record/10265217/files/000003.pdf",
+    "pages": "37-46",
+    "abstract": "The practices of data collection in training sets for Automatic Music Generation (AMG) tasks are opaque and overlooked. In this paper, we aimed to identify these practices and surface the values they embed. We systematically identified all datasets used to train AMG models presented at the last ten editions of ISMIR. For each dataset, we checked how it was populated and the extent to which musicians wittingly contributed to its creation.\\ Almost half of the datasets (42.6%) were indiscriminately populated by accumulating music data available online without seeking any sort of permission. We discuss the ideologies that underlie this practice and propose a number of suggestions AMG dataset creators might follow. Overall, this paper contributes to the emerging  self-critical corpus of work of the ISMIR community, reflecting on the ethical considerations and the social responsibility of our work.",
+    "zenodo_id": 10265217,
+    "dblp_key": null
+  },
+  {
+    "title": "A Review of Validity and Its Relationship to Music Information Research",
+    "author": [
+      "Bob L. T. Sturm",
+      "Arthur Flexer"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265219",
+    "url": "https://doi.org/10.5281/zenodo.10265219",
+    "ee": "https://zenodo.org/record/10265219/files/000004.pdf",
+    "pages": "47-55",
+    "abstract": "Validity is the truth of an inference made from evidence and is a central concern in scientific work. Given the maturity of the domain of music information research (MIR), validity in our opinion should be discussed and considered much more than it has been so far. Puzzling MIR phenomena like adversarial attacks, horses, and performance glass ceilings become less mysterious through the lens of validity. In this paper, we review the subject of validity as presented in a key reference of causal inference: Shadish et al., Experimental and Quasi-experimental Designs for Generalised Causal Inference [1]. We discuss the four types of validity and threats to each one. We consider them in relationship to MIR experiments grounded with a practical demonstration using a typical MIR experiment.",
+    "zenodo_id": 10265219,
+    "dblp_key": null
+  },
+  {
+    "title": "Segmentation and Analysis of Taniavartanam in Carnatic Music Concerts",
+    "author": [
+      "Gowriprasad R",
+      "Srikrishnan Sridharan",
+      "R Aravind",
+      "Hema A. Murthy"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265221",
+    "url": "https://doi.org/10.5281/zenodo.10265221",
+    "ee": "https://zenodo.org/record/10265221/files/000005.pdf",
+    "pages": "56-63",
+    "abstract": "In Carnatic music concerts, taniavartanam is a solo percussion segment that showcases intricate and elaborate extempore rhythmic evolution through a series of homogeneous sections with shared rhythmic characteristics. While taniavartanam segments have been segmented from concerts earlier, no effort has been made to analyze these percussion segments. This paper attempts to further segment the taniavartanam portion into musically meaningful segments. A taniavartanam segment consists of an abhipraya, where artists show their prowess at extempore enunciation of percussion stroke segments, followed by an optional korapu, where each artist challenges the other, and concluding with mohra and korvai, each with its own nuances. This work helps obtain a comprehensive musical description of the taniavartanam in Carnatic concerts. However, analysis is complicated owing to a plethora of tala and nade. The segmentation of a taniavartanam section can be used for further analysis, such as stroke sequence recognition, and help find relations between different learning schools. The study uses 12 hours of taniavartanam segments consisting of four tala-s and five nade-s for analysis and achieves 0.85 F1-score in the segmentation task.",
+    "zenodo_id": 10265221,
+    "dblp_key": null
+  },
+  {
+    "title": "Transfer Learning and Bias Correction With Pre-Trained Audio Embeddings",
+    "author": [
+      "Changhong Wang",
+      "Ga\u00ebl Richard",
+      "Brian McFee"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265223",
+    "url": "https://doi.org/10.5281/zenodo.10265223",
+    "ee": "https://zenodo.org/record/10265223/files/000006.pdf",
+    "pages": "64-70",
+    "abstract": "Deep neural network models have become the dominant approach to a large variety of tasks within music information retrieval (MIR). These models generally require large amounts of (annotated) training data to achieve high accuracy. Because not all applications in MIR have sufficient quantities of training data, it is becoming increasingly common to transfer models across domains. This approach allows representations derived for one task to be applied to another, and can result in high accuracy with less stringent training data requirements for the downstream task. However, the properties of pre-trained audio embeddings are not fully understood. Specifically, and unlike traditionally engineered features, the representations extracted from pre-trained deep networks may embed and propagate biases from the model's training regime. This work investigates the phenomenon of bias propagation in the context of pre-trained audio representations for the task of instrument recognition. We first demonstrate that three different pre-trained representations (VGGish, OpenL3, and YAMNet) exhibit comparable performance when constrained to a single dataset, but differ in their ability to generalize across datasets (OpenMIC and IRMAS). We then investigate dataset identity and genre distribution as potential sources of bias. Finally, we propose and evaluate post-processing countermeasures to mitigate the effects of bias, and improve generalization across datasets.",
+    "zenodo_id": 10265223,
+    "dblp_key": null
+  },
+  {
+    "title": "Collaborative Song Dataset (CoSoD): An Annotated Dataset of Multi-Artist Collaborations in Popular Music",
+    "author": [
+      "Mich\u00e8le Duguay",
+      "Kate Mancey",
+      "Johanna Devaney"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265225",
+    "url": "https://doi.org/10.5281/zenodo.10265225",
+    "ee": "https://zenodo.org/record/10265225/files/000007.pdf",
+    "pages": "71-79",
+    "abstract": "The Collaborative Song Dataset (CoSoD) is a corpus of 331 multi-artist collaborations from the 2010\u20132019 Billboard \u201cHot 100\u201d year-end charts. The corpus is annotated with formal sections, aspects of vocal production (including reverberation, layering, panning, and gender of the performers), and relevant metadata. CoSoD complements other popular music datasets by focusing exclusively on musical collaborations between independent acts. In addition to facilitating the study of song form and vocal production, CoSoD allows for the in-depth study of gender as it relates to various timbral, pitch, and formal parameters in musical collaborations. In this paper, we detail the contents of the dataset and outline the annotation process. We also present an experiment using CoSoD that examines how the use of reverberation, layering, and panning are related to the gender of the artist. In this experiment, we find that men\u2019s voices are on average treated with less reverberation and occupy a more narrow position in the stereo mix than women\u2019s voices.",
+    "zenodo_id": 10265225,
+    "dblp_key": null
+  },
+  {
+    "title": "Human-AI Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration",
+    "author": [
+      "Michele Newman",
+      "Lidia Morris",
+      "Jin Ha Lee"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265227",
+    "url": "https://doi.org/10.5281/zenodo.10265227",
+    "ee": "https://zenodo.org/record/10265227/files/000008.pdf",
+    "pages": "80-88",
+    "abstract": "Recently, there has been a surge in Artificial Intelligence (AI) tools that allow creators to develop melodies, harmonies, lyrics, and mixes with the touch of a button. The reception of and discussion on the use of these tools - and more broadly, any AI-based art creation tools - tend to be polarizing, with opinions ranging from enthusiasm about their potential to fear about how these tools will impact the livelihood and creativity of human creators. However, a more desirable future path is most likely somewhere in between these two polar opposites where productive and ethical human-AI collaboration could happen through the use of these tools. To explore this possibility, we first need to improve our understanding of how music creators perceive and utilize these types of tools in their creative process. We conducted case studies of a range of music creators to better understand their perception and usage of AI-based music creation tools. Through a thematic analysis of these cases, we identify the opportunities and challenges related to the use of AI for music creation from the perspective of the musicians and discuss the design implications for AI music tools.",
+    "zenodo_id": 10265227,
+    "dblp_key": null
+  },
+  {
+    "title": "Impact of Time and Note Duration Tokenizations on Deep Learning Symbolic Music Modeling",
+    "author": [
+      "Nathan Fradet",
+      "Nicolas Gutowski",
+      "Fabien Chhel",
+      "Jean-Pierre Briot"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265229",
+    "url": "https://doi.org/10.5281/zenodo.10265229",
+    "ee": "https://zenodo.org/record/10265229/files/000009.pdf",
+    "pages": "89-97",
+    "abstract": "Symbolic music is widely used in various deep learning tasks, including generation, transcription, synthesis, and Music Information Retrieval (MIR). It is mostly employed with discrete models like Transformers, which require music to be tokenized, i.e., formatted into sequences of distinct elements called tokens. Tokenization can be performed in different ways, and recent research has focused on developing more efficient methods. However, the key differences between these methods are often unclear, and few studies have compared them. In this work, we analyze the current common tokenization methods and experiment with time and note duration representations. We compare the performance of these two impactful criteria on several tasks, including composer classification, emotion classification, music generation, and sequence representation. We demonstrate that explicit information leads to better results depending on the task.",
+    "zenodo_id": 10265229,
+    "dblp_key": null
+  },
+  {
+    "title": "Musical Micro-Timing for Live Coding",
+    "author": [
+      "Max Johnson",
+      "Mark R. H. Gotham"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265231",
+    "url": "https://doi.org/10.5281/zenodo.10265231",
+    "ee": "https://zenodo.org/record/10265231/files/000010.pdf",
+    "pages": "98-105",
+    "abstract": "Micro-timing is an essential part of human music-making, yet it is absent from most computer music systems. Partly to address this gap, we present a novel system for generating music with style-specific micro-timing within the Sonic Pi live coding language. We use a probabilistic approach to control the exact timing according to patterns discovered in new analyses of existing micro-timing data (jembe drumming and Viennese waltz). This implementation also required the introduction of musical metre into Sonic Pi. The new metre and micro-timing systems are inherently flexible, and thus open to a wide range of creative possibilities including (but not limited to): creating new micro-timing profiles for additional styles; expanded definitions of metre; and the free mixing of one micro-timing style with the musical content of another. The code is freely available as a Sonic Pi plug-in and released open source at https://github.com/MaxTheComputerer/sonicpi-metre.",
+    "zenodo_id": 10265231,
+    "dblp_key": null
+  },
+  {
+    "title": "A Few-Shot Neural Approach for Layout Analysis of Music Score Images",
+    "author": [
+      "Francisco J. Castellanos",
+      "Antonio Javier Gallego",
+      "Ichiro Fujinaga"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265233",
+    "url": "https://doi.org/10.5281/zenodo.10265233",
+    "ee": "https://zenodo.org/record/10265233/files/000011.pdf",
+    "pages": "106-113",
+    "abstract": "Optical Music Recognition (OMR) is a well-established research field focused on the task of reading musical notation from images of music scores. In the standard OMR workflow, layout analysis is a critical component for identifying relevant parts of the image, such as staff lines, text, or notes. State-of-the-art approaches to this task are based on machine learning, which entails having to label a training corpus, an error-prone, laborious, and expensive task that must be performed by experts. In this paper, we propose a novel few-shot strategy for building robust models by utilizing only partial annotations, therefore requiring minimal human effort. Specifically, we introduce a masking layer and an oversampling technique to train models using a small set of annotated patches from the training images. Our proposal enables achieving high performance even with scarce training data, as demonstrated by experiments on four benchmark datasets. The results indicate that this approach achieves performance values comparable to models trained with a fully annotated corpus, but, in this case, requiring the annotation of only between 20% and 39% of this data.",
+    "zenodo_id": 10265233,
+    "dblp_key": null
+  },
+  {
+    "title": "TapTamDrum: A Dataset for Dualized Drum Patterns",
+    "author": [
+      "Behzad Haki",
+      "B\u0142a\u017cej Kotowski",
+      "Cheuk Lun Isaac Lee",
+      "Sergi Jord\u00e0"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265237",
+    "url": "https://doi.org/10.5281/zenodo.10265237",
+    "ee": "https://zenodo.org/record/10265237/files/000012.pdf",
+    "pages": "114-120",
+    "abstract": "Drummers spend extensive time practicing rudiments to develop technique, speed, coordination, and phrasing. These rudiments are often practiced on \"silent\" practice pads using only the hands. Additionally, many percussive instruments across cultures are played exclusively with the hands. Building on these concepts and inspired by Einstein's probably apocryphal quote, \"Make everything as simple as possible, but not simpler,\" we hypothesize that a dual-voice reduction could serve as a natural and meaningful compressed representation of multi-voiced drum patterns. This representation would retain more information than its corresponding monotonic representation while maintaining relative simplicity for tasks such as rhythm analysis and generation. To validate this potential representation, we investigate whether experienced drummers can consistently represent and reproduce the rhythmic essence of a given drum pattern using only their two hands. We present TapTamDrum: a novel dataset of repeated dualizations from four experienced drummers, along with preliminary analysis and tools for further exploration of the data.",
+    "zenodo_id": 10265237,
+    "dblp_key": null
+  },
+  {
+    "title": "Real-Time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar",
+    "author": [
+      "Andrea Martelloni",
+      "Andrew P. McPherson",
+      "Mathieu Barthet"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265236",
+    "url": "https://doi.org/10.5281/zenodo.10265236",
+    "ee": "https://zenodo.org/record/10265236/files/000013.pdf",
+    "pages": "121-128",
+    "abstract": "Real-time music information retrieval (RT-MIR) has much potential to augment the capabilities of traditional acoustic instruments. We develop RT-MIR techniques aimed at augmenting percussive fingerstyle, which blends acoustic guitar playing with guitar body percussion. We formulate several design objectives for RT-MIR systems for augmented instrument performance: (i) causal constraint, (ii) perceptually negligible action-to-sound latency, (iii) control intimacy support, (iv) synthesis control support. We present and evaluate real-time guitar body percussion recognition and embedding learning techniques based on convolutional neural networks (CNNs) and CNNs jointly trained with variational autoencoders (VAEs). We introduce a taxonomy of guitar body percussion based on hand part and location. We follow a cross-dataset evaluation approach by collecting three datasets labelled according to the taxonomy. The embedding quality of the models is assessed using KL-Divergence across distributions corresponding to different taxonomic classes. Results indicate that the networks are strong classifiers especially in a simplified 2-class recognition task, and the VAEs yield improved class separation compared to CNNs as evidenced by increased KL-Divergence across distributions. We argue that the VAE embedding quality could support control intimacy and rich interaction when the latent space's parameters are used to control an external synthesis engine. Further design challenges around generalisation to different datasets have been identified.",
+    "zenodo_id": 10265236,
+    "dblp_key": null
+  },
+  {
+    "title": "IteraTTA: An Interface for Exploring Both Text Prompts and Audio Priors in Generating Music With Text-to-Audio Models",
+    "author": [
+      "Hiromu Yakura",
+      "Masataka Goto"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265239",
+    "url": "https://doi.org/10.5281/zenodo.10265239",
+    "ee": "https://zenodo.org/record/10265239/files/000014.pdf",
+    "pages": "129-137",
+    "abstract": "Recent text-to-audio generation techniques have the potential to allow novice users to freely generate music audio. Even if they do not have musical knowledge, such as about chord progressions and instruments, users can try various text prompts to generate audio. However, compared to the image domain, gaining a clear understanding of the space of possible music audios is difficult because users cannot listen to the variations of the generated audios simultaneously. We therefore facilitate users in exploring not only text prompts but also audio priors that constrain the text-to-audio music generation process. This dual-sided exploration enables users to discern the impact of different text prompts and audio priors on the generation results through iterative comparison of them. Our developed interface, IteraTTA, is specifically designed to aid users in refining text prompts and selecting favorable audio priors from the generated audios. With this, users can progressively reach their loosely-specified goals while understanding and exploring the space of possible results. Our implementation and discussions highlight design considerations that are specifically required for text-to-audio models and how interaction techniques can contribute to their effectiveness.",
+    "zenodo_id": 10265239,
+    "dblp_key": null
+  },
+  {
+    "title": "Similarity Evaluation of Violin Directivity Patterns for Musical Instrument Retrieval",
+    "author": [
+      "Mirco Pezzoli",
+      "Raffaele Malvermi",
+      "Fabio Antonacci",
+      "Augusto Sarti"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265243",
+    "url": "https://doi.org/10.5281/zenodo.10265243",
+    "ee": "https://zenodo.org/record/10265243/files/000015.pdf",
+    "pages": "138-145",
+    "abstract": "The directivity of a musical instrument is a function that describes the spatial characteristics of its sound radiation. The majority of the available literature focuses on measuring directivity patterns, with analysis mainly limited to visual inspections. Recently, some similarity metrics for directivity patterns have been introduced, yet their application has not being fully addressed. In this work, we introduce the problem of musical instrument retrieval based on the directivity pattern features.\nWe aim to exploit the available similarity metrics for directivity patterns in order to determine distances between instruments. We apply the methodology to a data set of violin directivities, including historical and modern high-quality instruments. Results show that the methodology facilitates the comparison of musical instruments and the navigation of databases of directivity patterns.",
+    "zenodo_id": 10265243,
+    "dblp_key": null
+  },
+  {
+    "title": "Polyrhythmic Modelling of Non-Isochronous and Microtiming Patterns",
+    "author": [
+      "George Sioros"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265245",
+    "url": "https://doi.org/10.5281/zenodo.10265245",
+    "ee": "https://zenodo.org/record/10265245/files/000016.pdf",
+    "pages": "146-153",
+    "abstract": "Computational models and analyses of musical rhythms are predominantly based on the subdivision of durations down to a common isochronous pulse, which plays a fundamental structural role in the organization of their durational patterns. Meter, the most widespread example of such a temporal scheme, consists of several hierarchically organized pulses. Deviations from isochrony found in musical patterns are considered to form an expressive, micro level of organization that is distinct from the structural macro-organization of the basic pulse. However, polyrhythmic structures, such as those found in music from West Africa or the African diaspora, challenge both the hierarchical subdivision of durations and the structural isochrony of the above models. Here we present a model that integrates the macro- and micro-organization of rhythms by generating non-isochronous girds from isochronous pulses within a polyrhythmic structure. Observed micro-timing patterns may then be generated from structural non-isochronous grids, rather than being understood as expressive deviations from isochrony. We examine the basic mathematical properties of the model and show that meter can be generated as a special case. Finally, we demonstrate the model in the analysis of micro-timing patterns observed in Brazilian samba performances.",
+    "zenodo_id": 10265245,
+    "dblp_key": null
+  },
+  {
+    "title": "CLaMP: Contrastive Language-Music Pre-Training for Cross-Modal Symbolic Music Information Retrieval",
+    "author": [
+      "Shangda Wu",
+      "Dingyao Yu",
+      "Xu Tan",
+      "Maosong Sun"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265247",
+    "url": "https://doi.org/10.5281/zenodo.10265247",
+    "ee": "https://zenodo.org/record/10265247/files/000017.pdf",
+    "pages": "157-165",
+    "abstract": "We introduce CLaMP: Contrastive Language-Music Pre-training, which learns cross-modal representations between natural language and symbolic music using a music encoder and a text encoder trained jointly with a contrastive loss. To pre-train CLaMP, we collected a large dataset of 1.4 million music-text pairs. It employed text dropout as a data augmentation technique and bar patching to efficiently represent music data which reduces sequence length to less than 10%. In addition, we developed a masked music model pre-training objective to enhance the music encoder's comprehension of musical context and structure. CLaMP integrates textual information to enable semantic search and zero-shot classification for symbolic music, surpassing the capabilities of previous models. To support the evaluation of semantic search and music classification, we publicly release WikiMusicText (WikiMT), a dataset of 1010 lead sheets in ABC notation, each accompanied by a title, artist, genre, and description. In comparison to state-of-the-art models that require fine-tuning, zero-shot CLaMP demonstrated comparable or superior performance on score-oriented datasets. Our models and code are available at https://github.com/microsoft/muzic/tree/main/clamp.",
+    "zenodo_id": 10265247,
+    "dblp_key": null
+  },
+  {
+    "title": "Gender-Coded Sound: Analysing the Gendering of Music in Toy Commercials via Multi-Task Learning",
+    "author": [
+      "Luca Marinelli",
+      "Gy\u00f6rgy Fazekas",
+      "Charalampos Saitis"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265249",
+    "url": "https://doi.org/10.5281/zenodo.10265249",
+    "ee": "https://zenodo.org/record/10265249/files/000018.pdf",
+    "pages": "166-173",
+    "abstract": "Music can convey ideological stances, and gender is just one of them. Evidence from musicology and psychology research shows that gender-loaded messages can be reliably encoded and decoded via musical sounds. However, much of this evidence comes from examining music in isolation, while studies of the gendering of music within multimodal communicative events are sparse. In this paper, we outline a method to automatically analyse how music in TV advertising aimed at children may be deliberately used to reinforce traditional gender roles. Our dataset of 606 commercials included music-focused mid-level perceptual features, multimodal aesthetic emotions, and content analytical items. Despite its limited size, and because of the extreme gender polarisation inherent in toy advertisements, we obtained noteworthy results by leveraging multi-task transfer learning on our densely annotated dataset. The models were trained to categorise commercials based on their intended target audience, specifically distinguishing between masculine, feminine, and mixed audiences. Additionally, to provide explainability for the classification in gender targets, the models were jointly trained to perform regressions on emotion ratings across six scales, and on mid-level musical perceptual attributes across twelve scales. Standing in the context of MIR, computational social studies and critical analysis, this study may benefit not only music scholars but also advertisers, policymakers, and broadcasters.",
+    "zenodo_id": 10265249,
+    "dblp_key": null
+  },
+  {
+    "title": "A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability",
+    "author": [
+      "Li-Yang Tseng",
+      "Tzu-Ling Lin",
+      "Hong-Han Shuai",
+      "Jen-Wei Huang",
+      "Wen-Whei Chang"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265251",
+    "url": "https://doi.org/10.5281/zenodo.10265251",
+    "ee": "https://zenodo.org/record/10265251/files/000019.pdf",
+    "pages": "174-181",
+    "abstract": "Nowadays, humans are constantly exposed to music, whether through voluntary streaming services or incidental encounters during commercial breaks. Despite the abundance of music, certain pieces remain more memorable and often gain greater popularity. Inspired by this phenomenon, we focus on measuring and predicting music memorability. To achieve this, we collect a new music piece dataset with reliable memorability labels using a novel interactive experimental procedure. We then train baselines to predict and analyze music memorability, leveraging both interpretable features and audio mel-spectrograms as inputs. To the best of our knowledge, we are the first to explore music memorability using data-driven deep learning-based methods. Through a series of experiments and ablation studies, we demonstrate that while there is room for improvement, predicting music memorability with limited data is possible. Certain intrinsic elements, such as higher valence, arousal, and faster tempo, contribute to memorable music. As prediction techniques continue to evolve, real-life applications like music recommendation systems and music style transfer will undoubtedly benefit from this new area of research.",
+    "zenodo_id": 10265251,
+    "dblp_key": null
+  },
+  {
+    "title": "Efficient Notation Assembly in Optical Music Recognition",
+    "author": [
+      "Carlos Pe\u00f1arrubia",
+      "Carlos Garrido-Munoz",
+      "Jose J. Valero-Mas",
+      "Jorge Calvo-Zaragoza"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265253",
+    "url": "https://doi.org/10.5281/zenodo.10265253",
+    "ee": "https://zenodo.org/record/10265253/files/000020.pdf",
+    "pages": "182-189",
+    "abstract": "Optical Music Recognition (OMR) is the field of research that studies how to computationally read music notation from written documents. Thanks to recent advances in computer vision and deep learning, there are successful approaches that can locate the music-notation elements from a given music score image. Once detected, these elements must be related to each other to reconstruct the musical notation itself, in the so-called notation assembly stage. However, despite its relevance in the eventual success of the OMR, this stage has been barely addressed in the literature. This work presents a set of neural approaches to perform this assembly stage. Taking into account the number of possible syntactic relationships in a music score, we give special importance to the efficiency of the process in order to obtain useful models in practice. Our experiments, using the MUSCIMA++ handwritten sheet music dataset, show that the considered approaches are capable of outperforming the existing state of the art in terms of efficiency with limited (or no) performance degradation. We believe that the conclusions of this work provide novel insights into the notation assembly step, while indicating clues on how to approach the previous stages of the OMR and improve the overall performance.",
+    "zenodo_id": 10265253,
+    "dblp_key": null
+  },
+  {
+    "title": "White Box Search Over Audio Synthesizer Parameters",
+    "author": [
+      "Yuting Yang",
+      "Zeyu Jin",
+      "Connelly Barnes",
+      "Adam Finkelstein"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265255",
+    "url": "https://doi.org/10.5281/zenodo.10265255",
+    "ee": "https://zenodo.org/record/10265255/files/000021.pdf",
+    "pages": "190-196",
+    "abstract": "Synthesizer parameter inference searches for a set of patch connections and parameters to generate audio that best matches a given target sound. Such optimization tasks benefit from access to accurate gradients. However, typical audio synths incorporate components with discontinuities \u2013 such as sawtooth or square waveforms, or a categorical search over discrete parameters like a choice among such waveforms \u2013 that thwart conventional automatic differentiation (AD). AD libraries in frameworks like TensorFlow and PyTorch typically ignore discontinuities, providing incorrect gradients at such locations. Thus, SOTA parameter inference methods avoid differentiating the synth directly, and resort to workarounds such as genetic search or neural proxies. Instead, we adapt and extend recent computer graphics methods for differentiable rendering to directly differentiate the synth as a white box program, and thereby optimize its parameters using gradient descent. We evaluate our framework using a generic FM synth with ADSR, noise, and IIR filters, adapting its parameters to match a variety of target audio clips. Our method outperforms baselines in both quantitative and qualitative evaluations.",
+    "zenodo_id": 10265255,
+    "dblp_key": null
+  },
+  {
+    "title": "Decoding Drums, Instrumentals, Vocals, and Mixed Sources in Music Using Human Brain Activity With fMRI",
+    "author": [
+      "Vincent K. M. Cheung",
+      "Lana Okuma",
+      "Kazuhisa Shibata",
+      "Kosetsu Tsukuda",
+      "Masataka Goto",
+      "Shinichi Furuya"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265257",
+    "url": "https://doi.org/10.5281/zenodo.10265257",
+    "ee": "https://zenodo.org/record/10265257/files/000022.pdf",
+    "pages": "197-206",
+    "abstract": "Brain decoding allows the read-out of stimulus and mental content from neural activity, and has been utilised in various neural-driven classification tasks related to the music information retrieval community. However, even the relatively simple task of instrument classification has only been demonstrated for single- or few-note stimuli when decoding from neural data recorded using functional magnetic resonance imaging (fMRI). Here, we show that drums, instrumentals, vocals, and mixed sources of naturalistic musical stimuli can be decoded from single-trial spatial patterns of auditory cortex activation as recorded using fMRI. Comparing classification based on convolutional neural networks (CNN), random forests (RF), and support vector machines (SVM) further revealed similar neural encoding of vocals and mixed sources, despite vocals being most easily identifiable. These results highlight the prominence of vocal information during music perception, and illustrate the potential of using neural representations towards evaluating music source separation performance and informing future algorithm design.",
+    "zenodo_id": 10265257,
+    "dblp_key": null
+  },
+  {
+    "title": "Dual Attention-Based Multi-Scale Feature Fusion Approach for Dynamic Music Emotion Recognition",
+    "author": [
+      "Liyue Zhang",
+      "Xinyu Yang",
+      "Yichi Zhang",
+      "Jing Luo"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265259",
+    "url": "https://doi.org/10.5281/zenodo.10265259",
+    "ee": "https://zenodo.org/record/10265259/files/000023.pdf",
+    "pages": "207-214",
+    "abstract": "Music Emotion Recognition (MER) refers to automatically extracting emotional information from music and predicting its perceived emotions, and it has social and psychological applications. This paper proposes a Dual Attention-based Multi-scale Feature Fusion (DAMFF) method and a newly developed dataset named MER1101 for Dynamic Music Emotion Recognition (DMER). Specifically, multi-scale features are first extracted from the log Mel-spectrogram by multiple parallel convolutional blocks. Then, a Dual Attention Feature Fusion (DAFF) module is utilized to achieve multi-scale context fusion and capture emotion-critical features in both spatial and channel dimensions. Finally, a BiLSTM-based sequence learning model is employed for dynamic music emotion prediction. To enrich existing music emotion datasets, we developed a high-quality dataset, MER1101, which has a balanced emotional distribution, covering over 10 genres, at least four languages, and more than a thousand song snippets. We demonstrate the effectiveness of our proposed DAMFF approach on both the developed MER1101 dataset, as well as on the established DEAM2015 dataset. Compared with other models, our model achieves a higher Consistency Correlation Coefficient (CCC), and has strong predictive power in arousal with comparable results in valence.",
+    "zenodo_id": 10265259,
+    "dblp_key": null
+  },
+  {
+    "title": "Automatic Piano Transcription With Hierarchical Frequency-Time Transformer",
+    "author": [
+      "Keisuke Toyama",
+      "Taketo Akama",
+      "Yukara Ikemiya",
+      "Yuhta Takida",
+      "Wei-Hsiang Liao",
+      "Yuki Mitsufuji"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265261",
+    "url": "https://doi.org/10.5281/zenodo.10265261",
+    "ee": "https://zenodo.org/record/10265261/files/000024.pdf",
+    "pages": "215-222",
+    "abstract": "Taking long-term spectral and temporal dependencies into account is essential for automatic piano transcription.\nThis is especially helpful when determining the precise onset and offset for each note in the polyphonic piano content.\nIn this case, we may rely on the capability of self-attention mechanism in Transformers to capture these long-term dependencies in the frequency and time axes.\nIn this work, we propose hFT-Transformer, which is an automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture.\nThe first hierarchy includes a convolutional block in the time axis, a Transformer encoder in the frequency axis, and a Transformer decoder that converts the dimension in the frequency axis.\nThe output is then fed into the second hierarchy which consists of another Transformer encoder in the time axis.\nWe evaluated our method with the widely used MAPS and MAESTRO v3.0.0 datasets, and it demonstrated state-of-the-art performance on all the F1-scores of the metrics among Frame, Note, Note with Offset, and Note with Offset and Velocity estimations.",
+    "zenodo_id": 10265261,
+    "dblp_key": null
+  },
+  {
+    "title": "High-Resolution Violin Transcription Using Weak Labels",
+    "author": [
+      "Nazif Can Tamer",
+      "Yigitcan \u00d6zer",
+      "Meinard M\u00fcller",
+      "Xavier Serra"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265263",
+    "url": "https://doi.org/10.5281/zenodo.10265263",
+    "ee": "https://zenodo.org/record/10265263/files/000025.pdf",
+    "pages": "223-230",
+    "abstract": "A descriptive transcription of a violin performance requires detecting not only the notes but also the fine-grained pitch variations, such as vibrato. Most existing deep learning methods for music transcription do not capture these variations and often need frame-level annotations, which are scarce for the violin. In this paper, we propose a novel method for high-resolution violin transcription that can leverage piece-level weak labels for training. Our conformer-based model works on the raw audio waveform and transcribes violin notes and their corresponding pitch deviations with 5.8 ms frame resolution and 10-cent frequency resolution. We demonstrate that our method (1) outperforms generic systems in the proxy tasks of violin transcription and pitch estimation, and (2) can automatically generate new training labels by aligning its feature representations with unseen scores. We share our model along with 34 hours of score-aligned solo violin performance dataset, notably including the 24 Paganini Caprices.",
+    "zenodo_id": 10265263,
+    "dblp_key": null
+  },
+  {
+    "title": "Polyffusion: A Diffusion Model for Polyphonic Score Generation With Internal and External Controls",
+    "author": [
+      "Lejun Min",
+      "Junyan Jiang",
+      "Gus Xia",
+      "Jingwei Zhao"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265265",
+    "url": "https://doi.org/10.5281/zenodo.10265265",
+    "ee": "https://zenodo.org/record/10265265/files/000026.pdf",
+    "pages": "231-238",
+    "abstract": "We propose Polyffusion, a diffusion model that generates polyphonic music scores by regarding music as image-like piano roll representations. The model is capable of controllable music generation with two paradigms: internal control and external control. Internal control refers to the process in which users pre-define a part of the music and then let the model infill the rest, similar to the task of masked music generation (or music inpainting). External control conditions the model with external yet related information, such as chord, texture, or other features, via the cross-attention mechanism. We show that by using internal and external controls, Polyffusion unifies a wide range of music creation tasks, including melody generation given accompaniment, accompaniment generation given melody, arbitrary music segment inpainting, and music arrangement given chords or textures. Experimental results show that our model significantly outperforms existing transformer and sampling-based baselines, and using pre-trained disentangled representations as external conditions yields more effective controls.",
+    "zenodo_id": 10265265,
+    "dblp_key": null
+  },
+  {
+    "title": "The Coordinated Corpus of Popular Musics (CoCoPops): A Meta-Corpus of Melodic and Harmonic Transcriptions",
+    "author": [
+      "Claire Arthur",
+      "Nathaniel Condit-Schultz"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265267",
+    "url": "https://doi.org/10.5281/zenodo.10265267",
+    "ee": "https://zenodo.org/record/10265267/files/000027.pdf",
+    "pages": "239-246",
+    "abstract": "This paper introduces a new corpus, CoCoPops: The Coordinated Corpus of Popular Musics. The corpus can be considered a \u201cmeta corpus\u201d in that it both extends and combines two existing corpora\u2014the widely-used McGill Bill-\nboard corpus the and RS200 corpus. Both the McGill Billboard corpus and the RS200 contain expert harmonic annotations using different encoding schemes and each\nrepresent harmony in fundamentally different ways: Billboard using a root-quality representation and the RS200 using Roman numerals. By combining these corpora\ninto a unified format, using the well-known **kern and**harm representations, we aim to facilitate research in computational musicology, which is frequently burdened\nby corpora spread across multiple encoding formats. The format will also facilitate cross-corpus comparison with the large body of existing works in **kern format. For a\n100-song subset of the CoCoPops-Billboard collection, we also provide participant ratings of continuous valence and arousal ratings, along with the RMS (Root Mean Square) signal level and associated timestamps. In this paper we describe the corpus and the procedures used to create it.",
+    "zenodo_id": 10265267,
+    "dblp_key": null
+  },
+  {
+    "title": "Towards Computational Music Analysis for Music Therapy",
+    "author": [
+      "Anja Volk",
+      "Tinka Veldhuis",
+      "Katrien Foubert",
+      "Jos De Backer"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265269",
+    "url": "https://doi.org/10.5281/zenodo.10265269",
+    "ee": "https://zenodo.org/record/10265269/files/000028.pdf",
+    "pages": "247-256",
+    "abstract": "The research field of music therapy has witnessed a rising interest in recent years to develop and employ computational methods to support therapists in their daily practice. While Music Information Retrieval (MIR) research has identified the area of health and well-being as a promising application field for MIR methods to support health professionals, collaborations with experts in this field are as of today sparse. This paper provides an overview of potential applications of computational music analysis as developed in MIR for the field of active music therapy. We elaborate on the music therapy method of improvisation, with a particular focus on introducing therapeutic concepts that relate to musical structures. We identify application scenarios for analysing musical structures in improvisations, introduce existing analysis methods of therapists, and discuss the potential of MIR methods to support these analyses. Upon identifying a current gap between high-level concepts of therapists and low-level features from existing computational methods, the paper concludes further steps towards developing computational approaches to music analysis for music therapy in an interdisciplinary collaboration.",
+    "zenodo_id": 10265269,
+    "dblp_key": null
+  },
+  {
+    "title": "Timbre Transfer Using Image-to-Image Denoising Diffusion Implicit Models",
+    "author": [
+      "Luca Comanducci",
+      "Fabio Antonacci",
+      "Augusto Sarti"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265271",
+    "url": "https://doi.org/10.5281/zenodo.10265271",
+    "ee": "https://zenodo.org/record/10265271/files/000029.pdf",
+    "pages": "257-263",
+    "abstract": "Timbre transfer techniques aim at converting the sound of a musical piece generated by one instrument into the same one as if it was played by another instrument, while maintaining as much as possible the content in terms of musical characteristics such as melody and dynamics. Following their recent breakthroughs in deep learning-based generation, we apply Denoising Diffusion Models (DDMs) to perform timbre transfer. Specifically, we apply the recently proposed Denoising Diffusion Implicit Models (DDIMs) that enable to accelerate the sampling procedure. \nInspired by the recent application of DDMs to image translation problems we formulate the timbre transfer task similarly, by first converting the audio tracks into log mel spectrograms and by conditioning the generation of the desired timbre spectrogram through the input timbre spectrogram.  \nWe perform both one-to-one and many-to-many timbre transfer, by converting audio waveforms containing only single instruments and multiple instruments, respectively.\nWe compare the proposed technique with existing state-of-the-art methods both through listening tests and objective measures in order to demonstrate the effectiveness of the proposed model.",
+    "zenodo_id": 10265271,
+    "dblp_key": null
+  },
+  {
+    "title": "Correlation of EEG Responses Reflects Structural Similarity of Choruses in Popular Music",
+    "author": [
+      "Neha Rajagopalan",
+      "Blair Kaneshiro"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265273",
+    "url": "https://doi.org/10.5281/zenodo.10265273",
+    "ee": "https://zenodo.org/record/10265273/files/000030.pdf",
+    "pages": "264-271",
+    "abstract": "Music structure analysis is a core topic in Music Information Retrieval and could be advanced through the inclusion of new data modalities. In this study we consider neural correlates of music structure processing using popular music - specifically choruses of Bollywood songs - and the {NMED-H} electroencephalographic (EEG) dataset. Motivated by recent findings that listeners' EEG responses correlate when hearing a shared music stimulus, we investigate whether responses correlate not only within single choruses but across pairs of chorus instances as well. We find statistically significant correlations within and across several chorus instances, suggesting that brain responses synchronize across structurally matched music segments even if they are not contextually or acoustically identical. Correlations were only occasionally higher within than across choruses. Our findings advance the state of the art of naturalistic music neuroscience, while also highlighting a novel approach for further studies of music structure analysis and audio understanding more broadly.",
+    "zenodo_id": 10265273,
+    "dblp_key": null
+  },
+  {
+    "title": "Chromatic Chords in Theory and Practice",
+    "author": [
+      "Mark R. H. Gotham"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265275",
+    "url": "https://doi.org/10.5281/zenodo.10265275",
+    "ee": "https://zenodo.org/record/10265275/files/000031.pdf",
+    "pages": "272-278",
+    "abstract": "\u201cChromatic harmony\u201d is seen as a fundamental part of (extended) tonal music in the Western classical tradition (c.1700\u20131900). It routinely features in core curricula. Yet even in this globalised and data-driven age, 1) there are significant gaps between how different national \u201cschools\u201d identify important chords and progressions, label them, and shape the corresponding curricula; 2) even many common terms lack robust definition; and 3) empirical evidence rarely features, even in in discussions about \u201ctypical\u201d, \u201crepresentative\u201d practice. This paper addresses those three considerations by: 1) comparing English- and German-speaking traditions as an example of this divergence; 2) proposing a framework for defining common terms where that is lacking; and 3) surveying the actual usage of these chromatic chord categories using a computational corpus study of human harmonic analyses.",
+    "zenodo_id": 10265275,
+    "dblp_key": null
+  },
+  {
+    "title": "BPS-Motif: A Dataset for Repeated Pattern Discovery of Polyphonic Symbolic Music",
+    "author": [
+      "Yo-Wei Hsiao",
+      "Tzu-Yun Hung",
+      "Tsung-Ping Chen",
+      "Li Su"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265277",
+    "url": "https://doi.org/10.5281/zenodo.10265277",
+    "ee": "https://zenodo.org/record/10265277/files/000032.pdf",
+    "pages": "281-288",
+    "abstract": "Intra-opus repeated pattern discovery in polyphonic symbolic music data has  challenges in both algorithm design and data annotation. To solve these challenges, we propose BPS-motif, a new symbolic music dataset containing the note-level annotation of motives and occurrences in Beethoven's piano sonatas. The size of the proposed dataset is larger than previous symbolic datasets for repeated pattern discovery. We report the process of dataset annotation, specifically a peer review process and discussion phase to improve the annotation quality. Finally, we propose a motif discovery method which is shown outperforming baseline methods on repeated pattern discovery.",
+    "zenodo_id": 10265277,
+    "dblp_key": null
+  },
+  {
+    "title": "Weakly Supervised Multi-Pitch Estimation Using Cross-Version Alignment",
+    "author": [
+      "Michael Krause",
+      "Sebastian Strahl",
+      "Meinard M\u00fcller"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265279",
+    "url": "https://doi.org/10.5281/zenodo.10265279",
+    "ee": "https://zenodo.org/record/10265279/files/000033.pdf",
+    "pages": "289-296",
+    "abstract": "Multi-pitch estimation (MPE), the task of detecting active pitches within a polyphonic music recording, has garnered significant research interest in recent years. Most state-of-the-art approaches for MPE are based on deep networks trained using pitch annotations as targets. The success of current methods is therefore limited by the difficulty of obtaining large amounts of accurate annotations.\nIn this paper, we propose a novel technique for learning MPE without any pitch annotations at all. Our approach exploits multiple recorded versions of a musical piece as surrogate targets. Given one version of a piece as input, we train a network to minimize the distance between its output and time-frequency representations of other versions of that piece. \nSince all versions are based on the same musical score, we hypothesize that the learned output corresponds to pitch estimates. To further ensure that this hypothesis holds, we incorporate domain knowledge about overtones and noise levels into the network.\nOverall, our method replaces strong pitch annotations with weaker and easier-to-obtain cross-version targets.\nIn our experiments, we show that our proposed approach yields viable multi-pitch estimates and outperforms two baselines.",
+    "zenodo_id": 10265279,
+    "dblp_key": null
+  },
+  {
+    "title": "The Batik-Plays-Mozart Corpus: Linking Performance to Score to Musicological Annotations",
+    "author": [
+      "Patricia Hu",
+      "Gerhard Widmer"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265283",
+    "url": "https://doi.org/10.5281/zenodo.10265283",
+    "ee": "https://zenodo.org/record/10265283/files/000034.pdf",
+    "pages": "297-303",
+    "abstract": "We present the Batik plays Mozart Corpus, a piano performance dataset\ncombining professional Mozart piano sonata performances with expert-labelled scores at a note-precise level. The performances originate from a recording by Viennese pianist Roland Batik on a computer-monitored B\u00f6sendorfer grand piano, and are available both as MIDI files and audio recordings. They have been precisely aligned, note by note, with a current standard edition of the corresponding scores (the New Mozart Edition) in such a way that they can\nfurther be connected to the musicological annotations (harmony, cadences,\nphrases) on these scores that were recently published by [1].\n\nThe result is a high-quality, high-precision corpus mapping scores and musical\nstructure annotations to precise note-level professional performance information.\nAs the first of its kind, it can serve as a valuable resource for studying various facets of expressive performance and their relationship with structural aspects.\n\nIn the paper, we outline the curation process of the alignment and conduct two\nexploratory experiments to demonstrate its usefulness in analyzing expressive performance.\n\n[1] Hentschel, J., Neuwirth, M., & Rohrmeier, M. (2021). The Annotated Mozart Sonatas: Score, Harmony, and Cadence. Transactions of the International Society for Music Information Retrieval (TISMIR), Vol. 4, No. 1, pp. 67-80.",
+    "zenodo_id": 10265283,
+    "dblp_key": null
+  },
+  {
+    "title": "Mono-to-Stereo Through Parametric Stereo Generation",
+    "author": [
+      "Joan Serr\u00e0",
+      "Davide Scaini",
+      "Santiago Pascual",
+      "Daniel Arteaga",
+      "Jordi Pons",
+      "Jeroen Breebaart",
+      "Giulio Cengarle"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265285",
+    "url": "https://doi.org/10.5281/zenodo.10265285",
+    "ee": "https://zenodo.org/record/10265285/files/000035.pdf",
+    "pages": "304-310",
+    "abstract": "Generating a stereophonic presentation from a monophonic audio signal is a challenging open task, especially if the goal is to obtain a realistic spatial imaging with a specific panning of sound elements. In this work, we propose to convert mono to stereo by means of predicting parametric stereo (PS) parameters using both nearest neighbor and deep network approaches. In combination with PS, we also propose to model the task with generative approaches, allowing to synthesize multiple and equally-plausible stereo renditions from the same mono signal. To achieve this, we consider both autoregressive and masked token modelling approaches. We provide evidence that the proposed PS-based models outperform a competitive classical decorrelation baseline and that, within a PS prediction framework, modern generative models outshine equivalent non-generative counterparts. Overall, our work positions both PS and generative modelling as strong and appealing methodologies for mono-to-stereo upmixing. A discussion of the limitations of these approaches is also provided.",
+    "zenodo_id": 10265285,
+    "dblp_key": null
+  },
+  {
+    "title": "From West to East: Who Can Understand the Music of the Others Better?",
+    "author": [
+      "Charilaos Papaioannou",
+      "Emmanouil Benetos",
+      "Alexandros Potamianos"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265287",
+    "url": "https://doi.org/10.5281/zenodo.10265287",
+    "ee": "https://zenodo.org/record/10265287/files/000036.pdf",
+    "pages": "311-318",
+    "abstract": "Recent developments in MIR have led to several benchmark deep learning models whose embeddings can be used for a variety of downstream tasks. At the same time, the vast majority of these models have been trained on Western pop/rock music and related styles. This leads to research questions on whether these models can be used to learn representations for different music cultures and styles, or whether we can build similar music audio embedding models trained on data from different cultures or styles. To that end, we leverage transfer learning methods to derive insights about the similarities between the different music cultures to which the data belongs to. We use two Western music datasets, two traditional/folk datasets coming from eastern Mediterranean cultures, and two datasets belonging to Indian art music. Three deep audio embedding models are trained and transferred across domains, including two CNN-based and a Transformer-based architecture, to perform auto-tagging for each target domain dataset. Experimental results show that competitive performance is achieved in all domains via transfer learning, while the best source dataset varies for each music culture. The implementation and the trained models are both provided in a public repository.",
+    "zenodo_id": 10265287,
+    "dblp_key": null
+  },
+  {
+    "title": "On the Performance of Optical Music Recognition in the Absence of Specific Training Data",
+    "author": [
+      "Juan C. Martinez-Sevilla",
+      "Adri\u00e1n Rosell\u00f3",
+      "David Rizo",
+      "Jorge Calvo-Zaragoza"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265289",
+    "url": "https://doi.org/10.5281/zenodo.10265289",
+    "ee": "https://zenodo.org/record/10265289/files/000037.pdf",
+    "pages": "319-326",
+    "abstract": "Optical Music Recognition (OMR) has become a popular technology to retrieve information present in musical scores in conjunction with the increasing improvement of Deep Learning techniques, which represent the state-of-the-art in the field. However, its effectiveness is limited to cases where the target collection is similar in musical context and graphical appearance to the available training examples. To address this limitation, researchers have resorted to labeling examples for specific neural models, which is time-consuming and raises questions about usability. In this study, we propose a holistic and comprehensive study for dealing with new music collections in OMR, including extensive experiments to identify key aspects to have in mind that lead to better performance ratios. We resort to collections written in Mensural notation as specific use case, comprising 5 different corpora of training domains and up to 15 test collections. Our experiments report many interesting insights that will be important to create a manual of best practices when dealing with new collections in OMR systems.",
+    "zenodo_id": 10265289,
+    "dblp_key": null
+  },
+  {
+    "title": "Composer's Assistant: An Interactive Transformer for Multi-Track MIDI Infilling",
+    "author": [
+      "Martin E. Malandro"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265291",
+    "url": "https://doi.org/10.5281/zenodo.10265291",
+    "ee": "https://zenodo.org/record/10265291/files/000038.pdf",
+    "pages": "327-334",
+    "abstract": "We introduce Composer\u2019s Assistant, a system for interactive human-computer composition in the REAPER digital audio workstation. We consider the task of multi-track MIDI infilling when arbitrary track-measures have been deleted from a contiguous slice of measures from a MIDI file, and we train a T5-like model to accomplish this task. Composer's Assistant consists of this model together with scripts that enable interaction with the model in REAPER. We conduct objective and subjective tests of our model. We release our complete system, consisting of source code, pretrained models, and REAPER scripts. Our models were trained only on permissively-licensed MIDI files.",
+    "zenodo_id": 10265291,
+    "dblp_key": null
+  },
+  {
+    "title": "The FAV Corpus: An Audio Dataset of Favorite Pieces and Excerpts, With Formal Analyses and Music Theory Descriptors",
+    "author": [
+      "Ethan Lustig",
+      "David Temperley"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265293",
+    "url": "https://doi.org/10.5281/zenodo.10265293",
+    "ee": "https://zenodo.org/record/10265293/files/000039.pdf",
+    "pages": "335-342",
+    "abstract": "We introduce a novel audio corpus, the FAV Corpus, of over 400 favorite musical excerpts and pieces, formal analyses, and free-response comments. In a survey, 140 American university students (mostly music majors) were asked to provide three of their favorite 15-second musical excerpts, from any genre or time period. For each selection, respondents were asked: \u201cWhy do you love the excerpt? Try to be as specific and detailed as possible (music theory terms are encouraged but not required).\u201d Classical selections were dominated by a very small number of composers, while the pop and jazz artists were diverse. A thematic coding of the respondents\u2019 comments found that the most common themes were melody (34.2% of comments), harmony (27.2%), and sonic factors: texture (27.6%), instrumentation (24.3%), and timbre (12.5%). (Rhythm (19.5%) and meter (4.6%) were less present in the comments.) The comments cite simplicity three times more than complexity, and energy gain 14 times more than energy decrease, suggesting that people's favorite excerpts involve simple moments of energy gain or \"build-up\". The complete FAV Corpus is publicly available online at EthanLustig.com/FavCorpus. We will discuss future possibilities for the corpus, including potential directions in the spaces of machine learning and music recommendation.",
+    "zenodo_id": 10265293,
+    "dblp_key": null
+  },
+  {
+    "title": "LyricWhiz: Robust Multilingual Zero-Shot Lyrics Transcription by Whispering to ChatGPT",
+    "author": [
+      "Le Zhuo",
+      "Ruibin Yuan",
+      "Jiahao Pan",
+      "Yinghao Ma",
+      "Yizhi Li",
+      "Ge Zhang",
+      "Si Liu",
+      "Roger B. Dannenberg",
+      "Jie Fu",
+      "Chenghua Lin",
+      "Emmanouil Benetos",
+      "Wenhu Chen",
+      "Wei Xue",
+      "Yike Guo"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265295",
+    "url": "https://doi.org/10.5281/zenodo.10265295",
+    "ee": "https://zenodo.org/record/10265295/files/000040.pdf",
+    "pages": "343-351",
+    "abstract": "We introduce LyricWhiz, a robust, multilingual, and zero-shot automatic lyrics transcription method achieving state-of-the-art performance on various lyrics transcription datasets, even in challenging genres such as rock and metal. Our novel, training-free approach utilizes Whisper, a weakly supervised robust speech recognition model, and GPT-4, today\u2019s most performant chat-based large language model. In the proposed method, Whisper functions as the \u201cear\u201d by transcribing the audio, while GPT-4 serves as the \u201cbrain,\u201d acting as an annotator with a strong performance for contextualized output selection and correction. Our experiments show that LyricWhiz significantly reduces Word Error Rate compared to existing methods in English and can effectively transcribe lyrics across multiple languages. Furthermore, we use LyricWhiz to create the first publicly available, large-scale, multilingual lyrics transcription dataset with a CC-BY-NC-SA copy-right license, based on MTG-Jamendo, and offer a human- annotated subset for noise level estimation and evaluation. We anticipate that our proposed method and dataset will advance the development of multilingual lyrics transcription, a challenging and emerging task.",
+    "zenodo_id": 10265295,
+    "dblp_key": null
+  },
+  {
+    "title": "Sounds Out of Pl\u00e4ce? Score-Independent Detection of Conspicuous Mistakes in Piano Performances",
+    "author": [
+      "Alia Morsi",
+      "Kana Tatsumi",
+      "Akira Maezawa",
+      "Takuya Fujishima",
+      "Xavier Serra"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265297",
+    "url": "https://doi.org/10.5281/zenodo.10265297",
+    "ee": "https://zenodo.org/record/10265297/files/000041.pdf",
+    "pages": "352-358",
+    "abstract": "In piano performance, some mistakes stand out to listeners, whereas others may go unnoticed. Former research concluded that the salience of mistakes depended on factors including their contextual appropriateness and a listener\u2019s degree of familiarity to what is being performed. A conspicuous error is considered to be an area where there is something obviously wrong with the performance, which a listener can detect regardless of their degree of knowledge of what is being performed. Analogously, this paper attempts to build a score-independent conspicuous error detector for standard piano repertoire of beginner to intermediate students. We gather three qualitatively different piano playing MIDI data: (1) 103 sight-reading sessions for beginning and intermediate adult pianists with formal music training, (2) 245 performances by presumably late-beginner to early-advanced pianists on a digital piano, and (3) 50 etude performances by an advanced pianist. The data was annotated at the regions considered to contain conspicuous mistakes. Then, we use a Temporal Convolutional Network to detect the sites of such mistakes from the piano roll. We investigate the use of two pre-training methods to overcome data scarcity: (1) synthetic data with procedurally-generated mistakes, and (2) training a part of the model as a piano roll auto-encoder. Experimental evaluation shows that the TCN performs at an F-measure of 0.78 without pretraining for sight-reading data, but the proposed pretraining steps improve the F-measure on performance and etude data, approaching the agreement between human raters on conspicuous error labels. Importantly, we report on the lessons learned from this pilot study, and what should be addressed to continue this research direction.",
+    "zenodo_id": 10265297,
+    "dblp_key": null
+  },
+  {
+    "title": "VampNet: Music Generation via Masked Acoustic Token Modeling",
+    "author": [
+      "Hugo Flores Garc\u00eda",
+      "Prem Seetharaman",
+      "Rithesh Kumar",
+      "Bryan Pardo"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265299",
+    "url": "https://doi.org/10.5281/zenodo.10265299",
+    "ee": "https://zenodo.org/record/10265299/files/000042.pdf",
+    "pages": "359-366",
+    "abstract": "We introduce VampNet, a masked acoustic token modeling approach to music synthesis, compression, inpainting, and variation. \nWe use a variable masking schedule during training which allows us to sample coherent music from the model by applying a variety of masking approaches (called prompts) during inference. VampNet is non-autoregressive, leveraging a bidirectional transformer architecture that attends to all tokens in a forward pass. With just 36 sampling passes, VampNet can generate coherent high-fidelity musical waveforms. We show that by prompting VampNet in various ways, we can apply it to tasks like music compression, inpainting, outpainting, continuation, and looping with variation (vamping). Appropriately prompted, VampNet is capable of maintaining style, genre, instrumentation, and other high-level aspects of the music. This flexible prompting capability makes VampNet a powerful music co-creation tool. Code and audio samples are available online.",
+    "zenodo_id": 10265299,
+    "dblp_key": null
+  },
+  {
+    "title": "Expert and Novice Evaluations of Piano Performances: Criteria for Computer-Aided Feedback",
+    "author": [
+      "Yucong Jiang"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265301",
+    "url": "https://doi.org/10.5281/zenodo.10265301",
+    "ee": "https://zenodo.org/record/10265301/files/000043.pdf",
+    "pages": "367-374",
+    "abstract": "Learning an instrument can be rewarding, but is unavoidably a huge undertaking. Receiving constructive feedback on one\u2019s playing is crucial for improvement. However, personal feedback from an expert instructor is seldom available on demand. The goal motivating this project is to build software that will provide comparably useful feedback to beginners, in order to supplement feedback from human instructors. To lay the groundwork for that, in this paper we investigate performance assessment criteria from both quantitative and qualitative perspectives. We gathered 83 piano performances from 21 players. Each recording was evaluated by both expert piano instructors and novice players. This dataset is unique in that the novice evaluators are also players, and that both quantitative and qualitative evaluations are collected. Our analysis of the evaluations indicates that the kind of specific, concrete piano techniques that are most elusive to novice evaluators are precisely the kind of characteristics that can be detected, measured, and visualized for learners by a well-designed software tool.",
+    "zenodo_id": 10265301,
+    "dblp_key": null
+  },
+  {
+    "title": "Contrastive Learning for Cross-Modal Artist Retrieval",
+    "author": [
+      "Andres Ferraro",
+      "Jaehun Kim",
+      "Sergio Oramas",
+      "Andreas Ehmann",
+      "Fabien Gouyon"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265303",
+    "url": "https://doi.org/10.5281/zenodo.10265303",
+    "ee": "https://zenodo.org/record/10265303/files/000044.pdf",
+    "pages": "375-382",
+    "abstract": "Music retrieval and recommendation applications often rely on content features encoded as embeddings, which provide vector representations of items in a music dataset. Numerous complementary embeddings can be derived from processing items originally represented in several modalities, e.g., audio signals, user interaction data, or editorial data. However, data of any given modality might not be available for all items in any music dataset. In this work, we propose a method based on contrastive learning to combine embeddings from multiple modalities and explore the impact of the presence or absence of embeddings from diverse modalities in an artist similarity task. Experiments on two datasets suggest that our contrastive method outperforms single-modality embeddings and baseline algorithms for combining modalities, both in terms of artist retrieval accuracy and coverage. Improvements with respect to other methods are particularly significant for less popular query artists. We demonstrate our method successfully combines complementary information from diverse modalities, and is more robust to missing modality data (i.e., it better handles the retrieval of artists with different modality embeddings than the query artist\u2019s).",
+    "zenodo_id": 10265303,
+    "dblp_key": null
+  },
+  {
+    "title": "Repetition-Structure Inference With Formal Prototypes",
+    "author": [
+      "Christoph Finkensiep",
+      "Matthieu Haeberle",
+      "Friedrich Eisenbrand",
+      "Markus Neuwirth",
+      "Martin Rohrmeier"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265305",
+    "url": "https://doi.org/10.5281/zenodo.10265305",
+    "ee": "https://zenodo.org/record/10265305/files/000045.pdf",
+    "pages": "383-390",
+    "abstract": "The concept of form in music encompasses a wide range of musical aspects, such as phrases and (hierarchical) segmentation, formal functions, cadences and voice-leading schemata, form templates, and repetition structure. In an effort towards a unified model of form, this paper proposes an integration of repetition structure\n  (i.e., which segments of a piece occur several times) and formal templates (such as AABA). While repetition structure can be modeled using context-free grammars,\n  most prior approaches allow for arbitrary grammar rules. Constraining the structure of the inferred rules to conform to a small set of templates (meta-rules) not only reduces the space of possible rules that need to be considered but also ensures that the resulting repetition grammar remains interpretable in the context of musical form.\n  The resulting formalism can be extended to cases of varied repetition and thus constitutes a building block for a larger model of form.",
+    "zenodo_id": 10265305,
+    "dblp_key": null
+  },
+  {
+    "title": "Algorithmic Harmonization of Tonal Melodies Using Weighted Pitch Context Vectors",
+    "author": [
+      "Peter van Kranenburg",
+      "Eoin J. Kearns"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265307",
+    "url": "https://doi.org/10.5281/zenodo.10265307",
+    "ee": "https://zenodo.org/record/10265307/files/000046.pdf",
+    "pages": "391-397",
+    "abstract": "Most melodies from the Western common practice period have a harmonic background, i.e., a succession of chords that fit the melody. In this paper we provide a novel approach to infer this harmonic background from the score notation of a melody. We first construct a pitch context vector for each note in the melody. This vector summarises the pitches that are in the preceding and following contexts of the note. Next, we use these pitch context vectors to generate a list of candidate chords for each note. The candidate chords fit the pitch context of a given note each with a computed strength. Finally, we find an optimal path through the chord candidates, employing a score function for the fitness of a given candidate chord. The algorithm chooses one chord for each note, optimizing the total score. A set of heuristics is incorporated in the score function. The system is heavily parameterised, extremely flexible, and does not need training. This creates a framework to experiment with harmonization of melodies. The output is evaluated by an expert survey, which yields convincing and positive results.",
+    "zenodo_id": 10265307,
+    "dblp_key": null
+  },
+  {
+    "title": "Text-to-Lyrics Generation With Image-Based Semantics and Reduced Risk of Plagiarism",
+    "author": [
+      "Kento Watanabe",
+      "Masataka Goto"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265309",
+    "url": "https://doi.org/10.5281/zenodo.10265309",
+    "ee": "https://zenodo.org/record/10265309/files/000047.pdf",
+    "pages": "398-406",
+    "abstract": "This paper proposes a text-to-lyrics generation method, aiming to provide lyric writing support by suggesting the generated lyrics to users who struggle to find the right words to convey their message. Previous studies on lyrics generation have focused on generating lyrics based on semantic constraints such as specific keywords, lyric style, and topics. However, these methods had limitations because users could not freely input their intentions as text. Even if such intentions can be given as input text, the lyrics generated from the input tend to contain similar wording, making it difficult to inspire the user. Our method is therefore developed to generate lyrics that (1) convey a message similar to the input text and (2) contain wording different from the input text. A straightforward approach of training a text-to-lyrics encoder-decoder is not feasible since there is no text-lyric paired data for this purpose. To overcome this issue, we divide the text-to-lyrics generation process into a two-step pipeline, eliminating the need for text-lyric paired data. (a) First, we use an existing text-to-image generation technique as a text analyzer to obtain an image that captures the meaning of the input text, ignoring the wording. (b) Next, we use our proposed image-to-lyrics encoder-decoder (I2L) to generate lyrics from the obtained image while preserving its meaning. The training of this I2L model only requires pairs of \"lyrics\" and \"images generated from lyrics\", which are readily prepared. In addition, we propose for the first time a lyrics generation method that reduces the risk of plagiarism by prohibiting the generation of uncommon phrases in the training data. Experimental results show that the proposed method can generate lyrics with different phrasing while conveying a message similar to the input text.",
+    "zenodo_id": 10265309,
+    "dblp_key": null
+  },
+  {
+    "title": "LP-MusicCaps: LLM-Based Pseudo Music Captioning",
+    "author": [
+      "SeungHeon Doh",
+      "Keunwoo Choi",
+      "Jongpil Lee",
+      "Juhan Nam"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265311",
+    "url": "https://doi.org/10.5281/zenodo.10265311",
+    "ee": "https://zenodo.org/record/10265311/files/000048.pdf",
+    "pages": "409-416",
+    "abstract": "Automatic music captioning, which generates natural language descriptions for given music tracks, holds significant potential for enhancing the understanding and organization of large volumes of musical data. Despite its importance, researchers face challenges due to the costly and time-consuming collection process of existing music-language datasets, which are limited in size. To address this data scarcity issue, we propose the use of large language models (LLMs) to artificially generate the description sentences from large-scale tag datasets. This results in approximately 2.2M captions paired with 0.5M audio clips. We term it Large Language Model based Pseudo music caption dataset, shortly, LP-MusicCaps. We conduct a systemic evaluation of the large-scale music captioning dataset with various quantitative evaluation metrics used in the field of natural language processing as well as human evaluation. In addition, we trained a transformer-based music captioning model with the dataset and evaluated it under zero-shot and transfer-learning settings. The results demonstrate that our proposed approach outperforms the supervised baseline model.",
+    "zenodo_id": 10265311,
+    "dblp_key": null
+  },
+  {
+    "title": "A Repetition-Based Triplet Mining Approach for Music Segmentation",
+    "author": [
+      "Morgan Buisson",
+      "Brian McFee",
+      "Slim Essid",
+      "Helene C. Crayencour"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265313",
+    "url": "https://doi.org/10.5281/zenodo.10265313",
+    "ee": "https://zenodo.org/record/10265313/files/000049.pdf",
+    "pages": "417-424",
+    "abstract": "Contrastive learning has recently appeared as a well-suited method to find representations of music audio signals that are suitable for structural segmentation. However, most existing unsupervised training strategies omit the notion of repetition and therefore fail at encompassing this essential aspect of music structure. This work introduces a triplet mining method which explicitly considers repeating sequences occurring inside a music track by leveraging common audio descriptors. We study its impact on the learned representations through downstream music segmentation. Because musical repetitions can be of different natures, we give further insight on the role of the audio descriptors employed at the triplet mining stage as well as the trade-off existing between the quality of the triplets mined and the quantity of unlabelled data used for training. We observe that our method requires less non-annotated data while remaining competitive against other unsupervised methods trained on a larger corpus.",
+    "zenodo_id": 10265313,
+    "dblp_key": null
+  },
+  {
+    "title": "Predicting Music Hierarchies With a Graph-Based Neural Decoder",
+    "author": [
+      "Francesco Foscarin",
+      "Daniel Harasim",
+      "Gerhard Widmer"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265315",
+    "url": "https://doi.org/10.5281/zenodo.10265315",
+    "ee": "https://zenodo.org/record/10265315/files/000050.pdf",
+    "pages": "425-432",
+    "abstract": "This paper describes a data-driven framework to parse musical sequences into dependency trees, which are hierarchical structures used in music cognition research and music analysis.\u00a0The parsing involves two steps. First, the input sequence is passed through a transformer encoder to enrich it with contextual information.\u00a0Then, a classifier filters the graph of all possible dependency arcs to produce the dependency tree.\nOne major benefit of this system is that it can be easily integrated into modern deep-learning pipelines. Moreover, since it does not rely on any particular symbolic grammar, it can consider multiple musical features simultaneously, make use of sequential context information, and produce partial results for noisy inputs.\u00a0We test our approach on two datasets of musical trees -- time-span trees of monophonic note sequences and harmonic trees of jazz chord sequences -- and show that our approach outperforms previous methods.",
+    "zenodo_id": 10265315,
+    "dblp_key": null
+  },
+  {
+    "title": "Stabilizing Training With Soft Dynamic Time Warping: A Case Study for Pitch Class Estimation With Weakly Aligned Targets",
+    "author": [
+      "Johannes Zeitler",
+      "Simon Deniffel",
+      "Michael Krause",
+      "Meinard M\u00fcller"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265317",
+    "url": "https://doi.org/10.5281/zenodo.10265317",
+    "ee": "https://zenodo.org/record/10265317/files/000051.pdf",
+    "pages": "433-439",
+    "abstract": "Soft dynamic time warping (SDTW) is a differentiable loss function that allows for training neural networks from weakly aligned data. Typically, SDTW is used to iteratively compute and refine soft alignments that compensate for temporal deviations between the training data and its weakly annotated targets. One major problem is that a mismatch between the estimated soft alignments and the reference alignments in the early training stage leads to incorrect parameter updates, making the overall training procedure unstable. In this paper, we investigate such stability issues by considering the task of pitch class estimation from music recordings as an illustrative case study. In particular, we introduce and discuss three conceptually different strategies (a hyperparameter scheduling, a diagonal prior, and a sequence unfolding strategy) with the objective of stabilizing intermediate soft alignment results. Finally, we report on experiments that demonstrate the effectiveness of the strategies and discuss efficiency and implementation issues.",
+    "zenodo_id": 10265317,
+    "dblp_key": null
+  },
+  {
+    "title": "Finding Tori: Self-Supervised Learning for Analyzing Korean Folk Song",
+    "author": [
+      "Danbinaerin Han",
+      "Rafael Caro Repetto",
+      "Dasaem Jeong"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265319",
+    "url": "https://doi.org/10.5281/zenodo.10265319",
+    "ee": "https://zenodo.org/record/10265319/files/000052.pdf",
+    "pages": "440-447",
+    "abstract": "In this paper, we introduce a computational analysis of the field recording dataset of approximately 700 hours of Korean folk songs, which were recorded around 1980-90s. Because most of the songs were sung by non-expert musicians without accompaniment, the dataset provides several challenges. To address this challenge, we utilized self-supervised learning with convolutional neural network based on pitch contour, then analyzed how the musical concept of tori, a classification system defined by a specific scale, ornamental notes, and an idiomatic melodic contour, is captured by the model. The experimental result shows that our approach can better capture the characteristics of tori compared to traditional pitch histograms. Using our approaches, we have examined how musical discussions proposed in existing academia manifest in the actual field recordings of Korean folk songs.",
+    "zenodo_id": 10265319,
+    "dblp_key": null
+  },
+  {
+    "title": "Singer Identity Representation Learning Using Self-Supervised Techniques",
+    "author": [
+      "Bernardo Torres",
+      "Stefan Lattner",
+      "Ga\u00ebl Richard"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265323",
+    "url": "https://doi.org/10.5281/zenodo.10265323",
+    "ee": "https://zenodo.org/record/10265323/files/000053.pdf",
+    "pages": "448-456",
+    "abstract": "Significant strides have been made in creating voice identity representations using speech data. However, the same level of progress has not been achieved for singing voices. To bridge this gap, we suggest a framework for training singer identity encoders to extract representations suitable for various singing-related tasks, such as singing voice similarity and synthesis. We explore different self-supervised learning techniques on a large collection of isolated vocal tracks and apply data augmentations during training to ensure that the representations are invariant to pitch and content variations. We evaluate the quality of the resulting representations on singer similarity and identification tasks across multiple datasets, with a particular emphasis on out-of-domain generalization. Our proposed framework produces high-quality embeddings that outperform both speaker verification and wav2vec 2.0 pre-trained baselines on singing voice while operating at 44.1 kHz. We release our code and trained models to facilitate further research on singing voice and related areas.",
+    "zenodo_id": 10265323,
+    "dblp_key": null
+  },
+  {
+    "title": "On the Effectiveness of Speech Self-Supervised Learning for Music",
+    "author": [
+      "Yinghao Ma",
+      "Ruibin Yuan",
+      "Yizhi Li",
+      "Ge Zhang",
+      "Chenghua Lin",
+      "Xingran Chen",
+      "Anton Ragni",
+      "Hanzhi Yin",
+      "Emmanouil Benetos",
+      "Norbert Gyenge",
+      "Ruibo Liu",
+      "Gus Xia",
+      "Roger B. Dannenberg",
+      "Yike Guo",
+      "Jie Fu"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265321",
+    "url": "https://doi.org/10.5281/zenodo.10265321",
+    "ee": "https://zenodo.org/record/10265321/files/000054.pdf",
+    "pages": "457-465",
+    "abstract": "Self-supervised learning (SSL) has shown promising results in various speech and natural language processing applications. However, its efficacy in music information retrieval (MIR) still remains largely unexplored. While previous SSL models pre-trained on music recordings may have been mostly closed-sourced, recent models such as wav2vec2.0 have shown promise. Nevertheless, research exploring the effectiveness of applying speech SSL models to music recordings has been limited. We explore the music adaption of SSL with two distinctive speech-related models, data2vec1.0 and Hubert, and refer to them as music2vec and musicHuBERT, respectively. We train 12 SSL models with 95M parameters under various pre-training configurations and systematically evaluate the MIR task performances with 13 different MIR tasks. Our findings suggest that training with music data can generally improve performance on MIR tasks, even when models are trained using paradigms designed for speech. However, we identify the limitations of such existing speech-oriented designs, especially in modelling polyphonic information. Based on the experimental results, empirical suggestions are also given for designing future musical SSL strategies and paradigms.",
+    "zenodo_id": 10265321,
+    "dblp_key": null
+  },
+  {
+    "title": "Transformer-Based Beat Tracking With Low-Resolution Encoder and High-Resolution Decoder",
+    "author": [
+      "Tian Cheng",
+      "Masataka Goto"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265325",
+    "url": "https://doi.org/10.5281/zenodo.10265325",
+    "ee": "https://zenodo.org/record/10265325/files/000055.pdf",
+    "pages": "466-473",
+    "abstract": "In this paper, we address the beat tracking task which is to predict beat times corresponding to the input audio. Due to the long sequential inputs, it is still challenging to model the global structure efficiently and to deal with the data imbalance between beats and no beats. In order to meet the above challenges, we propose a novel Transformer-based model consisting of a low-resolution encoder and a high-resolution decoder. The encoder with low temporal resolution is suited to capture global features with more balanced data. The decoder with high temporal resolution is designed to predict beat times at a desired resolution. In the decoder, the global structure is considered by the cross attention between the global features and high-dimensional features. There are two key modifications in the proposed model: (1) adding 1D convolutional layers in the encoder and (2) replacing positional embedding by the upsampled encoder features in the decoder. In the experiment, we achieved the state-of-the-art performance and showed that the decoder produced more precise and stable results.",
+    "zenodo_id": 10265325,
+    "dblp_key": null
+  },
+  {
+    "title": "Adding Descriptors to Melodies Improves Pattern Matching: A Study on Slovenian Folk Songs",
+    "author": [
+      "Vanessa Nina Borsan",
+      "Mathieu Giraud",
+      "Richard Groult",
+      "Thierry Lecroq"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265329",
+    "url": "https://doi.org/10.5281/zenodo.10265329",
+    "ee": "https://zenodo.org/record/10265329/files/000056.pdf",
+    "pages": "474-481",
+    "abstract": "The objective of pattern-matching topics is to gain insights into repetitive patterns within or across various music genres and cultures. This approach aims to shed light on the recurring instances present in diverse musical traditions. The paper presents a study analyzing folk songs using symbolic music representation, including melodic sequences and musical information. By examining a corpus of 400 monophonic Slovenian tunes, we are releasing annotations of structure, contour, and implied harmony. We propose an efficient algorithm based on suffix arrays and bit-vectors to match both music content (melodic sequence) and context (descriptors). Our study reveals that certain descriptors, such as contour types and harmonic \u201cstability\u201d exhibit variations based on phrase position within a tune. Additionally, combining melody and descriptors in pattern-matching queries enhances precision for classification tasks. We emphasize the importance of the interplay between melodic sequences and music descriptors, highlighting that different pattern queries may have varying levels of detail requirements. As a result, our approach promotes flexibility in computational music analysis. Lastly, our objective is to foster the knowledge of Slovenian folk songs.",
+    "zenodo_id": 10265329,
+    "dblp_key": null
+  },
+  {
+    "title": "How Control and Transparency for Users Could Improve Artist Fairness in Music Recommender Systems",
+    "author": [
+      "Karlijn Dinnissen",
+      "Christine Bauer"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265331",
+    "url": "https://doi.org/10.5281/zenodo.10265331",
+    "ee": "https://zenodo.org/record/10265331/files/000057.pdf",
+    "pages": "482-491",
+    "abstract": "As streaming services have become a main channel for music consumption, they significantly impact various stakeholders: users, artists who provide music, and other professionals working in the music industry. Therefore, it is essential to consider all stakeholders' goals and values when developing and evaluating the music recommender systems integrated into these services. One vital goal is treating artists fairly, thereby giving them a fair chance to have their music recommended and listened to, and subsequently building a fan base. Such artist fairness is often assumed to have a trade-off with user goals such as satisfaction. Using insights from two studies, this work shows the opposite: some goals from different stakeholders are complementary. Our first study, in which we interview music artists, demonstrates that they often see increased transparency and control for users as a means to also improve artist fairness. We expand with a second study asking other music industry professionals about these topics using a questionnaire. Its results indicate that transparency towards users is highly valued and should be increased.",
+    "zenodo_id": 10265331,
+    "dblp_key": null
+  },
+  {
+    "title": "Towards a New Interface for Music Listening: A User Experience Study on YouTube",
+    "author": [
+      "Ahyeon Choi",
+      "Eunsik Shin",
+      "Haesun Joung",
+      "Joongseek Lee",
+      "Kyogu Lee"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265333",
+    "url": "https://doi.org/10.5281/zenodo.10265333",
+    "ee": "https://zenodo.org/record/10265333/files/000058.pdf",
+    "pages": "492-499",
+    "abstract": "In light of the enduring success of music streaming services, it is noteworthy that an increasing number of users are positively gravitating toward YouTube as their preferred platform for listening to music. YouTube differs from traditional music streaming services in that they provide a diverse range of music-related videos as well as soundtracks. However, notwithstanding the surge in the platform's utilization as a music consumption tool, there is a lack of thorough research on the phenomenon. To investigate its usability and interface satisfaction as a music listening tool, we conducted semi-structured interviews with 27 users who listen to music through YouTube more than three times a week. Our qualitative analysis found that YouTube has five main meanings for users as a music streaming service: 1) exploring musical diversity, 2) sharing unique playlists, 3) providing visual satisfaction, 4) facilitating user interaction, and 5) allowing free and easy access. We also propose wireframes of a video streaming service for better audio-visual music listening in two stages: search and listening. By these wireframes, we offer practical solutions to enhance user satisfaction with YouTube for music listening. It has implications not only for YouTube but also for other streaming services for music.",
+    "zenodo_id": 10265333,
+    "dblp_key": null
+  },
+  {
+    "title": "FiloBass: A Dataset and Corpus Based Study of Jazz Basslines",
+    "author": [
+      "Xavier Riley",
+      "Simon Dixon"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265335",
+    "url": "https://doi.org/10.5281/zenodo.10265335",
+    "ee": "https://zenodo.org/record/10265335/files/000059.pdf",
+    "pages": "500-507",
+    "abstract": "We present FiloBass: a novel corpus of music scores and annotations which focuses on the important but often overlooked role of the double bass in jazz accompaniment. Inspired by recent works that shed light on the role of the soloist, we offer a collection of 48 manually verified transcriptions of professional jazz bassists, comprising over 50,000 note events, which are based on the backing tracks used in the FiloSax dataset. For each recording we provide audio stems, scores, performance-aligned MIDI and associated metadata for beats, downbeats, chord symbols and markers for musical form.\n\nWe then use FiloBass to enrich our understanding of jazz bass lines, by conducting a corpus-based musical analysis with a contrastive study of existing instructional methods. Together with the original FiloSax dataset, our work represents a significant step toward a fully annotated performance dataset for a jazz quartet setting. By illuminating the critical role of the bass in jazz, this work contributes to a more nuanced and comprehensive understanding of the genre.",
+    "zenodo_id": 10265335,
+    "dblp_key": null
+  },
+  {
+    "title": "Comparing Texture in Piano Scores",
+    "author": [
+      "Louis Couturier",
+      "Louis Bigo",
+      "Florence Lev\u00e9"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265337",
+    "url": "https://doi.org/10.5281/zenodo.10265337",
+    "ee": "https://zenodo.org/record/10265337/files/000060.pdf",
+    "pages": "508-515",
+    "abstract": "In this paper, we propose four different approaches to quantify similarities of compositional texture in symbolically encoded piano music. A melodic contour or harmonic progression can be shaped into a wide variety of different rhythms, densities, or combinations of layers.\u00a0Instead of describing these textural organizations only locally, using existing formalisms, we question how these parameters may evolve throughout a musical piece, and more specifically how much they change. Hence,\u00a0we define several distance functions to compare texture between two musical bars, based either on textural labels annotated with a dedicated syntax, or on symbolic scores. We propose an evaluation methodology based on textural heterogeneity and contrasts in classical Thema and Variations using the TAVERN dataset. Finally, we illustrate use cases of these tools to analyze long-term structure, and discuss the impact of these results on the understanding of musical texture.",
+    "zenodo_id": 10265337,
+    "dblp_key": null
+  },
+  {
+    "title": "Introducing DiMCAT for Processing and Analyzing Notated Music on a Very Large Scale",
+    "author": [
+      "Johannes Hentschel",
+      "Andrew McLeod",
+      "Yannis Rammos",
+      "Martin Rohrmeier"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265339",
+    "url": "https://doi.org/10.5281/zenodo.10265339",
+    "ee": "https://zenodo.org/record/10265339/files/000061.pdf",
+    "pages": "516-523",
+    "abstract": "As corpora of digital musical scores continue to grow, the need for research tools capable of manipulating such data efficiently, with an intuitive interface, and support for a diversity of file formats, becomes increasingly pressing. In response, this paper introduces the Digital Musicology Corpus Analysis Toolkit (DiMCAT), a Python library for processing large corpora of digitally encoded musical scores. Equally aimed at music-analytical corpus studies, MIR, and machine-learning research, DiMCAT performs common data transformations and analyses using dataframes. Dataframes reduce the inherent complexity of atomic score contents (e.g., notes), larger score entities (e.g., measures), and abstractions (e.g., chord symbols) into easily manipulable computational structures, whose vectorized operations scale to large quantities of musical material. The design of DiMCAT\u2019s API prioritizes computational speed and ease of use, thus aiming to cater to machine-learning practitioners and musicologists alike.",
+    "zenodo_id": 10265339,
+    "dblp_key": null
+  },
+  {
+    "title": "Sequence-to-Sequence Network Training Methods for Automatic Guitar Transcription With Tokenized Outputs",
+    "author": [
+      "Sehun Kim",
+      "Kazuya Takeda",
+      "Tomoki Toda"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265341",
+    "url": "https://doi.org/10.5281/zenodo.10265341",
+    "ee": "https://zenodo.org/record/10265341/files/000062.pdf",
+    "pages": "524-531",
+    "abstract": "We propose multiple methods for effectively training a sequence-to-sequence automatic guitar transcription model which uses tokenized music representation as an output. Our proposed method mainly consists of 1) a hybrid CTC-Attention model for sequence-to-sequence automatic guitar transcription that uses tokenized music representation, and 2) two data augmentation methods for training the model. Our proposed model is a generic encoder-decoder Transformer model but adopts multi-task learning with CTC from the encoder to speed up learning alignments between the output tokens and acoustic features. Our proposed data augmentation methods scale up the amount of training data by 1) creating bar overlap when splitting an excerpt to be used for network input, and 2) by utilizing MIDI-only data to synthetically create audio-MIDI pair data. We confirmed that 1) the proposed data augmentation methods were highly effective for training generic Transformer models that generate tokenized outputs, 2) our proposed hybrid CTC-Attention model outperforms conventional methods that transcribe guitar performance with tokens, and 3) the addition of multi-task learning with CTC in our proposed model is especially effective when there is an insufficient amount of training data.",
+    "zenodo_id": 10265341,
+    "dblp_key": null
+  },
+  {
+    "title": "PESTO: Pitch Estimation With Self-Supervised Transposition-Equivariant Objective",
+    "author": [
+      "Alain Riou",
+      "Stefan Lattner",
+      "Ga\u00ebtan Hadjeres",
+      "Geoffroy Peeters"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265343",
+    "url": "https://doi.org/10.5281/zenodo.10265343",
+    "ee": "https://zenodo.org/record/10265343/files/000063.pdf",
+    "pages": "535-544",
+    "abstract": "In this paper, we address the problem of pitch estimation using self-supervised learning (SSL). The SSL paradigm we use is equivariance to pitch transposition, which enables our model to accurately perform pitch estimation on monophonic audio after being trained only on a small unlabeled dataset.\n\nWe use a lightweight (< 30k parameters) Siamese neural network that takes as inputs two different pitch-shifted versions of the same audio represented by its constant-Q transform. To prevent the model from collapsing in an encoder-only setting, we propose a novel class-based transposition-equivariant objective which captures pitch information. Furthermore, we design the architecture of our network to be transposition-preserving by introducing learnable Toeplitz matrices.\n\nWe evaluate our model for the two tasks of singing voice and musical instrument pitch estimation and show that our model is able to generalize across tasks and datasets while being lightweight, hence remaining compatible with low-resource devices and suitable for real-time applications. In particular, our results surpass self-supervised baselines and narrow the performance gap between self-supervised and supervised methods for pitch estimation.",
+    "zenodo_id": 10265343,
+    "dblp_key": null
+  },
+  {
+    "title": "The Games We Play: Exploring the Impact of ISMIR on Musicology",
+    "author": [
+      "Vanessa Nina Borsan",
+      "Mathieu Giraud",
+      "Richard Groult"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265345",
+    "url": "https://doi.org/10.5281/zenodo.10265345",
+    "ee": "https://zenodo.org/record/10265345/files/000064.pdf",
+    "pages": "545-552",
+    "abstract": "Throughout history, a consistent temporal and spatial gap has persisted between the inception of novel knowledge and technology and their subsequent adoption for extensive practical utilization. The article explores the dynamic interaction and exchange of methodologies between musicology and computational music research. It focuses on an analysis of ten years\u2019 worth of papers from the International Society for Music Information Retrieval (ISMIR) from 2012 to 2021. Over 1000 citations of ISMIR papers were reviewed, and out of these, 51 later works published in musicological venues drew from the findings of 28 ISMIR papers. Final results reveal that most contributions from ISMIR rarely make their way to musicology or humanities. Nevertheless, the paper highlights four examples of successful knowledge transfers between the fields and discusses best practices for collaborations while addressing potential causes for such disparities. In the epilogue, we address the interlaced origins of the problem as stemming from the language of new media, institutional restrictions, and the inability to engage in multidisciplinary communication.",
+    "zenodo_id": 10265345,
+    "dblp_key": null
+  },
+  {
+    "title": "Carnatic Singing Voice Separation Using Cold Diffusion on Training Data With Bleeding",
+    "author": [
+      "Gen\u00eds Plaja-Roglans",
+      "Marius Miron",
+      "Adithi Shankar",
+      "Xavier Serra"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265347",
+    "url": "https://doi.org/10.5281/zenodo.10265347",
+    "ee": "https://zenodo.org/record/10265347/files/000065.pdf",
+    "pages": "553-560",
+    "abstract": "Supervised music source separation systems using deep learning are trained by minimizing a loss function between pairs of predicted separations and ground-truth isolated sources. However, open datasets comprising isolated sources are few, small, and restricted to a few music styles. At the same time, multi-track datasets with source bleeding are usually found larger in size, and are easier to compile. In this work, we address the task of singing voice separation when the ground-truth signals have bleeding and only the target vocals and the corresponding mixture are available. We train a cold diffusion model on the frequency domain to iteratively transform a mixture into the corresponding vocals with bleeding. Next, we build the final separation masks by clustering spectrogram bins according to their evolution along the transformation steps. We test our approach on a Carnatic music scenario for which solely datasets with bleeding exist, while current research on this repertoire commonly uses source separation models trained solely with Western commercial music. Our evaluation on a Carnatic test set shows that our system improves Spleeter on interference removal and it is competitive in terms of signal distortion. Code is open sourced",
+    "zenodo_id": 10265347,
+    "dblp_key": null
+  },
+  {
+    "title": "Unveiling the Impact of Musical Factors in Judging a Song on First Listen: Insights From a User Survey",
+    "author": [
+      "Kosetsu Tsukuda",
+      "Tomoyasu Nakano",
+      "Masahiro Hamasaki",
+      "Masataka Goto"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265351",
+    "url": "https://doi.org/10.5281/zenodo.10265351",
+    "ee": "https://zenodo.org/record/10265351/files/000066.pdf",
+    "pages": "561-570",
+    "abstract": "When a user listens to a song for the first time, what musical factors (e.g., melody, tempo, and lyrics) influence the user's decision to like or dislike the song? An answer to this question would enable researchers to more deeply understand how people interact with music. Thus, in this paper, we report the results of an online survey involving 302 participants to investigate the influence of 10 musical factors. We also evaluate how a user's personal characteristics (i.e., personality traits and musical sophistication) relate to the importance of each factor for the user. Moreover, we propose and evaluate three factor-based functions that would enable more effectively browsing songs on a music streaming service. The user survey results provide several reusable insights, including the following: (1) for most participants, the melody and singing voice are important factors in judging whether they like a song on first listen; (2) personal characteristics do influence the important factors (e.g., participants who have high openness and are sensitive to beat deviations emphasize melody); and (3) the proposed functions each have a certain level of demand because they enable users to easily find music that fits their tastes. We have released part of the survey results as publicly available data so that other researchers can reproduce the results and analyze the data from their own viewpoints.",
+    "zenodo_id": 10265351,
+    "dblp_key": null
+  },
+  {
+    "title": "Towards Building a Phylogeny of Gregorian Chant Melodies",
+    "author": [
+      "Jan Haji\u010d jr.",
+      "Gustavo A. Ballen",
+      "Kl\u00e1ra Hedvika M\u00fchlov\u00e1",
+      "Hana Vlhov\u00e1-W\u00f6rner"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10340442",
+    "url": "https://doi.org/10.5281/zenodo.10340442",
+    "ee": "https://zenodo.org/record/10340442/files/000067.pdf",
+    "pages": "571-578",
+    "abstract": "The historical development of medieval plainchant melodies is an intriguing musicological topic that invites computational approaches to study it at scale. Plainchant melodies can be represented as strings from a limited alphabet, hence making it technically possible to apply bioinformatic tools that are used to study the relationships of biological sequences. We show that using phylogenetic trees to study relationships of plainchant sources is not merely possible, but that it can indeed produce meaningful results. We develop a simple plainchant substitution model for Multiple Sequence Alignment, adapt a Bayesian phylogenetic tree building method, and demonstrate the promise of this approach by validating the resultant phylogenetic tree built from a set of Divine Office sources for the Christmas Vespers against musicological knowledge.",
+    "zenodo_id": 10340442,
+    "dblp_key": null
+  },
+  {
+    "title": "Audio Embeddings as Teachers for Music Classification",
+    "author": [
+      "Yiwei Ding",
+      "Alexander Lerch"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265353",
+    "url": "https://doi.org/10.5281/zenodo.10265353",
+    "ee": "https://zenodo.org/record/10265353/files/000068.pdf",
+    "pages": "579-587",
+    "abstract": "Music classification has been one of the most popular tasks in the field of music information retrieval. With the development of deep learning models, the last decade has seen impressive improvements in a wide range of classification tasks. However, the increasing model complexity makes both training and inference computationally expensive. In this paper, we integrate the ideas of transfer learning and feature-based knowledge distillation and systematically investigate using pre-trained audio embeddings as teachers to guide the training of low-complexity student networks. By regularizing the feature space of the student networks with the pre-trained embeddings, the knowledge in the teacher embeddings can be transferred to the students. We use various pre-trained audio embeddings and test the effectiveness of the method on the tasks of musical instrument classification and music auto-tagging. Results show that our method significantly improves the results in comparison to the identical model trained without the teacher\u2019s knowledge. This technique can also be combined with classical knowledge distillation approaches to further improve the model\u2019s performance.",
+    "zenodo_id": 10265353,
+    "dblp_key": null
+  },
+  {
+    "title": "ScorePerformer: Expressive Piano Performance Rendering With Fine-Grained Control",
+    "author": [
+      "Ilya Borovik",
+      "Vladimir Viro"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265355",
+    "url": "https://doi.org/10.5281/zenodo.10265355",
+    "ee": "https://zenodo.org/record/10265355/files/000069.pdf",
+    "pages": "588-596",
+    "abstract": "We present ScorePerformer, an encoder-decoder transformer with hierarchical style encoding heads for controllable rendering of expressive piano music performances. We design a tokenized representation of symbolic score and performance music, the Score Performance Music tuple (SPMuple), and validate a novel way to encode the local performance tempo in a local note time window. Along with the encoding, we extend a transformer encoder with multi-level maximum mean discrepancy variational autoencoder style modeling heads that learn performance style at the global, bar, beat, and onset levels for fine-grained performance control. To offer an interpretation of the learned latent spaces, we introduce performance direction marking classifiers that associate vectors in the latent space with direction markings to guide performance rendering through the model. Evaluation results show the importance of the architectural design choices and demonstrate that ScorePerformer produces diverse and coherent piano performances that follow the control input.",
+    "zenodo_id": 10265355,
+    "dblp_key": null
+  },
+  {
+    "title": "Roman Numeral Analysis With Graph Neural Networks: Onset-Wise Predictions From Note-Wise Features",
+    "author": [
+      "Emmanouil Karystinaios",
+      "Gerhard Widmer"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265357",
+    "url": "https://doi.org/10.5281/zenodo.10265357",
+    "ee": "https://zenodo.org/record/10265357/files/000070.pdf",
+    "pages": "597-604",
+    "abstract": "Roman Numeral analysis is the important task of identifying chords and their functional context in pieces of tonal music. \nThis paper presents a new approach to automatic Roman Numeral analysis in symbolic music. While existing techniques rely on an intermediate lossy representation of the score, we propose a new method based on Graph Neural Networks (GNNs) that enable the direct description and processing of each individual note in the score. \nThe proposed architecture can leverage notewise features and interdependencies between notes but yield onset-wise representation by virtue of our novel edge contraction algorithm. \nOur results demonstrate that ChordGNN outperforms existing state-of-the-art models, achieving higher accuracy in Roman Numeral analysis on the reference datasets. \nIn addition, we investigate variants of our model using proposed techniques such as NADE, and post-processing of the chord predictions. The full source code for this work is available at https://github.com/manoskary/chordgnn",
+    "zenodo_id": 10265357,
+    "dblp_key": null
+  },
+  {
+    "title": "Semi-Automated Music Catalog Curation Using Audio and Metadata",
+    "author": [
+      "Brian Regan",
+      "Desislava Hristova",
+      "Mariano Beguerisse-D\u00edaz"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265359",
+    "url": "https://doi.org/10.5281/zenodo.10265359",
+    "ee": "https://zenodo.org/record/10265359/files/000071.pdf",
+    "pages": "605-611",
+    "abstract": "We present a system to assist Subject Matter Experts (SMEs) to curate large online music catalogs. The system detects releases that are incorrectly attributed to an artist discography (misattribution), when the discography of a single artist is incorrectly separated (duplication), and predicts suitable relocations of misattributed releases. We use historical discography corrections to train and evaluate our system's component models. These models combine vector representations of audio with metadata-based features, which outperform models based on audio or metadata alone. We conduct three experiments with SMEs in which our system detects misattribution in artist discographies with precision greater than 77%, duplication with precision greater than 71%, and by combining the approaches, predicts a correct relocation for misattributed releases with precision up to 45%.\nThese results demonstrate the potential of such proactive curation systems in saving valuable human time and effort by directing attention where it is most needed.",
+    "zenodo_id": 10265359,
+    "dblp_key": null
+  },
+  {
+    "title": "Crowd's Performance on Temporal Activity Detection of Musical Instruments in Polyphonic Music",
+    "author": [
+      "Ioannis Petros Samiotis",
+      "Christoph Lofi",
+      "Alessandro Bozzon"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265361",
+    "url": "https://doi.org/10.5281/zenodo.10265361",
+    "ee": "https://zenodo.org/record/10265361/files/000072.pdf",
+    "pages": "612-618",
+    "abstract": "Musical instrument recognition enables applications such as instrument-based music search and audio manipulation, which are highly sought-after processes in everyday music consumption and production. Despite continuous progresses, advances in automatic musical instrument recognition is hindered by the lack of large, diverse and publicly available annotated datasets. As studies have shown, there is potential to scale up music data annotation processes through crowdsourcing. However, it is still unclear the extent to which untrained crowdworkers can effectively detect when a musical instrument is active in an audio excerpt. In this study, we explore the performance of non-experts on online crowdsourcing platforms, to detect temporal activity of instruments on audio extracts of selected genres. We study the factors that can affect their performance, while we also analyse user characteristics that could predict their performance. Our results bring further insights into the general crowd's capabilities to detect instruments.",
+    "zenodo_id": 10265361,
+    "dblp_key": null
+  },
+  {
+    "title": "MoisesDB: A Dataset for Source Separation Beyond 4-Stems",
+    "author": [
+      "Igor Pereira",
+      "Felipe Ara\u00fajo",
+      "Filip Korzeniowski",
+      "Richard Vogl"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265363",
+    "url": "https://doi.org/10.5281/zenodo.10265363",
+    "ee": "https://zenodo.org/record/10265363/files/000073.pdf",
+    "pages": "619-626",
+    "abstract": "In this paper, we introduce the MoisesDB dataset for musical source separation. It consists of 240 tracks from 45 artists, covering twelve musical genres. \nFor each song, we provide its individual audio sources, organized in a two-level hierarchical taxonomy of stems. \nThis will facilitate building and evaluating fine-grained source separation systems that go beyond the limitation of using four stems (drums, bass, other, and vocals) due to lack of data. \nTo facilitate the adoption of this dataset, we publish an easy-to-use Python library to download, process and use MoisesDB.\nAlongside a thorough documentation and analysis of the dataset contents, this work provides baseline results for open-source separation models for varying separation granularities (four, five, and six stems), and discuss their results.",
+    "zenodo_id": 10265363,
+    "dblp_key": null
+  },
+  {
+    "title": "Music as Flow: A Formal Representation of Hierarchical Processes in Music",
+    "author": [
+      "Zeng Ren",
+      "Wulfram Gerstner",
+      "Martin Rohrmeier"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265365",
+    "url": "https://doi.org/10.5281/zenodo.10265365",
+    "ee": "https://zenodo.org/record/10265365/files/000074.pdf",
+    "pages": "627-633",
+    "abstract": "Modeling the temporal unfolding of musical events and its interpretation in terms of hierarchical relations is a common theme in music theory, cognition, and composition. To faithfully encode such relations, we need an elegant way to represent both the semantics of prolongation, where a single event is elaborated into multiple events, and process, where the connection from one event to another is elaborated into multiple connections. In existing works, trees are used to capture the former and graphs for the latter. Each such model has the potential to either encode relations between events (e.g., an event being a repetition of another), or relations between processes (e.g., two consecutive steps making up a larger skip), but not both together explicitly. To model meaningful relations between musical events and processes and combine the semantic expressiveness of trees and graphs, we propose a structured representation using  algebraic datatype (ADT) with dependent type. We demonstrate its applications towards encoding functional interpretations of harmonic progressions, and large scale organizations of key regions. This paper offers two contributions. First, we provide a novel unifying hierarchical framework for musical processes and events. Second, we provide a structured data type encoding such interpretations, which could facilitate computational approaches in music theory and generation.",
+    "zenodo_id": 10265365,
+    "dblp_key": null
+  },
+  {
+    "title": "Online Symbolic Music Alignment With Offline Reinforcement Learning",
+    "author": [
+      "Silvan David Peter"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265367",
+    "url": "https://doi.org/10.5281/zenodo.10265367",
+    "ee": "https://zenodo.org/record/10265367/files/000075.pdf",
+    "pages": "634-641",
+    "abstract": "Symbolic Music Alignment is the process of matching\nperformed MIDI notes to corresponding score notes. In\nthis paper, we introduce a reinforcement learning (RL)-\nbased online symbolic music alignment technique. The\nRL agent \u2014 an attention-based neural network \u2014 itera-\ntively estimates the current score position from local score\nand performance contexts. For this symbolic alignment\ntask, environment states can be sampled exhaustively and\nthe reward is dense, rendering a formulation as a simpli-\nfied offline RL problem straightforward. We evaluate the\ntrained agent in three ways. First, in its capacity to identify\ncorrect score positions for sampled test contexts; second,\nas the core technique of a complete algorithm for symbolic\nonline note-wise alignment; and finally, as a real-time sym-\nbolic score follower. We further investigate the pitch-based\nscore and performance representations used as the agent\u2019s\ninputs. To this end, we develop a second model, a two-\nstep Dynamic Time Warping (DTW)-based offline align-\nment algorithm leveraging the same input representation.\nThe proposed model outperforms a state-of-the-art refer-\nence model of offline symbolic music alignment.",
+    "zenodo_id": 10265367,
+    "dblp_key": null
+  },
+  {
+    "title": "Inversynth II: Sound Matching via Self-Supervised Synthesizer-Proxy and Inference-Time Finetuning",
+    "author": [
+      "Oren Barkan",
+      "Shlomi Shvartzman",
+      "Noy Uzrad",
+      "Moshe Laufer",
+      "Almog Elharar",
+      "Noam Koenigstein"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265371",
+    "url": "https://doi.org/10.5281/zenodo.10265371",
+    "ee": "https://zenodo.org/record/10265371/files/000076.pdf",
+    "pages": "642-648",
+    "abstract": "Synthesizers are widely used electronic musical instruments. Given an input sound, inferring the underlying synthesizer's parameters to reproduce it is a difficult task known as sound-matching. In this work, we tackle the problem of automatic sound matching, which is otherwise performed manually by professional audio experts. The novelty of our work stems from the introduction of a novel differentiable synthesizer-proxy that enables gradient-based optimization by comparing the input and reproduced audio signals. Additionally, we introduce a novel self-supervised finetuning mechanism that further refines the prediction at inference time. Both contributions lead to state-of-the-art results, outperforming previous methods across various metrics. Our code is available at: https://github.com/inversynth/InverSynth2.",
+    "zenodo_id": 10265371,
+    "dblp_key": null
+  },
+  {
+    "title": "A Semi-Supervised Deep Learning Approach to Dataset Collection for Query-by-Humming Task",
+    "author": [
+      "Amantur Amatov",
+      "Dmitry Lamanov",
+      "Maksim Titov",
+      "Ivan Vovk",
+      "Ilya Makarov",
+      "Mikhail Kudinov"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265375",
+    "url": "https://doi.org/10.5281/zenodo.10265375",
+    "ee": "https://zenodo.org/record/10265375/files/000077.pdf",
+    "pages": "649-656",
+    "abstract": "Query-by-Humming (QbH) is a task that involves finding the most relevant song based on a hummed or sung fragment. Despite recent successful commercial solutions, implementing QbH systems remains challenging due to the lack of high-quality datasets for training machine learning models. In this paper, we propose a deep learning data collection technique and introduce Covers and Hummings Aligned Dataset (CHAD), a novel dataset that contains 18 hours of short music fragments, paired with time-aligned hummed versions. To expand our dataset, we employ a semi-supervised model training pipeline that leverages the QbH task as a specialized case of cover song identification (CSI) task. Starting with a model trained on the initial dataset, we iteratively collect groups of fragments of cover versions of the same song and retrain the model on the extended data. Using this pipeline, we collect over 308 hours of additional music fragments, paired with time-aligned cover versions. The final model is successfully applied to the QbH task and achieves competitive results on benchmark datasets. Our study shows that the proposed dataset and training pipeline can effectively facilitate the implementation of QbH systems.",
+    "zenodo_id": 10265375,
+    "dblp_key": null
+  },
+  {
+    "title": "Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction",
+    "author": [
+      "Keren Shao",
+      "Ke Chen",
+      "Taylor Berg-Kirkpatrick",
+      "Shlomo Dubnov"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265373",
+    "url": "https://doi.org/10.5281/zenodo.10265373",
+    "ee": "https://zenodo.org/record/10265373/files/000078.pdf",
+    "pages": "657-663",
+    "abstract": "In deep learning research, many melody extraction models rely on redesigning neural network architectures to improve performance. In this paper, we propose an input feature modification and a training objective modification based on two assumptions. First, harmonics in the spectrograms of audio data decay rapidly along the frequency axis. To enhance the model's sensitivity on the trailing harmonics, we modify the Combined Frequency and Periodicity (CFP) representation using discrete z-transform. Second, the vocal and non-vocal segments with extremely short duration are uncommon. To ensure a more stable melody contour, we design a differentiable loss function that prevents the model from predicting such segments. We apply these modifications to several models, including MSNet, FTANet, and a newly introduced model, PianoNet, modified from a piano transcription network. Our experimental results demonstrate that the proposed modifications are empirically effective for singing melody extraction.",
+    "zenodo_id": 10265373,
+    "dblp_key": null
+  },
+  {
+    "title": "Singing Voice Synthesis Using Differentiable LPC and Glottal-Flow-Inspired Wavetables",
+    "author": [
+      "Chin-Yun Yu",
+      "Gy\u00f6rgy Fazekas"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265377",
+    "url": "https://doi.org/10.5281/zenodo.10265377",
+    "ee": "https://zenodo.org/record/10265377/files/000079.pdf",
+    "pages": "667-675",
+    "abstract": "This paper introduces GlOttal-flow LPC Filter (GOLF), a novel method for singing voice synthesis (SVS) that exploits the physical characteristics of the human voice using differentiable digital signal processing. GOLF employs a glottal model as the harmonic source and IIR filters to simulate the vocal tract, resulting in an interpretable and efficient approach. We show it is competitive with state-of-the-art singing voice vocoders, requiring fewer synthesis parameters and less memory to train, and runs an order of magnitude faster for inference. Additionally, we demonstrate that GOLF can model the phase components of the human voice, which has immense potential for rendering and analysing singing voices in a differentiable manner. Our results highlight the effectiveness of incorporating the physical properties of the human voice mechanism into SVS and underscore the advantages of signal-processing-based approaches, which offer greater interpretability and efficiency in synthesis.",
+    "zenodo_id": 10265377,
+    "dblp_key": null
+  },
+  {
+    "title": "Harmonic Analysis With Neural Semi-CRF",
+    "author": [
+      "Qiaoyu Yang",
+      "Frank Cwitkowitz",
+      "Zhiyao Duan"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265379",
+    "url": "https://doi.org/10.5281/zenodo.10265379",
+    "ee": "https://zenodo.org/record/10265379/files/000080.pdf",
+    "pages": "676-683",
+    "abstract": "Automatic harmonic analysis of symbolic music is an important\nand useful task for both composers and listeners.\nThe task consists of two components: recognizing harmony\nlabels and finding their time boundaries. Most of the\nprevious attempts focused on the first component, while\ntime boundaries were rarely modeled explicitly. Lack of\nboundary modeling in the objective function could lead to\nsegmentation errors. In this paper, we introduce a novel\napproach named Harana, to jointly detect the labels and\nboundaries of harmonic regions using neural semi-CRF\n(conditional random field). In contrast to rule-based scores\nused in traditional semi-CRF, a neural score function is\nproposed to incorporate features with more representational\npower. To improve the robustness of the model to\nimperfect harmony profiles, we design an additional score\ncomponent to penalize the match between the candidate\nharmony label and the absent notes in the music. Quantitative\nresults from our experiments demonstrate that the proposed\napproach improves segmentation quality as well as\nframe-level accuracy compared to previous methods.",
+    "zenodo_id": 10265379,
+    "dblp_key": null
+  },
+  {
+    "title": "A Dataset and Baseline for Automated Assessment of Timbre Quality in Trumpet Sound",
+    "author": [
+      "Alberto Acquilino",
+      "Ninad Puranik",
+      "Ichiro Fujinaga",
+      "Gary Scavone"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265381",
+    "url": "https://doi.org/10.5281/zenodo.10265381",
+    "ee": "https://zenodo.org/record/10265381/files/000081.pdf",
+    "pages": "684-691",
+    "abstract": "Music Performance Analysis is based on the evaluation of performance parameters such as pitch, dynamics, timbre, tempo and timing. While timbre is the least specific parameter among these and is often only implicitly understood, prominent brass pedagogues have reported that the presence of excessive muscle tension and inefficiency in playing by a musician is reflected in the timbre quality of the sound produced. In this work, we explore the application of machine learning to automatically assess timbre quality in trumpet playing, given both its educational value and connection to performance quality. An extensive dataset consisting of more than 19,000 tones played by 110 trumpet players of different expertise has been collected. A subset of 1,481 tones from this dataset was labeled by eight professional graders on a scale of 1 to 4 based on the perceived efficiency of sound production. Statistical analysis is performed to identify the correlation among the assigned ratings by the expert graders. A Random Forest classifier is trained using the mode of the ratings and its accuracy and variability is assessed with respect to the variability in human graders as a reference. An analysis of the important discriminatory features identifies stability of spectral peaks as a critical factor in trumpet timbre quality.",
+    "zenodo_id": 10265381,
+    "dblp_key": null
+  },
+  {
+    "title": "Visual Overviews for Sheet Music Structure",
+    "author": [
+      "Frank Heyen",
+      "Quynh Quang Ngo",
+      "Michael Sedlmair"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265383",
+    "url": "https://doi.org/10.5281/zenodo.10265383",
+    "ee": "https://zenodo.org/record/10265383/files/000082.pdf",
+    "pages": "692-699",
+    "abstract": "We propose different methods for alternative representation and visual augmentation of sheet music that help users gain an overview of general structure, repeating patterns, and the similarity of segments. To this end, we explored mapping the overall similarity between sections or bars to colors. For these mappings, we use dimensionality reduction or clustering to assign similar segments to similar colors and vice versa. To provide a better overview, we further designed simplified music notation representations, including hierarchical and compressed encodings. These overviews allow users to display whole pieces more compactly on a single screen without clutter and to find and navigate to distant segments more quickly. Our preliminary evaluation with guitarists and tablature shows that our design supports users in tasks such as analyzing structure, finding repetitions, and determining the similarity of specific segments to others.",
+    "zenodo_id": 10265383,
+    "dblp_key": null
+  },
+  {
+    "title": "Passage Summarization With Recurrent Models for Audio \u2013 Sheet Music Retrieval",
+    "author": [
+      "Lu\u00eds Carvalho",
+      "Gerhard Widmer"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265385",
+    "url": "https://doi.org/10.5281/zenodo.10265385",
+    "ee": "https://zenodo.org/record/10265385/files/000083.pdf",
+    "pages": "700-707",
+    "abstract": "Many applications of cross-modal music retrieval are related to connecting sheet music images to audio recordings. A typical and recent approach to this is to learn, via deep neural networks, a joint embedding space that correlates short fixed-size snippets of audio and sheet music by means of an appropriate similarity structure. However, two challenges that arise out of this strategy are the requirement of strongly aligned data to train the networks, and the inherent discrepancies of musical content between audio and sheet music snippets caused by local and global tempo deviations. In this paper, we address these two shortcomings by designing a cross-modal recurrent network that learns joint embeddings that can summarize longer passages of corresponding audio and sheet music. The benefits of our method are that it only requires weakly aligned audio - sheet music pairs, as well as that the recurrent network handles the non-linearities caused by tempo variations between audio and sheet music. We conduct a number of experiments on synthetic and real piano data and scores, showing that our proposed recurrent method leads to more accurate retrieval in all possible configurations.",
+    "zenodo_id": 10265385,
+    "dblp_key": null
+  },
+  {
+    "title": "Predicting Performance Difficulty From Piano Sheet Music Images",
+    "author": [
+      "Pedro Ramoneda",
+      "Jose J. Valero-Mas",
+      "Dasaem Jeong",
+      "Xavier Serra"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265387",
+    "url": "https://doi.org/10.5281/zenodo.10265387",
+    "ee": "https://zenodo.org/record/10265387/files/000084.pdf",
+    "pages": "708-715",
+    "abstract": "Estimating the performance difficulty of a musical score is crucial in music education for adequately designing the learning curriculum of the students. Although the music information retrieval community has recently shown interest in this task, existing approaches mainly use machine-readable scores, leaving the broader case of sheet music images unaddressed. Based on previous works involving sheet music images, we use a mid-level representation, bootleg score, describing notehead positions relative to staff lines coupled with a transformer model. This architecture is adapted to our task by introducing a different encoding scheme that reduces the encoded sequence length to one-eighth of the original size. In terms of evaluation, we consider five datasets---more than 7500 scores with up to 9 difficulty levels---, two being mainly compiled for this work. The results obtained when pretraining the scheme on the IMSLP corpus and fine-tuning it on the considered datasets prove the proposal's validity, achieving the best-performing model with a balanced accuracy of 40.3\\% and a mean square error of 1.3. Finally, we provide access to our code, data, and models for transparency and reproducibility.",
+    "zenodo_id": 10265387,
+    "dblp_key": null
+  },
+  {
+    "title": "Self-Refining of Pseudo Labels for Music Source Separation With Noisy Labeled Data",
+    "author": [
+      "Junghyun Koo",
+      "Yunkee Chae",
+      "Chang-Bin Jeon",
+      "Kyogu Lee"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265389",
+    "url": "https://doi.org/10.5281/zenodo.10265389",
+    "ee": "https://zenodo.org/record/10265389/files/000085.pdf",
+    "pages": "716-724",
+    "abstract": "Music source separation (MSS) faces challenges due to limited availability and potential noise in correctly labeled individual instrument tracks. In this paper, we propose an automated approach for refining mislabeled instrument tracks in a partially noisy-labeled dataset. The proposed self-refining technique with noisy-labeled dataset results in only a 1% accuracy degradation for multi-label instrument recognition compared to a classifier trained with a clean-labeled dataset. The study demonstrates the importance of refining noisy-labeled data for training MSS models and shows that utilizing the refined dataset for MSS leads to comparable results to a clean-labeled dataset. Notably, upon only access to a noisy dataset, MSS models trained on self-refined datasets even outperformed those trained on datasets refined with a classifier trained on clean labels.",
+    "zenodo_id": 10265389,
+    "dblp_key": null
+  },
+  {
+    "title": "Quantifying the Ease of Playing Song Chords on the Guitar",
+    "author": [
+      "Marcel A. V\u00e9lez V\u00e1squez",
+      "Mari\u00eblle Baelemans",
+      "Jonathan Driedger",
+      "Willem Zuidema",
+      "John Ashley Burgoyne"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265391",
+    "url": "https://doi.org/10.5281/zenodo.10265391",
+    "ee": "https://zenodo.org/record/10265391/files/000086.pdf",
+    "pages": "725-732",
+    "abstract": "Quantifying the difficulty of playing songs has recently gained traction in the MIR community. While previous work has mostly focused on piano, this paper concentrates on rhythm guitar, which is especially popular with amateur musicians and has a broad skill spectrum. This paper proposes a rubric-based \u2018playability\u2019 metric to formalise this spectrum. The rubric comprises seven criteria that contribute to a single playability score, representing the overall difficulty of a song. The rubric was created through interviewing and incorporating feedback from guitar teachers and experts. Additionally, we introduce the playability prediction task by adding annotations to a subset of 200 songs from the McGill Billboard dataset, labelled by a guitar expert using the proposed rubric. We use this dataset to weight each rubric criterion for maximal reliability. Finally, we create a rule-based baseline to score each rubric criterion automatically from chord annotations and timings, and compare this baseline against simple deep learning models trained on chord symbols and textual representations of guitar tablature. The rubric, dataset, and baselines lay a foundation for understanding what makes songs easy or difficult for guitar players and how we can use MIR tools to match amateurs with songs closer to their skill level.",
+    "zenodo_id": 10265391,
+    "dblp_key": null
+  },
+  {
+    "title": "FlexDTW: Dynamic Time Warping With Flexible Boundary Conditions",
+    "author": [
+      "Irmak B\u00fckey",
+      "Jason Zhang",
+      "TJ Tsai"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265393",
+    "url": "https://doi.org/10.5281/zenodo.10265393",
+    "ee": "https://zenodo.org/record/10265393/files/000087.pdf",
+    "pages": "733-740",
+    "abstract": "Alignment algorithms like DTW and subsequence DTW assume specific boundary conditions on where an alignment path can begin and end in the cost matrix.  In practice, the boundary conditions may not be known a priori or may not satisfy such strict assumptions.  This paper introduces an alignment algorithm called FlexDTW that is designed to handle a wide range of boundary conditions.  FlexDTW allows alignment paths to start anywhere on the bottom or left edge of the cost matrix (adjacent to the origin) and to end anywhere on the top or right edge.  In order to properly compare paths of very different lengths, we use a goodness measure that normalizes the cumulative path cost by the path length.  The key insight of FlexDTW is that the Manhattan length of a path can be computed by simply knowing the starting point of the path, which can be computed recursively during dynamic programming.  We artificially generate a suite of 16 benchmarks based on the Chopin Mazurka dataset in order to characterize audio alignment performance under a variety of boundary conditions.  We show that FlexDTW has consistently strong performance that is comparable or better than commonly used alignment algorithms, and it is the only system with strong performance in some boundary conditions.",
+    "zenodo_id": 10265393,
+    "dblp_key": null
+  },
+  {
+    "title": "Modeling Bends in Popular Music Guitar Tablatures",
+    "author": [
+      "Alexandre D'Hooge",
+      "Louis Bigo",
+      "Ken D\u00e9guernel"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265396",
+    "url": "https://doi.org/10.5281/zenodo.10265396",
+    "ee": "https://zenodo.org/record/10265396/files/000088.pdf",
+    "pages": "741-748",
+    "abstract": "Tablature notation is widely used in popular music to transcribe and share guitar musical content. As a complement to standard score notation, tablatures transcribe performance gesture information including finger positions and a variety of guitar-specific playing techniques such as slides, hammer-on/pull-off or bends. This paper focuses on bends, which enable to progressively shift the pitch of a note, therefore circumventing physical limitations of the discrete fretted fingerboard.\n In this paper, we propose a set of 25 high-level features, computed for each note of the tablature, to study how bend occurrences can be predicted from their past and future short-term context. Experiments are performed on a corpus of 932 lead guitar tablatures of popular music and show that a decision tree successfully predicts bend occurrences with an F1 score of 0.71 and a limited amount of false positive predictions, demonstrating promising applications to assist the arrangement of\nnon-guitar music into guitar tablatures.",
+    "zenodo_id": 10265396,
+    "dblp_key": null
+  },
+  {
+    "title": "Self-Similarity-Based and Novelty-Based Loss for Music Structure Analysis",
+    "author": [
+      "Geoffroy Peeters"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265397",
+    "url": "https://doi.org/10.5281/zenodo.10265397",
+    "ee": "https://zenodo.org/record/10265397/files/000089.pdf",
+    "pages": "749-756",
+    "abstract": "Music Structure Analysis (MSA) is the task aiming at identifying musical segments that compose a music track and possibly label them based on their similarity. \nIn this paper we propose a supervised approach for the task of music boundary detection. In our approach we simultaneously learn features and convolution kernels. \nFor this we jointly optimize \n- a loss based on the Self-Similarity-Matrix (SSM) obtained with the learned features, denoted by SSM-loss, and \n- a loss based on the novelty score obtained applying the learned kernels to the estimated SSM, denoted by novelty-loss. \nWe also demonstrate that relative feature learning, through self-attention, is beneficial for the task of MSA. \nFinally, we compare the performances of our approach to previously proposed approaches on the standard RWC-Pop, and various subsets of SALAMI.",
+    "zenodo_id": 10265397,
+    "dblp_key": null
+  },
+  {
+    "title": "Modeling Harmonic Similarity for Jazz Using Co-occurrence Vectors and the Membrane Area",
+    "author": [
+      "Carey Bunks",
+      "Tillman Weyde",
+      "Simon Dixon",
+      "Bruno Di Giorgi"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265400",
+    "url": "https://doi.org/10.5281/zenodo.10265400",
+    "ee": "https://zenodo.org/record/10265400/files/000090.pdf",
+    "pages": "757-764",
+    "abstract": "In jazz, measuring harmonic similarity is complicated by the common practice of reharmonization -- the altering or substitution of chords without fundamentally changing the piece's harmonic identity. This is analogous to natural language processing tasks where synonymous terms can be used interchangeably without significantly modifying the meaning of a text.  Our approach to modeling harmonic similarity borrows from NLP techniques, such as distributional semantics, by embedding chords into a vector space using a co-occurrence matrix.  We show that the method can robustly detect harmonic similarity between songs, even when reharmonized.  The co-occurrence matrix is computed from a corpus of symbolic jazz-chord progressions, and the result is a map from chords into vectors. A song's harmony can then be represented as a piecewise-linear path constructed from the cumulative sum of its chord vectors.  For any two songs, their harmonic similarity can be measured as the minimal surface membrane area between their vector paths.  Using a dataset of jazz contrafacts, we show that our approach reduces the median rank of matches from 318 to 18 compared to a baseline approach using pitch class vectors.",
+    "zenodo_id": 10265400,
+    "dblp_key": null
+  },
+  {
+    "title": "SingStyle111: A Multilingual Singing Dataset With Style Transfer",
+    "author": [
+      "Shuqi Dai",
+      "Yuxuan Wu",
+      "Siqi Chen",
+      "Roy Huang",
+      "Roger B. Dannenberg"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265401",
+    "url": "https://doi.org/10.5281/zenodo.10265401",
+    "ee": "https://zenodo.org/record/10265401/files/000091.pdf",
+    "pages": "765-773",
+    "abstract": "There has been a persistent lack of publicly accessible data in singing voice research, particularly concerning the diversity of languages and performance styles. In this paper, we introduce SingStyle111, a large studio-quality singing dataset with multiple languages and different singing styles, and present singing style transfer examples. The dataset features 111 songs performed by eight professional singers, spanning 12.8 hours and covering English, Chinese, and Italian. SingStyle111 incorporates different singing styles, such as bel canto opera, Chinese folk singing, pop, jazz, and children. Specifically, 80 songs include at least two distinct singing styles performed by the same singer. All recordings were conducted in professional studios, yielding clean, dry vocal tracks in mono format with a 44.1 kHz sample rate. We have segmented the singing voices into phrases, providing lyrics, performance MIDI, and scores with phoneme-level alignment. We also extracted acoustic features such as Mel-Spectrogram, F0 contour, and loudness curves. This dataset applies to various MIR tasks such as Singing Voice Synthesis, Singing Voice Conversion, Singing Transcription, Score Following, and Lyrics Detection. It is also designed for Singing Style Transfer, including both performance and voice timbre style. We make the dataset freely available for research purposes. Examples and download information can be found at https://shuqid.net/singstyle111.",
+    "zenodo_id": 10265401,
+    "dblp_key": null
+  },
+  {
+    "title": "A Computational Evaluation Framework for Singable Lyric Translation",
+    "author": [
+      "Haven Kim",
+      "Kento Watanabe",
+      "Masataka Goto",
+      "Juhan Nam"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265405",
+    "url": "https://doi.org/10.5281/zenodo.10265405",
+    "ee": "https://zenodo.org/record/10265405/files/000092.pdf",
+    "pages": "774-781",
+    "abstract": "Lyric translation plays a pivotal role in amplifying the global resonance of music, bridging cultural divides, and fostering universal connections. Translating lyrics, unlike conventional translation tasks, requires a delicate balance between singability and semantics. In this paper, we present a computational framework for the quantitative evaluation of singable lyric translation, which seamlessly integrates musical, linguistic, and cultural dimensions of lyrics. Our comprehensive framework consists of four metrics that measure syllable count distance, phoneme repetition similarity, musical structure distance, and semantic similarity. To substantiate the efficacy of our framework, we collected a singable lyrics dataset, which precisely aligns English, Japanese, and Korean lyrics on a line-by-line and section-by-section basis, and conducted a comparative analysis between singable and non-singable lyrics. Our multidisciplinary approach provides insights into the key components that underlie the art of lyric translation and establishes a solid groundwork for the future of computational lyric translation assessment.",
+    "zenodo_id": 10265405,
+    "dblp_key": null
+  },
+  {
+    "title": "Chorus-Playlist: Exploring the Impact of Listening to Only Choruses in a Playlist",
+    "author": [
+      "Kosetsu Tsukuda",
+      "Masahiro Hamasaki",
+      "Masataka Goto"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265403",
+    "url": "https://doi.org/10.5281/zenodo.10265403",
+    "ee": "https://zenodo.org/record/10265403/files/000093.pdf",
+    "pages": "782-792",
+    "abstract": "When people listen to playlists on a music streaming service, they typically listen to each song from start to end in order. However, what if it were possible to use a function to listen to only the choruses of each song in a playlist one after another? In this paper, we call this music listening concept \"chorus-playlist,\" and we investigate its potential impact from various perspectives such as the demand and the objectives for listening to music with chorus-playlist. To this end, we conducted a questionnaire-based online user survey involving 214 participants. Our analysis results suggest reusable insights, including the following: (1) We show a high demand for listening to existing playlists with the chorus-playlist approach. We also reveal preferred options for chorus playback, such as adding crossfade transitions between choruses. (2) People listen to playlists with chorus-playlist for various objectives. For example, when they listen to their own self-made playlists, they want to boost a mood or listen to music in a specific context such as work or driving. (3) There is also a high demand for playlist creation on the premise of continuous listening to only the choruses of the songs in a playlist. The diversities of artists, genres, and moods are more important when creating such a playlist than when creating a usual playlist.",
+    "zenodo_id": 10265403,
+    "dblp_key": null
+  },
+  {
+    "title": "Supporting Musicological Investigations With Information Retrieval Tools: An Iterative Approach to Data Collection",
+    "author": [
+      "David Lewis",
+      "Elisabete Shibata",
+      "Andrew Hankinson",
+      "Johannes Kepper",
+      "Kevin R. Page",
+      "Lisa Rosendahl",
+      "Mark Saccomano",
+      "Christine Siegert"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265407",
+    "url": "https://doi.org/10.5281/zenodo.10265407",
+    "ee": "https://zenodo.org/record/10265407/files/000094.pdf",
+    "pages": "795-801",
+    "abstract": "Digital musicology research often proceeds by extending and enriching its evidence base as it progresses, rather than starting with a complete corpus of data and metadata, as a consequence of an emergent research need.\n\nIn this paper, we consider a research workflow which assumes an incremental approach to data gathering and annotation. We describe tooling which implements parts of this workflow, developed to support the study of nineteenth-century music arrangements, and evaluate the applicability of our approach through interviews with musicologists and music editors who have used the tools. We conclude by considering extensions of this approach and the wider implications for digital musicology and music information retrieval.",
+    "zenodo_id": 10265407,
+    "dblp_key": null
+  },
+  {
+    "title": "Optimizing Feature Extraction for Symbolic Music",
+    "author": [
+      "Federico Simonetta",
+      "Ana Llorens",
+      "Mart\u00edn Serrano",
+      "Eduardo Garc\u00eda-Portugu\u00e9s",
+      "\u00c1lvaro Torrente"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265409",
+    "url": "https://doi.org/10.5281/zenodo.10265409",
+    "ee": "https://zenodo.org/record/10265409/files/000095.pdf",
+    "pages": "802-809",
+    "abstract": "This paper presents a comprehensive investigation of existing feature extraction tools for symbolic music and contrasts their performance to determine the set of features that best characterizes the musical style of a given music score. In this regard, we propose a novel feature extraction tool, named musif, and evaluate its efficacy on various repertoires and file formats, including MIDI, MusicXML, and **kern. Musif approximates existing tools such as jSymbolic and music21 in terms of computational efficiency while attempting to enhance the usability for custom feature development. The proposed tool also enhances classification accuracy when combined with other sets of features. We demonstrate the contribution of each set of features and the computational resources they require. Our findings indicate that the optimal tool for feature extraction is a combination of the best features from each tool rather than those of a single one. To facilitate future research in music information retrieval, we release the source code of the tool and benchmarks.",
+    "zenodo_id": 10265409,
+    "dblp_key": null
+  },
+  {
+    "title": "Exploring Sampling Techniques for Generating Melodies With a Transformer Language Model",
+    "author": [
+      "Mathias Rose Bjare",
+      "Stefan Lattner",
+      "Gerhard Widmer"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265411",
+    "url": "https://doi.org/10.5281/zenodo.10265411",
+    "ee": "https://zenodo.org/record/10265411/files/000096.pdf",
+    "pages": "810-816",
+    "abstract": "Research in natural language processing has demonstrated that the quality of generations from trained autoregressive language models is significantly influenced by the used sampling strategy. In this study, we investigate the impact of different sampling techniques on musical qualities such as diversity and structure. To accomplish this, we train a high-capacity transformer model on a vast collection of highly-structured Irish folk melodies and analyze the musical qualities of the samples generated using distribution truncation sampling techniques. Specifically, we use nucleus sampling, the recently proposed \"typical sampling\", and conventional ancestral sampling. We evaluate the effect of these sampling strategies in two scenarios: optimal circumstances with a well-calibrated model and suboptimal circumstances where we systematically degrade the model\u2019s performance. We assess the generated samples using objective and subjective evaluations. We discover that probability truncation techniques may restrict diversity and structural patterns in optimal circumstances, but may also produce more musical samples in suboptimal circumstances.",
+    "zenodo_id": 10265411,
+    "dblp_key": null
+  },
+  {
+    "title": "Measuring the Eurovision Song Contest: A Living Dataset for Real-World MIR",
+    "author": [
+      "John Ashley Burgoyne",
+      "Janne Spijkervet",
+      "David John Baker"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265415",
+    "url": "https://doi.org/10.5281/zenodo.10265415",
+    "ee": "https://zenodo.org/record/10265415/files/000097.pdf",
+    "pages": "817-823",
+    "abstract": "Every year, several dozen, primarily European, countries, send performers to compete on live television at the Eurovision Song Contest, with the goal of entertaining an international audience of more than 150 million viewers. Each participating country is able to evaluate every other country's performance via a combination of rankings from professional jurors and telephone votes from viewers. Between fan sites and the official Song Contest organisation, a complete historical record of musical performances and country-to-country contest scores is available, back to the very first edition in 1956, and for the most recent contests, there is also information about each individual juror's rankings. In this paper, we introduce MIRoVision, a set of scripts which collates the data from these sources into a single, easy-to-use dataset, and a discrete-choice model to convert the raw contest scores into a stable, interval-scale measure of the quality of Eurovision Song Contest entries across the years. We use this model to simulate contest outcomes from previous editions and compare the results to the implied win probabilities from bookmakers at various online betting markets. We also assess how successful content-based MIR could be at predicting Eurovision outcomes, using state-of-the-art music foundation models. Given its annual recurrence, emphasis on new music and lesser-known artists, and sophisticated voting structure, the Eurovision Song Contest is an outstanding testing ground for MIR algorithms, and we hope that this paper will inspire the community to use the contest as a regular assessment of the strength of modern MIR.",
+    "zenodo_id": 10265415,
+    "dblp_key": null
+  },
+  {
+    "title": "Efficient Supervised Training of Audio Transformers for Music Representation Learning",
+    "author": [
+      "Pablo Alonso-Jim\u00e9nez",
+      "Xavier Serra",
+      "Dmitry Bogdanov"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265414",
+    "url": "https://doi.org/10.5281/zenodo.10265414",
+    "ee": "https://zenodo.org/record/10265414/files/000098.pdf",
+    "pages": "824-831",
+    "abstract": "In this work, we address music representation learning using convolution-free transformers. We build on top of existing spectrogram-based audio transformers such as AST and train our models on a supervised task using patchout training similar to PaSST. In contrast to previous works, we study how specific design decisions affect downstream music tagging tasks instead of focusing on the training task. We assess the impact of initializing the training with different existing weights, using various input audio segment lengths, using learned representations from different blocks and tokens of the transformer for downstream tasks, and applying patchout at inference to speed up feature extraction. We find that 1) initializing the audio training from ImageNet or AudioSet weights and longer input segments are beneficial both for the training and downstream tasks, 2) the best representations for the downstream tasks are located in the middle blocks of the transformer, and 3) using patchout at inference allows faster processing than our convolutional baselines while maintaining superior performance. The resulting models, MAEST, are publicly available and obtain the best performance among open models in music tagging tasks.",
+    "zenodo_id": 10265414,
+    "dblp_key": null
+  },
+  {
+    "title": "A Cross-Version Approach to Audio Representation Learning for Orchestral Music",
+    "author": [
+      "Michael Krause",
+      "Christof Wei\u00df",
+      "Meinard M\u00fcller"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265419",
+    "url": "https://doi.org/10.5281/zenodo.10265419",
+    "ee": "https://zenodo.org/record/10265419/files/000099.pdf",
+    "pages": "832-839",
+    "abstract": "Deep learning systems have become popular for tackling a variety of music information retrieval tasks. However, these systems often require large amounts of labeled data for supervised training, which can be very costly to obtain. To alleviate this problem, recent papers on learning music audio representations employ alternative training strategies that utilize unannotated data.\nIn this paper, we introduce a novel cross-version approach to audio representation learning that can be used with music datasets containing several versions (performances) of a musical work. Our method exploits the correspondences that exist between two versions of the same musical section.\nWe evaluate our proposed cross-version approach qualitatively and quantitatively on complex orchestral music recordings and show that it can better capture aspects of instrumentation compared to techniques that do not use cross-version information.",
+    "zenodo_id": 10265419,
+    "dblp_key": null
+  },
+  {
+    "title": "Music Source Separation With MLP Mixing of Time, Frequency, and Channel",
+    "author": [
+      "Tomoyasu Nakano",
+      "Masataka Goto"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265417",
+    "url": "https://doi.org/10.5281/zenodo.10265417",
+    "ee": "https://zenodo.org/record/10265417/files/000100.pdf",
+    "pages": "840-847",
+    "abstract": "This paper proposes a new music source separation (MSS) model based on an architecture with MLP-Mixer that leverages multilayer perceptrons (MLPs). Most of the recent MSS techniques are based on architectures with CNNs, RNNs, and attention-based transformers that take waveforms or complex spectrograms or both as inputs. For the growth of the research field, we believe it is important to study not only the current established methodologies but also diverse perspectives. Therefore, since the MLP-Mixer-based architecture has been reported to perform as well as or better than architectures with CNNs and transformers in the computer vision field despite the MLP's simple computation, we report a way to effectively apply such an architecture to MSS as a reusable insight. In this paper we propose a model called TFC-MLP, which is a variant of the MLP-Mixer architecture that preserves time-frequency positional relationships and mixes time, frequency, and channel dimensions separately, using complex spectrograms as input. The TFC-MLP was evaluated with source-to-distortion ratio (SDR) using the MUSDB18-HQ dataset. Experimental results showed that the proposed model can achieve competitive SDRs when compared with state-of-the-art MSS models.",
+    "zenodo_id": 10265417,
+    "dblp_key": null
+  },
+  {
+    "title": "Symbolic Music Representations for Classification Tasks: A Systematic Evaluation",
+    "author": [
+      "Huan Zhang",
+      "Emmanouil Karystinaios",
+      "Simon Dixon",
+      "Gerhard Widmer",
+      "Carlos Eduardo Cancino-Chac\u00f3n"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265421",
+    "url": "https://doi.org/10.5281/zenodo.10265421",
+    "ee": "https://zenodo.org/record/10265421/files/000101.pdf",
+    "pages": "848-858",
+    "abstract": "Music Information Retrieval (MIR) has seen a recent surge in deep learning-based approaches, which often involve encoding symbolic music (i.e., music represented in terms of discrete note events) in an image-like or language-like fashion. However, symbolic music is neither an image nor a sentence intrinsically, and research in the symbolic domain is lacking a comprehensive overview of the different available representations. In this paper, we investigate matrix (piano roll), sequence, and graph representations and their corresponding neural architectures, in combination with symbolic scores and performances on three piece-level classification tasks. We also introduce a novel graph representation for symbolic performances and explore the capability of graph representations in global classification tasks. Our systematic evaluation shows advantages and limitations of each input representation.",
+    "zenodo_id": 10265421,
+    "dblp_key": null
+  },
+  {
+    "title": "The Music Meta Ontology: A Flexible Semantic Model for the Interoperability of Music Metadata",
+    "author": [
+      "Jacopo de Berardinis",
+      "Valentina Anita Carriero",
+      "Albert Mero\u00f1o-Pe\u00f1uela",
+      "Andrea Poltronieri",
+      "Valentina Presutti"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265423",
+    "url": "https://doi.org/10.5281/zenodo.10265423",
+    "ee": "https://zenodo.org/record/10265423/files/000102.pdf",
+    "pages": "859-867",
+    "abstract": "The semantic description of music metadata is a key requirement for the creation of music datasets that can be aligned, integrated, and accessed for information retrieval and knowledge discovery. It is nonetheless an open challenge due to the complexity of musical concepts arising from different genres, styles, and periods \u2013 standing to benefit from a lingua franca to accommodate various stakeholders (musicologists, librarians, data engineers, etc.). To initiate this transition, we introduce the Music Meta ontology, a rich and flexible semantic model to describe music metadata related to artists, compositions, performances, recordings, and links. We follow eXtreme Design methodologies and best practices for data engineering, to reflect the perspectives and the requirements of various stakeholders into the design of the model, while leveraging ontology design patterns and accounting for provenance at different levels (claims, links). After presenting the main features of Music Meta, we provide a first evaluation of the model, alignments to other schema (Music Ontology, DOREMUS, Wikidata), and support for data transformation.",
+    "zenodo_id": 10265423,
+    "dblp_key": null
+  },
+  {
+    "title": "Polar Manhattan Displacement: Measuring Tonal Distances Between Chords Based on Intervallic Content",
+    "author": [
+      "Jeff Miller",
+      "Johan Pauwels",
+      "Mark Sandler"
+    ],
+    "year": "2023",
+    "doi": "10.5281/zenodo.10265427",
+    "url": "https://doi.org/10.5281/zenodo.10265427",
+    "ee": "https://zenodo.org/record/10265427/files/000103.pdf",
+    "pages": "868-874",
+    "abstract": "Large-scale studies of musical harmony are often hampered by lack of suitably labelled data. It would be highly advantageous if an algorithm were able to autonomously describe chords, scales, etc. in a consistent and musically informative way. In this paper, we revisit tonal interval vectors (TIVs), which reveal certain insights as to the interval and tonal nature of pitch class sets. We then describe the qualities and criteria required to comprehensively and consistently measure displacements between TIVs. Next, we present the Polar Manhattan Displacement (PMD), a compound magnitude and phase measure for describing the displacements between pitch class sets in a tonally-informed manner. We end by providing examples of how PMD can be used in automated harmonic sequence analysis over a complex chord vocabulary.",
+    "zenodo_id": 10265427,
+    "dblp_key": null
+  }
+]
