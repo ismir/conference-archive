@@ -27,15 +27,9 @@ $ ./scripts/upload_to_zenodo.py \
 import argparse
 from joblib import Parallel, delayed
 import json
-import logging
-import os
 import random
-import sys
-
 import zen.api
 import zen.models
-
-logger = logging.getLogger("upload_to_zenodo")
 
 
 def upload(ismir_paper, conferences, stage=zen.DEV):
@@ -55,7 +49,7 @@ def upload(ismir_paper, conferences, stage=zen.DEV):
     Returns
     -------
     updated_paper : zen.models.IsmirPaper
-        An updated IMSIR paper object.
+        An updated ISMIR paper object.
     """
     ismir_paper = zen.models.IsmirPaper(**ismir_paper)
     conf = zen.models.IsmirConference(**conferences[ismir_paper['year']])
@@ -63,14 +57,14 @@ def upload(ismir_paper, conferences, stage=zen.DEV):
     if not ismir_paper['zenodo_id']:
         # New submission
         zid = zen.create_id(stage=stage)
+        upload_response = zen.upload_file(zid, ismir_paper['ee'], stage=stage)
     else:
         # Update mode
         #  * If the checksum is different, re-upload the pdf
         #  * Update the metadata regardless
-        pass
+        zid = ismir_paper['zenodo_id']
 
-    upload_response = zen.upload_file(zid, ismir_paper['ee'], stage=stage)
-    ismir_paper['ee'] = upload_response['links']['download']
+    ismir_paper['ee'] = f'https://zenodo.org/record/{zid}/files/{ismir_paper["ee"].split("/")[-1]}'
 
     # TODO: Should be a package function
     zenodo_meta = zen.models.merge(
@@ -96,6 +90,7 @@ def archive(proceedings, conferences, stage=zen.DEV, num_cpus=-2, verbose=0):
 
 
 if __name__ == '__main__':
+    import logging
     logging.basicConfig(level=logging.DEBUG)
     parser = argparse.ArgumentParser(description=__doc__)
 
@@ -134,5 +129,3 @@ if __name__ == '__main__':
 
     with open(args.output_file, 'w') as fp:
         json.dump(results, fp, indent=2)
-
-    sys.exit(0 if os.path.exists(args.output_file) else 1)

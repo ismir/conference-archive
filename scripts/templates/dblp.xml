@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE dblpsubmission SYSTEM "https://dblp.org/xml/subm/dblpsubmission.dtd">
+<dblpsubmission>
+    <proceedings>{% set numeric_year = year | int %}
+        <key>ismir{{ year }}</key>
+        {%- for editor in meta.editors %}
+        <editor>{{ editor }}</editor>
+        {%- endfor %}
+        <title>{{ meta.partof_title}}</title>
+        <publisher>ISMIR</publisher>
+        <year>{{ year }}</year>
+        <isbn>{{ meta.imprint_isbn }}</isbn>
+        <doi>{{ meta.doi }}</doi>
+        <conf>
+            <acronym>{{ meta.conference_acronym }}</acronym>
+            <number>{{ numeric_year - 1999 }}</number>
+            <location>{{ meta.conference_place }}</location>
+            <date>{{ meta.conference_dates }}</date>
+            <url>{{ meta.conference_url}}</url>
+        </conf>
+        <series>
+            <key>ismir</key>
+            <title>International Society for Music Information Retrieval Conference</title>
+            <number>{{ numeric_year - 1999 }}</number>
+        </series>
+        <toc>
+            {%- for publication in publications %}
+            <publ>
+                {%- for author in publication.author %}
+                <author>{{ author }}</author>
+                {%- endfor %}
+                <title>{{ publication.title }}</title>
+                <pages>{{ publication.pages }}</pages>
+                <doi>{{ publication.doi }}</doi>
+            </publ>
+            {%- endfor %}
+        </toc>
+    </proceedings>
+</dblpsubmission>

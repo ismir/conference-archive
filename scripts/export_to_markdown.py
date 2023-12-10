@@ -17,48 +17,30 @@ $ seq -w 00 18 | \
         assets/md/ismir20{}.md --page_sort"
 """
 import argparse
-import copy
 import json
-import os
-import sys
-
-TEMPLATE = '''
----
-title: Conferences
----
-
-## [Conferences](/conferences) / ISMIR {year}
-
-| Papers |
-| --- |
-'''
+from pathlib import Path
+import jinja2
 
 
-def render_one(record):
-    record = copy.deepcopy(record)
-    record['url'] = record.get('url', '')
-    record['ee'] = record.get('ee', '')
-
-    if isinstance(record['author'], list):
-        authors = ', '.join(record['author'])
-    else:
-        authors = record['author']
-
-    pages = record.pop('pages', '') + ' '
-
-    return ('|{0}<br>**[{title}]({url})** {1}[[pdf]({ee})]|'
-            .format(authors, pages, **record))
-
-
-def render(records, year=None, page_sort=False):
+def render(records, conferences, year=None, page_sort=False):
     if year is not None:
-        records = filter(lambda x: x['year'] == year, records)
+        records = filter(lambda x: x['year'] == str(year), records)
+    else:
+        year = int(records[0]['year'])
 
     if page_sort:
         records = sorted(records, key=lambda x: int(x['pages'].split('-')[0]))
 
-    lines = [render_one(record) for record in records]
-    return '\n'.join([TEMPLATE] + lines)
+    PATH = Path(__file__).absolute().parent
+    template_env = jinja2.Environment(loader=jinja2.FileSystemLoader(PATH / 'templates'))
+
+    template = template_env.get_template('ismir_proceedings.md')
+    context = {
+        'meta': conferences[str(year)],
+        'year': year,
+        'publications': records
+    }
+    return template.render(context)
 
 
 if __name__ == '__main__':
@@ -67,15 +49,18 @@ if __name__ == '__main__':
     # Inputs
     parser.add_argument("proceedings", type=str,
                         help="Path to proceedings records.")
+    parser.add_argument("conferences", type=str,
+                        help="Path to conferences.json.")
     parser.add_argument("output_file", type=str,
                         help="Path to output markdown file.")
     parser.add_argument("--page_sort", dest="page_sort", action='store_true',
-                        help="Path to output markdown file.")
+                        help="Sort records following page numbers.")
 
     args = parser.parse_args()
-    proceedings = json.load(open(args.proceedings)) # 'encoding' = 'utf-8' might need to be added based on the encoding
+    with open(args.proceedings) as f:
+        proceedings = json.load(f)
+    with open(args.conferences) as f:
+        conferences = json.load(f)
 
     with open(args.output_file, 'w') as fp:
-        fp.write(render(proceedings, page_sort=args.page_sort))
-
-    sys.exit(0 if os.path.exists(args.output_file) else 1)
+        fp.write(render(proceedings, conferences, page_sort=args.page_sort))

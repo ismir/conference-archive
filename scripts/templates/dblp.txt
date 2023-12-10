@@ -1,9 +1,11 @@
 <title>{{ meta.partof_title}}, {{ meta.conference_acronym }}, {{ meta.conference_place }}, {{ meta.conference_dates }}</title>
 <booktitle>ISMIR {{ year }}</booktitle>
-<editor>[FILL IN MANUALLY]</editor>
-<publisher></publisher>
-<series></series>
-<volume></volume>
+{%- for editor in meta.editors %}
+<editor>{{ editor }}</editor>
+{%- endfor %}
+<publisher>ISMIR</publisher>
+<series>International Society for Music Information Retrieval Conference</series>
+{% set numeric_year = year | int %}<volume>{{ numeric_year - 1999 }}</volume>
 <year>{{ year }}</year>
 <issn></issn>
 <isbn>{{ meta.imprint_isbn }}</isbn>
@@ -11,7 +13,7 @@
 <h2>Papers</h2>
 <ul>
 {%- for publication in publications %}
-<li>{{ publication.authors }}:
+<li>{{ publication.author|join(", ")  }}:
 {{ publication.title }}.
 {{ publication.pages }}
 <ee>{{ publication.ee }}</ee>
