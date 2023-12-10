@@ -64,22 +64,22 @@ class IsmirConference(Record):
     '''ISMIR Conference Metadata Object'''
 
     FIELDS = ['conference_dates', 'conference_place', 'imprint_place', 'conference_title',
-              'partof_title', 'publication_date', 'imprint_isbn', 'conference_acronym',
+              'partof_title', 'publication_date', 'imprint_isbn', 'doi', 'conference_acronym',
               'conference_url', 'imprint_publisher', 'upload_type', 'publication_type',
-              'access_right', 'license']
+              'access_right', 'license', 'editors']
 
     def __init__(self, conference_dates, conference_place, imprint_place, conference_title,
-                 partof_title, publication_date, imprint_isbn, conference_acronym,
+                 partof_title, publication_date, imprint_isbn, doi, conference_acronym,
                  conference_url, imprint_publisher, upload_type, publication_type,
-                 access_right, license):
+                 access_right, license, editors):
         super().__init__(
             conference_dates=conference_dates, conference_place=conference_place,
             imprint_place=imprint_place, conference_title=conference_title,
             partof_title=partof_title, publication_date=publication_date,
-            imprint_isbn=imprint_isbn, conference_acronym=conference_acronym,
+            imprint_isbn=imprint_isbn, doi=doi, conference_acronym=conference_acronym,
             conference_url=conference_url, imprint_publisher=imprint_publisher,
             upload_type=upload_type, publication_type=publication_type,
-            access_right=access_right, license=license)
+            access_right=access_right, license=license, editors=editors)
 
 
 def merge(cls, *entities, **fields):
