@@ -1,108 +1,51 @@
-# conference-archive
-Tools for archiving conference proceedings, snapshots of metadata.
+# ISMIR 202x Conference Archival
 
+This readme explains the process of migrating proceedings and information for ISMIR 202x conference to persistent web properties for posterity.
 
-## What's going on here?
+For any questions about these scripts (202x edition), please write to Johan Pauwels at [j.pauwels@qmul.ac.uk](mailto:j.pauwels@qmul.ac.uk)
 
-This repository consists of two different components:
-
-- **Data**: Single source of ground truth for proceedings' metadata, citation records, and DOIs.
-- **Tooling:** Software to index proceedings, interface with Zenodo, and convert metadata to markdown for display on the web (DBLP, ISMIR).
-
-## JSON Databases
-
-There are two types of database files maintained in this repository:
-
-* Conference proceedings (one per conference)
-* Conference metadata
-
-### Conference Proceedings
-
-The proceedings metadata of each conference contains an array of records conforming to the `IsmirPaper` entity type, defined in `zen.models`.
-
-Each record looks like the following:
+## Conference metadata
+The conference metadata for ISMIR needs to be generated manually and added to https://github.com/ismir/conference-archive/blob/master/database/conferences.json This file is an input to the steps that follow.
 
 ```json
-{
-  "author": "Susan Music",
-  "title": "The first ISMIR paper",
-  "year": "2000",
-  "crossref": "conf/ismir/2000",
-  "booktitle": "ISMIR",
-  "ee": "https://zenodo.org/record/1416260/files/Music00.pdf",
-  "url": "https://doi.org/10.5281/zenodo.1416260",
-  "zenodo_id": 1416260,
-  "dblp_key": "conf/ismir/MusicS00",
-  "doi": "10.5281/zenodo.1416260",
-  "abstract": "..."
-}
+   {
+        "conference_dates": "Month 1-31, 202x",
+        "conference_place": "City, Country",
+        "imprint_place": "City, country",
+        "conference_title": "International Society for Music Information Retrieval Conference",
+        "partof_title": "Proceedings of the Nth International Society for Music Information Retrieval Conference",
+        "publication_date": "202x-mm-dd",
+        "imprint_isbn": "978-1-7327299-3-3",
+        "doi": "10.5281/zenodo.xxxxxxxx",
+        "conference_acronym": "ISMIR 202x",
+        "conference_url": "https://ismir202x.ismir.net",
+        "imprint_publisher": "ISMIR",
+        "upload_type": "publication",
+        "publication_type": "conferencepaper",
+        "access_right": "open",
+        "license": "CC-BY-4.0",
+        "editors": [
+            "Some Person",
+            "Another Person",
+        ]
+    }
 ```
 
-### Conference metadata
+## Conference archival
+It is assumed that you have used the [proceedings-builder](https://github.com/ismir/proceedings-builder) repository and successfully completed all the steps described for [202x edition](https://github.com/ismir/proceedings-builder/blob/master/202x_scripts/README.md). We assume that the `proceeding-builder` repo is checked out in the same directory as this one, i.e. that its path is `../proceedings-builder` when in the root of this repo.
 
-The metadata for all conferences is contained in an object of records conforming to the `IsmirConference` entity type, defined in `zen.models`, keyed by year (as a `string`, because an `int` cannot be a key in a JSON object).
+We need the following files:
+1. A final JSON of proceedings metadata, generated using the proceedings builder. It will have the doi and url links empty, which will be added when we run the archiving tools below. In the scripts below, which need to be run from the root of this repo, this input JSON is stored at `../proceedings-builder/202x_Proceedings_ISMIR/metadata_final/202x_input.json`
+2. Set of final PDF files split from the full proceedings in a single folder, also generated using the proceedings builder. These files will be archived on Zenodo and a DOI will be assigned to each of them. In the steps below, this input folder with PDFs is assumed to be `../proceedings-builder/202x_Proceedings_ISMIR/split_articles/`.
 
-Each key-record pair looks like the following:
+### Step-1: Upload to ISMIR archives
+While the official archive of the papers is Zenodo, we also maintain an archive on [archives.ismir.net](archives.ismir.net) for historical reasons mostly and hosting during the conference. The PDFs are usually added with the filename template: `https://archives.ismir.net/ismir<year>/paper/<paperID>.pdf`. Please get in touch with the ISMIR board or the ISMIR tech team to add the files to the ISMIR archive. The complete proceedings PDF also needs to be added to the archive, e.g. [Full ISMIR 2021 proceedings PDF on ISMIR archive](http://archives.ismir.net/ismir2021/2021_Proceedings_ISMIR.pdf)
 
-```json
-{
-  "2018":{
-    "conference_dates": "September 23-27, 2018",
-    "conference_place": "Paris, France",
-    "imprint_place": "Paris, France",
-    "conference_title": "International Society for Music Information Retrieval Conference",
-    "partof_title": "Proceedings of the 19th International Society for Music Information Retrieval Conference",
-    "publication_date": "2018-09-23",
-    "imprint_isbn": "978-2-9540351-2-3",
-    "conference_acronym": "ISMIR 2018",
-    "conference_url": "http://ismir2018.ismir.net",
-    "imprint_publisher": "ISMIR",
-    "upload_type": "publication",
-    "publication_type": "conferencepaper",
-    "access_right": "open",
-    "license": "CC-BY-4.0"
-  }
-  ...
-}
-```
+The following steps can use the PDF files from your local computer, e.g. `../proceedings-builder/202x_Proceedings_ISMIR/split_articles/` or from the ISMIR archives `https://archives.ismir.net/ismir<year>/paper/`, but will read the path to the PDF from the input metadata JSON (`../proceedings-builder/202x_Proceedings_ISMIR/metadata_final/202x.json`) using the `"ee"` key. So, please ensure the key points to the right path in the input JSON before running the following steps.
 
-## Workflow
+### Step-2: Upload to Zenodo and generate DOI
 
-This workflow aims to migrate proceedings and information for a year's conference to persistent web properties for posterity. At a high level, this looks like the following:
-
-![](https://github.com/ismir/conference-archive/blob/master/img/proceedings-archive-flow.png)
-
-
-### 1. Produce Databases
-
-There are a mix of ways to produce the necessary data structures:
-
-a. Parse proceedings metadata from the conference submission system, e.g. SoftConf
-b. Crawl the conference website
-c. Manual effort
-
-In the future, these files could be more efficiently produced via the [proceedings-builder](https://github.com/ismir/proceedings-builder) repository.
-
-
-### 2. Extract Abstracts
-
-Extracting the abstracts from the PDF is done in an semi-automatic fashion.
-
-For example, to extract the abstracts for 2017, call:
-
-```python
-extract_pdf_abstract.py ../database/proceedings/2017.json ../database/pdfs/2017
-```
-
-By using some heuristics (e.g., maximum abstract length < 1500 characters), the extracted
-abstract is verified and special UTF-8 characters introduced by the typesetting system
-are removed.
-
-Finally, the abstract is saved in the respective proceedings JSON.
-This pipeline heavily relies on the way the PDF was created and only works
-for the proceedings after 20xx.
-
-### 3. Zenodo Uploader
+The high level process is to upload each PDF to Zenodo using the Zenodo API and generate a DOI for it. With the assigned DOI, we can update metadata JSON with the DOI and Zenodo URL to generate a final metadata JSON complete in all respects. The final updated metadata JSON is then added to `../database/proceedings/202x.json` for posterity.
 
 You must set / export two environment variables for access to Zenodo;
 
@@ -113,43 +56,57 @@ export ZENODO_TOKEN_DEV=<SANDBOX_TOKEN>
 
 To create / retrieve a token, proceed to Zenodo's developer [portal](https://zenodo.org/account/settings/applications/tokens/new/).
 
-Zenodo provides a [sandbox website](https://sandbox.zenodo.org) that is wholly disjoint from the [mainline service](https://sandbox.zenodo.org). We use the former for development and staging, and the latter for production.
+Zenodo provides a [sandbox website](https://sandbox.zenodo.org) that is wholly disjoint from the [mainline service](https://sandbox.zenodo.org). We use the former for development and staging, and the latter for production. When you understand how upload works, try out with the sandbox version to familiarize yourself and check all metadata.
 
-This can be called via the following:
-
-```bash
-$ ./scripts/upload_to_zenodo.py \
-    data/new-proceedings.json \
-    data/conferences.json \
-    --output_file updated-proceedings.json \
+```
+# Test with a run like this
+$ python ./scripts/upload_to_zenodo.py \
+    ../proceedings-builder/202x_Proceedings_ISMIR/metadata_final/202x.json \
+    database/conferences.json \
+    database/proceedings/202x.json \
     --stage dev \
     --verbose 50 \
     --num_cpus -2 \
-    --max_items 10
+    --max_items 2
 ```
 
-Note that when uploading to production, the output proceedings file should overwrite (update) the input. Specifying alternative output files is helpful for staging and testing that things behave as expected.
+Caveat: `upload_to_zenodo.py` is not very stable and please ensure you test it out thoroughly with a few files in `"dev"` before running it over the entire proceedings PDFs. These checks cannot be emphasized enough since we cannot delete the DOI once assigned in `"prod"` mode and it clutters up the Zenodo archive badly.
 
+Once tested, upload with `--stage prod` and remove `--max_items`.
 
-### 4. Export to Markdown
+Check the output json updated with zenodo paths `../database/proceedings/202x.json` and commit it to the repo (rename the file to the current year first).
 
+Here is an example of a paper from ISMIR 2021 proceedings archived on Zenodo: https://zenodo.org/record/5625696#.Yt-eu-wzb_0
+
+Follow the same process as a single paper, but manually upload the entire proceedings PDF to Zenodo as well and add the right tags, e.g. here is the final proceedings PDF archived on Zenodo: https://zenodo.org/record/5776687#.Yt-eAewzb_0
+
+### Step-3: Export to Markdown/DBLP
 Once proceedings have been uploaded to Zenodo (and the corresponding URLs have been generated), the proceedings metadata can be exported to markdown for serving on the web, e.g. DBLP, the ISMIR homepage, etc.
 
-```bash
-$ ./scripts/export_to_markdown.py \
-    updated-proceedings.json \
-    proceedings.md
+For the website, we need to generate [the proceedings markdown file](https://github.com/ismir/ismir-home/blob/master/docs/conferences/ismir2021.md) that will then produce the page [https://www.ismir.net/conferences/ismir2021.html](https://www.ismir.net/conferences/ismir2021.html).
+
+To do this, run,
 ```
-
-TODO[@ejhumphrey]: This is forward facing, and the export tools must be updated for the modern record schema.
-
-
-## Development
-
-### Running Tests
-
-After installing `py.test` and `pytest-cov`, run tests and check coverage locally.
-
-```bash
-$ PYTHONPATH=.:scripts py.test -vs tests --cov zen scripts
+$ python ./scripts/export_to_markdown.py \
+    ./database/proceedings/202x.json \
+    ./database/conferences.json \
+    ismir202x.md
 ```
+and then copy `ismir202x.md` to the `ismir-home` repository.
+
+To generate DBLP metadata file to be added to DBLP database, you can run
+
+```
+$ python ./scripts/generate_dblp.py \
+    ./database/conferences.json \
+    ./database/proceedings/202x.json \
+    ./database/proceedings/202x_dblp.xml
+```
+The result is an XML file with [syntax as described on the DBLP site](https://dblp.org/faq/1474621.html).
+
+
+### Step-4: Merge, Approve, Register
+
+Send a pull request with the `ismir202x.md` to the [ISMIR website repo](https://github.com/jpauwels/ismir-home). Then send `database/proceedings/202x_dblp.xml` to Meinard Müller, who has a contact at DBLP to get the proceedings added. Finally, contact the ISMIR tech team who can add the full proceedings PDF and individual paper PDF on Zenodo to the ["ISMIR" community on Zenodo](https://zenodo.org/communities/ismir).
+
+This completes the archival of proceedings for ISMIR!
