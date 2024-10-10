@@ -1304,12 +1304,12 @@
       "Gy\u00f6rgy Fazekas"
     ],
     "year": "2023",
-    "doi": "10.5281/zenodo.10265377",
-    "url": "https://doi.org/10.5281/zenodo.10265377",
-    "ee": "https://zenodo.org/record/10265377/files/000079.pdf",
+    "doi": "10.5281/zenodo.13916489",
+    "url": "https://doi.org/10.5281/zenodo.13916489",
+    "ee": "https://zenodo.org/record/13916489/files/000079.pdf",
     "pages": "667-675",
     "abstract": "This paper introduces GlOttal-flow LPC Filter (GOLF), a novel method for singing voice synthesis (SVS) that exploits the physical characteristics of the human voice using differentiable digital signal processing. GOLF employs a glottal model as the harmonic source and IIR filters to simulate the vocal tract, resulting in an interpretable and efficient approach. We show it is competitive with state-of-the-art singing voice vocoders, requiring fewer synthesis parameters and less memory to train, and runs an order of magnitude faster for inference. Additionally, we demonstrate that GOLF can model the phase components of the human voice, which has immense potential for rendering and analysing singing voices in a differentiable manner. Our results highlight the effectiveness of incorporating the physical properties of the human voice mechanism into SVS and underscore the advantages of signal-processing-based approaches, which offer greater interpretability and efficiency in synthesis.",
-    "zenodo_id": 10265377,
+    "zenodo_id": 13916489,
     "dblp_key": null
   },
   {
