@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE dblpsubmission SYSTEM "https://dblp.org/xml/subm/dblpsubmission.dtd">
+<dblpsubmission>
+    <proceedings>
+        <key>ismir2024</key>
+        <editor>Blair Kaneshiro</editor>
+        <editor>Gautham Mysore</editor>
+        <editor>Oriol Nieto</editor>
+        <editor>Chris Donahue</editor>
+        <editor>Cheng-Zhi Anna Huang</editor>
+        <editor>Jin Ha Lee</editor>
+        <editor>Brian McFee</editor>
+        <editor>Matthew McCallum</editor>
+        <title>Proceedings of the 25th International Society for Music Information Retrieval Conference</title>
+        <publisher>ISMIR</publisher>
+        <year>2024</year>
+        <isbn>978-1-7327299-4-0</isbn>
+        <doi>10.5281/zenodo.14876841</doi>
+        <conf>
+            <acronym>ISMIR 2024</acronym>
+            <number>25</number>
+            <location>San Francisco, California, USA and Online</location>
+            <date>November 10-14, 2024</date>
+            <url>https://ismir2024.ismir.net</url>
+        </conf>
+        <series>
+            <key>ismir</key>
+            <title>International Society for Music Information Retrieval Conference</title>
+            <number>25</number>
+        </series>
+        <toc>
+            <publ>
+                <author>Zeng Ren</author>
+                <author>Yannis Rammos</author>
+                <author>Martin A. Rohrmeier</author>
+                <title>Formal Modeling of Structural Repetition Using Tree Compression</title>
+                <pages>53-60</pages>
+                <doi>10.5281/zenodo.14877282</doi>
+            </publ>
+            <publ>
+                <author>Adithi Shankar</author>
+                <author>Genís Plaja-Roglans</author>
+                <author>Thomas Nuttall</author>
+                <author>Martín Rocamora</author>
+                <author>Xavier Serra</author>
+                <title>Saraga Audiovisual: A Large Multimodal Open Data Collection for the Analysis of Carnatic Music</title>
+                <pages>61-69</pages>
+                <doi>10.5281/zenodo.14877279</doi>
+            </publ>
+            <publ>
+                <author>Xingjian Du</author>
+                <author>Mingyu Liu</author>
+                <author>Pei Zou</author>
+                <author>Xia Liang</author>
+                <author>Zijie Wang</author>
+                <author>Huidong Liang</author>
+                <author>Bilei Zhu</author>
+                <title>X-Cover: Better Music Version Identification System by Integrating Pretrained ASR Model</title>
+                <pages>70-77</pages>
+                <doi>10.5281/zenodo.14877280</doi>
+            </publ>
+            <publ>
+                <author>Emmanuel Deruty</author>
+                <title>Harmonic and Transposition Constraints Arising From the Use of the Roland TR-808 Bass Drum</title>
+                <pages>78-85</pages>
+                <doi>10.5281/zenodo.14877286</doi>
+            </publ>
+            <publ>
+                <author>Hitoshi Suda</author>
+                <author>Shunsuke Yoshida</author>
+                <author>Tomohiko Nakamura</author>
+                <author>Satoru Fukayama</author>
+                <author>Jun Ogata</author>
+                <title>FruitsMusic: A Real-World Corpus of Japanese Idol-Group Songs</title>
+                <pages>86-94</pages>
+                <doi>10.5281/zenodo.14877287</doi>
+            </publ>
+            <publ>
+                <author>Marios Glytsos</author>
+                <author>Christos Garoufis</author>
+                <author>Athanasia Zlatintsi</author>
+                <author>Petros Maragos</author>
+                <title>Classical Guitar Duet Separation Using GuitarDuets - A Dataset of Real and Synthesized Guitar Recordings</title>
+                <pages>95-102</pages>
+                <doi>10.5281/zenodo.14877285</doi>
+            </publ>
+            <publ>
+                <author>Ziya Zhou</author>
+                <author>Yuhang Wu</author>
+                <author>Zhiyue Wu</author>
+                <author>Xinyue Zhang</author>
+                <author>Ruibin Yuan</author>
+                <author>Yinghao Ma</author>
+                <author>Lu Wang</author>
+                <author>Emmanouil Benetos</author>
+                <author>Wei Xue</author>
+                <author>Yike Guo</author>
+                <title>Can LLMs "Reason" in Music? an Evaluation of LLMs' Capability of Music Understanding and Generation</title>
+                <pages>103-110</pages>
+                <doi>10.5281/zenodo.14877281</doi>
+            </publ>
+            <publ>
+                <author>Marco Pasini</author>
+                <author>Stefan Lattner</author>
+                <author>George Fazekas</author>
+                <title>Music2Latent: Consistency Autoencoders for Latent Audio Compression</title>
+                <pages>111-119</pages>
+                <doi>10.5281/zenodo.14877289</doi>
+            </publ>
+            <publ>
+                <author>Johannes Zeitler</author>
+                <author>Ben Maman</author>
+                <author>Meinard Müller</author>
+                <title>Robust and Accurate Audio Synchronization Using Raw Features From Transcription Models</title>
+                <pages>120-127</pages>
+                <doi>10.5281/zenodo.14877291</doi>
+            </publ>
+            <publ>
+                <author>Takayuki Nakatsuka</author>
+                <author>Masahiro Hamasaki</author>
+                <author>Masataka Goto</author>
+                <title>Harnessing the Power of Distributions: Probabilistic Representation Learning on Hypersphere for Multimodal Music Information Retrieval</title>
+                <pages>128-136</pages>
+                <doi>10.5281/zenodo.14877293</doi>
+            </publ>
+            <publ>
+                <author>Andrew M. Demetriou</author>
+                <author>Jaehun Kim</author>
+                <author>Sandy Manolios</author>
+                <author>Cynthia Liem</author>
+                <title>Towards Automated Personal Value Estimation in Song Lyrics</title>
+                <pages>137-145</pages>
+                <doi>10.5281/zenodo.14877295</doi>
+            </publ>
+            <publ>
+                <author>Simon Rouard</author>
+                <author>Yossi Adi</author>
+                <author>Jade Copet</author>
+                <author>Axel Roebel</author>
+                <author>Alexandre Defossez</author>
+                <title>Audio Conditioning for Music Generation via Discrete Bottleneck Features</title>
+                <pages>146-153</pages>
+                <doi>10.5281/zenodo.14877297</doi>
+            </publ>
+            <publ>
+                <author>Chenyu Gao</author>
+                <author>Federico Reuben</author>
+                <author>Tom Collins</author>
+                <title>Variation Transformer: New Datasets, Models, and Comparative Evaluation for Symbolic Music Variation Generation</title>
+                <pages>154-163</pages>
+                <doi>10.5281/zenodo.14877299</doi>
+            </publ>
+            <publ>
+                <author>Vjosa Preniqi</author>
+                <author>Iacopo Ghinassi</author>
+                <author>Julia Ive</author>
+                <author>Kyriaki Kalimeri</author>
+                <author>Charalampos Saitis</author>
+                <title>Automatic Detection of Moral Values in Music Lyrics</title>
+                <pages>164-172</pages>
+                <doi>10.5281/zenodo.14877301</doi>
+            </publ>
+            <publ>
+                <author>Sebastian Strahl</author>
+                <author>Meinard Müller</author>
+                <title>Semi-Supervised Piano Transcription Using Pseudo-Labeling Techniques</title>
+                <pages>173-181</pages>
+                <doi>10.5281/zenodo.14877303</doi>
+            </publ>
+            <publ>
+                <author>Huiran Yu</author>
+                <author>Zhiyao Duan</author>
+                <title>Note-Level Transcription of Choral Music</title>
+                <pages>182-188</pages>
+                <doi>10.5281/zenodo.14877305</doi>
+            </publ>
+            <publ>
+                <author>Tsung-Ping Chen</author>
+                <author>Kazuyoshi Yoshii</author>
+                <title>Learning Multifaceted Self-Similarity Over Time and Frequency for Music Structure Analysis</title>
+                <pages>189-197</pages>
+                <doi>10.5281/zenodo.14877309</doi>
+            </publ>
+            <publ>
+                <author>Antonin Gagneré</author>
+                <author>Slim Essid</author>
+                <author>Geoffroy Peeters</author>
+                <title>A Contrastive Self-Supervised Learning Scheme for Beat Tracking Amenable to Few-Shot Learning</title>
+                <pages>198-206</pages>
+                <doi>10.5281/zenodo.14877308</doi>
+            </publ>
+            <publ>
+                <author>Morgan Buisson</author>
+                <author>Brian McFee</author>
+                <author>Slim Essid</author>
+                <title>Using Pairwise Link Prediction and Graph Attention Networks for Music Structure Analysis</title>
+                <pages>207-214</pages>
+                <doi>10.5281/zenodo.14877311</doi>
+            </publ>
+            <publ>
+                <author>Danbinaerin Han</author>
+                <author>Mark R. H. Gotham</author>
+                <author>DongMin Kim</author>
+                <author>Hannah Park</author>
+                <author>Sihun Lee</author>
+                <author>Dasaem Jeong</author>
+                <title>Six Dragons Fly Again: Reviving 15th-Century Korean Court Music With Transformers and Novel Encoding</title>
+                <pages>217-224</pages>
+                <doi>10.5281/zenodo.14877313</doi>
+            </publ>
+            <publ>
+                <author>David Rizo</author>
+                <author>Jorge Calvo-Zaragoza</author>
+                <author>Patricia García-Iasci</author>
+                <author>Teresa Delgado-Sánchez</author>
+                <title>Lessons Learned From a Project to Encode Mensural Music on a Large Scale With Optical Music Recognition</title>
+                <pages>225-231</pages>
+                <doi>10.5281/zenodo.14877315</doi>
+            </publ>
+            <publ>
+                <author>Elena Georgieva</author>
+                <author>Pablo Ripollés</author>
+                <author>Brian McFee</author>
+                <title>The Changing Sound of Music: An Exploratory Corpus Study of Vocal Trends Over Time</title>
+                <pages>232-239</pages>
+                <doi>10.5281/zenodo.14877317</doi>
+            </publ>
+            <publ>
+                <author>Pedro Ramoneda</author>
+                <author>Martín Rocamora</author>
+                <author>Taketo Akama</author>
+                <title>Music Proofreading With RefinPaint: Where and How to Modify Compositions Given Context</title>
+                <pages>240-247</pages>
+                <doi>10.5281/zenodo.14877319</doi>
+            </publ>
+            <publ>
+                <author>Yigitcan Özer</author>
+                <author>Hans-Ulrich Berendes</author>
+                <author>Vlora Arifi-Müller</author>
+                <author>Fabian-Robert Stöter</author>
+                <author>Meinard Müller</author>
+                <title>Notewise Evaluation for Music Source Separation: A Case Study for Separated Piano Tracks</title>
+                <pages>248-255</pages>
+                <doi>10.5281/zenodo.14877321</doi>
+            </publ>
+            <publ>
+                <author>Jyoti Narang</author>
+                <author>Nazif Can Tamer</author>
+                <author>Viviana De La Vega</author>
+                <author>Xavier Serra</author>
+                <title>Automatic Estimation of Singing Voice Musical Dynamics</title>
+                <pages>256-263</pages>
+                <doi>10.5281/zenodo.14877323</doi>
+            </publ>
+            <publ>
+                <author>Or Tal</author>
+                <author>Alon Ziv</author>
+                <author>Itai Gat</author>
+                <author>Felix Kreuk</author>
+                <author>Yossi Adi</author>
+                <title>Joint Audio and Symbolic Conditioning for Temporally Controlled Text-to-Music Generation</title>
+                <pages>264-271</pages>
+                <doi>10.5281/zenodo.14877325</doi>
+            </publ>
+            <publ>
+                <author>Javier Nistal</author>
+                <author>Marco Pasini</author>
+                <author>Cyran Aouameur</author>
+                <author>Maarten Grachten</author>
+                <author>Stefan Lattner</author>
+                <title>Diff-a-Riff: Musical Accompaniment Co-Creation via Latent Diffusion Models</title>
+                <pages>272-280</pages>
+                <doi>10.5281/zenodo.14877327</doi>
+            </publ>
+            <publ>
+                <author>Ngan V.T. Nguyen</author>
+                <author>Elizabeth Acosta</author>
+                <author>Tommy Dang</author>
+                <author>David Sears</author>
+                <title>Exploring Internet Radio Across the Globe With the MIRAGE Online Dashboard</title>
+                <pages>281-287</pages>
+                <doi>10.5281/zenodo.14877329</doi>
+            </publ>
+            <publ>
+                <author>Andrew C. Edwards</author>
+                <author>Xavier Riley</author>
+                <author>Pedro Pereira Sarmento</author>
+                <author>Simon Dixon</author>
+                <title>MIDI-to-Tab: Guitar Tablature Inference via Masked Language Modeling</title>
+                <pages>288-294</pages>
+                <doi>10.5281/zenodo.14877333</doi>
+            </publ>
+            <publ>
+                <author>Jaehun Kim</author>
+                <author>Florian Henkel</author>
+                <author>Camilo Landau</author>
+                <author>Samuel E. Sandberg</author>
+                <author>Andreas F. Ehmann</author>
+                <title>Transcription-Based Lyrics Embeddings: Simple Extraction of Effective Lyrics Embeddings From Audio</title>
+                <pages>295-303</pages>
+                <doi>10.5281/zenodo.14877331</doi>
+            </publ>
+            <publ>
+                <author>Hyon Kim</author>
+                <author>Xavier Serra</author>
+                <title>A Method for MIDI Velocity Estimation for Piano Performance by a U-Net With Attention and FiLM</title>
+                <pages>304-310</pages>
+                <doi>10.5281/zenodo.14877335</doi>
+            </publ>
+            <publ>
+                <author>Yun-Han Lan</author>
+                <author>Wen-Yi Hsiao</author>
+                <author>Hao-Chung Cheng</author>
+                <author>Yi-Hsuan Yang</author>
+                <title>MusiConGen: Rhythm and Chord Control for Transformer-Based Text-to-Music Generation</title>
+                <pages>311-318</pages>
+                <doi>10.5281/zenodo.14877337</doi>
+            </publ>
+            <publ>
+                <author>Tim Beyer</author>
+                <author>Angela Dai</author>
+                <title>End-to-End Piano Performance-MIDI to Score Conversion With Transformers</title>
+                <pages>319-326</pages>
+                <doi>10.5281/zenodo.14877339</doi>
+            </publ>
+            <publ>
+                <author>Dorian Desblancs</author>
+                <author>Gabriel Meseguer-Brocal</author>
+                <author>Romain Hennequin</author>
+                <author>Manuel Moussallam</author>
+                <title>From Real to Cloned Singer Identification</title>
+                <pages>327-334</pages>
+                <doi>10.5281/zenodo.14877342</doi>
+            </publ>
+            <publ>
+                <author>Jingyue Huang</author>
+                <author>Ke Chen</author>
+                <author>Yi-Hsuan Yang</author>
+                <title>Emotion-Driven Piano Music Generation via Two-Stage Disentanglement and Functional Representation</title>
+                <pages>335-342</pages>
+                <doi>10.5281/zenodo.14877343</doi>
+            </publ>
+            <publ>
+                <author>Jiajun Deng</author>
+                <author>Yaolong Ju</author>
+                <author>Jing Yang</author>
+                <author>Simon Lui</author>
+                <author>Xunying Liu</author>
+                <title>Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking With Self-Supervised Learning Features</title>
+                <pages>343-351</pages>
+                <doi>10.5281/zenodo.14877345</doi>
+            </publ>
+            <publ>
+                <author>Eun Ji Oh</author>
+                <author>Hyunjae Kim</author>
+                <author>Kyung Myun Lee</author>
+                <title>Which Audio Features Can Predict the Dynamic Musical Emotions of Both Composers and Listeners?</title>
+                <pages>352-359</pages>
+                <doi>10.5281/zenodo.14877347</doi>
+            </publ>
+            <publ>
+                <author>Julia Barnett</author>
+                <author>Hugo Flores García</author>
+                <author>Bryan Pardo</author>
+                <title>Exploring Musical Roots: Applying Audio Embeddings to Empower Influence Attribution for a Generative Music Model</title>
+                <pages>360-368</pages>
+                <doi>10.5281/zenodo.14877350</doi>
+            </publ>
+            <publ>
+                <author>Andre Holzapfel</author>
+                <author>Anna-Kaisa Kaila</author>
+                <author>Petra Jääskeläinen</author>
+                <title>Green MIR? Investigating Computational Cost of Recent Music-Ai Research in ISMIR</title>
+                <pages>371-380</pages>
+                <doi>10.5281/zenodo.14877351</doi>
+            </publ>
+            <publ>
+                <author>Seikoh Fukuda</author>
+                <author>Yuko Fukuda</author>
+                <author>Masamichi Hosoda</author>
+                <author>Ami Motomura</author>
+                <author>Eri Sasao</author>
+                <author>Masaki Matsubara</author>
+                <author>Masahiro Niitsuma</author>
+                <title>Field Study on Children's Home Piano Practice: Developing a Comprehensive System for Enhanced Student-Teacher Engagement</title>
+                <pages>381-388</pages>
+                <doi>10.5281/zenodo.14877353</doi>
+            </publ>
+            <publ>
+                <author>Brian Bemman</author>
+                <author>Justin Christensen</author>
+                <title>Inner Metric Analysis as a Measure of Rhythmic Syncopation</title>
+                <pages>389-396</pages>
+                <doi>10.5281/zenodo.14877355</doi>
+            </publ>
+            <publ>
+                <author>Lidia J. Morris</author>
+                <author>Rebecca Leger</author>
+                <author>Michele Newman</author>
+                <author>John Ashley Burgoyne</author>
+                <author>Ryan Groves</author>
+                <author>Natasha Mangal</author>
+                <author>Jin Ha Lee</author>
+                <title>HAISP: A Dataset of Human-AI Songwriting Processes From the AI Song Contest</title>
+                <pages>397-404</pages>
+                <doi>10.5281/zenodo.14877357</doi>
+            </publ>
+            <publ>
+                <author>Giulia Argüello</author>
+                <author>Luca A. Lanzendörfer</author>
+                <author>Roger Wattenhofer</author>
+                <title>Cue Point Estimation Using Object Detection</title>
+                <pages>405-412</pages>
+                <doi>10.5281/zenodo.14877359</doi>
+            </publ>
+            <publ>
+                <author>Kartik Ohri</author>
+                <author>Robert Kaye</author>
+                <title>The ListenBrainz Listens Dataset</title>
+                <pages>413-419</pages>
+                <doi>10.5281/zenodo.14877361</doi>
+            </publ>
+            <publ>
+                <author>Marco Comunità</author>
+                <author>Zhi Zhong</author>
+                <author>Akira Takahashi</author>
+                <author>Shiqi Yang</author>
+                <author>Mengjie Zhao</author>
+                <author>Koichi Saito</author>
+                <author>Yukara Ikemiya</author>
+                <author>Takashi Shibuya</author>
+                <author>Shusuke Takahashi</author>
+                <author>Yuki Mitsufuji</author>
+                <title>SpecMaskGIT: Masked Generative Modeling of Audio Spectrogram for Efficient Audio Synthesis and Beyond</title>
+                <pages>420-428</pages>
+                <doi>10.5281/zenodo.14877363</doi>
+            </publ>
+            <publ>
+                <author>Zach Evans</author>
+                <author>Julian D. Parker</author>
+                <author>CJ Carr</author>
+                <author>Zachary Zukowski</author>
+                <author>Josiah Taylor</author>
+                <author>Jordi Pons</author>
+                <title>Long-Form Music Generation With Latent Diffusion</title>
+                <pages>429-437</pages>
+                <doi>10.5281/zenodo.14877365</doi>
+            </publ>
+            <publ>
+                <author>Martin E. Malandro</author>
+                <title>Composer's Assistant 2: Interactive Multi-Track MIDI Infilling With Fine-Grained User Control</title>
+                <pages>438-445</pages>
+                <doi>10.5281/zenodo.14877367</doi>
+            </publ>
+            <publ>
+                <author>Yu-Hua Chen</author>
+                <author>Yen-Tung Yeh</author>
+                <author>Yuan-Chiao Cheng </author>
+                <author>Jui-Te Wu</author>
+                <author>Yu-Hsiang Ho</author>
+                <author>Jyh-Shing Roger Jang</author>
+                <author>Yi-Hsuan Yang</author>
+                <title>Towards Zero-Shot Amplifier Modeling: One-to-Many Amplifier Modeling via Tone Embedding Control</title>
+                <pages>446-453</pages>
+                <doi>10.5281/zenodo.14877373</doi>
+            </publ>
+            <publ>
+                <author>Ju-Chiang Wang</author>
+                <author>Wei-Tsung Lu</author>
+                <author>Jitong Chen</author>
+                <title>Mel-RoFormer for Vocal Separation and Vocal Melody Transcription</title>
+                <pages>454-461</pages>
+                <doi>10.5281/zenodo.14877371</doi>
+            </publ>
+            <publ>
+                <author>Noelia N. Luna-Barahona</author>
+                <author>Adrián Roselló</author>
+                <author>María Alfaro-Contreras</author>
+                <author>David Rizo</author>
+                <author>Jorge Calvo-Zaragoza</author>
+                <title>Unsupervised Synthetic-to-Real Adaptation for Optical Music Recognition</title>
+                <pages>462-469</pages>
+                <doi>10.5281/zenodo.14877375</doi>
+            </publ>
+            <publ>
+                <author>Jinlong Zhu</author>
+                <author>Keigo Sakurai</author>
+                <author>Ren Togo</author>
+                <author>Takahiro Ogawa</author>
+                <author>Miki Haseyama</author>
+                <title>MMT-BERT: Chord-Aware Symbolic Music Generation Based on Multitrack Music Transformer and MusicBERT</title>
+                <pages>470-477</pages>
+                <doi>10.5281/zenodo.14877377</doi>
+            </publ>
+            <publ>
+                <author>Recep Oguz Araz</author>
+                <author>Xavier Serra</author>
+                <author>Dmitry Bogdanov</author>
+                <title>Discogs-VI: A Musical Version Identification Dataset Based on Public Editorial Metadata</title>
+                <pages>478-485</pages>
+                <doi>10.5281/zenodo.14877379</doi>
+            </publ>
+            <publ>
+                <author>Nicholas Cornia</author>
+                <author>Bruno Forment</author>
+                <title>Who's Afraid of the `Artyfyshall Byrd'? Historical Notions and Current Challenges of Musical Artificiality</title>
+                <pages>486-492</pages>
+                <doi>10.5281/zenodo.14877381</doi>
+            </publ>
+            <publ>
+                <author>Yaolong Ju</author>
+                <author>Chun Yat Wu</author>
+                <author>Betty Cortiñas Lorenzo</author>
+                <author>Jing Yang</author>
+                <author>Jiajun Deng</author>
+                <author>Fan Fan</author>
+                <author>Simon Lui</author>
+                <title>End-to-End Automatic Singing Skill Evaluation Using Cross-Attention and Data Augmentation for Solo Singing and Singing With Accompaniment</title>
+                <pages>493-500</pages>
+                <doi>10.5281/zenodo.14877383</doi>
+            </publ>
+            <publ>
+                <author>Francesco Foscarin</author>
+                <author>Emmanouil Karystinaios</author>
+                <author>Eita Nakamura</author>
+                <author>Gerhard Widmer</author>
+                <title>Cluster and Separate: A GNN Approach to Voice and Staff Prediction for Score Engraving</title>
+                <pages>503-510</pages>
+                <doi>10.5281/zenodo.14877385</doi>
+            </publ>
+            <publ>
+                <author>Huan Zhang</author>
+                <author>Jinhua Liang</author>
+                <author>Simon Dixon</author>
+                <title>From Audio Encoders to Piano Judges: Benchmarking Performance Understanding for Solo Piano</title>
+                <pages>511-519</pages>
+                <doi>10.5281/zenodo.14877387</doi>
+            </publ>
+            <publ>
+                <author>Pedro Ramoneda</author>
+                <author>Vsevolod E. Eremenko</author>
+                <author>Alexandre D'Hooge</author>
+                <author>Emilia Parada-Cabaleiro</author>
+                <author>Xavier Serra</author>
+                <title>Towards Explainable and Interpretable Musical Difficulty Estimation: A Parameter-Efficient Approach</title>
+                <pages>520-528</pages>
+                <doi>10.5281/zenodo.14877389</doi>
+            </publ>
+            <publ>
+                <author>Michele Newman</author>
+                <author>Lidia J. Morris</author>
+                <author>Jun Kato</author>
+                <author>Masataka Goto</author>
+                <author>Jason Yip</author>
+                <author>Jin Ha Lee</author>
+                <title>Purposeful Play: Evaluation and Co-Design of Casual Music Creation Applications With Children</title>
+                <pages>529-539</pages>
+                <doi>10.5281/zenodo.14877391</doi>
+            </publ>
+            <publ>
+                <author>Nicholas Evans</author>
+                <author>Behzad Haki</author>
+                <author>Daniel Gómez-Marín</author>
+                <author>Sergi Jordà</author>
+                <title>El Bongosero: A Crowd-Sourced Symbolic Dataset of Improvised Hand Percussion Rhythms Paired With Drum Patterns</title>
+                <pages>540-546</pages>
+                <doi>10.5281/zenodo.14877393</doi>
+            </publ>
+            <publ>
+                <author>Joanne Affolter</author>
+                <author>Martin A. Rohrmeier</author>
+                <title>Utilizing Listener-Provided Tags for Music Emotion Recognition: A Data-Driven Approach</title>
+                <pages>547-554</pages>
+                <doi>10.5281/zenodo.14877395</doi>
+            </publ>
+            <publ>
+                <author>Chih-Pin Tan</author>
+                <author>Hsin Ai</author>
+                <author>Yi-Hsin Chang</author>
+                <author>Shuen-Huei Guan</author>
+                <author>Yi-Hsuan Yang</author>
+                <title>PiCoGen2: Piano Cover Generation With Transfer Learning Approach and Weakly Aligned Data</title>
+                <pages>555-562</pages>
+                <doi>10.5281/zenodo.14877397</doi>
+            </publ>
+            <publ>
+                <author>Soumya Sai Vanka</author>
+                <author>Christian J. Steinmetz</author>
+                <author>Jean-Baptiste Rolland</author>
+                <author>Joshua D. Reiss</author>
+                <author>George Fazekas</author>
+                <title>Diff-MST: Differentiable Mixing Style Transfer</title>
+                <pages>563-570</pages>
+                <doi>10.5281/zenodo.14877399</doi>
+            </publ>
+            <publ>
+                <author>Julien PM Guinot</author>
+                <author>Elio Quinton</author>
+                <author>George Fazekas</author>
+                <title>Semi-Supervised Contrastive Learning of Musical Representations</title>
+                <pages>571-579</pages>
+                <doi>10.5281/zenodo.14877401</doi>
+            </publ>
+            <publ>
+                <author>Léo Géré</author>
+                <author>Nicolas Audebert</author>
+                <author>Philippe Rigaux</author>
+                <title>Improved Symbolic Drum Style Classification With Grammar-Based Hierarchical Representations</title>
+                <pages>580-587</pages>
+                <doi>10.5281/zenodo.14877403</doi>
+            </publ>
+            <publ>
+                <author>Jiwoo Ryu</author>
+                <author>Hao-Wen Dong</author>
+                <author>Jongmin Jung</author>
+                <author>Dasaem Jeong</author>
+                <title>Nested Music Transformer: Sequentially Decoding Compound Tokens in Symbolic Music and Audio Generation</title>
+                <pages>588-595</pages>
+                <doi>10.5281/zenodo.14877405</doi>
+            </publ>
+            <publ>
+                <author>Pedro González-Barrachina</author>
+                <author>María Alfaro-Contreras</author>
+                <author>Jorge Calvo-Zaragoza</author>
+                <title>Continual Learning for Music Classification</title>
+                <pages>596-602</pages>
+                <doi>10.5281/zenodo.14877407</doi>
+            </publ>
+            <publ>
+                <author>Silvan Peter</author>
+                <author>Gerhard Widmer</author>
+                <title>TheGlueNote: Learned Representations for Robust and Flexible Note Alignment</title>
+                <pages>603-610</pages>
+                <doi>10.5281/zenodo.14877409</doi>
+            </publ>
+            <publ>
+                <author>Xavier Riley</author>
+                <author>Zixun Guo</author>
+                <author>Andrew C. Edwards</author>
+                <author>Simon Dixon</author>
+                <title>GAPS: A Large and Diverse Classical Guitar Dataset and Benchmark Transcription Model</title>
+                <pages>611-617</pages>
+                <doi>10.5281/zenodo.14877413</doi>
+            </publ>
+            <publ>
+                <author>Hugo T. Carvalho</author>
+                <author>Min Susan Li</author>
+                <author>Massimiliano Di Luca</author>
+                <author>Alan M. Wing</author>
+                <title>A Kalman Filter Model for Synchronization in Musical Ensembles</title>
+                <pages>618-624</pages>
+                <doi>10.5281/zenodo.14877411</doi>
+            </publ>
+            <publ>
+                <author>Alain Riou</author>
+                <author>Stefan Lattner</author>
+                <author>Gaëtan Hadjeres</author>
+                <author>Michael Anslow</author>
+                <author>Geoffroy Peeters</author>
+                <title>Stem-JEPA: A Joint-Embedding Predictive Architecture for Musical Stem Compatibility Estimation</title>
+                <pages>625-633</pages>
+                <doi>10.5281/zenodo.14877415</doi>
+            </publ>
+            <publ>
+                <author>Fang Duo Tsai</author>
+                <author>Shih-Lun Wu</author>
+                <author>Haven Kim</author>
+                <author>Bo-Yu Chen</author>
+                <author>Hao-Chung Cheng</author>
+                <author>Yi-Hsuan Yang</author>
+                <title>Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music With Lightweight Finetuning</title>
+                <pages>634-641</pages>
+                <doi>10.5281/zenodo.14877417</doi>
+            </publ>
+            <publ>
+                <author>Shangda Wu</author>
+                <author>Yashan Wang</author>
+                <author>Xiaobing Li</author>
+                <author>Feng Yu</author>
+                <author>Maosong Sun</author>
+                <title>MelodyT5: A Unified Score-to-Score Transformer for Symbolic Music Processing</title>
+                <pages>642-650</pages>
+                <doi>10.5281/zenodo.14877419</doi>
+            </publ>
+            <publ>
+                <author>Emmanouil Karystinaios</author>
+                <author>Gerhard Widmer</author>
+                <title>GraphMuse: A Library for Symbolic Music Graph Processing</title>
+                <pages>651-658</pages>
+                <doi>10.5281/zenodo.14877421</doi>
+            </publ>
+            <publ>
+                <author>Christian J. Steinmetz</author>
+                <author>Shubhr Singh</author>
+                <author>Marco Comunità</author>
+                <author>Ilias Ibnyahya</author>
+                <author>Shanxin Yuan</author>
+                <author>Emmanouil Benetos</author>
+                <author>Joshua D. Reiss</author>
+                <title>ST-ITO: Controlling Audio Effects for Style Transfer With Inference-Time Optimization</title>
+                <pages>661-668</pages>
+                <doi>10.5281/zenodo.14877423</doi>
+            </publ>
+            <publ>
+                <author>Qixin Deng</author>
+                <author>Qikai Yang</author>
+                <author>Ruibin Yuan</author>
+                <author>Yipeng Huang </author>
+                <author>Yi Wang</author>
+                <author>Xubo Liu</author>
+                <author>Zeyue Tian</author>
+                <author>Jiahao Pan</author>
+                <author>Ge Zhang</author>
+                <author>Hanfeng Lin</author>
+                <author>Yizhi Li</author>
+                <author>Yinghao Ma</author>
+                <author>Jie Fu</author>
+                <author>Chenghua Lin</author>
+                <author>Emmanouil Benetos</author>
+                <author>Wenwu Wang</author>
+                <author>Guangyu Xia</author>
+                <author>Wei Xue</author>
+                <author>Yike Guo</author>
+                <title>ComposerX: Multi-Agent Symbolic Music Composition With LLMs</title>
+                <pages>669-679</pages>
+                <doi>10.5281/zenodo.14877425</doi>
+            </publ>
+            <publ>
+                <author>Megan Wei</author>
+                <author>Michael Freeman</author>
+                <author>Chris Donahue</author>
+                <author>Chen Sun</author>
+                <title>Do Music Generation Models Encode Music Theory?</title>
+                <pages>680-687</pages>
+                <doi>10.5281/zenodo.14877427</doi>
+            </publ>
+            <publ>
+                <author>Silas Antonisen</author>
+                <author>Iván López-Espejo</author>
+                <title>PolySinger: Singing-Voice to Singing-Voice Translation From English to Japanese</title>
+                <pages>688-696</pages>
+                <doi>10.5281/zenodo.14877429</doi>
+            </publ>
+            <publ>
+                <author>Arthur Flexer</author>
+                <title>On the Validity of Employing ChatGPT for Distant Reading of Music Similarity</title>
+                <pages>697-704</pages>
+                <doi>10.5281/zenodo.14877431</doi>
+            </publ>
+            <publ>
+                <author>Venkatakrishnan Vaidyanathapuram Krishnan</author>
+                <author>Noel Alben</author>
+                <author>Anish A. Nair</author>
+                <author>Nathaniel Condit-Schultz</author>
+                <title>Sanidha: A Studio Quality Multi-Modal Dataset for Carnatic Music</title>
+                <pages>705-712</pages>
+                <doi>10.5281/zenodo.14877433</doi>
+            </publ>
+            <publ>
+                <author>Pedro Pereira Sarmento</author>
+                <author>Jackson J. Loth</author>
+                <author>Mathieu Barthet</author>
+                <title>Between the AI and Me: Analysing Listeners' Perspectives on AI- and Human-Composed Progressive Metal Music</title>
+                <pages>713-720</pages>
+                <doi>10.5281/zenodo.14877435</doi>
+            </publ>
+            <publ>
+                <author>Nils Demerlé</author>
+                <author>Philippe Esling</author>
+                <author>Guillaume Doras</author>
+                <author>David Genova</author>
+                <title>Combining Audio Control and Style Transfer Using Latent Diffusion</title>
+                <pages>721-728</pages>
+                <doi>10.5281/zenodo.14877437</doi>
+            </publ>
+            <publ>
+                <author>Mequanent Argaw Muluneh</author>
+                <author>Yan-Tsung Peng</author>
+                <author>Li Su</author>
+                <title>Computational Analysis of Yaredawi YeZema Silt in Ethiopian Orthodox Tewahedo Church Chants</title>
+                <pages>729-736</pages>
+                <doi>10.5281/zenodo.14877441</doi>
+            </publ>
+            <publ>
+                <author>Ondřej Cífka</author>
+                <author>Hendrik Schreiber</author>
+                <author>Luke Miner</author>
+                <author>Fabian-Robert Stöter</author>
+                <title>Lyrics Transcription for Humans: A Readability-Aware Benchmark</title>
+                <pages>737-744</pages>
+                <doi>10.5281/zenodo.14877443</doi>
+            </publ>
+            <publ>
+                <author>Owen Green</author>
+                <author>Bob L. T. Sturm</author>
+                <author>Georgina Born</author>
+                <author>Melanie Wald-Fuhrmann</author>
+                <title>A Critical Survey of Research in Music Genre Recognition</title>
+                <pages>745-782</pages>
+                <doi>10.5281/zenodo.14877445</doi>
+            </publ>
+            <publ>
+                <author>Liwei Lin</author>
+                <author>Gus Xia</author>
+                <author>Junyan Jiang</author>
+                <author>Yixiao Zhang</author>
+                <title>Content-Based Controls for Music Large Language Modeling</title>
+                <pages>783-790</pages>
+                <doi>10.5281/zenodo.14877447</doi>
+            </publ>
+            <publ>
+                <author>Marcel A. Vélez Vásquez</author>
+                <author>Charlotte Pouw</author>
+                <author>John Ashley Burgoyne</author>
+                <author>Willem Zuidema</author>
+                <title>Exploring the Inner Mechanisms of Large Generative Music Models</title>
+                <pages>791-798</pages>
+                <doi>10.5281/zenodo.14877449</doi>
+            </publ>
+            <publ>
+                <author>Saebyul Park</author>
+                <author>Halla Kim</author>
+                <author>Jiye Jung</author>
+                <author>Juyong Park</author>
+                <author>Jeounghoon Kim</author>
+                <author>Juhan Nam</author>
+                <title>Quantitative Analysis of Melodic Similarity in Music Copyright Infringement Cases</title>
+                <pages>799-806</pages>
+                <doi>10.5281/zenodo.14877451</doi>
+            </publ>
+            <publ>
+                <author>Hendrik Vincent Koops</author>
+                <author>Gianluca Micchi</author>
+                <author>Elio Quinton</author>
+                <title>Robust Lossy Audio Compression Identification</title>
+                <pages>807-813</pages>
+                <doi>10.5281/zenodo.14877453</doi>
+            </publ>
+            <publ>
+                <author>Malcolm Sailor</author>
+                <title>RNBert: Fine-Tuning a Masked Language Model for Roman Numeral Analysis</title>
+                <pages>814-821</pages>
+                <doi>10.5281/zenodo.14877455</doi>
+            </publ>
+            <publ>
+                <author>Benno Weck</author>
+                <author>Ilaria Manco</author>
+                <author>Emmanouil Benetos</author>
+                <author>Elio Quinton</author>
+                <author>George Fazekas</author>
+                <author>Dmitry Bogdanov</author>
+                <title>MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models</title>
+                <pages>825-833</pages>
+                <doi>10.5281/zenodo.14877459</doi>
+            </publ>
+            <publ>
+                <author>Sujoy Roychowdhury</author>
+                <author>Preeti Rao</author>
+                <author>Sharat Chandran</author>
+                <title>Human Pose Estimation for Expressive Movement Descriptors in Vocal Musical Performances</title>
+                <pages>834-841</pages>
+                <doi>10.5281/zenodo.14877458</doi>
+            </publ>
+            <publ>
+                <author>Seokbeom Park</author>
+                <author>Hyunjae Kim</author>
+                <author>Kyung Myun Lee</author>
+                <title>Enhancing Predictive Models of Music Familiarity With EEG: Insights From Fans and Non-Fans of K-Pop Group NCT127</title>
+                <pages>842-849</pages>
+                <doi>10.5281/zenodo.14877461</doi>
+            </publ>
+            <publ>
+                <author>Robert Sowula</author>
+                <author>Peter Knees</author>
+                <title>Mosaikbox: Improving Fully Automatic DJ Mixing Through Rule-Based Stem Modification and Precise Beat-Grid Estimation</title>
+                <pages>850-857</pages>
+                <doi>10.5281/zenodo.14877463</doi>
+            </publ>
+            <publ>
+                <author>Jan Melechovsky</author>
+                <author>Abhinaba Roy</author>
+                <author>Dorien Herremans</author>
+                <title>MidiCaps: A Large-Scale MIDI Dataset With Text Captions</title>
+                <pages>858-865</pages>
+                <doi>10.5281/zenodo.14877465</doi>
+            </publ>
+            <publ>
+                <author>Stephen Ni-Hahn</author>
+                <author>Weihan Xu</author>
+                <author>Zirui Yin</author>
+                <author>Rico Zhu</author>
+                <author>Simon Mak</author>
+                <author>Yue Jiang</author>
+                <author>Cynthia Rudin</author>
+                <title>A New Dataset, Notation Software, and Representation for Computational Schenkerian Analysis</title>
+                <pages>866-873</pages>
+                <doi>10.5281/zenodo.14877467</doi>
+            </publ>
+            <publ>
+                <author>Zachary Novack</author>
+                <author>Julian McAuley</author>
+                <author>Taylor Berg-Kirkpatrick</author>
+                <author>Nicholas J. Bryan</author>
+                <title>DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music Generation</title>
+                <pages>874-881</pages>
+                <doi>10.5281/zenodo.14877469</doi>
+            </publ>
+            <publ>
+                <author>Christopher J. Tralie</author>
+                <author>Ben Cantil</author>
+                <title>The Concatenator: A Bayesian Approach to Real Time Concatenative Musaicing</title>
+                <pages>882-889</pages>
+                <doi>10.5281/zenodo.14877471</doi>
+            </publ>
+            <publ>
+                <author>Muhammad Taimoor Haseeb</author>
+                <author>Ahmad Hammoudeh</author>
+                <author>Gus Xia</author>
+                <title>Deep Recombinant Transformer: Enhancing Loop Compatibility in Digital Music Production</title>
+                <pages>890-896</pages>
+                <doi>10.5281/zenodo.14877473</doi>
+            </publ>
+            <publ>
+                <author>Yannis Vasilakis</author>
+                <author>Rachel Bittner</author>
+                <author>Johan Pauwels</author>
+                <title>I Can Listen but Cannot Read: An Evaluation of Two-Tower Multimodal Systems for Instrument Recognition</title>
+                <pages>897-905</pages>
+                <doi>10.5281/zenodo.14877475</doi>
+            </publ>
+            <publ>
+                <author>Weixing Wei</author>
+                <author>Jiahao Zhao</author>
+                <author>Yulun Wu</author>
+                <author>Kazuyoshi Yoshii</author>
+                <title>Streaming Piano Transcription Based on Consistent Onset and Offset Decoding With Sustain Pedal Detection</title>
+                <pages>906-913</pages>
+                <doi>10.5281/zenodo.14877477</doi>
+            </publ>
+            <publ>
+                <author>Juan Carlos Martinez-Sevilla</author>
+                <author>David Rizo</author>
+                <author>Jorge Calvo-Zaragoza</author>
+                <title>Towards Universal Optical Music Recognition: A Case Study on Notation Types</title>
+                <pages>914-921</pages>
+                <doi>10.5281/zenodo.14877479</doi>
+            </publ>
+            <publ>
+                <author>Mathias Rose Bjare</author>
+                <author>Stefan Lattner</author>
+                <author>Gerhard Widmer</author>
+                <title>Controlling Surprisal in Music Generation via Information Content Curve Matching</title>
+                <pages>922-929</pages>
+                <doi>10.5281/zenodo.14877481</doi>
+            </publ>
+            <publ>
+                <author>Guang Yang</author>
+                <author>Muru Zhang</author>
+                <author>Lin Qiu</author>
+                <author>Yanming Wan</author>
+                <author>Noah A. Smith</author>
+                <title>Toward a More Complete OMR Solution</title>
+                <pages>930-937</pages>
+                <doi>10.5281/zenodo.14877483</doi>
+            </publ>
+            <publ>
+                <author>Ilaria Manco</author>
+                <author>Justin Salamon</author>
+                <author>Oriol Nieto</author>
+                <title>Augment, Drop & Swap: Improving Diversity in LLM Captions for Efficient Music-Text Representation Learning</title>
+                <pages>938-945</pages>
+                <doi>10.5281/zenodo.14877485</doi>
+            </publ>
+            <publ>
+                <author>Seungheon Doh</author>
+                <author>Keunwoo Choi</author>
+                <author>Daeyong Kwon</author>
+                <author>Taesoo Kim</author>
+                <author>Juhan Nam</author>
+                <title>Music Discovery Dialogue Generation Using Human Intent Analysis and Large Language Models</title>
+                <pages>946-953</pages>
+                <doi>10.5281/zenodo.14877487</doi>
+            </publ>
+            <publ>
+                <author>Yuexuan Kong</author>
+                <author>Vincent Lostanlen</author>
+                <author>Gabriel Meseguer-Brocal</author>
+                <author>Stella Wong</author>
+                <author>Mathieu Lagrange</author>
+                <author>Romain Hennequin</author>
+                <title>STONE: Self-Supervised Tonality Estimator</title>
+                <pages>954-961</pages>
+                <doi>10.5281/zenodo.14877489</doi>
+            </publ>
+            <publ>
+                <author>Francesco Foscarin</author>
+                <author>Jan Schlüter</author>
+                <author>Gerhard Widmer</author>
+                <title>Beat This! Accurate Beat Tracking Without DBN Postprocessing</title>
+                <pages>962-969</pages>
+                <doi>10.5281/zenodo.14877491</doi>
+            </publ>
+            <publ>
+                <author>Yujia Yan</author>
+                <author>Zhiyao Duan</author>
+                <title>Scoring Time Intervals Using Non-Hierarchical Transformer for Automatic Piano Transcription</title>
+                <pages>973-980</pages>
+                <doi>10.5281/zenodo.14877493</doi>
+            </publ>
+            <publ>
+                <author>Julian Lenz</author>
+                <author>Anirudh Mani</author>
+                <title>PerTok: Expressive Encoding and Modeling of Symbolic Musical Ideas and Variations</title>
+                <pages>981-988</pages>
+                <doi>10.5281/zenodo.14877495</doi>
+            </publ>
+            <publ>
+                <author>Nathaniel Condit-Schultz</author>
+                <title>Looking for Tactus in All the Wrong Places: Statistical Inference of Metric Alignment in Rap Flow</title>
+                <pages>989-995</pages>
+                <doi>10.5281/zenodo.14877497</doi>
+            </publ>
+            <publ>
+                <author>Kun Fang</author>
+                <author>Ziyu Wang</author>
+                <author>Gus Xia</author>
+                <author>Ichiro Fujinaga</author>
+                <title>Exploring GPT's Ability as a Judge in Music Understanding</title>
+                <pages>996-1003</pages>
+                <doi>10.5281/zenodo.14877499</doi>
+            </publ>
+            <publ>
+                <author>Roser Batlle-Roca</author>
+                <author>Wei-Hsiang Liao</author>
+                <author>Xavier Serra</author>
+                <author>Yuki Mitsufuji</author>
+                <author>Emilia Gómez</author>
+                <title>Towards Assessing Data Replication in Music Generation With Music Similarity Metrics on Raw Audio</title>
+                <pages>1004-1011</pages>
+                <doi>10.5281/zenodo.14877501</doi>
+            </publ>
+            <publ>
+                <author>Shahan Nercessian</author>
+                <author>Johannes Imort</author>
+                <author>Ninon Devis</author>
+                <author>Frederik Blang</author>
+                <title>Generating Sample-Based Musical Instruments Using Neural Audio Codec Language Models</title>
+                <pages>1012-1019</pages>
+                <doi>10.5281/zenodo.14877503</doi>
+            </publ>
+            <publ>
+                <author>Nithya Nadig Shikarpur</author>
+                <author>Krishna Maneesha Dendukuri</author>
+                <author>Yusong Wu</author>
+                <author>Antoine Caillon</author>
+                <author>Cheng-Zhi Anna Huang</author>
+                <title>Hierarchical Generative Modeling of Melodic Vocal Contours in Hindustani Classical Music</title>
+                <pages>1020-1028</pages>
+                <doi>10.5281/zenodo.14877505</doi>
+            </publ>
+            <publ>
+                <author>Haonan Chen</author>
+                <author>Jordan B. L. Smith</author>
+                <author>Janne Spijkervet</author>
+                <author>Ju-Chiang Wang</author>
+                <author>Pei Zou</author>
+                <author>Bochen Li</author>
+                <author>Qiuqiang Kong</author>
+                <author>Xingjian Du</author>
+                <title>SymPAC: Scalable Symbolic Music Generation With Prompts and Constraints</title>
+                <pages>1029-1036</pages>
+                <doi>10.5281/zenodo.14877507</doi>
+            </publ>
+            <publ>
+                <author>Giovanni Bindi</author>
+                <author>Philippe Esling</author>
+                <title>Unsupervised Composable Representations for Audio</title>
+                <pages>1037-1045</pages>
+                <doi>10.5281/zenodo.14877509</doi>
+            </publ>
+            <publ>
+                <author>Pavani B. Chowdary</author>
+                <author>Bhavyajeet Singh</author>
+                <author>Rajat Agarwal</author>
+                <author>Vinoo Alluri</author>
+                <title>Lyrically Speaking: Exploring the Link Between Lyrical Emotions, Themes and Depression Risk</title>
+                <pages>1046-1050</pages>
+                <doi>10.5281/zenodo.14877511</doi>
+            </publ>
+            <publ>
+                <author>Karn N. Watcharasupat</author>
+                <author>Alexander Lerch</author>
+                <title>A Stem-Agnostic Single-Decoder System for Music Source Separation Beyond Four Stems</title>
+                <pages>1051-1059</pages>
+                <doi>10.5281/zenodo.14877513</doi>
+            </publ>
+            <publ>
+                <author>Mickael Zehren</author>
+                <author>Marco Alunno</author>
+                <author>Paolo Bientinesi</author>
+                <title>In-Depth Performance Analysis of the ADTOF-Based Algorithm for Automatic Drum Transcription</title>
+                <pages>1060-1067</pages>
+                <doi>10.5281/zenodo.14877515</doi>
+            </publ>
+            <publ>
+                <author>Patricia Hu</author>
+                <author>Lukáš Samuel Marták</author>
+                <author>Carlos Eduardo Cancino-Chacón</author>
+                <author>Gerhard Widmer</author>
+                <title>Towards Musically Informed Evaluation of Piano Transcription Models</title>
+                <pages>1068-1075</pages>
+                <doi>10.5281/zenodo.14877517</doi>
+            </publ>
+            <publ>
+                <author>Tomoyasu Nakano</author>
+                <author>Masataka Goto</author>
+                <title>Using Item Response Theory to Aggregate Music Annotation Results of Multiple Annotators</title>
+                <pages>1076-1084</pages>
+                <doi>10.5281/zenodo.14877519</doi>
+            </publ>
+            <publ>
+                <author>Irmak Bukey</author>
+                <author>Michael Feffer</author>
+                <author>Chris Donahue</author>
+                <title>Just Label the Repeats for In-the-Wild Audio-to-Score Alignment</title>
+                <pages>1085-1092</pages>
+                <doi>10.5281/zenodo.14877521</doi>
+            </publ>
+            <publ>
+                <author>Lucas S. Maia</author>
+                <author>Richa Namballa</author>
+                <author>Martín Rocamora</author>
+                <author>Magdalena Fuentes</author>
+                <author>Carlos Guedes</author>
+                <title>Investigating Time-Line-Based Music Traditions With Field Recordings: A Case Study of Candomblé Bell Patterns</title>
+                <pages>1093-1100</pages>
+                <doi>10.5281/zenodo.14877523</doi>
+            </publ>
+        </toc>
+    </proceedings>
+</dblpsubmission>
