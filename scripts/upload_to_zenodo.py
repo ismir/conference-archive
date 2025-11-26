@@ -56,8 +56,8 @@ def upload(ismir_paper, conferences, stage=zen.DEV):
 
     if not ismir_paper['zenodo_id']:
         # New submission
-        zid = zen.create_id(stage=stage)
-        upload_response = zen.upload_file(zid, ismir_paper['ee'], stage=stage)
+        zid, bucket_url = zen.create_id(stage=stage)
+        upload_response = zen.upload_file(zid, ismir_paper['ee'], stage=stage, bucket_url=bucket_url)
     else:
         # Update mode
         #  * If the checksum is different, re-upload the pdf

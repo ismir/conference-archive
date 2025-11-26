@@ -85,11 +85,13 @@ def create_id(stage=DEV):
     if resp.status_code >= 300:
         raise ZenodoApiError(resp.json())
 
-    return resp.json().get('id')
+    # Return both ID and bucket URL for newer API
+    result = resp.json()
+    return result.get('id'), result.get('links', {}).get('bucket')
 
 
 @verify_token
-def upload_file(zid, filepath, fp=None, stage=DEV):
+def upload_file(zid, filepath, fp=None, stage=DEV, bucket_url=None):
     '''Upload a filepath (local or URL) to zenodo, given an id.
 
     Parameters
@@ -103,6 +105,9 @@ def upload_file(zid, filepath, fp=None, stage=DEV):
     fp : bytestring or file iterator, or None
         Optionally, the file pointer for uploading.
 
+    bucket_url : str or None
+        The bucket URL from the deposit creation response (for new API)
+
     Returns
     -------
     response : dict
@@ -114,6 +119,17 @@ def upload_file(zid, filepath, fp=None, stage=DEV):
         res = requests.get(filepath)
         fp = io.BytesIO(res.content)
 
+    # Use new bucket API if bucket_url is provided
+    if bucket_url:
+        resp = requests.put(
+            "{bucket}/{filename}?access_token={token}".format(
+                bucket=bucket_url, filename=basename, token=TOKENS[stage]),
+            data=fp or open(filepath, 'rb'))
+        if resp.status_code >= 300:
+            raise ZenodoApiError(resp.json())
+        return resp.json()
+    
+    # Fall back to old files API
     files = {'file': (basename, fp or open(filepath, 'rb'),
                       'application/{}'.format(fext))}
     resp = requests.post(

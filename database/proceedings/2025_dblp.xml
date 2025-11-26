@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dblp>
+<proceedings mdate="2025-11-26" key="conf/ismir/2025">
+  <editor>Juhan Nam</editor>
+  <editor>Dasaem Jeong</editor>
+  <editor>Keunwoo Choi</editor>
+  <editor>Li Su</editor>
+  <editor>Magdalena Fuentes</editor>
+  <editor>Tomoyasu Nakano</editor>
+  <editor>Xiao Hu</editor>
+  <editor>Hao-Wen (Herman) Dong</editor>
+  <title>Proceedings of the 26th International Society for Music Information Retrieval Conference, ISMIR 2025, Daejeon, South Korea, September 21-25, 2025</title>
+  <booktitle>ISMIR</booktitle>
+  <year>2025</year>
+  <isbn>978-1-7327299-5-7</isbn>
+  <url>https://archives.ismir.net/ismir2025/</url>
+</proceedings>
+
+<!-- Papers -->
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/lee001">
+  <author>Harin Lee</author>
+  <author>Elif Celen</author>
+  <author>Peter Harrison</author>
+  <author>Manuel Anglada-Tort</author>
+  <author>Pol van Rijn</author>
+  <author>Minsu Park</author>
+  <author>Marc Schönwiesner</author>
+  <author>Nori Jacoby</author>
+  <title>GlobalMood: A Cross-Cultural Benchmark for Music Emotion Recognition</title>
+  <pages>11-19</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706316/files/000001.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706316</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/wang002">
+  <author>Alexander Wang</author>
+  <author>Chris Donahue</author>
+  <author>Dhruv Jain</author>
+  <title>RISE: Music Rearrangement for Realtime Intensity Synchronization With Exercise</title>
+  <pages>20-27</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706321/files/000002.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706321</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/morris003">
+  <author>Lidia Morris</author>
+  <author>Michele Newman</author>
+  <author>Xinya Tang</author>
+  <author>Renee Singh</author>
+  <author>Marcel Vélez Vásquez</author>
+  <author>Rebecca Leger</author>
+  <author>Jin Ha Lee</author>
+  <title>Expanding the HAISP Dataset: AI’s Impact on Songwriting Across Two AI Song Contests</title>
+  <pages>28-35</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706323/files/000003.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706323</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/mcfee004">
+  <author>Brian McFee</author>
+  <title>Quantifying Regularity in Music Structure Analysis</title>
+  <pages>36-43</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706327/files/000004.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706327</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/choi005">
+  <author>Eunjin Choi</author>
+  <author>Hyerin Kim</author>
+  <author>Jiwoo Ryu</author>
+  <author>Juhan Nam</author>
+  <author>Dasaem Jeong</author>
+  <title>On the De-Duplication of the Lakh MIDI Dataset</title>
+  <pages>44-51</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706329/files/000005.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706329</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/pettenò006">
+  <author>Matteo Pettenò</author>
+  <author>Alessandro Mezza</author>
+  <author>Alberto Bernardini</author>
+  <title>Conditional Diffusion as Latent Constraints for Unconditional Symbolic Music Generation Models</title>
+  <pages>52-59</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706331/files/000006.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706331</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/kanani007">
+  <author>Maziar Kanani</author>
+  <author>Seán O’Leary</author>
+  <author>James McDermott</author>
+  <title>Radif Corpus; Symbolic Dataset for Non-Metric Iranian Classical Music</title>
+  <pages>60-67</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706333/files/000007.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706333</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/bhake008">
+  <author>Yash Bhake</author>
+  <author>Ankit Anand</author>
+  <author>Preeti Rao</author>
+  <title>Melodic and Metrical Elements of Expressiveness in Hindustani Vocal Music</title>
+  <pages>68-74</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706335/files/000008.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706335</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/nakatsuka009">
+  <author>Takayuki Nakatsuka</author>
+  <author>Masahiro Hamasaki</author>
+  <author>Masataka Goto</author>
+  <title>Coloring Music: Bridging Music and Color Palettes for Graphic Design</title>
+  <pages>75-82</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706337/files/000009.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706337</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/hu010">
+  <author>Patricia Hu</author>
+  <author>Silvan Peter</author>
+  <author>Jan Schlüter</author>
+  <author>Gerhard Widmer</author>
+  <title>Exploring Network Adaptations for Minimum Latency Real-Time Piano Transcription</title>
+  <pages>83-90</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706339/files/000010.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706339</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/park011">
+  <author>Jiyun Park</author>
+  <author>Carlos Eduardo Cancino-Chacón</author>
+  <author>Suhit Chiruthapudi</author>
+  <author>Juhan Nam</author>
+  <title>A Systematic Evaluation of Real-Time Audio Score Following for Piano Performance</title>
+  <pages>91-99</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706341/files/000011.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706341</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/choi012">
+  <author>Jaeran Choi</author>
+  <author>Taegyun Kwon</author>
+  <author>Juhan Nam</author>
+  <title>Predicting Flutist Onset Timing in Duet Performance: A Multimodal Analysis of Gesture and Breath Cues</title>
+  <pages>100-106</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706343/files/000012.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706343</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/frohmann013">
+  <author>Markus Frohmann</author>
+  <author>Elena Epure</author>
+  <author>Gabriel Meseguer Brocal</author>
+  <author>Markus Schedl</author>
+  <author>Romain Hennequin</author>
+  <title>AI-Generated Song Detection via Lyrics Transcripts</title>
+  <pages>107-116</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706345/files/000013.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706345</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/schwär014">
+  <author>Simon Schwär</author>
+  <author>Stefan Balke</author>
+  <author>Meinard Müller</author>
+  <title>Measuring Sensory Dissonance In Multi-Track Music Recordings: A Case Study With Wind Quartets</title>
+  <pages>117-126</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706347/files/000014.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706347</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/zeitler015">
+  <author>Johannes Zeitler</author>
+  <author>Meinard Müller</author>
+  <title>Reformulating Soft Dynamic Time Warping: Insights Into Target Artifacts and Prediction Quality</title>
+  <pages>127-133</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706349/files/000015.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706349</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/koo016">
+  <author>Junghyun Koo</author>
+  <author>Marco Martinez-Ramirez</author>
+  <author>WeiHsiang Liao</author>
+  <author>Giorgio Fabbro</author>
+  <author>Michele Mancusi</author>
+  <author>Yuki Mitsufuji</author>
+  <title>ITO-Master: Inference-Time Optimization for Audio Effects Modeling of Music Mastering Processors</title>
+  <pages>134-141</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706351/files/000016.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706351</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/schmolenzky017">
+  <author>Pascal Schmolenzky</author>
+  <author>Stephanie Klauk</author>
+  <author>Rainer Kleinertz</author>
+  <author>Christof Weiß</author>
+  <author>Meinard Müller</author>
+  <title>A Multidimensional Approach to Opera Analysis: Harmony, Tempo, and Dramatic Interaction in Wagner's Siegfried Act III</title>
+  <pages>142-149</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706353/files/000017.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706353</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/yang018">
+  <author>Meng Yang</author>
+  <author>Jon McCormack</author>
+  <author>Maria Teresa Llano</author>
+  <author>Wanchao Su</author>
+  <title>Exploring the Feasibility of LLMs for Automated Music Emotion Annotation</title>
+  <pages>150-157</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706355/files/000018.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706355</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/ding019">
+  <author>Yiwei Ding</author>
+  <author>Yannik Venohr</author>
+  <author>Christof Weiss</author>
+  <title>An Evaluation Strategy for Local Key Estimation: Exploiting Cross-Version Consistency</title>
+  <pages>158-165</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706357/files/000019.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706357</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/berendes020">
+  <author>Hans-Ulrich Berendes</author>
+  <author>Ben Maman</author>
+  <author>Meinard Müller</author>
+  <title>Tuning Matters: Analyzing Musical Tuning Bias in Neural Vocoders</title>
+  <pages>166-173</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706359/files/000020.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706359</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/huang021">
+  <author>Yichen Huang</author>
+  <author>Zachary Novack</author>
+  <author>Koichi Saito</author>
+  <author>Jiatong Shi</author>
+  <author>Shinji Watanabe</author>
+  <author>Yuki Mitsufuji</author>
+  <author>John Thickstun</author>
+  <author>Chris Donahue</author>
+  <title>Aligning Text-to-Music Evaluation With Human Preferences</title>
+  <pages>174-181</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706363/files/000021.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706363</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/lesota022">
+  <author>Oleg Lesota</author>
+  <author>Anna Hausberger</author>
+  <author>Ivanna Pshenychna</author>
+  <author>Oleksandr Shvydanenko</author>
+  <author>Olha Yehorova</author>
+  <author>Markus Schedl</author>
+  <title>Investigating Music Track Liking in the Halo of Album Covers</title>
+  <pages>182-189</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706367/files/000022.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706367</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/romerovelo023">
+  <author>Hilda Romero-Velo</author>
+  <author>Gilberto Bernardes</author>
+  <author>Susana Ladra</author>
+  <author>José R. Paramá</author>
+  <author>Fernando Silva</author>
+  <title>Phylo-Analysis of Folk Traditions: A Methodology for the Hierarchical Musical Similarity Analysis</title>
+  <pages>190-197</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706370/files/000023.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706370</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/chiu024">
+  <author>Ching-Yu Chiu</author>
+  <author>Sebastian Strahl</author>
+  <author>Meinard Müller</author>
+  <title>dPLP: A Differentiable Version of Predominant Local Pulse Estimation</title>
+  <pages>198-205</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706373/files/000024.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706373</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/cortèssebastià025">
+  <author>Guillem Cortès-Sebastià</author>
+  <author>Benjamin Martin</author>
+  <author>Emilio Molina</author>
+  <author>Xavier Serra</author>
+  <author>Romain Hennequin</author>
+  <title>PeakNetFP: Peak-Based Neural Audio Fingerprinting Robust to Extreme Time Stretching</title>
+  <pages>206-214</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706375/files/000025.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706375</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/xu026">
+  <author>Weihan Xu</author>
+  <author>Julian McAuley</author>
+  <author>Taylor Berg-Kirkpatrick</author>
+  <author>Shlomo Dubnov</author>
+  <author>Hao-Wen Dong</author>
+  <title>Generating Symbolic Music From Natural Language Prompts Using an LLM-Enhanced Dataset</title>
+  <pages>215-222</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706377/files/000026.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706377</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/wang027">
+  <author>Zhaokai Wang</author>
+  <author>Chenxi Bao</author>
+  <author>Le Zhuo</author>
+  <author>Jingrui Han</author>
+  <author>Yang Yue</author>
+  <author>Yihong Tang</author>
+  <author>Victor Shea-Jay Huang</author>
+  <author>Yue Liao</author>
+  <title>A Survey on Vision-to-Music Generation: Methods, Datasets, Evaluation, and Challenges</title>
+  <pages>223-234</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706381/files/000027.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706381</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/kong028">
+  <author>Yuexuan KONG</author>
+  <author>Gabriel Mesegues-Brocal</author>
+  <author>Vincent Lostanlen</author>
+  <author>Mathieu Lagrange</author>
+  <author>Romain Hennequin</author>
+  <title>Emergent Musical Properties of a Transformer Under Contrastive Self-Supervised Learning</title>
+  <pages>235-246</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706383/files/000028.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706383</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/zang029">
+  <author>Yongyi Zang</author>
+  <author>Sean O'Brien</author>
+  <author>Taylor Berg-Kirkpatrick</author>
+  <author>Julian McAuley</author>
+  <author>Zachary Novack</author>
+  <title>Are You Really Listening? Boosting Perceptual Awareness in Music-QA Benchmarks</title>
+  <pages>247-261</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706385/files/000029.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706385</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/guinot030">
+  <author>Julien Guinot</author>
+  <author>Elio Quinton</author>
+  <author>George Fazekas</author>
+  <title>GD-Retriever: Controllable Generative Text-Music Retrieval With Diffusion Models</title>
+  <pages>262-270</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706387/files/000030.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706387</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/venohr031">
+  <author>Yannik Venohr</author>
+  <author>Yiwei Ding</author>
+  <author>Christof Weiss</author>
+  <title>Towards Robust Automatic Music Transcription By Measuring Cross-Version Consistency</title>
+  <pages>271-278</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706389/files/000031.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706389</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/gebhardt032">
+  <author>Roman Gebhardt</author>
+  <author>Arne Kuhle</author>
+  <author>Eylül Bektur</author>
+  <title>Beyond Genre: Diagnosing Bias in Music Embeddings Using Concept Activation Vectors</title>
+  <pages>279-286</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706391/files/000032.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706391</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/baker033">
+  <author>Tom Baker</author>
+  <author>Javier Nistal</author>
+  <title>LiLAC: A Lightweight Latent ControlNet for Musical Audio Generation</title>
+  <pages>287-295</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706393/files/000033.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706393</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/hasseinbey034">
+  <author>Zakaria Hassein-Bey</author>
+  <author>Yohann Abbou</author>
+  <author>Alexandre d'Hooge</author>
+  <author>Mathieu Giraud</author>
+  <author>Gilles Guillemain</author>
+  <author>Aurélien Jeanneau</author>
+  <title>What Song Now? Personalized Rhythm Guitar Learning in Western Popular Music</title>
+  <pages>296-302</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706395/files/000034.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706395</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/papaioannou035">
+  <author>Charilaos Papaioannou</author>
+  <author>Emmanouil Benetos</author>
+  <author>Alexandros Potamianos</author>
+  <title>Universal Music Representations? Evaluating Foundation Models on World Music Corpora</title>
+  <pages>303-311</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706397/files/000035.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706397</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/rohrmeier036">
+  <author>Martin Rohrmeier</author>
+  <title>A Theoretical Model of Musical Form</title>
+  <pages>312-319</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706401/files/000036.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706401</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/tec037">
+  <author>António Pinto (INESC TEC</author>
+  <author>University of Porto -. Faculty of Engineering)</author>
+  <title>Towards Human-in-the-Loop Onset Detection: A Transfer Learning Approach for Maracatu</title>
+  <pages>320-327</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706403/files/000037.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706403</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/zhang038">
+  <author>Yixiao Zhang</author>
+  <author>Yukara Ikemiya</author>
+  <author>Woosung Choi</author>
+  <author>Naoki Murata</author>
+  <author>Marco Martínez-Ramírez</author>
+  <author>Liwei Lin</author>
+  <author>Gus Xia</author>
+  <author>Wei-Hsiang Liao</author>
+  <author>Yuki Mitsufuji</author>
+  <author>Simon Dixon</author>
+  <title>Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning</title>
+  <pages>328-336</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706408/files/000038.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706408</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/he039">
+  <author>Qi He</author>
+  <author>Ziyu Wang</author>
+  <author>Gus Xia</author>
+  <title>TOMI: Transforming and Organizing Music Ideas for Multi-Track Compositions With Full-Song Structure</title>
+  <pages>337-345</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706410/files/000039.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706410</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/wang040">
+  <author>Ziyu Wang</author>
+  <author>Yuxuan Wu</author>
+  <author>Roger Dannenberg</author>
+  <author>Gus Xia</author>
+  <title>Automatic Melody Reduction via Shortest Path Finding</title>
+  <pages>346-353</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706412/files/000040.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706412</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/izzati041">
+  <author>Fathinah Izzati</author>
+  <author>Xinyue Li</author>
+  <author>Gus Xia</author>
+  <title>Expotion: Facial Expression and Motion Control for Multimodal Music Generation</title>
+  <pages>354-362</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706414/files/000041.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706414</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/thibaud042">
+  <author>Patrice Thibaud</author>
+  <author>Mathieu Giraud</author>
+  <author>Yann Teytaut</author>
+  <title>When Voices Interleave: Timing Deviations in Six Performances of Telemann's Fantasias for Solo Flute</title>
+  <pages>363-372</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706416/files/000042.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706416</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/hayes043">
+  <author>Ben Hayes</author>
+  <author>Charalampos Saitis</author>
+  <author>György Fazekas</author>
+  <title>Audio Synthesizer Inversion in Symmetric Parameter Spaces With Approximately Equivariant Flow Matching</title>
+  <pages>373-381</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706418/files/000043.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706418</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/guinot044">
+  <author>Julien Guinot</author>
+  <author>Alain Riou</author>
+  <author>Elio Quinton</author>
+  <author>George Fazekas</author>
+  <title>SLAP: Siamese Language-Audio Pretraining Without Negative Samples for Music Understanding</title>
+  <pages>382-390</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706420/files/000044.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706420</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/bang045">
+  <author>Hayeon Bang</author>
+  <author>Eunjin Choi</author>
+  <author>Seungheon Doh</author>
+  <author>Juhan Nam</author>
+  <title>PianoBind: A Multi-Modal Joint Embedding Model for Pop-Piano Music</title>
+  <pages>391-398</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706422/files/000045.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706422</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/araz046">
+  <author>Recep Oguz Araz</author>
+  <author>Guillem Cortès-Sebastià</author>
+  <author>Emilio Molina</author>
+  <author>Joan Serra</author>
+  <author>Xavier Serra</author>
+  <author>Yuhki Mitsufuji</author>
+  <author>Dmitry Bogdanov</author>
+  <title>Enhancing Neural Audio Fingerprint Robustness to Audio Degradation for Music Identification</title>
+  <pages>399-406</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706424/files/000046.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706424</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/myers047">
+  <author>Jonathan Myers</author>
+  <author>Dard Neuman</author>
+  <title>Beyond Notation: A Digital Platform for Transcribing and Analyzing Oral Melodic Traditions</title>
+  <pages>407-415</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706467/files/000047.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706467</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/ma048">
+  <author>Yinghao MA</author>
+  <author>Siyou Li</author>
+  <author>Juntao Yu</author>
+  <author>Emmanouil Benetos</author>
+  <author>Akira Maezawa</author>
+  <title>CMI-Bench: A Comprehensive Benchmark for Evaluating Music Instruction Following</title>
+  <pages>416-425</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706469/files/000048.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706469</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/xi049">
+  <author>Qingyang Xi</author>
+  <author>Brian Mcfee</author>
+  <title>Lose the Frames: Exact Metrics for More Responsible Music Structure Analysis Evaluations</title>
+  <pages>426-432</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706471/files/000049.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706471</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/pasini050">
+  <author>Marco Pasini</author>
+  <author>Stefan Lattner</author>
+  <author>George Fazekas</author>
+  <title>Unifying Continuous and Discrete Compressed Representations of Audio</title>
+  <pages>433-441</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706477/files/000050.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706477</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/wang051">
+  <author>Jun-You Wang</author>
+  <author>Li Su</author>
+  <title>Improving BERT for Symbolic Music Understanding Using Token Denoising and Pianoroll Prediction</title>
+  <pages>442-450</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706481/files/000051.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706481</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/bradshaw052">
+  <author>Louis Bradshaw</author>
+  <author>Alexander Spangher</author>
+  <author>Honglu Fan</author>
+  <author>Stella Biderman</author>
+  <author>Simon Colton</author>
+  <title>Scaling Self-Supervised Representation Learning for Symbolic Piano Performance</title>
+  <pages>451-459</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706484/files/000052.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706484</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/oreilly053">
+  <author>Patrick O'Reilly</author>
+  <author>Julia Barnett</author>
+  <author>Hugo Flores Garcia</author>
+  <author>Annie Chu</author>
+  <author>Nathan Pruyne</author>
+  <author>Prem Seetharaman</author>
+  <author>Bryan Pardo</author>
+  <title>The Rhythm In Anything: Audio-Prompted Drums Generation With Masked Language Modeling</title>
+  <pages>460-468</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706486/files/000053.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706486</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/yaffe054">
+  <author>Jonathan Yaffe</author>
+  <author>Ben Maman</author>
+  <author>Meinard Müller</author>
+  <author>Amit Bermano</author>
+  <title>Count the Notes: Histogram-Based Supervision for Automatic Music Transcription</title>
+  <pages>469-476</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706488/files/000054.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706488</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/murgul055">
+  <author>Sebastian Murgul</author>
+  <author>Johannes Schimper</author>
+  <author>Michael Heizmann</author>
+  <title>Joint Transcription of Acoustic Guitar Strumming Directions and Chords</title>
+  <pages>477-483</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706490/files/000055.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706490</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/morsi056">
+  <author>Alia Morsi</author>
+  <author>Suhit Chiruthapudi</author>
+  <author>Silvan Peter</author>
+  <author>Ivan Pilkov</author>
+  <author>Laura Bishop</author>
+  <author>Akira Maezawa</author>
+  <author>Xavier Serra</author>
+  <author>Carlos Eduardo Cancino-Chacón</author>
+  <title>Enabling Empirical Analysis of Piano Performance Rehearsal With the Rach3 MIDI Dataset</title>
+  <pages>484-491</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706492/files/000056.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706492</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/poltronieri057">
+  <author>Andrea Poltronieri</author>
+  <author>Xavier Serra</author>
+  <author>Martín Rocamora</author>
+  <title>From Discord to Harmony: Consonance-Based Smoothing for Improved Audio Chord Estimation</title>
+  <pages>492-502</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706494/files/000057.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706494</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/university058">
+  <author>Peter Van Kranenburg (Utrecht University</author>
+  <author>Meertens Institute)</author>
+  <author>Gerben Bisschop</author>
+  <title>Keyboard Temperament Estimation From Symbolic Data: A Case Study on Bach's Well-Tempered Clavier</title>
+  <pages>503-510</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706496/files/000058.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706496</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/bhattacharjee059">
+  <author>Aditya Bhattacharjee</author>
+  <author>Ivan Meresman Higgs</author>
+  <author>Mark Sandler</author>
+  <author>Emmanouil Benetos</author>
+  <title>Refining Music Sample Identification With a Self-Supervised Graph Neural Network</title>
+  <pages>511-517</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706498/files/000059.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706498</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/kim060">
+  <author>Haven Kim</author>
+  <author>Zachary Novack</author>
+  <author>Weihan Xu</author>
+  <author>Julian McAuley</author>
+  <author>Hao-Wen Dong</author>
+  <title>Video-Guided Text-to-Music Generation Using Public Domain Movie Collections</title>
+  <pages>518-527</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706500/files/000060.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706500</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/kim061">
+  <author>Yonghyun Kim</author>
+  <author>Junhyung Park</author>
+  <author>Joonhyung Bae</author>
+  <author>Kirak Kim</author>
+  <author>Taegyun Kwon</author>
+  <author>Alexander Lerch</author>
+  <author>Juhan Nam</author>
+  <title>PianoVAM: A Multimodal Piano Performance Dataset</title>
+  <pages>528-535</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706504/files/000061.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706504</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/marincione062">
+  <author>Davide Marincione</author>
+  <author>Giorgio Strano</author>
+  <author>Donato Crisostomi</author>
+  <author>Roberto Ribuoli</author>
+  <author>Emanuele Rodolà</author>
+  <title>LoopGen: Training-Free Loopable Music Generation</title>
+  <pages>536-546</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706509/files/000062.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706509</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/lesota063">
+  <author>Oleg Lesota</author>
+  <author>Veronica Clavijo</author>
+  <author>Attia Rizwani</author>
+  <author>Markus Schedl</author>
+  <author>Bruce Ferwerda</author>
+  <title>Enhancing Music Recommender Systems With Multimedia Content: A Context-Aware Approach</title>
+  <pages>547-554</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706515/files/000063.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706515</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/kanatas064">
+  <author>Angelos-Nikolaos Kanatas</author>
+  <author>Charilaos Papaioannou</author>
+  <author>Alexandros Potamianos</author>
+  <title>CultureMERT: Continual Pre-Training for Cross-Cultural Music Representation Learning</title>
+  <pages>555-564</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706517/files/000064.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706517</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/wang065">
+  <author>Xiaoxuan Wang</author>
+  <author>Martin Rohrmeier</author>
+  <title>Adaptive Path of Prediction: An Unsupervised Method for Modeling Note-Level Informational Hierarchy of Polyphony</title>
+  <pages>565-572</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706519/files/000065.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706519</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/jiang066">
+  <author>Junyan Jiang</author>
+  <author>Daniel Chin</author>
+  <author>Xuanjie Liu</author>
+  <author>Liwei Lin</author>
+  <author>Gus Xia</author>
+  <title>Versatile Music-for-Music Modeling via Function Alignment</title>
+  <pages>573-581</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706521/files/000066.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706521</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/weyers067">
+  <author>Philipp Weyers</author>
+  <author>Christian Uhle</author>
+  <author>Meinard Müller</author>
+  <author>Matthias Lang</author>
+  <title>Understanding Performance Limitations in Automatic Drum Transcription</title>
+  <pages>582-588</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706523/files/000067.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706523</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/zhang068">
+  <author>Hanwen Zhang</author>
+  <author>Kun Fang</author>
+  <author>Ziyu Wang</author>
+  <author>Ichiro Fujinaga</author>
+  <title>High-Resolution Sustain Pedal Depth Estimation From Piano Audio Across Room Acoustics</title>
+  <pages>589-595</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706525/files/000068.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706525</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/cwitkowitz069">
+  <author>Frank Cwitkowitz</author>
+  <author>Zhiyao Duan</author>
+  <title>Investigating an Overfitting and Degeneration Phenomenon in Self-Supervised Multi-Pitch Estimation</title>
+  <pages>596-603</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706527/files/000069.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706527</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/martinezsevilla070">
+  <author>Juan C. Martinez-Sevilla</author>
+  <author>Joan Cerveto-Serrano</author>
+  <author>Noelia Luna-Barahona</author>
+  <author>Greg Chapman</author>
+  <author>Craig Sapp</author>
+  <author>David Rizo</author>
+  <author>Jorge Calvo-Zaragoza</author>
+  <title>Sheet Music Benchmark: Standardized Optical Music Recognition Evaluation</title>
+  <pages>604-611</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706531/files/000070.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706531</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/yeh071">
+  <author>Yen-Tung Yeh</author>
+  <author>Junghyun Koo</author>
+  <author>Marco Martínez-Ramírez</author>
+  <author>Wei-Hsiang Liao</author>
+  <author>Yi-Hsuan Yang</author>
+  <author>Yuki Mitsufuji</author>
+  <title>Fx-Encoder++: Extracting Instrument-Wise Audio Effect Representations From Mixtures</title>
+  <pages>612-622</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706537/files/000071.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706537</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/tang072">
+  <author>Jingjing Tang</author>
+  <author>Xin Wang</author>
+  <author>Zhe Zhang</author>
+  <author>Junichi Yamagish</author>
+  <author>Geraint Wiggins</author>
+  <author>George Fazekas</author>
+  <title>MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling</title>
+  <pages>623-630</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706539/files/000072.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706539</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/müllerschön073">
+  <author>Manuel Müllerschön</author>
+  <author>Anssi Klapuri</author>
+  <author>Marcelo Rodriguez</author>
+  <author>Christian Cardin</author>
+  <title>Playability Prediction in Digital Guitar Learning Using Interpretable Student and Song Representations</title>
+  <pages>631-637</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706543/files/000073.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706543</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/lanz074">
+  <author>Vojtěch Lanz</author>
+  <author>jr., Jan Hajič</author>
+  <title>Gregorian Melody, Modality, and Memory: Segmenting Chant With Bayesian Nonparametrics</title>
+  <pages>638-646</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706545/files/000074.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706545</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/suda075">
+  <author>Hitoshi Suda</author>
+  <author>Junya Koguchi</author>
+  <author>Shunsuke Yoshida</author>
+  <author>Tomohiko Nakamura</author>
+  <author>Satoru Fukayama</author>
+  <author>Jun Ogata</author>
+  <title>IdolSongsJp Corpus: A Multi-Singer Song Corpus in the Style of Japanese Idol Groups</title>
+  <pages>647-654</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706547/files/000075.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706547</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/loth076">
+  <author>Jackson Loth</author>
+  <author>Pedro Sarmento</author>
+  <author>Saurjya Sarkar</author>
+  <author>Zixun Guo</author>
+  <author>Mathieu Barthet</author>
+  <author>Mark Sandler</author>
+  <title>GOAT: A Large Dataset of Paired Guitar Audio Recordings and Tablatures</title>
+  <pages>655-662</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706552/files/000076.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706552</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/strano077">
+  <author>Giorgio Strano</author>
+  <author>Chiara Ballanti</author>
+  <author>Donato Crisostomi</author>
+  <author>Michele Mancusi</author>
+  <author>Luca Cosmo</author>
+  <author>Emanuele Rodolà</author>
+  <title>STAGE: Stemmed Accompaniment Generation Through Prefix-Based Conditioning</title>
+  <pages>663-670</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706555/files/000077.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706555</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/namballa078">
+  <author>Richa Namballa</author>
+  <author>Agnieszka Roginska</author>
+  <author>Magdalena Fuentes</author>
+  <title>Do Music Source Separation Models Preserve Spatial Information in Binaural Audio?</title>
+  <pages>671-678</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706557/files/000078.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706557</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/bjare079">
+  <author>Mathias Rose Bjare</author>
+  <author>Stefan Lattner</author>
+  <author>Gerhard Widmer</author>
+  <title>Estimating Musical Surprisal From Audio in Autoregressive Diffusion Model Noise Spaces</title>
+  <pages>679-687</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706559/files/000079.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706559</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/marttila080">
+  <author>David Marttila</author>
+  <author>Joshua D. Reiss</author>
+  <title>Improving Neural Pitch Estimation With SWIPE Kernels</title>
+  <pages>688-695</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706561/files/000080.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706561</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/martinezsevilla081">
+  <author>Juan Carlos Martinez-Sevilla</author>
+  <author>Francesco Foscarin</author>
+  <author>Patricia Garcia-Iasci</author>
+  <author>David Rizo</author>
+  <author>Jorge Calvo-Zaragoza</author>
+  <author>Gerhard Widmer</author>
+  <title>Optical Music Recognition of Jazz Lead Sheets</title>
+  <pages>696-702</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706565/files/000081.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706565</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/martinezesteso082">
+  <author>Juan Pedro Martinez-Esteso</author>
+  <author>Alejandro Galan-Cuenca</author>
+  <author>Carlos Pérez-Sancho</author>
+  <author>Francisco J. Castellanos</author>
+  <author>Antonio Javier Gallego</author>
+  <title>Human Vs. Machine: Comparing Selection Strategies in Active Learning for Optical Music Recognition</title>
+  <pages>703-709</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706567/files/000082.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706567</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/tian083">
+  <author>Haokun Tian</author>
+  <author>Stefan Lattner</author>
+  <author>Charalampos Saitis</author>
+  <title>Assessing the Alignment of Audio Representations With Timbre Similarity Ratings</title>
+  <pages>710-718</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706569/files/000083.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706569</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/korzeniowski084">
+  <author>Filip Korzeniowski</author>
+  <author>Richard Vogl</author>
+  <title>Simple and Effective Semantic Song Segmentation</title>
+  <pages>719-726</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706573/files/000084.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706573</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/batlleroca085">
+  <author>Roser Batlle-Roca</author>
+  <author>Laura Ibáñez-Martínez</author>
+  <author>Xavier Serra</author>
+  <author>Emilia Gómez</author>
+  <author>Martín Rocamora</author>
+  <title>MusGO: A Community-Driven Framework for Assessing Openness in Music-Generative AI</title>
+  <pages>727-738</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706575/files/000085.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706575</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/afchar086">
+  <author>Darius Afchar</author>
+  <author>Gabriel Meseguer Brocal</author>
+  <author>Kamil Akesbi</author>
+  <author>Romain Hennequin</author>
+  <title>A Fourier Explanation of AI-Music Artifacts</title>
+  <pages>739-746</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706577/files/000086.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706577</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/libřický087">
+  <author>Šimon Libřický</author>
+  <author>jr., Jan Hajič</author>
+  <title>Modeling the Difficulty of Saxophone Music</title>
+  <pages>747-754</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706579/files/000087.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706579</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/blanchard088">
+  <author>Lancelot Blanchard</author>
+  <author>Perry Naseck</author>
+  <author>Stephen Brade</author>
+  <author>Kimaya Lecamwasam</author>
+  <author>Jordan Rudess</author>
+  <author>Cheng-Zhi Anna Huang</author>
+  <author>Joseph Paradiso</author>
+  <title>The Jam_bot, a Real-Time System for Collaborative Free Improvisation With Music Language Models</title>
+  <pages>755-762</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706584/files/000088.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706584</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/vásquez089">
+  <author>Marcel Vélez Vásquez</author>
+  <author>Mariëlle Baelemans</author>
+  <author>Jonathan Driedger</author>
+  <author>John Ashley Burgoyne</author>
+  <title>Fretboardflow: A Dual-Model Approach to Optimize Chord Voicings on the Guitar Fretboard</title>
+  <pages>763-770</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706588/files/000089.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706588</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/he090">
+  <author>Tao-Tao He</author>
+  <author>Martin Malandro</author>
+  <author>Douglas Shadle</author>
+  <title>The Florence Price Art Song Dataset and Piano Accompaniment Generator</title>
+  <pages>771-778</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706590/files/000090.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706590</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/nabi091">
+  <author>Sarah Nabi</author>
+  <author>Nils Demerlé</author>
+  <author>Geoffroy Peeters</author>
+  <author>Frederic Bevilacqua</author>
+  <author>Philippe Esling</author>
+  <title>Adding Temporal Musical Controls on Top of Pretrained Generative Models</title>
+  <pages>779-786</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706592/files/000091.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706592</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/kim092">
+  <author>Jaehun Kim</author>
+  <author>Matthew C. McCallum</author>
+  <author>Andreas F. Ehmann</author>
+  <title>Quantize & Factorize: A Fast Yet Effective Unsupervised Audio Representation Without Deep Learning</title>
+  <pages>787-796</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706308/files/000092.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706308</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/singh093">
+  <author>Parampreet Singh</author>
+  <author>Adwik Gupta</author>
+  <author>Aakarsh Mishra</author>
+  <author>Vipul Arora</author>
+  <title>Identification and Clustering of Unseen Ragas in Indian Art Music</title>
+  <pages>797-804</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706596/files/000093.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706596</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/liu094">
+  <author>Yuxuan Liu</author>
+  <author>Peihong Zhang</author>
+  <author>Rui Sang</author>
+  <author>Zhixin Li</author>
+  <author>Shengchen Li</author>
+  <title>MAIA: An Inpainting-Based Approach for Music Adversarial Attacks</title>
+  <pages>805-812</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706598/files/000094.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706598</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/kim095">
+  <author>Sunyoo Kim</author>
+  <author>Yunjeong Choi</author>
+  <author>Doyeon Lee</author>
+  <author>Seoyoung Lee</author>
+  <author>Eunyi Lyou</author>
+  <author>Seungju Kim</author>
+  <author>Junhyug Noh</author>
+  <author>Joonseok Lee</author>
+  <title>Joint Object Detection and Sound Source Separation</title>
+  <pages>813-820</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706601/files/000095.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706601</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/wen096">
+  <author>Yutong Wen</author>
+  <author>Minje Kim</author>
+  <author>Paris Smaragdis</author>
+  <title>User-Guided Generative Source Separation</title>
+  <pages>821-829</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706603/files/000096.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706603</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/plajaroglans097">
+  <author>Genís Plaja-Roglans</author>
+  <author>Xavier Serra</author>
+  <author>Martín Rocamora</author>
+  <title>Singing Voice Separation From Carnatic Music Mixtures Using a Regression-Guided Latent Diffusion Model</title>
+  <pages>830-838</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706605/files/000097.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706605</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/sarkar098">
+  <author>Saurjya Sarkar</author>
+  <author>Victoria Moomijan</author>
+  <author>Basil Woods</author>
+  <author>Emmanouil Benetos</author>
+  <author>Mark Sandler</author>
+  <title>Looking Beyond Averaged Metrics in Music Source Separation</title>
+  <pages>839-846</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706609/files/000098.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706609</url>
+</inproceedings>
+<inproceedings mdate="2025-11-26" key="conf/ismir/2025/eldeeb099">
+  <author>Omar Eldeeb</author>
+  <author>Martin Malandro</author>
+  <title>Barwise Section Boundary Detection in Symbolic Music Using Convolutional Neural Networks</title>
+  <pages>847-854</pages>
+  <year>2025</year>
+  <booktitle>ISMIR</booktitle>
+  <ee>https://zenodo.org/record/17706613/files/000099.pdf</ee>
+  <url>https://doi.org/10.5281/zenodo.17706613</url>
+</inproceedings>
+</dblp>
