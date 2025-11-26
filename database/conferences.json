@@ -427,5 +427,32 @@
             "Brian McFee",
             "Matthew McCallum"
         ]
+    },
+    "2025": {
+        "conference_dates": "September 21-25, 2025",
+        "conference_place": "Daejeon, South Korea and Online",
+        "imprint_place": "Daejeon, South Korea",
+        "conference_title": "International Society for Music Information Retrieval Conference",
+        "partof_title": "Proceedings of the 26th International Society for Music Information Retrieval Conference",
+        "publication_date": "2025-09-21",
+        "imprint_isbn": "978-1-7327299-5-7",
+        "doi": "10.5281/zenodo.17717337",
+        "conference_acronym": "ISMIR 2025",
+        "conference_url": "https://ismir2025.ismir.net",
+        "imprint_publisher": "ISMIR",
+        "upload_type": "publication",
+        "publication_type": "conferencepaper",
+        "access_right": "open",
+        "license": "CC-BY-4.0",
+        "editors": [
+            "Juhan Nam",
+            "Dasaem Jeong",
+            "Keunwoo Choi",
+            "Li Su",
+            "Magdalena Fuentes",
+            "Hao-Wen (Herman) Dong",
+            "Tomoyasu Nakano",
+            "Xiao Hu"
+        ]
     }
 }
